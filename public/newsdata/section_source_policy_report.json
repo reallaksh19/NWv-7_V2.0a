@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1783156022711,
+  "generatedAt": 1783169201119,
   "policyVersion": "section-source-policy-v1",
   "reportVersion": "section-source-policy-report-v1",
   "schemaVersion": 1,
@@ -16,15 +16,15 @@
       ],
       "topSources": [
         {
-          "count": 19,
+          "count": 12,
           "sourceGroup": "economic_times"
         },
         {
-          "count": 6,
+          "count": 11,
           "sourceGroup": "business_line"
         },
         {
-          "count": 5,
+          "count": 7,
           "sourceGroup": "google_news"
         }
       ]
@@ -83,11 +83,11 @@
       ],
       "topSources": [
         {
-          "count": 18,
+          "count": 20,
           "sourceGroup": "times_of_oman"
         },
         {
-          "count": 12,
+          "count": 10,
           "sourceGroup": "google_news_oman"
         }
       ]
@@ -104,16 +104,16 @@
       ],
       "topSources": [
         {
-          "count": 13,
+          "count": 14,
           "sourceGroup": "the_hindu"
         },
         {
           "count": 9,
-          "sourceGroup": "google_news"
+          "sourceGroup": "bbc"
         },
         {
-          "count": 8,
-          "sourceGroup": "bbc"
+          "count": 7,
+          "sourceGroup": "google_news"
         }
       ]
     },
@@ -133,11 +133,11 @@
           "sourceGroup": "gadgets360"
         },
         {
-          "count": 10,
+          "count": 11,
           "sourceGroup": "google_news"
         },
         {
-          "count": 6,
+          "count": 5,
           "sourceGroup": "the_hindu"
         }
       ]
@@ -190,25 +190,25 @@
     },
     "trichy": {
       "sourceGroupCount": 3,
-      "storyCount": 22,
+      "storyCount": 29,
       "thin": false,
       "topCategories": [
         {
           "category": "trichy",
-          "count": 22
+          "count": 29
         }
       ],
       "topSources": [
         {
-          "count": 11,
+          "count": 16,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 10,
+          "count": 11,
           "sourceGroup": "google_news"
         },
         {
-          "count": 1,
+          "count": 2,
           "sourceGroup": "google_news_alt"
         }
       ]
@@ -225,11 +225,11 @@
       ],
       "topSources": [
         {
-          "count": 18,
+          "count": 16,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 12,
+          "count": 14,
           "sourceGroup": "bbc"
         }
       ]
@@ -739,7 +739,7 @@
       "configuredFeeds": 1,
       "health": {
         "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-        "items": 18,
+        "items": 20,
         "ok": true,
         "section": "india"
       },
