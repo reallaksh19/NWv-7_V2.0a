@@ -1,0 +1,55 @@
+{
+  "categoryCounts": {
+    "airlines": 2,
+    "alerts": 32,
+    "movies": 1,
+    "shopping": 46
+  },
+  "contentClassCounts": {
+    "upahead_alert": 32,
+    "upahead_event": 1,
+    "upahead_offer": 48
+  },
+  "contentHash": "b0394910f694",
+  "contractVersion": "upahead-lifecycle-v1",
+  "errors": [],
+  "fetchedAt": 1783149708012,
+  "generatedAt": 1783149719187,
+  "horizon": {
+    "alertFallbackHours": 24,
+    "eventPastGraceHours": 24,
+    "lookaheadDays": 7,
+    "offerFallbackHours": 48,
+    "plannerPastGraceHours": 6
+  },
+  "itemCount": 81,
+  "lifecycleSummary": {
+    "categoryCounts": {
+      "airlines": 2,
+      "alerts": 32,
+      "movies": 1,
+      "shopping": 46
+    },
+    "contentClassCounts": {
+      "upahead_alert": 32,
+      "upahead_event": 1,
+      "upahead_offer": 48
+    },
+    "horizonViolationCount": 0,
+    "horizonViolationSample": [],
+    "itemCount": 81,
+    "plannerEligibleByLifecycleCount": 73,
+    "visibleItemCount": 81
+  },
+  "plannerEligibleByLifecycleCount": 73,
+  "schemaVersion": 1,
+  "status": "PASS",
+  "thresholds": {
+    "eventPastGraceHours": 24,
+    "lookaheadDays": 7,
+    "minVisibleItems": 3,
+    "plannerPastGraceHours": 6
+  },
+  "visibleItemCount": 81,
+  "warnings": []
+}
