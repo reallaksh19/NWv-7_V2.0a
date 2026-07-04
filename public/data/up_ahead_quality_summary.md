@@ -11,6 +11,6 @@
 ## Category counts
 
 - airlines: 2
-- alerts: 32
-- movies: 1
-- shopping: 46
+- alerts: 30
+- movies: 2
+- shopping: 47
