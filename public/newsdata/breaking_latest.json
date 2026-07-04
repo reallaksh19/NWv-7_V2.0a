@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1783194754638,
-  "contentHash": "33d2a57d25e4",
+  "fetchedAt": 1783198053453,
+  "contentHash": "fafd8cd5aa7c",
   "breaking": [
     {
       "title": "Woman whose dog was killed by LAPD cops sues police department: Jameson did not growl at either officer, no attempt to attack them",
@@ -16,7 +16,7 @@
       "id": "35108609907c8662",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.84,
+      "breakingScore": 3.764,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -39,7 +39,7 @@
       "id": "b55440273fff3bce",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.74,
+      "breakingScore": 3.664,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -62,7 +62,7 @@
       "id": "9ba2b2dab785e894",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.636,
+      "breakingScore": 3.559,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -73,19 +73,19 @@
       "firstSeen": 1783179020000
     },
     {
-      "title": "Priest arrested for stealing gold jewellery and silver articles from house",
-      "summary": "",
+      "title": "Fresh political support pours in on 15th day of CJP protest; student hospitalised",
+      "summary": "Activist Sonam Wangchuk continues seventh day of his hunger strike; political leaders say will raise the issue of irregularities in examinations during Parliament’s upcoming Monsoon Session",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/cities/chennai/priest-arrested-for-stealing-gold-jewellery-and-silver-articles-from-house/article71182392.ece",
-      "publishedAt": 1783191447000,
+      "url": "https://www.thehindu.com/news/national/fresh-political-support-pours-in-on-15th-day-of-cjp-protest-student-hospitalised/article71183637.ece",
+      "publishedAt": 1783196359000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "d1c5b9168fe69def",
+      "id": "d70bb206cd4dbf72",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.423,
+      "breakingScore": 2.461,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -93,30 +93,7 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1783191447000
-    },
-    {
-      "title": "Maharashtra TET scam: Three more persons arrested",
-      "summary": "Ten people have been arrested in the case so far; they have been remanded to police custody till July 9",
-      "source": "The Hindu National",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/three-held-in-up-in-maharashtra-tet-paper-leak-case/article71177289.ece",
-      "publishedAt": 1783189693000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "4185d9b51b02fdad",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.383,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1783189693000
+      "firstSeen": 1783196359000
     },
     {
       "title": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
@@ -131,7 +108,7 @@
       "id": "6e8bc5d2d010013d",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.331,
+      "breakingScore": 2.255,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -139,7 +116,7 @@
       "allSources": [
         "bbc"
       ],
-      "firstSeen": 1783153457000
+      "firstSeen": 1783187464000
     },
     {
       "title": "Cannabis And A Corpse: UK Woman Arrested For Stabbing Boyfriend In Thailand",
@@ -154,7 +131,7 @@
       "id": "965271cd0813497b",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.277,
+      "breakingScore": 2.201,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -177,7 +154,7 @@
       "id": "36cf3cb154ceddf8",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.263,
+      "breakingScore": 2.186,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -186,6 +163,29 @@
         "ndtv"
       ],
       "firstSeen": 1783184495000
+    },
+    {
+      "title": "Heavy Rain In Pune Triggers Waterlogging, 2 Landslides",
+      "summary": "Heavy rainfall is likely to continue on Sunday (File)",
+      "source": "NDTV India",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/heavy-rains-in-pune-trigger-waterlogging-2-landslides-11727615#publisher=newsstand",
+      "publishedAt": 1783183217000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "7ec0e430d1aad6e6",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.157,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1783183217000
     }
   ]
 }
