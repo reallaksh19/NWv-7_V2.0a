@@ -10,17 +10,17 @@
 - Base report share: `0.13333333333333333`
 - Multi-angle parents: `3`
 - Weak parents: `7`
-- Story count: `573`
-- Source groups: `9`
-- Content hash: `a48869db168a8399`
+- Story count: `549`
+- Source groups: `10`
+- Content hash: `d6d368d59f1e4584`
 
 ## Top parents
 
 | # | Headline | Children | Angles | Weak | Score |
 |---:|---|---:|---|---|---:|
 | 1 | IT Ministry to summon Meta officials over report on child sexual abuse advertisements on Instagram | 2 | investigative_detail, official_response | NO | 0.6714967197849984 |
-| 2 | Ninth edition of The Hindu Home Expo commences at LuLu Mall | 2 | fact_update, base_report | NO | 0.6265800531183316 |
-| 3 | India's Modi to visit Indonesia, Australia and New Zealand next week - Reuters | 2 | base_report, official_response | NO | 0.5852732802150018 |
+| 2 | India's Modi to visit Indonesia, Australia and New Zealand next week - Reuters | 2 | base_report, official_response | NO | 0.6172599999999999 |
+| 3 | Ninth edition of The Hindu Home Expo commences at LuLu Mall | 2 | fact_update, base_report | NO | 0.6265800531183316 |
 | 4 | Overnight lines to pay respects to Khamenei | 2 | fact_update | YES | 0.6055800531183317 |
 | 5 | Bihar Guv. Hasnain and MoS Margherita attend Ali Khamenei's funeral ceremony in Tehran | 2 | official_response | YES | 0.5513433333333333 |
 | 6 | 10 crore mutual fund investors, Rs 150 lakh crore AUM: Inside AMFI's massive 2030 roadmap | 1 | fact_update | YES | 0.7226911614783158 |
