@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1783284044732,
-  "contentHash": "cf458e268b60",
+  "fetchedAt": 1783287606758,
+  "contentHash": "dae4add2deb1",
   "breaking": [
     {
       "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
@@ -16,7 +16,7 @@
       "id": "2f65f8fc2ccc5439",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 7.274,
+      "breakingScore": 7.192,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -41,7 +41,7 @@
       "id": "c3f574c525cee0b8",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.393,
+      "breakingScore": 4.311,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -66,7 +66,7 @@
       "id": "38ff0a05ebdf036c",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.964,
+      "breakingScore": 3.881,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -90,7 +90,7 @@
       "id": "861f4f22adebb8f6",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.736,
+      "breakingScore": 3.654,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -99,53 +99,6 @@
         "bbc"
       ],
       "firstSeen": 1783272645000
-    },
-    {
-      "title": "8, Including 4 Children, Injured In New York Shooting On US Independence Day",
-      "summary": "The four children shot are ages 6, 7, 12 and 14. (Representational Image))",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/8-including-4-children-injured-in-new-york-shooting-on-us-independence-day-11730514#publisher=newsstand",
-      "publishedAt": 1783263951000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "c54365eafbedec8f",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.535,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1783263951000
-    },
-    {
-      "title": "‘Very dangerous’ Super Typhoon barrels towards US Pacific islands with 280 kmph winds",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132197004.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Super Typhoon Bavi, a storm of Category 5 hurricane strength, is bearing down on Guam and the Northern Mariana Islands, triggering emergency evacuations. Destructive winds up to 280 km/h and torrential rain are already lashing the US Pacific territories. Authorities warn of catastrophic damage, with many structures potentially becoming uninhabitable for weeks. Residents are urged to seek shelter as the powerful typhoon approaches.",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/us/very-dangerous-super-typhoon-bavi-barrels-towards-us-pacific-islands-with-280-kmph-winds/articleshow/132197004.cms",
-      "publishedAt": 1783260929000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "3e10f987e3e66718",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.465,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "the_hindu",
-        "times_of_india"
-      ],
-      "firstSeen": 1783259705000
     },
     {
       "title": "Trump thanks Fifa for spending USA striker's ban",
@@ -160,7 +113,7 @@
       "id": "1786347faa7401c7",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.41,
+      "breakingScore": 2.328,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -183,7 +136,7 @@
       "id": "463ae6e48f243356",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.401,
+      "breakingScore": 2.319,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -192,6 +145,52 @@
         "the_hindu"
       ],
       "firstSeen": 1783279786000
+    },
+    {
+      "title": "Young woman dies in skydiving incident near airfield",
+      "summary": "The woman, 22, was found in a nearby field and pronounced dead at the scene, police say.",
+      "source": "BBC",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cn8kkr844kdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1783279772000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "96126e59ca023d7e",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.319,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1783279772000
+    },
+    {
+      "title": "Two college students killed in two separate road accidents near Tambaram",
+      "summary": "",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/cities/chennai/two-college-students-killed-in-two-separate-road-accidents-near-tambaram/article71185584.ece",
+      "publishedAt": 1783278290000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "089f3b2cdd8ed931",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.284,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1783278290000
     }
   ]
 }
