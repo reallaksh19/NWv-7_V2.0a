@@ -1,11 +1,11 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1783243771114,
-  "contentHash": "9bffd074a78e52a2",
+  "generatedAt": 1783250392575,
+  "contentHash": "722bca25b3e2043c",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 449,
+  "storyCount": 454,
   "sourceGroupCount": 9,
   "grade": "D",
   "parentCount": 10,
@@ -26,7 +26,7 @@
       "signalScore": 23,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 395,
+      "storyCount": 402,
       "risingCount": 0,
       "thinCount": 8,
       "multiAngleCount": 2,
@@ -44,7 +44,7 @@
         "5 cluster(s) are below source-diversity target.",
         "7 cluster(s) have weak snapshot coverage.",
         "8 cluster(s) are marked thin.",
-        "540 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "520 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
@@ -54,7 +54,7 @@
       "signalScore": 23,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 395,
+      "storyCount": 402,
       "risingCount": 0,
       "thinCount": 8,
       "multiAngleCount": 2,
@@ -85,7 +85,7 @@
   },
   "parents": [
     {
-      "parentId": "cluster_130_b4eddbb43b5d9adc",
+      "parentId": "cluster_158_b4eddbb43b5d9adc",
       "headline": "Ninth edition of The Hindu Home Expo commences at LuLu Mall",
       "score": 0.6265800531183316,
       "postTreeScore": 1.0066,
@@ -106,7 +106,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_19_dd4a2f1740b7fb68",
+      "parentId": "cluster_44_dd4a2f1740b7fb68",
       "headline": "How Washington DC marked America 250",
       "score": 0.6052599999999999,
       "postTreeScore": 1.0053,
@@ -127,7 +127,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_323_80fbcc9ba2ed3be9",
+      "parentId": "cluster_356_80fbcc9ba2ed3be9",
       "headline": "Taylor Swift, Travis Kelce are married in elaborate Madison Square Garden ceremony",
       "score": 0.6385800531183317,
       "postTreeScore": 0.5286,
@@ -147,7 +147,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_46_436508566c5b8117",
+      "parentId": "cluster_74_436508566c5b8117",
       "headline": "Performer calls for Trump's death at funeral for Iran's late supreme leader",
       "score": 0.5636732802150018,
       "postTreeScore": 0.4737,
@@ -166,7 +166,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_44_6ae2bf2c6cb66d49",
+      "parentId": "cluster_72_6ae2bf2c6cb66d49",
       "headline": "'We are heroic people with heroic spirit': Donald Trump marks America's 250th Independence Day",
       "score": 0.5285933333333332,
       "postTreeScore": 0.4386,
@@ -185,7 +185,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_281_87d19d24340b43ce",
+      "parentId": "cluster_312_87d19d24340b43ce",
       "headline": "10 crore mutual fund investors, Rs 150 lakh crore AUM: Inside AMFI's massive 2030 roadmap",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
@@ -203,7 +203,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_287_20c30fcff5bbb2ec",
+      "parentId": "cluster_318_20c30fcff5bbb2ec",
       "headline": "Yes Bank Q1 business update: Advances rise 18% to Rs 2.85 lakh crore, deposits up 14%",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
@@ -221,7 +221,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_298_fb02c7c8fdc92b7b",
+      "parentId": "cluster_330_fb02c7c8fdc92b7b",
       "headline": "SBI Funds Management seeks Rs 2,000 crore in pre-IPO round",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
@@ -239,7 +239,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_300_8105286e2002799a",
+      "parentId": "cluster_332_8105286e2002799a",
       "headline": "On Bond Street, falling yields spur a Rs 17,000-crore fundraise",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
@@ -257,7 +257,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_303_e57a61fc03d21fa9",
+      "parentId": "cluster_335_e57a61fc03d21fa9",
       "headline": "Inspira seals Rs 1,800-crore private credit for Burger King buy in India",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
@@ -369,7 +369,7 @@
       "weakParentRatio": 0.8,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 449,
+      "storyCount": 454,
       "sourceGroupCount": 9
     }
   }
