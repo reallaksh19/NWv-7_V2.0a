@@ -7,21 +7,21 @@
 - Average angles: `1.5`
 - Average temporal tiers: `1.5`
 - Average evolution roles: `1.7`
-- Base report share: `0.3157894736842105`
+- Base report share: `0.3333333333333333`
 - Multi-angle parents: `5`
 - Weak parents: `5`
-- Story count: `493`
-- Source groups: `9`
-- Content hash: `3f5af0a2d45f8933`
+- Story count: `503`
+- Source groups: `10`
+- Content hash: `1d5f296c14768f66`
 
 ## Top parents
 
 | # | Headline | Children | Angles | Weak | Score |
 |---:|---|---:|---|---|---:|
-| 1 | Iran's supreme leader absent as senior officials attend ayatollah's funeral | 3 | fact_update, official_response | NO | 0.6165916683316486 |
-| 2 | How Washington DC marked America 250 | 2 | base_report, market_reaction | NO | 0.6732467197849983 |
-| 3 | Ninth edition of The Hindu Home Expo commences at LuLu Mall | 2 | fact_update, base_report | NO | 0.6265800531183316 |
-| 4 | British military says cargo ship reports being under attack in Red Sea off coast of Yemen | 3 | official_response, fact_update | NO | 0.5545916683316485 |
+| 1 | How Washington DC marked America 250 | 2 | base_report, market_reaction | NO | 0.6732467197849983 |
+| 2 | Ninth edition of The Hindu Home Expo commences at LuLu Mall | 2 | fact_update, base_report | NO | 0.6265800531183316 |
+| 3 | British military says cargo ship reports being under attack in Red Sea off coast of Yemen | 3 | official_response, fact_update | NO | 0.5545916683316485 |
+| 4 | Iran's supreme leader absent as senior officials attend ayatollah's funeral | 2 | official_response, fact_update | NO | 0.56426 |
 | 5 | ‘Very dangerous’ Super Typhoon barrels towards US Pacific islands with 280 kmph winds | 2 | regional_followup, official_response | NO | 0.5465933333333333 |
 | 6 | Performer calls for Trump's death at funeral for Iran's late supreme leader | 2 | base_report | YES | 0.5636732802150018 |
 | 7 | 'We are heroic people with heroic spirit': Donald Trump marks America's 250th Independence Day | 2 | base_report | YES | 0.5285933333333332 |
@@ -43,10 +43,10 @@
 - Average angles: `1.5`
 - Average temporal tiers: `1.5`
 - Average evolution roles: `1.7`
-- Base report share: `0.316`
+- Base report share: `0.333`
 - Multi-angle parents: `5`
 - Top parent angles: `2`
-- Top parent children: `3`
+- Top parent children: `2`
 
 ### Failed gates
 
@@ -58,8 +58,8 @@
 - Parent cluster count: `10` / `>= 3`
 - Average visible angle count: `1.5` / `>= 1.4`
 - Average evolution role count: `1.7` / `>= 1.6`
-- Base report share: `0.316` / `<= 0.55`
+- Base report share: `0.333` / `<= 0.55`
 - Multi-angle parent count: `5` / `>= 1`
 - Top parent angle count: `2` / `>= 2`
-- Top parent child depth: `3` / `>= 2`
+- Top parent child depth: `2` / `>= 2`
 - Weak parent ratio: `0.5` / `<= 0.5`
