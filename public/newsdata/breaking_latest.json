@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1783270855915,
-  "contentHash": "d2d959688aa7",
+  "fetchedAt": 1783275289511,
+  "contentHash": "3d9394b1b37a",
   "breaking": [
     {
       "title": "‘Very dangerous’ Super Typhoon barrels towards US Pacific islands with 280 kmph winds",
@@ -16,7 +16,7 @@
       "id": "3e10f987e3e66718",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.77,
+      "breakingScore": 5.668,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -34,22 +34,24 @@
       "source": "BBC World",
       "sourceGroup": "bbc",
       "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1783266535000,
+      "publishedAt": 1783274281000,
       "category": "world",
       "region": "in",
       "language": "en",
       "id": "2f65f8fc2ccc5439",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.4,
+      "breakingScore": 5.477,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 1,
+      "sourceCount": 3,
       "allSources": [
-        "bbc"
+        "bbc",
+        "the_hindu",
+        "times_of_india"
       ],
-      "firstSeen": 1783266535000
+      "firstSeen": 1783236103000
     },
     {
       "title": "2 Women Injured As Tree Crashes Down In Mumbai, Third Collapse In 6 Days",
@@ -64,7 +66,7 @@
       "id": "ba7939a2221ca527",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.305,
+      "breakingScore": 5.202,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -75,29 +77,29 @@
       "firstSeen": 1783262411000
     },
     {
-      "title": "2 Months After Wedding, Delhi Woman Found Dead, Family Alleges Murder",
-      "summary": "Aakriti, a resident of Delhi's Pushp Vihar, had got married on April 24.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/two-months-after-wedding-bride-falls-to-death-in-delhi-family-alleges-murder-11729922#publisher=newsstand",
-      "publishedAt": 1783268743000,
-      "category": "topStories",
+      "title": "The real reason behind Taylor Swift and Travis Kelce's 'no-gift' wedding policy and why more couples are doing the same",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132197072.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Modern couples are increasingly opting for 'no gift' policies, encouraging guests to contribute to honeymoon funds or specific experiences instead of traditional presents. While some find cash gifts impersonal, many see them as practical, especially when couples have already covered major expenses like honeymoons. Cultural expectations and personal finances significantly influence gift amounts, with contributions ranging from £50 to £400 or more, reflecting a shift in wedding gift traditions.",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/relationships/the-real-reason-behind-taylor-swift-and-travis-kelces-no-gift-wedding-policy-and-why-more-couples-are-doing-the-same/articleshow/132197072.cms",
+      "publishedAt": 1783270892000,
+      "category": "india",
       "region": "in",
       "language": "en",
-      "id": "d63996da841f10c1",
+      "id": "10b8a0f20971962b",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.451,
+      "breakingScore": 4.398,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
       ],
       "sourceCount": 2,
       "allSources": [
-        "ndtv",
-        "the_hindu"
+        "bbc",
+        "times_of_india"
       ],
-      "firstSeen": 1783268031000
+      "firstSeen": 1783266500000
     },
     {
       "title": "Boy, 11, To Face Trial For Shopping Plaza Fire Which Killed 72 In Pakistan",
@@ -112,7 +114,7 @@
       "id": "9c9b2ec9c6d14b71",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.222,
+      "breakingScore": 4.119,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -125,19 +127,19 @@
       "firstSeen": 1783254634000
     },
     {
-      "title": "SIT formed to probe ₹100-crore disproportionate assets case against former TMC councillor",
-      "summary": "Police arrested Debraj Chakraborty, husband of former Rajarhat-Gopalpur MLA Aditi Munshi, on Wednesday based on an FIR filed by BJP MLA Tarunjyoti Tewari against the couple",
+      "title": "Six persons arrested for assaulting man at Tiruvannamalai GH",
+      "summary": "The police said when the ambulance halted at the hospital, the gang dragged an injured Silambarasan from the vehicle and beat him before police rescued him",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/sit-formed-to-probe-100-crore-disproportionate-assets-case-against-former-tmc-councillor/article71186213.ece",
-      "publishedAt": 1783269213000,
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/six-persons-arrested-for-assaulting-man-at-tiruvannamalai-gh/article71186162.ece",
+      "publishedAt": 1783274910000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "d6907a59d912e5f7",
+      "id": "63304798d34e4c91",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.962,
+      "breakingScore": 3.991,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -145,30 +147,31 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1783269213000
+      "firstSeen": 1783274910000
     },
     {
-      "title": "8, Including 4 Children, Injured In New York Shooting On US Independence Day",
-      "summary": "The four children shot are ages 6, 7, 12 and 14. (Representational Image))",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/8-including-4-children-injured-in-new-york-shooting-on-us-independence-day-11730514#publisher=newsstand",
-      "publishedAt": 1783263951000,
+      "title": "Heavy Mumbai rains: Three dead, four injured as rain disrupts life in Maharashtra",
+      "summary": "Flight operations affected for an hour at Mumbai airport; holiday declared for schools and colleges in Mumbai and Thane on July 5",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/heavy-mumbai-rains-airport-runway-operations-halted-updates-on-july-5-2026/article71185894.ece",
+      "publishedAt": 1783274260000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "c54365eafbedec8f",
+      "id": "5a7a3f4cfa500ed5",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.84,
+      "breakingScore": 3.976,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
-        "ndtv"
+        "ndtv",
+        "the_hindu"
       ],
-      "firstSeen": 1783263951000
+      "firstSeen": 1783268850000
     },
     {
       "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
@@ -176,14 +179,14 @@
       "source": "BBC World",
       "sourceGroup": "bbc",
       "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1783256960000,
+      "publishedAt": 1783272645000,
       "category": "world",
       "region": "in",
       "language": "en",
       "id": "861f4f22adebb8f6",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.678,
+      "breakingScore": 3.939,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -191,7 +194,7 @@
       "allSources": [
         "bbc"
       ],
-      "firstSeen": 1783256960000
+      "firstSeen": 1783272645000
     }
   ]
 }
