@@ -86,7 +86,7 @@
         "weakParentsDemoted": 0
       },
       "qualityGrade": "F",
-      "qualityScore": 0.3951,
+      "qualityScore": 0.3965,
       "qualityStatus": "WARN",
       "rankedItems": [
         {
@@ -721,14 +721,14 @@
               "status": "PASS"
             }
           ],
-          "id": "sketch:fcde5c7120",
+          "id": "sketch:768c327fc1",
           "item": {
             "angleCount": 1,
             "baseReportRatio": 0.0,
             "childScores": [],
-            "id": "sketch:fcde5c7120",
-            "representativeId": "cefd0947496f8de7",
-            "representativeTitle": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial",
+            "id": "sketch:768c327fc1",
+            "representativeId": "e914697426a767ab",
+            "representativeTitle": "India news LIVE updates, 5 July 2026: Fire breaks out at Delhi factory near Punjab National Bank - The Indian Express",
             "scoreBreakdown": {
               "angleDiversityScore": 0.25,
               "eventImportanceScore": 0.59,
@@ -740,30 +740,30 @@
             },
             "slotCount": 1,
             "slots": [
-              "minus24h"
+              "now"
             ],
             "sourceGroupCount": 1,
             "sourceGroups": [
-              "moneycontrol"
+              "google_news"
             ],
             "storyCount": 2,
             "storyIds": [
-              "cefd0947496f8de7",
-              "d0020e471404281a"
+              "e914697426a767ab",
+              "b3a7b301ab29d23e"
             ],
             "topAngles": [
               {
-                "angle": "market_reaction",
+                "angle": "fact_update",
                 "count": 2
               }
             ],
             "topTokens": [
-              "bajaj",
-              "finance",
-              "target",
-              "emkay"
+              "india",
+              "live",
+              "updates",
+              "july"
             ],
-            "topicKey": "bajaj|finance|target"
+            "topicKey": "india|live|updates"
           },
           "locationKey": "event",
           "rankingReasons": [
@@ -772,7 +772,7 @@
             "one-source event candidate"
           ],
           "score": 0.389,
-          "title": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial"
+          "title": "India news LIVE updates, 5 July 2026: Fire breaks out at Delhi factory near Punjab National Bank - The Indian Express"
         },
         {
           "category": "insightEvent",
@@ -1006,7 +1006,7 @@
           "gates": [
             {
               "details": {
-                "storyCount": 2
+                "storyCount": 3
               },
               "name": "eventCoherence",
               "reason": "event sketch has repeated story count",
@@ -1043,11 +1043,11 @@
             },
             {
               "details": {
-                "childCount": 2
+                "childCount": 3
               },
               "name": "weakTree",
               "reason": "child tree has enough depth",
-              "score": 0.5,
+              "score": 0.75,
               "status": "PASS"
             },
             {
@@ -1068,7 +1068,7 @@
             "representativeTitle": "Amazon Prime Day 2026: Best Deals on Smartphones Under Rs. 15,000",
             "scoreBreakdown": {
               "angleDiversityScore": 0.25,
-              "eventImportanceScore": 0.59,
+              "eventImportanceScore": 0.71,
               "freshnessScore": 0.0,
               "noveltyDeltaScore": 0.44999999999999996,
               "sourceAuthorityScore": 0.38,
@@ -1083,15 +1083,16 @@
             "sourceGroups": [
               "gadgets360"
             ],
-            "storyCount": 2,
+            "storyCount": 3,
             "storyIds": [
               "37f71ab1a2fbf24f",
+              "58721412d3b1f964",
               "7576812db70d256a"
             ],
             "topAngles": [
               {
                 "angle": "base_report",
-                "count": 2
+                "count": 3
               }
             ],
             "topTokens": [
@@ -1108,7 +1109,7 @@
             "weak child angle diversity",
             "one-source event candidate"
           ],
-          "score": 0.1751,
+          "score": 0.1885,
           "title": "Amazon Prime Day 2026: Best Deals on Smartphones Under Rs. 15,000"
         },
         {
@@ -1388,14 +1389,14 @@
               "status": "PASS"
             }
           ],
-          "id": "sketch:9c932757ed",
+          "id": "sketch:c1c58008d6",
           "item": {
             "angleCount": 1,
             "baseReportRatio": 1.0,
             "childScores": [],
-            "id": "sketch:9c932757ed",
-            "representativeId": "fd2b194261f8046e",
-            "representativeTitle": "Vaibhav Sooryavanshi: India backing established top order amid calls to hand 15-year-old debut - Sky Sports",
+            "id": "sketch:c1c58008d6",
+            "representativeId": "df71bc9e8f9d5353",
+            "representativeTitle": "Top news of the day on June 20, 2026 - The Hindu",
             "scoreBreakdown": {
               "angleDiversityScore": 0.25,
               "eventImportanceScore": 0.59,
@@ -1415,8 +1416,8 @@
             ],
             "storyCount": 2,
             "storyIds": [
-              "fd2b194261f8046e",
-              "a25d32fe4ac86534"
+              "df71bc9e8f9d5353",
+              "bf952c0b99344c4d"
             ],
             "topAngles": [
               {
@@ -1425,12 +1426,10 @@
               }
             ],
             "topTokens": [
-              "vaibhav",
-              "sooryavanshi",
-              "india",
-              "backing"
+              "june",
+              "hindu"
             ],
-            "topicKey": "vaibhav|sooryavanshi|india"
+            "topicKey": "june|hindu"
           },
           "locationKey": "event",
           "rankingReasons": [
@@ -1439,13 +1438,13 @@
             "one-source event candidate"
           ],
           "score": 0.1751,
-          "title": "Vaibhav Sooryavanshi: India backing established top order amid calls to hand 15-year-old debut - Sky Sports"
+          "title": "Top news of the day on June 20, 2026 - The Hindu"
         }
       ],
       "rankingProfile": "insight-v2-event-angle-tree",
       "scoreBreakdown": {
         "angleDiversityScore": 0.3383,
-        "eventImportanceScore": 0.63,
+        "eventImportanceScore": 0.64,
         "freshnessScore": 0.0,
         "noveltyDeltaScore": 0.475,
         "sourceAuthorityScore": 0.44,
@@ -1510,33 +1509,31 @@
     },
     "upAhead": {
       "actionableFindings": [
-        "19 invalid/expired/duplicate Up Ahead item(s) suppressed",
+        "16 invalid/expired/duplicate Up Ahead item(s) suppressed",
         "no active offer items in ranked Up Ahead set",
         "no ranked Up Ahead item for muscat",
         "ranked Up Ahead set is category-dominated"
       ],
       "destination": "upAhead",
       "diagnosticReasons": [
+        "Amazon Prime Day 2026: Best Deals on Redmi and Xiaomi Smartphones - Gadgets 360: location failed — offline/local item lacks configured location match",
         "Still using traditional door locks? These smart lock deals are worth checking before Amazon Prime Day Sale ends - livemint.com: location failed — offline/local item lacks configured location match",
         "We’re Updating The 80+ Best 4th Of July Sales As New Deals Drop - Forbes: location failed — offline/local item lacks configured location match",
         "Diljit Dosanjh wondered if Satluj would ever release; says Jaswant Singh Khalra's voice was suppressed twice: location failed — offline/local item lacks configured location match",
         "Huma Qureshi says she doesn't look at Alia Bhatt, Sharvari's Alpha as competition amid clash with her Baby Do Die Do: location failed — offline/local item lacks configured location match",
         "Ajay Devgn's Dhamaal 4 cleared by CBFC; 'obscene' gestures and words modified before release: location failed — offline/local item lacks configured location match",
+        "Music Academy to hold 9th Radel mid-year concerts from July 5 to 7: futureValidity failed — expired display window",
+        "Music Academy to hold 9th Radel mid-year concerts from July 5 to 7: alertUrgency failed — alert expired",
         "Best smartphone deals under 15000 rupees during Amazon Prime Day Sale 2026 - Sportskeeda Tech: location failed — offline/local item lacks configured location match",
         "Amazon Prime Day Sale 2026: Best smartphone deals you shouldn't miss - Udayavani: location failed — offline/local item lacks configured location match",
-        "Hobby groups decry Nageswara Rao Park’s makeover: futureValidity failed — expired display window",
-        "Hobby groups decry Nageswara Rao Park’s makeover: alertUrgency failed — alert expired",
-        "The hidden cost of Chennai’s data centre boom: Can the city afford AI’s water and power hunger? - Down To Earth: futureValidity failed — expired display window",
-        "The hidden cost of Chennai’s data centre boom: Can the city afford AI’s water and power hunger? - Down To Earth: alertUrgency failed — alert expired",
-        "An online petition to save Nageswara Rao park: futureValidity failed — expired display window",
-        "An online petition to save Nageswara Rao park: alertUrgency failed — alert expired",
         "These 31+ Amazon July 4th deals feel like Prime Day just got extended - NBC News: location failed — offline/local item lacks configured location match",
         "Amazon Prime Day Mobile Offers 2026: Best Deals on OnePlus, Nothing and More - Gadgets 360: location failed — offline/local item lacks configured location match",
         "Best tablets under 20000 rupees during Amazon Prime Day Sale 2026 - Sportskeeda Tech: location failed — offline/local item lacks configured location match",
         "Star Air Launches Monsoon Sale with Fares from ₹1,799 - safariindia.com: location failed — offline/local item lacks configured location match",
         "Amazon Prime Day 2026: Best Deals on Smartphones Under Rs. 30,000 - Gadgets 360: location failed — offline/local item lacks configured location match",
-        "Hisense India Announces Up to 40% Discounts on TVs and Air Conditioners During Amazon Prime Day and Flipkart GOAT Sale - Business Standard: location failed — offline/local item lacks configured location match",
-        "World Chocolate Day 2026: Best Amazon India Deals on Ferrero Rocher, Toblerone, Lindt and More (July 1 to 7) - Gogi Tech: futureValidity failed — expired display window"
+        "Prime Day Sale 2026: Amazon offers big discounts on Samsung, LG, and Sony smart TVs - Deccan Herald: futureValidity failed — expired display window",
+        "Prime Day Sale 2026: Amazon offers big discounts on Samsung, LG, and Sony smart TVs - Deccan Herald: offerValidity failed — offer expired",
+        "New OTT Releases this week (June 29-July 5, 2026): Enola Holmes Season 3, Pritam and Pedro, Elle- 6 new titles coming on Netflix, Prime Video and more - WION: location failed — offline/local item lacks configured location match"
       ],
       "gateResults": [
         {
@@ -1567,10 +1564,10 @@
         },
         "events": 0,
         "festivals": 0,
-        "inputItemCount": 89,
+        "inputItemCount": 81,
         "locationCounts": {
-          "chennai": 24,
-          "trichy": 6
+          "chennai": 23,
+          "trichy": 7
         },
         "locationsCovered": [
           "chennai",
@@ -1580,7 +1577,7 @@
         "onlineOffers": 0,
         "plannerAdvisoryItems": 30,
         "rankedItemCount": 30,
-        "suppressedItemCount": 19
+        "suppressedItemCount": 16
       },
       "qualityGrade": "B",
       "qualityScore": 0.8586,
@@ -1815,121 +1812,6 @@
           ],
           "score": 0.8485,
           "title": "60% of ammonia gas cleared from seafood factory in Tiruvallur"
-        },
-        {
-          "category": "alerts",
-          "gates": [
-            {
-              "details": {
-                "dedupKey": "ffaaa62aed7dac4d"
-              },
-              "name": "dedup",
-              "reason": "unique item",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "displayUntil": 1783233982000
-              },
-              "name": "futureValidity",
-              "reason": "valid undated item with active display window",
-              "score": 0.65,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "matchScore": 1.0,
-                "matchedLocation": "chennai",
-                "relevance": "primary",
-                "scope": "exactCity"
-              },
-              "name": "location",
-              "reason": "location matches configured profile",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "hasPlace": true,
-                "hasTime": true
-              },
-              "name": "actionability",
-              "reason": "item has enough action fields",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "offerValidity",
-              "reason": "not an offer",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "severe": false
-              },
-              "name": "alertUrgency",
-              "reason": "active alert",
-              "score": 0.78,
-              "status": "PASS"
-            }
-          ],
-          "id": "c03a8db2f63c1a80",
-          "item": {
-            "actionabilityScore": 0.7,
-            "category": "alerts",
-            "city": "Chennai",
-            "contentClass": "upahead_alert",
-            "dateConfidence": "unknown",
-            "dateSource": "none",
-            "eventEndAt": null,
-            "eventStartAt": null,
-            "expiryAt": 1783233982000,
-            "id": "c03a8db2f63c1a80",
-            "language": "en",
-            "lifecycle": {
-              "archiveUntil": 1783838782000,
-              "contentClass": "upahead_alert",
-              "displayUntil": 1783233982000,
-              "isActionValid": true,
-              "isVisible": true,
-              "plannerEligibleByLifecycle": true,
-              "plannerPastGraceHours": 6,
-              "retentionReason": "expiryAt",
-              "withinSevenDayHorizon": true
-            },
-            "localityScore": 1.0,
-            "normalizedCategory": "alerts",
-            "plannerEligible": true,
-            "publishedAt": 1783147582000,
-            "region": "tn",
-            "scoreBreakdown": {
-              "actionabilityScore": 1.0,
-              "categoryPriorityScore": 1.0,
-              "lifecycleScore": 0.65,
-              "locationScore": 1.0,
-              "plannerFitScore": 1.0,
-              "sourceConfidenceScore": 0.58,
-              "urgencyOrExpiryScore": 0.78
-            },
-            "source": "The Hindu Chennai",
-            "sourceGroup": "the_hindu",
-            "summary": "Government doctors say pay disparities, manpower shortage, extended duty hours, and workplace safety are some of the issues that need to be addressed. They also accuse successive governments of finding it politically convenient to position doctors against the public",
-            "suppressionReason": null,
-            "title": "Absenteeism crackdown sparks calls for systemic reforms in T.N. public health sector",
-            "url": "https://www.thehindu.com/news/national/tamil-nadu/absenteeism-crackdown-sparks-calls-for-systemic-reforms-in-tn-public-health-sector/article71178691.ece"
-          },
-          "locationKey": "chennai",
-          "rankingReasons": [
-            "alerts",
-            "valid undated item with active display window",
-            "location matches configured profile",
-            "planner advisory fit"
-          ],
-          "score": 0.8485,
-          "title": "Absenteeism crackdown sparks calls for systemic reforms in T.N. public health sector"
         },
         {
           "category": "alerts",
@@ -2505,121 +2387,6 @@
           ],
           "score": 0.8485,
           "title": "Chennai's data center boom: Can the city handle AI's rising water and power demands? - Sanskriti IAS"
-        },
-        {
-          "category": "alerts",
-          "gates": [
-            {
-              "details": {
-                "dedupKey": "1f517326901d8f09"
-              },
-              "name": "dedup",
-              "reason": "unique item",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "displayUntil": 1783233899000
-              },
-              "name": "futureValidity",
-              "reason": "valid undated item with active display window",
-              "score": 0.65,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "matchScore": 1.0,
-                "matchedLocation": "chennai",
-                "relevance": "primary",
-                "scope": "exactCity"
-              },
-              "name": "location",
-              "reason": "location matches configured profile",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "hasPlace": true,
-                "hasTime": true
-              },
-              "name": "actionability",
-              "reason": "item has enough action fields",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "offerValidity",
-              "reason": "not an offer",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "severe": false
-              },
-              "name": "alertUrgency",
-              "reason": "active alert",
-              "score": 0.78,
-              "status": "PASS"
-            }
-          ],
-          "id": "ebaf90b95e4420b5",
-          "item": {
-            "actionabilityScore": 0.7,
-            "category": "alerts",
-            "city": "Chennai",
-            "contentClass": "upahead_alert",
-            "dateConfidence": "unknown",
-            "dateSource": "none",
-            "eventEndAt": null,
-            "eventStartAt": null,
-            "expiryAt": 1783233899000,
-            "id": "ebaf90b95e4420b5",
-            "language": "en",
-            "lifecycle": {
-              "archiveUntil": 1783838699000,
-              "contentClass": "upahead_alert",
-              "displayUntil": 1783233899000,
-              "isActionValid": true,
-              "isVisible": true,
-              "plannerEligibleByLifecycle": true,
-              "plannerPastGraceHours": 6,
-              "retentionReason": "expiryAt",
-              "withinSevenDayHorizon": true
-            },
-            "localityScore": 1.0,
-            "normalizedCategory": "alerts",
-            "plannerEligible": true,
-            "publishedAt": 1783147499000,
-            "region": "tn",
-            "scoreBreakdown": {
-              "actionabilityScore": 1.0,
-              "categoryPriorityScore": 1.0,
-              "lifecycleScore": 0.65,
-              "locationScore": 1.0,
-              "plannerFitScore": 1.0,
-              "sourceConfidenceScore": 0.58,
-              "urgencyOrExpiryScore": 0.78
-            },
-            "source": "The Hindu Chennai",
-            "sourceGroup": "the_hindu",
-            "summary": "This follows residents’ demands to relocate the present terminus from Vijayanagar junction due to roadside parking of buses; financial feasibility report is being readied; GCC to call for tenders soon",
-            "suppressionReason": null,
-            "title": "Corporation to build new bus terminus, depot near Velachery MRTS station",
-            "url": "https://www.thehindu.com/news/cities/chennai/corporation-to-build-new-bus-terminus-depot-near-velachery-mrts-station/article71178792.ece"
-          },
-          "locationKey": "chennai",
-          "rankingReasons": [
-            "alerts",
-            "valid undated item with active display window",
-            "location matches configured profile",
-            "planner advisory fit"
-          ],
-          "score": 0.8485,
-          "title": "Corporation to build new bus terminus, depot near Velachery MRTS station"
         },
         {
           "category": "alerts",
@@ -3661,121 +3428,6 @@
           "gates": [
             {
               "details": {
-                "dedupKey": "1ec7d066da8f3357"
-              },
-              "name": "dedup",
-              "reason": "unique item",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "displayUntil": 1783243291000
-              },
-              "name": "futureValidity",
-              "reason": "valid undated item with active display window",
-              "score": 0.65,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "matchScore": 1.0,
-                "matchedLocation": "chennai",
-                "relevance": "primary",
-                "scope": "exactCity"
-              },
-              "name": "location",
-              "reason": "location matches configured profile",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "hasPlace": true,
-                "hasTime": true
-              },
-              "name": "actionability",
-              "reason": "item has enough action fields",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "offerValidity",
-              "reason": "not an offer",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "severe": false
-              },
-              "name": "alertUrgency",
-              "reason": "active alert",
-              "score": 0.78,
-              "status": "PASS"
-            }
-          ],
-          "id": "d18c2f1fb23a157e",
-          "item": {
-            "actionabilityScore": 0.7,
-            "category": "alerts",
-            "city": "Chennai",
-            "contentClass": "upahead_alert",
-            "dateConfidence": "unknown",
-            "dateSource": "none",
-            "eventEndAt": null,
-            "eventStartAt": null,
-            "expiryAt": 1783243291000,
-            "id": "d18c2f1fb23a157e",
-            "language": "en",
-            "lifecycle": {
-              "archiveUntil": 1783848091000,
-              "contentClass": "upahead_alert",
-              "displayUntil": 1783243291000,
-              "isActionValid": true,
-              "isVisible": true,
-              "plannerEligibleByLifecycle": true,
-              "plannerPastGraceHours": 6,
-              "retentionReason": "expiryAt",
-              "withinSevenDayHorizon": true
-            },
-            "localityScore": 1.0,
-            "normalizedCategory": "alerts",
-            "plannerEligible": true,
-            "publishedAt": 1783156891000,
-            "region": "tn",
-            "scoreBreakdown": {
-              "actionabilityScore": 1.0,
-              "categoryPriorityScore": 1.0,
-              "lifecycleScore": 0.65,
-              "locationScore": 1.0,
-              "plannerFitScore": 1.0,
-              "sourceConfidenceScore": 0.58,
-              "urgencyOrExpiryScore": 0.78
-            },
-            "source": "The Hindu Chennai",
-            "sourceGroup": "the_hindu",
-            "summary": "The programmes are being organised under an endowment instituted by Radel Electronics, and held in memory of vocalist and veena player Sugandha Raman",
-            "suppressionReason": null,
-            "title": "Music Academy to hold 9th Radel mid-year concerts from July 5 to 7",
-            "url": "https://www.thehindu.com/news/cities/chennai/music-academy-to-hold-9thradel-mid-year-concerts-from-july-5-to-7/article71178969.ece"
-          },
-          "locationKey": "chennai",
-          "rankingReasons": [
-            "alerts",
-            "valid undated item with active display window",
-            "location matches configured profile",
-            "planner advisory fit"
-          ],
-          "score": 0.8485,
-          "title": "Music Academy to hold 9th Radel mid-year concerts from July 5 to 7"
-        },
-        {
-          "category": "alerts",
-          "gates": [
-            {
-              "details": {
                 "dedupKey": "1483a5595e701051"
               },
               "name": "dedup",
@@ -3885,121 +3537,6 @@
           ],
           "score": 0.8485,
           "title": "OTA unveils publicity displays at Nanganallur Metro Station"
-        },
-        {
-          "category": "alerts",
-          "gates": [
-            {
-              "details": {
-                "dedupKey": "0d8d66c776bbeeda"
-              },
-              "name": "dedup",
-              "reason": "unique item",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "displayUntil": 1783235604000
-              },
-              "name": "futureValidity",
-              "reason": "valid undated item with active display window",
-              "score": 0.65,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "matchScore": 1.0,
-                "matchedLocation": "chennai",
-                "relevance": "primary",
-                "scope": "exactCity"
-              },
-              "name": "location",
-              "reason": "location matches configured profile",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "hasPlace": true,
-                "hasTime": true
-              },
-              "name": "actionability",
-              "reason": "item has enough action fields",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "offerValidity",
-              "reason": "not an offer",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "severe": false
-              },
-              "name": "alertUrgency",
-              "reason": "active alert",
-              "score": 0.78,
-              "status": "PASS"
-            }
-          ],
-          "id": "9d2cf69738397d21",
-          "item": {
-            "actionabilityScore": 0.7,
-            "category": "alerts",
-            "city": "Chennai",
-            "contentClass": "upahead_alert",
-            "dateConfidence": "unknown",
-            "dateSource": "none",
-            "eventEndAt": null,
-            "eventStartAt": null,
-            "expiryAt": 1783235604000,
-            "id": "9d2cf69738397d21",
-            "language": "en",
-            "lifecycle": {
-              "archiveUntil": 1783840404000,
-              "contentClass": "upahead_alert",
-              "displayUntil": 1783235604000,
-              "isActionValid": true,
-              "isVisible": true,
-              "plannerEligibleByLifecycle": true,
-              "plannerPastGraceHours": 6,
-              "retentionReason": "expiryAt",
-              "withinSevenDayHorizon": true
-            },
-            "localityScore": 1.0,
-            "normalizedCategory": "alerts",
-            "plannerEligible": true,
-            "publishedAt": 1783149204000,
-            "region": "tn",
-            "scoreBreakdown": {
-              "actionabilityScore": 1.0,
-              "categoryPriorityScore": 1.0,
-              "lifecycleScore": 0.65,
-              "locationScore": 1.0,
-              "plannerFitScore": 1.0,
-              "sourceConfidenceScore": 0.58,
-              "urgencyOrExpiryScore": 0.78
-            },
-            "source": "The Hindu Chennai",
-            "sourceGroup": "the_hindu",
-            "summary": "Oncology Kitchen at the Institute of Child Health and Hospital for Children in Egmore meets the huge nutritional needs of children undergoing cancer treatment. And the fact that the bill of fare comes free is a huge relief to their parents",
-            "suppressionReason": null,
-            "title": "Oncology Kitchen at ICH takes a worry off the plate for parents of children receiving  cancer treatment",
-            "url": "https://www.thehindu.com/news/cities/chennai/oncology-kitchen-at-ich-takes-a-worry-off-the-plate-for-parents-of-children-receiving-cancer-treatment/article71181892.ece"
-          },
-          "locationKey": "chennai",
-          "rankingReasons": [
-            "alerts",
-            "valid undated item with active display window",
-            "location matches configured profile",
-            "planner advisory fit"
-          ],
-          "score": 0.8485,
-          "title": "Oncology Kitchen at ICH takes a worry off the plate for parents of children receiving  cancer treatment"
         },
         {
           "category": "alerts",
@@ -5035,6 +4572,466 @@
           ],
           "score": 0.8485,
           "title": "T.N. Governor inaugurates two-day conference on intraocular implant and refractive surgery"
+        },
+        {
+          "category": "alerts",
+          "gates": [
+            {
+              "details": {
+                "dedupKey": "97797247e3fddf7e"
+              },
+              "name": "dedup",
+              "reason": "unique item",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "displayUntil": 1783273593000
+              },
+              "name": "futureValidity",
+              "reason": "valid undated item with active display window",
+              "score": 0.65,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "matchScore": 1.0,
+                "matchedLocation": "chennai",
+                "relevance": "primary",
+                "scope": "exactCity"
+              },
+              "name": "location",
+              "reason": "location matches configured profile",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "hasPlace": true,
+                "hasTime": true
+              },
+              "name": "actionability",
+              "reason": "item has enough action fields",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {},
+              "name": "offerValidity",
+              "reason": "not an offer",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "severe": false
+              },
+              "name": "alertUrgency",
+              "reason": "active alert",
+              "score": 0.78,
+              "status": "PASS"
+            }
+          ],
+          "id": "dc718854f219141b",
+          "item": {
+            "actionabilityScore": 0.5,
+            "category": "alerts",
+            "city": "Chennai",
+            "contentClass": "upahead_alert",
+            "dateConfidence": "unknown",
+            "dateSource": "none",
+            "eventEndAt": null,
+            "eventStartAt": null,
+            "expiryAt": 1783273593000,
+            "id": "dc718854f219141b",
+            "language": "en",
+            "lifecycle": {
+              "archiveUntil": 1783878393000,
+              "contentClass": "upahead_alert",
+              "displayUntil": 1783273593000,
+              "isActionValid": true,
+              "isVisible": true,
+              "plannerEligibleByLifecycle": true,
+              "plannerPastGraceHours": 6,
+              "retentionReason": "expiryAt",
+              "withinSevenDayHorizon": true
+            },
+            "localityScore": 1.0,
+            "normalizedCategory": "alerts",
+            "plannerEligible": true,
+            "publishedAt": 1783187193000,
+            "region": "tn",
+            "scoreBreakdown": {
+              "actionabilityScore": 1.0,
+              "categoryPriorityScore": 1.0,
+              "lifecycleScore": 0.65,
+              "locationScore": 1.0,
+              "plannerFitScore": 1.0,
+              "sourceConfidenceScore": 0.58,
+              "urgencyOrExpiryScore": 0.78
+            },
+            "source": "The Hindu Chennai",
+            "sourceGroup": "the_hindu",
+            "summary": "The Parandur airport project was not part of the review as it will be discussed at a separate meeting, sources say",
+            "suppressionReason": null,
+            "title": "Tamil Nadu government holds review on Chennai airport’s capacity and proposed satellite terminal project",
+            "url": "https://www.thehindu.com/news/cities/chennai/tamil-nadu-government-holds-review-on-chennai-airports-capacity-and-proposed-satellite-terminal-project/article71183377.ece"
+          },
+          "locationKey": "chennai",
+          "rankingReasons": [
+            "alerts",
+            "valid undated item with active display window",
+            "location matches configured profile",
+            "planner advisory fit"
+          ],
+          "score": 0.8485,
+          "title": "Tamil Nadu government holds review on Chennai airport’s capacity and proposed satellite terminal project"
+        },
+        {
+          "category": "alerts",
+          "gates": [
+            {
+              "details": {
+                "dedupKey": "01512db6472a1822"
+              },
+              "name": "dedup",
+              "reason": "unique item",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "displayUntil": 1783254177000
+              },
+              "name": "futureValidity",
+              "reason": "valid undated item with active display window",
+              "score": 0.65,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "matchScore": 1.0,
+                "matchedLocation": "chennai",
+                "relevance": "primary",
+                "scope": "exactCity"
+              },
+              "name": "location",
+              "reason": "location matches configured profile",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "hasPlace": true,
+                "hasTime": true
+              },
+              "name": "actionability",
+              "reason": "item has enough action fields",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {},
+              "name": "offerValidity",
+              "reason": "not an offer",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "severe": false
+              },
+              "name": "alertUrgency",
+              "reason": "active alert",
+              "score": 0.78,
+              "status": "PASS"
+            }
+          ],
+          "id": "dbecea37fde882f2",
+          "item": {
+            "actionabilityScore": 0.7,
+            "category": "alerts",
+            "city": "Chennai",
+            "contentClass": "upahead_alert",
+            "dateConfidence": "unknown",
+            "dateSource": "none",
+            "eventEndAt": null,
+            "eventStartAt": null,
+            "expiryAt": 1783254177000,
+            "id": "dbecea37fde882f2",
+            "language": "en",
+            "lifecycle": {
+              "archiveUntil": 1783858977000,
+              "contentClass": "upahead_alert",
+              "displayUntil": 1783254177000,
+              "isActionValid": true,
+              "isVisible": true,
+              "plannerEligibleByLifecycle": true,
+              "plannerPastGraceHours": 6,
+              "retentionReason": "expiryAt",
+              "withinSevenDayHorizon": true
+            },
+            "localityScore": 1.0,
+            "normalizedCategory": "alerts",
+            "plannerEligible": true,
+            "publishedAt": 1783167777000,
+            "region": "tn",
+            "scoreBreakdown": {
+              "actionabilityScore": 1.0,
+              "categoryPriorityScore": 1.0,
+              "lifecycleScore": 0.65,
+              "locationScore": 1.0,
+              "plannerFitScore": 1.0,
+              "sourceConfidenceScore": 0.58,
+              "urgencyOrExpiryScore": 0.78
+            },
+            "source": "The Hindu Chennai",
+            "sourceGroup": "the_hindu",
+            "summary": "Meet three Chennai residents who have brought the healthy practice of squirrelling away dry discards for the recycler to their neighbourhood and also made it regular. These initiatives are having a buy-in from their neighbours",
+            "suppressionReason": null,
+            "title": "The dry waste collection drive near you in Chennai",
+            "url": "https://www.thehindu.com/news/cities/chennai/the-dry-waste-collection-drive-near-you-in-cehnnai/article71182701.ece"
+          },
+          "locationKey": "chennai",
+          "rankingReasons": [
+            "alerts",
+            "valid undated item with active display window",
+            "location matches configured profile",
+            "planner advisory fit"
+          ],
+          "score": 0.8485,
+          "title": "The dry waste collection drive near you in Chennai"
+        },
+        {
+          "category": "alerts",
+          "gates": [
+            {
+              "details": {
+                "dedupKey": "d6ee3413cbdfcd5a"
+              },
+              "name": "dedup",
+              "reason": "unique item",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "displayUntil": 1783257984000
+              },
+              "name": "futureValidity",
+              "reason": "valid undated item with active display window",
+              "score": 0.65,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "matchScore": 1.0,
+                "matchedLocation": "trichy",
+                "relevance": "primary",
+                "scope": "exactCity"
+              },
+              "name": "location",
+              "reason": "location matches configured profile",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "hasPlace": true,
+                "hasTime": true
+              },
+              "name": "actionability",
+              "reason": "item has enough action fields",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {},
+              "name": "offerValidity",
+              "reason": "not an offer",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "severe": false
+              },
+              "name": "alertUrgency",
+              "reason": "active alert",
+              "score": 0.78,
+              "status": "PASS"
+            }
+          ],
+          "id": "3a534a4212060707",
+          "item": {
+            "actionabilityScore": 0.7,
+            "category": "alerts",
+            "city": "Trichy",
+            "contentClass": "upahead_alert",
+            "dateConfidence": "unknown",
+            "dateSource": "none",
+            "eventEndAt": null,
+            "eventStartAt": null,
+            "expiryAt": 1783257984000,
+            "id": "3a534a4212060707",
+            "language": "en",
+            "lifecycle": {
+              "archiveUntil": 1783862784000,
+              "contentClass": "upahead_alert",
+              "displayUntil": 1783257984000,
+              "isActionValid": true,
+              "isVisible": true,
+              "plannerEligibleByLifecycle": true,
+              "plannerPastGraceHours": 6,
+              "retentionReason": "expiryAt",
+              "withinSevenDayHorizon": true
+            },
+            "localityScore": 0.9,
+            "normalizedCategory": "alerts",
+            "plannerEligible": true,
+            "publishedAt": 1783171584000,
+            "region": "tn",
+            "scoreBreakdown": {
+              "actionabilityScore": 1.0,
+              "categoryPriorityScore": 1.0,
+              "lifecycleScore": 0.65,
+              "locationScore": 1.0,
+              "plannerFitScore": 1.0,
+              "sourceConfidenceScore": 0.58,
+              "urgencyOrExpiryScore": 0.78
+            },
+            "source": "The Hindu Trichy",
+            "sourceGroup": "the_hindu",
+            "summary": "The civic body has revised the estimate to ₹75 crore from the original cost of ₹41.37 crore projected in 2022, with the amount earmarked under the Corporation’s General Funds 2026–27.",
+            "suppressionReason": null,
+            "title": "Tiruchi Corporation revives ₹75-crore office expansion plan",
+            "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/tiruchi-corporation-revives-75-crore-office-expansion-plan/article71182779.ece"
+          },
+          "locationKey": "trichy",
+          "rankingReasons": [
+            "alerts",
+            "valid undated item with active display window",
+            "location matches configured profile",
+            "planner advisory fit"
+          ],
+          "score": 0.8485,
+          "title": "Tiruchi Corporation revives ₹75-crore office expansion plan"
+        },
+        {
+          "category": "alerts",
+          "gates": [
+            {
+              "details": {
+                "dedupKey": "de0f69f82523b09a"
+              },
+              "name": "dedup",
+              "reason": "unique item",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "displayUntil": 1783252112000
+              },
+              "name": "futureValidity",
+              "reason": "valid undated item with active display window",
+              "score": 0.65,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "matchScore": 1.0,
+                "matchedLocation": "chennai",
+                "relevance": "primary",
+                "scope": "exactCity"
+              },
+              "name": "location",
+              "reason": "location matches configured profile",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "hasPlace": true,
+                "hasTime": true
+              },
+              "name": "actionability",
+              "reason": "item has enough action fields",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {},
+              "name": "offerValidity",
+              "reason": "not an offer",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "severe": false
+              },
+              "name": "alertUrgency",
+              "reason": "active alert",
+              "score": 0.78,
+              "status": "PASS"
+            }
+          ],
+          "id": "75e2a536438ffbb2",
+          "item": {
+            "actionabilityScore": 0.7,
+            "category": "alerts",
+            "city": "Chennai",
+            "contentClass": "upahead_alert",
+            "dateConfidence": "unknown",
+            "dateSource": "none",
+            "eventEndAt": null,
+            "eventStartAt": null,
+            "expiryAt": 1783252112000,
+            "id": "75e2a536438ffbb2",
+            "language": "en",
+            "lifecycle": {
+              "archiveUntil": 1783856912000,
+              "contentClass": "upahead_alert",
+              "displayUntil": 1783252112000,
+              "isActionValid": true,
+              "isVisible": true,
+              "plannerEligibleByLifecycle": true,
+              "plannerPastGraceHours": 6,
+              "retentionReason": "expiryAt",
+              "withinSevenDayHorizon": true
+            },
+            "localityScore": 1.0,
+            "normalizedCategory": "alerts",
+            "plannerEligible": true,
+            "publishedAt": 1783165712000,
+            "region": "tn",
+            "scoreBreakdown": {
+              "actionabilityScore": 1.0,
+              "categoryPriorityScore": 1.0,
+              "lifecycleScore": 0.65,
+              "locationScore": 1.0,
+              "plannerFitScore": 1.0,
+              "sourceConfidenceScore": 0.58,
+              "urgencyOrExpiryScore": 0.78
+            },
+            "source": "The Hindu Chennai",
+            "sourceGroup": "the_hindu",
+            "summary": "",
+            "suppressionReason": null,
+            "title": "Trust urges T.N. Social Justice Minister to ensure law against honour killings is enacted",
+            "url": "https://www.thehindu.com/news/cities/chennai/trust-urges-tn-social-justice-minister-to-ensure-law-against-honour-killings-is-enacted/article71175811.ece"
+          },
+          "locationKey": "chennai",
+          "rankingReasons": [
+            "alerts",
+            "valid undated item with active display window",
+            "location matches configured profile",
+            "planner advisory fit"
+          ],
+          "score": 0.8485,
+          "title": "Trust urges T.N. Social Justice Minister to ensure law against honour killings is enacted"
         }
       ],
       "rankingProfile": "upAhead-v2-lifecycle-location-category",
@@ -5049,7 +5046,7 @@
       }
     }
   },
-  "generatedAt": 1783230280357,
+  "generatedAt": 1783243772341,
   "implementedDestinations": [
     "upAhead",
     "buzz",
@@ -5068,7 +5065,7 @@
   "schemaVersion": 1,
   "summary": {
     "actionRequired": [
-      "19 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "16 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no active offer items in ranked Up Ahead set",
       "no ranked Up Ahead item for muscat",
       "ranked Up Ahead set is category-dominated",
@@ -5083,7 +5080,7 @@
     ],
     "destinationScores": {
       "buzz": 0.0,
-      "insight": 0.3951,
+      "insight": 0.3965,
       "localTravel": 0.0,
       "upAhead": 0.8586
     },
@@ -5093,7 +5090,7 @@
       "localTravel": "FAIL",
       "upAhead": "WARN"
     },
-    "overallScore": 0.3134,
+    "overallScore": 0.3138,
     "overallStatus": "FAIL",
     "rankingProfiles": {
       "buzz": "buzz-v2-trend-local-travel",
@@ -5102,26 +5099,24 @@
       "upAhead": "upAhead-v2-lifecycle-location-category"
     },
     "topFindings": [
+      "Amazon Prime Day 2026: Best Deals on Redmi and Xiaomi Smartphones - Gadgets 360: location failed — offline/local item lacks configured location match",
       "Still using traditional door locks? These smart lock deals are worth checking before Amazon Prime Day Sale ends - livemint.com: location failed — offline/local item lacks configured location match",
       "We’re Updating The 80+ Best 4th Of July Sales As New Deals Drop - Forbes: location failed — offline/local item lacks configured location match",
       "Diljit Dosanjh wondered if Satluj would ever release; says Jaswant Singh Khalra's voice was suppressed twice: location failed — offline/local item lacks configured location match",
       "Huma Qureshi says she doesn't look at Alia Bhatt, Sharvari's Alpha as competition amid clash with her Baby Do Die Do: location failed — offline/local item lacks configured location match",
       "Ajay Devgn's Dhamaal 4 cleared by CBFC; 'obscene' gestures and words modified before release: location failed — offline/local item lacks configured location match",
+      "Music Academy to hold 9th Radel mid-year concerts from July 5 to 7: futureValidity failed — expired display window",
+      "Music Academy to hold 9th Radel mid-year concerts from July 5 to 7: alertUrgency failed — alert expired",
       "Best smartphone deals under 15000 rupees during Amazon Prime Day Sale 2026 - Sportskeeda Tech: location failed — offline/local item lacks configured location match",
       "Amazon Prime Day Sale 2026: Best smartphone deals you shouldn't miss - Udayavani: location failed — offline/local item lacks configured location match",
-      "Hobby groups decry Nageswara Rao Park’s makeover: futureValidity failed — expired display window",
-      "Hobby groups decry Nageswara Rao Park’s makeover: alertUrgency failed — alert expired",
-      "The hidden cost of Chennai’s data centre boom: Can the city afford AI’s water and power hunger? - Down To Earth: futureValidity failed — expired display window",
-      "The hidden cost of Chennai’s data centre boom: Can the city afford AI’s water and power hunger? - Down To Earth: alertUrgency failed — alert expired",
-      "An online petition to save Nageswara Rao park: futureValidity failed — expired display window",
-      "An online petition to save Nageswara Rao park: alertUrgency failed — alert expired",
       "These 31+ Amazon July 4th deals feel like Prime Day just got extended - NBC News: location failed — offline/local item lacks configured location match",
       "Amazon Prime Day Mobile Offers 2026: Best Deals on OnePlus, Nothing and More - Gadgets 360: location failed — offline/local item lacks configured location match",
       "Best tablets under 20000 rupees during Amazon Prime Day Sale 2026 - Sportskeeda Tech: location failed — offline/local item lacks configured location match",
       "Star Air Launches Monsoon Sale with Fares from ₹1,799 - safariindia.com: location failed — offline/local item lacks configured location match",
       "Amazon Prime Day 2026: Best Deals on Smartphones Under Rs. 30,000 - Gadgets 360: location failed — offline/local item lacks configured location match",
-      "Hisense India Announces Up to 40% Discounts on TVs and Air Conditioners During Amazon Prime Day and Flipkart GOAT Sale - Business Standard: location failed — offline/local item lacks configured location match",
-      "World Chocolate Day 2026: Best Amazon India Deals on Ferrero Rocher, Toblerone, Lindt and More (July 1 to 7) - Gogi Tech: futureValidity failed — expired display window"
+      "Prime Day Sale 2026: Amazon offers big discounts on Samsung, LG, and Sony smart TVs - Deccan Herald: futureValidity failed — expired display window",
+      "Prime Day Sale 2026: Amazon offers big discounts on Samsung, LG, and Sony smart TVs - Deccan Herald: offerValidity failed — offer expired",
+      "New OTT Releases this week (June 29-July 5, 2026): Enola Holmes Season 3, Pritam and Pedro, Elle- 6 new titles coming on Netflix, Prime Video and more - WION: location failed — offline/local item lacks configured location match"
     ]
   }
 }
