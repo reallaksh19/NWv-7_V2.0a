@@ -1,12 +1,12 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1783274991658,
-  "contentHash": "33d2eba945df3e7b",
+  "generatedAt": 1783285764915,
+  "contentHash": "633dad6f5e83386f",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 492,
-  "sourceGroupCount": 9,
+  "storyCount": 467,
+  "sourceGroupCount": 10,
   "grade": "D",
   "parentCount": 10,
   "avgAngles": 1.5,
@@ -26,7 +26,7 @@
       "signalScore": 41,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 428,
+      "storyCount": 409,
       "risingCount": 0,
       "thinCount": 5,
       "multiAngleCount": 5,
@@ -34,7 +34,7 @@
       "strongAngleCount": 0,
       "avgAngles": 1.5,
       "avgChildren": 1.8,
-      "avgScore": 0.6219478539218262,
+      "avgScore": 0.6259478539218261,
       "sourceDiversityCoverage": 7,
       "snapshotCoverage": 5,
       "coverageLabel": "5/10",
@@ -44,7 +44,7 @@
         "3 cluster(s) are below source-diversity target.",
         "5 cluster(s) have weak snapshot coverage.",
         "5 cluster(s) are marked thin.",
-        "640 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "580 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
@@ -54,7 +54,7 @@
       "signalScore": 41,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 428,
+      "storyCount": 409,
       "risingCount": 0,
       "thinCount": 5,
       "multiAngleCount": 5,
@@ -62,7 +62,7 @@
       "strongAngleCount": 0,
       "avgAngles": 1.5,
       "avgChildren": 1.8,
-      "avgScore": 0.6219478539218262,
+      "avgScore": 0.6259478539218261,
       "sourceDiversityCoverage": 7,
       "snapshotCoverage": 5,
       "coverageLabel": "5/10",
@@ -85,7 +85,7 @@
   },
   "parents": [
     {
-      "parentId": "cluster_241_b4eddbb43b5d9adc",
+      "parentId": "cluster_277_b4eddbb43b5d9adc",
       "headline": "Ninth edition of The Hindu Home Expo commences at LuLu Mall",
       "score": 0.6265800531183316,
       "postTreeScore": 1.0066,
@@ -106,7 +106,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_123_dd4a2f1740b7fb68",
+      "parentId": "cluster_158_dd4a2f1740b7fb68",
       "headline": "How Washington DC marked America 250",
       "score": 0.6052599999999999,
       "postTreeScore": 1.0053,
@@ -127,10 +127,10 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_67_72584d611c95d52c",
+      "parentId": "cluster_100_72584d611c95d52c",
       "headline": "British military says cargo ship reports being under attack in Red Sea off coast of Yemen",
-      "score": 0.5545916683316485,
-      "postTreeScore": 0.9746,
+      "score": 0.5745916683316485,
+      "postTreeScore": 0.9946,
       "childCount": 3,
       "angles": [
         "official_response",
@@ -150,10 +150,10 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_71_2f65f8fc2ccc5439",
+      "parentId": "cluster_104_2f65f8fc2ccc5439",
       "headline": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-      "score": 0.56426,
-      "postTreeScore": 0.9643,
+      "score": 0.58426,
+      "postTreeScore": 0.9843,
       "childCount": 2,
       "angles": [
         "official_response",
@@ -170,7 +170,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_61_3e10f987e3e66718",
+      "parentId": "cluster_94_3e10f987e3e66718",
       "headline": "‘Very dangerous’ Super Typhoon barrels towards US Pacific islands with 280 kmph winds",
       "score": 0.5465933333333333,
       "postTreeScore": 0.9466,
@@ -190,7 +190,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_153_6ae2bf2c6cb66d49",
+      "parentId": "cluster_189_6ae2bf2c6cb66d49",
       "headline": "'We are heroic people with heroic spirit': Donald Trump marks America's 250th Independence Day",
       "score": 0.6165800531183316,
       "postTreeScore": 0.5066,
@@ -209,7 +209,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_155_436508566c5b8117",
+      "parentId": "cluster_191_436508566c5b8117",
       "headline": "Performer calls for Trump's death at funeral for Iran's late supreme leader",
       "score": 0.5636732802150018,
       "postTreeScore": 0.4737,
@@ -228,25 +228,25 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_398_87d19d24340b43ce",
-      "headline": "10 crore mutual fund investors, Rs 150 lakh crore AUM: Inside AMFI's massive 2030 roadmap",
+      "parentId": "cluster_182_4d3ca557df2c6a71",
+      "headline": "Vedanta, TCS among 5 stocks with the highest dividend yield. Check details",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
       "childCount": 1,
       "angles": [
-        "fact_update"
+        "market_reaction"
       ],
       "temporalTiers": [
         "breaking"
       ],
       "evolutionRoles": [
-        "fact_update"
+        "market_reaction"
       ],
       "baseReportShare": 0,
       "weakTree": true
     },
     {
-      "parentId": "cluster_134_c0fe94757fbdf300",
+      "parentId": "cluster_169_c0fe94757fbdf300",
       "headline": "11 largecap stocks with upside potential of up to 50%. Do you own any?",
       "score": 0.7096244948116492,
       "postTreeScore": 0.4096,
@@ -264,7 +264,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_325_aa34fe43f2bee8d8",
+      "parentId": "cluster_362_aa34fe43f2bee8d8",
       "headline": "Sobha Ltd Q1 sales bookings up 76% to ₹3,656 crore on better housing demand",
       "score": 0.7096244948116492,
       "postTreeScore": 0.4096,
@@ -370,8 +370,8 @@
       "weakParentRatio": 0.5,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 492,
-      "sourceGroupCount": 9
+      "storyCount": 467,
+      "sourceGroupCount": 10
     }
   }
 }
