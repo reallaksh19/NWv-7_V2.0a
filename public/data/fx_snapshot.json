@@ -1,7 +1,20 @@
 {
   "schemaVersion": "2.0.0",
-  "generatedAt": "2026-07-05T13:50:08.242628Z",
+  "generatedAt": "2026-07-05T17:18:19.397397Z",
   "currencies": [
+    {
+      "name": "OMR/INR",
+      "pair": "OMRINR",
+      "symbol": "OMRINR=X",
+      "value": "₹246.8400",
+      "rate": 246.83999633789062,
+      "change": "0.0000",
+      "changePercent": "0.00",
+      "direction": "up",
+      "source": "yahoo-yfinance",
+      "mode": "fallback-intraday",
+      "asOf": "2026-07-05T17:16:37.053837Z"
+    },
     {
       "name": "EUR/INR",
       "pair": "EURINR",
@@ -13,20 +26,7 @@
       "direction": "up",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-07-05T13:48:25.963900Z"
-    },
-    {
-      "name": "USD/INR",
-      "pair": "USDINR",
-      "symbol": "USDINR=X",
-      "value": "₹95.2000",
-      "rate": 95.19999694824219,
-      "change": "-0.3271",
-      "changePercent": "-0.34",
-      "direction": "down",
-      "source": "yahoo-yfinance",
-      "mode": "fallback-intraday",
-      "asOf": "2026-07-05T13:48:25.969937Z"
+      "asOf": "2026-07-05T17:16:37.060234Z"
     },
     {
       "name": "GBP/INR",
@@ -39,7 +39,20 @@
       "direction": "up",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-07-05T13:48:25.986357Z"
+      "asOf": "2026-07-05T17:16:37.129672Z"
+    },
+    {
+      "name": "USD/INR",
+      "pair": "USDINR",
+      "symbol": "USDINR=X",
+      "value": "₹95.2000",
+      "rate": 95.19999694824219,
+      "change": "-0.3271",
+      "changePercent": "-0.34",
+      "direction": "down",
+      "source": "yahoo-yfinance",
+      "mode": "fallback-intraday",
+      "asOf": "2026-07-05T17:16:37.150251Z"
     },
     {
       "name": "JPY/INR",
@@ -52,20 +65,7 @@
       "direction": "up",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-07-05T13:48:26.026593Z"
-    },
-    {
-      "name": "OMR/INR",
-      "pair": "OMRINR",
-      "symbol": "OMRINR=X",
-      "value": "₹246.8400",
-      "rate": 246.83999633789062,
-      "change": "0.0000",
-      "changePercent": "0.00",
-      "direction": "up",
-      "source": "yahoo-yfinance",
-      "mode": "fallback-intraday",
-      "asOf": "2026-07-05T13:48:26.038098Z"
+      "asOf": "2026-07-05T17:16:37.183355Z"
     }
   ],
   "sourceHealth": {
