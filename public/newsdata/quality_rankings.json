@@ -86,9 +86,126 @@
         "weakParentsDemoted": 0
       },
       "qualityGrade": "F",
-      "qualityScore": 0.3833,
+      "qualityScore": 0.3951,
       "qualityStatus": "WARN",
       "rankedItems": [
+        {
+          "category": "insightEvent",
+          "gates": [
+            {
+              "details": {
+                "storyCount": 2
+              },
+              "name": "eventCoherence",
+              "reason": "event sketch has repeated story count",
+              "score": 0.62,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "baseReportRatio": 0.0,
+                "distinctAngles": 2
+              },
+              "name": "angleDiversity",
+              "reason": "usable angle diversity",
+              "score": 0.78,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "sourceGroupCount": 2
+              },
+              "name": "sourceDiversity",
+              "reason": "multi-source event",
+              "score": 0.72,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "baseReportRatio": 0.0
+              },
+              "name": "baseReportCap",
+              "reason": "base-report ratio controlled",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "childCount": 2
+              },
+              "name": "weakTree",
+              "reason": "child tree has enough depth",
+              "score": 0.5,
+              "status": "PASS"
+            },
+            {
+              "details": {},
+              "name": "duplicateChildren",
+              "reason": "no child objects to dedup",
+              "score": 0.7,
+              "status": "PASS"
+            }
+          ],
+          "id": "sketch:135e3f87ec",
+          "item": {
+            "angleCount": 2,
+            "baseReportRatio": 0.0,
+            "childScores": [],
+            "id": "sketch:135e3f87ec",
+            "representativeId": "8876af154fcdd68c",
+            "representativeTitle": "EAM Jaishankar to embark on 6-nation tour from July 5",
+            "scoreBreakdown": {
+              "angleDiversityScore": 0.78,
+              "eventImportanceScore": 0.59,
+              "freshnessScore": 0.0,
+              "noveltyDeltaScore": 0.55,
+              "sourceAuthorityScore": 0.62,
+              "sourceDiversityScore": 0.72,
+              "temporalEvolutionScore": 0.61
+            },
+            "slotCount": 3,
+            "slots": [
+              "minus24h",
+              "minus4h",
+              "now"
+            ],
+            "sourceGroupCount": 2,
+            "sourceGroups": [
+              "business_line",
+              "the_hindu"
+            ],
+            "storyCount": 2,
+            "storyIds": [
+              "8876af154fcdd68c",
+              "2c0e1f342dc78ce0"
+            ],
+            "topAngles": [
+              {
+                "angle": "official_response",
+                "count": 1
+              },
+              {
+                "angle": "regional_followup",
+                "count": 1
+              }
+            ],
+            "topTokens": [
+              "jaishankar",
+              "embark",
+              "6-nation",
+              "tour"
+            ],
+            "topicKey": "jaishankar|embark|6-nation"
+          },
+          "locationKey": "event",
+          "rankingReasons": [
+            "event sketch has repeated story count",
+            "usable angle diversity",
+            "multi-source event"
+          ],
+          "score": 0.6205,
+          "title": "EAM Jaishankar to embark on 6-nation tour from July 5"
+        },
         {
           "category": "insightEvent",
           "gates": [
@@ -322,118 +439,7 @@
           "gates": [
             {
               "details": {
-                "storyCount": 2
-              },
-              "name": "eventCoherence",
-              "reason": "event sketch has repeated story count",
-              "score": 0.62,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "baseReportRatio": 0.0,
-                "distinctAngles": 1
-              },
-              "name": "angleDiversity",
-              "reason": "weak child angle diversity",
-              "score": 0.25,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "sourceGroupCount": 2
-              },
-              "name": "sourceDiversity",
-              "reason": "multi-source event",
-              "score": 0.72,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "baseReportRatio": 0.0
-              },
-              "name": "baseReportCap",
-              "reason": "base-report ratio controlled",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "childCount": 2
-              },
-              "name": "weakTree",
-              "reason": "child tree has enough depth",
-              "score": 0.5,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "duplicateChildren",
-              "reason": "no child objects to dedup",
-              "score": 0.7,
-              "status": "PASS"
-            }
-          ],
-          "id": "sketch:9fe9637243",
-          "item": {
-            "angleCount": 1,
-            "baseReportRatio": 0.0,
-            "childScores": [],
-            "id": "sketch:9fe9637243",
-            "representativeId": "b590bcbb384b724e",
-            "representativeTitle": "Global stocks: UAE markets end higher; IHC gains on India aluminium venture - The Economic Times",
-            "scoreBreakdown": {
-              "angleDiversityScore": 0.25,
-              "eventImportanceScore": 0.59,
-              "freshnessScore": 0.0,
-              "noveltyDeltaScore": 0.44999999999999996,
-              "sourceAuthorityScore": 0.62,
-              "sourceDiversityScore": 0.72,
-              "temporalEvolutionScore": 0.37
-            },
-            "slotCount": 1,
-            "slots": [
-              "now"
-            ],
-            "sourceGroupCount": 2,
-            "sourceGroups": [
-              "economic_times",
-              "google_news"
-            ],
-            "storyCount": 2,
-            "storyIds": [
-              "b590bcbb384b724e",
-              "27c7526a2c01a81b"
-            ],
-            "topAngles": [
-              {
-                "angle": "market_reaction",
-                "count": 2
-              }
-            ],
-            "topTokens": [
-              "global",
-              "stocks",
-              "markets",
-              "higher"
-            ],
-            "topicKey": "global|stocks|markets"
-          },
-          "locationKey": "event",
-          "rankingReasons": [
-            "event sketch has repeated story count",
-            "weak child angle diversity",
-            "multi-source event"
-          ],
-          "score": 0.4805,
-          "title": "Global stocks: UAE markets end higher; IHC gains on India aluminium venture - The Economic Times"
-        },
-        {
-          "category": "insightEvent",
-          "gates": [
-            {
-              "details": {
-                "storyCount": 4
+                "storyCount": 5
               },
               "name": "eventCoherence",
               "reason": "event sketch has repeated story count",
@@ -470,7 +476,7 @@
             },
             {
               "details": {
-                "childCount": 4
+                "childCount": 5
               },
               "name": "weakTree",
               "reason": "child tree has enough depth",
@@ -491,11 +497,11 @@
             "baseReportRatio": 0.0,
             "childScores": [],
             "id": "sketch:313fbb8095",
-            "representativeId": "fa92b073a0a30dc3",
-            "representativeTitle": "Breaking News Live Updates: Delhi govt reshuffles administration: 52 long-posted officers transferred, 19 promoted - The Times of India",
+            "representativeId": "f16757a86a1800d9",
+            "representativeTitle": "Breaking News Live Updates: Army corners two local LeT terrorists in J&K's Shopian; counter-terror op under way - The Times of India",
             "scoreBreakdown": {
               "angleDiversityScore": 0.25,
-              "eventImportanceScore": 0.83,
+              "eventImportanceScore": 0.95,
               "freshnessScore": 0.0,
               "noveltyDeltaScore": 0.44999999999999996,
               "sourceAuthorityScore": 0.38,
@@ -510,8 +516,9 @@
             "sourceGroups": [
               "google_news"
             ],
-            "storyCount": 4,
+            "storyCount": 5,
             "storyIds": [
+              "f16757a86a1800d9",
               "fa92b073a0a30dc3",
               "3f4614cfb237e7a1",
               "c0b89c693126f623",
@@ -520,13 +527,14 @@
             "topAngles": [
               {
                 "angle": "fact_update",
-                "count": 4
+                "count": 5
               }
             ],
             "topTokens": [
               "breaking",
               "live",
               "updates",
+              "army",
               "delhi",
               "damascus",
               "strong",
@@ -540,8 +548,8 @@
             "weak child angle diversity",
             "one-source event candidate"
           ],
-          "score": 0.449,
-          "title": "Breaking News Live Updates: Delhi govt reshuffles administration: 52 long-posted officers transferred, 19 promoted - The Times of India"
+          "score": 0.479,
+          "title": "Breaking News Live Updates: Army corners two local LeT terrorists in J&K's Shopian; counter-terror op under way - The Times of India"
         },
         {
           "category": "insightEvent",
@@ -1050,6 +1058,116 @@
               "status": "PASS"
             }
           ],
+          "id": "sketch:8ec38cb352",
+          "item": {
+            "angleCount": 1,
+            "baseReportRatio": 1.0,
+            "childScores": [],
+            "id": "sketch:8ec38cb352",
+            "representativeId": "37f71ab1a2fbf24f",
+            "representativeTitle": "Amazon Prime Day 2026: Best Deals on Smartphones Under Rs. 15,000",
+            "scoreBreakdown": {
+              "angleDiversityScore": 0.25,
+              "eventImportanceScore": 0.59,
+              "freshnessScore": 0.0,
+              "noveltyDeltaScore": 0.44999999999999996,
+              "sourceAuthorityScore": 0.38,
+              "sourceDiversityScore": 0.35,
+              "temporalEvolutionScore": 0.37
+            },
+            "slotCount": 1,
+            "slots": [
+              "minus12h"
+            ],
+            "sourceGroupCount": 1,
+            "sourceGroups": [
+              "gadgets360"
+            ],
+            "storyCount": 2,
+            "storyIds": [
+              "37f71ab1a2fbf24f",
+              "7576812db70d256a"
+            ],
+            "topAngles": [
+              {
+                "angle": "base_report",
+                "count": 2
+              }
+            ],
+            "topTokens": [
+              "amazon",
+              "prime",
+              "best",
+              "deals"
+            ],
+            "topicKey": "amazon|prime|best"
+          },
+          "locationKey": "event",
+          "rankingReasons": [
+            "event sketch has repeated story count",
+            "weak child angle diversity",
+            "one-source event candidate"
+          ],
+          "score": 0.1751,
+          "title": "Amazon Prime Day 2026: Best Deals on Smartphones Under Rs. 15,000"
+        },
+        {
+          "category": "insightEvent",
+          "gates": [
+            {
+              "details": {
+                "storyCount": 2
+              },
+              "name": "eventCoherence",
+              "reason": "event sketch has repeated story count",
+              "score": 0.62,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "baseReportRatio": 1.0,
+                "distinctAngles": 0
+              },
+              "name": "angleDiversity",
+              "reason": "weak child angle diversity",
+              "score": 0.25,
+              "status": "WARN"
+            },
+            {
+              "details": {
+                "sourceGroupCount": 1
+              },
+              "name": "sourceDiversity",
+              "reason": "one-source event candidate",
+              "score": 0.35,
+              "status": "WARN"
+            },
+            {
+              "details": {
+                "baseReportRatio": 1.0
+              },
+              "name": "baseReportCap",
+              "reason": "base-report dominated event candidate",
+              "score": 0.25,
+              "status": "WARN"
+            },
+            {
+              "details": {
+                "childCount": 2
+              },
+              "name": "weakTree",
+              "reason": "child tree has enough depth",
+              "score": 0.5,
+              "status": "PASS"
+            },
+            {
+              "details": {},
+              "name": "duplicateChildren",
+              "reason": "no child objects to dedup",
+              "score": 0.7,
+              "status": "PASS"
+            }
+          ],
           "id": "sketch:c7f96b2804",
           "item": {
             "angleCount": 1,
@@ -1270,114 +1388,6 @@
               "status": "PASS"
             }
           ],
-          "id": "sketch:c1c58008d6",
-          "item": {
-            "angleCount": 1,
-            "baseReportRatio": 1.0,
-            "childScores": [],
-            "id": "sketch:c1c58008d6",
-            "representativeId": "df71bc9e8f9d5353",
-            "representativeTitle": "Top news of the day on June 20, 2026 - The Hindu",
-            "scoreBreakdown": {
-              "angleDiversityScore": 0.25,
-              "eventImportanceScore": 0.59,
-              "freshnessScore": 0.0,
-              "noveltyDeltaScore": 0.44999999999999996,
-              "sourceAuthorityScore": 0.38,
-              "sourceDiversityScore": 0.35,
-              "temporalEvolutionScore": 0.37
-            },
-            "slotCount": 1,
-            "slots": [
-              "now"
-            ],
-            "sourceGroupCount": 1,
-            "sourceGroups": [
-              "google_news"
-            ],
-            "storyCount": 2,
-            "storyIds": [
-              "df71bc9e8f9d5353",
-              "bf952c0b99344c4d"
-            ],
-            "topAngles": [
-              {
-                "angle": "base_report",
-                "count": 2
-              }
-            ],
-            "topTokens": [
-              "june",
-              "hindu"
-            ],
-            "topicKey": "june|hindu"
-          },
-          "locationKey": "event",
-          "rankingReasons": [
-            "event sketch has repeated story count",
-            "weak child angle diversity",
-            "one-source event candidate"
-          ],
-          "score": 0.1751,
-          "title": "Top news of the day on June 20, 2026 - The Hindu"
-        },
-        {
-          "category": "insightEvent",
-          "gates": [
-            {
-              "details": {
-                "storyCount": 2
-              },
-              "name": "eventCoherence",
-              "reason": "event sketch has repeated story count",
-              "score": 0.62,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "baseReportRatio": 1.0,
-                "distinctAngles": 0
-              },
-              "name": "angleDiversity",
-              "reason": "weak child angle diversity",
-              "score": 0.25,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "sourceGroupCount": 1
-              },
-              "name": "sourceDiversity",
-              "reason": "one-source event candidate",
-              "score": 0.35,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "baseReportRatio": 1.0
-              },
-              "name": "baseReportCap",
-              "reason": "base-report dominated event candidate",
-              "score": 0.25,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "childCount": 2
-              },
-              "name": "weakTree",
-              "reason": "child tree has enough depth",
-              "score": 0.5,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "duplicateChildren",
-              "reason": "no child objects to dedup",
-              "score": 0.7,
-              "status": "PASS"
-            }
-          ],
           "id": "sketch:9c932757ed",
           "item": {
             "angleCount": 1,
@@ -1434,13 +1444,13 @@
       ],
       "rankingProfile": "insight-v2-event-angle-tree",
       "scoreBreakdown": {
-        "angleDiversityScore": 0.2942,
-        "eventImportanceScore": 0.62,
+        "angleDiversityScore": 0.3383,
+        "eventImportanceScore": 0.63,
         "freshnessScore": 0.0,
-        "noveltyDeltaScore": 0.4667,
+        "noveltyDeltaScore": 0.475,
         "sourceAuthorityScore": 0.44,
         "sourceDiversityScore": 0.4425,
-        "temporalEvolutionScore": 0.42
+        "temporalEvolutionScore": 0.44
       }
     },
     "localTravel": {
@@ -1500,26 +1510,33 @@
     },
     "upAhead": {
       "actionableFindings": [
-        "13 invalid/expired/duplicate Up Ahead item(s) suppressed",
+        "19 invalid/expired/duplicate Up Ahead item(s) suppressed",
         "no active offer items in ranked Up Ahead set",
         "no ranked Up Ahead item for muscat",
         "ranked Up Ahead set is category-dominated"
       ],
       "destination": "upAhead",
       "diagnosticReasons": [
+        "Still using traditional door locks? These smart lock deals are worth checking before Amazon Prime Day Sale ends - livemint.com: location failed — offline/local item lacks configured location match",
+        "We’re Updating The 80+ Best 4th Of July Sales As New Deals Drop - Forbes: location failed — offline/local item lacks configured location match",
         "Diljit Dosanjh wondered if Satluj would ever release; says Jaswant Singh Khalra's voice was suppressed twice: location failed — offline/local item lacks configured location match",
         "Huma Qureshi says she doesn't look at Alia Bhatt, Sharvari's Alpha as competition amid clash with her Baby Do Die Do: location failed — offline/local item lacks configured location match",
         "Ajay Devgn's Dhamaal 4 cleared by CBFC; 'obscene' gestures and words modified before release: location failed — offline/local item lacks configured location match",
         "Best smartphone deals under 15000 rupees during Amazon Prime Day Sale 2026 - Sportskeeda Tech: location failed — offline/local item lacks configured location match",
         "Amazon Prime Day Sale 2026: Best smartphone deals you shouldn't miss - Udayavani: location failed — offline/local item lacks configured location match",
+        "Hobby groups decry Nageswara Rao Park’s makeover: futureValidity failed — expired display window",
+        "Hobby groups decry Nageswara Rao Park’s makeover: alertUrgency failed — alert expired",
+        "The hidden cost of Chennai’s data centre boom: Can the city afford AI’s water and power hunger? - Down To Earth: futureValidity failed — expired display window",
+        "The hidden cost of Chennai’s data centre boom: Can the city afford AI’s water and power hunger? - Down To Earth: alertUrgency failed — alert expired",
+        "An online petition to save Nageswara Rao park: futureValidity failed — expired display window",
+        "An online petition to save Nageswara Rao park: alertUrgency failed — alert expired",
         "These 31+ Amazon July 4th deals feel like Prime Day just got extended - NBC News: location failed — offline/local item lacks configured location match",
         "Amazon Prime Day Mobile Offers 2026: Best Deals on OnePlus, Nothing and More - Gadgets 360: location failed — offline/local item lacks configured location match",
         "Best tablets under 20000 rupees during Amazon Prime Day Sale 2026 - Sportskeeda Tech: location failed — offline/local item lacks configured location match",
         "Star Air Launches Monsoon Sale with Fares from ₹1,799 - safariindia.com: location failed — offline/local item lacks configured location match",
         "Amazon Prime Day 2026: Best Deals on Smartphones Under Rs. 30,000 - Gadgets 360: location failed — offline/local item lacks configured location match",
         "Hisense India Announces Up to 40% Discounts on TVs and Air Conditioners During Amazon Prime Day and Flipkart GOAT Sale - Business Standard: location failed — offline/local item lacks configured location match",
-        "Amazon Prime Day 2026 Prime Membership Plans: Benefits, Prices and Which Plan is Right for You - News18: location failed — offline/local item lacks configured location match",
-        "New OTT Releases this week (June 29-July 5, 2026): Enola Holmes Season 3, Pritam and Pedro, Elle- 6 new titles coming on Netflix, Prime Video and more - WION: location failed — offline/local item lacks configured location match"
+        "World Chocolate Day 2026: Best Amazon India Deals on Ferrero Rocher, Toblerone, Lindt and More (July 1 to 7) - Gogi Tech: futureValidity failed — expired display window"
       ],
       "gateResults": [
         {
@@ -1550,7 +1567,7 @@
         },
         "events": 0,
         "festivals": 0,
-        "inputItemCount": 86,
+        "inputItemCount": 89,
         "locationCounts": {
           "chennai": 24,
           "trichy": 6
@@ -1563,7 +1580,7 @@
         "onlineOffers": 0,
         "plannerAdvisoryItems": 30,
         "rankedItemCount": 30,
-        "suppressedItemCount": 13
+        "suppressedItemCount": 19
       },
       "qualityGrade": "B",
       "qualityScore": 0.8586,
@@ -1919,7 +1936,7 @@
           "gates": [
             {
               "details": {
-                "dedupKey": "180fbcd16577141d"
+                "dedupKey": "f72e5e6db3783bd9"
               },
               "name": "dedup",
               "reason": "unique item",
@@ -1928,7 +1945,7 @@
             },
             {
               "details": {
-                "displayUntil": 1783215843000
+                "displayUntil": 1783280014000
               },
               "name": "futureValidity",
               "reason": "valid undated item with active display window",
@@ -1974,7 +1991,7 @@
               "status": "PASS"
             }
           ],
-          "id": "02bd26ce3d6101b4",
+          "id": "76906ab07f2784d3",
           "item": {
             "actionabilityScore": 0.7,
             "category": "alerts",
@@ -1984,13 +2001,13 @@
             "dateSource": "none",
             "eventEndAt": null,
             "eventStartAt": null,
-            "expiryAt": 1783215843000,
-            "id": "02bd26ce3d6101b4",
+            "expiryAt": 1783280014000,
+            "id": "76906ab07f2784d3",
             "language": "en",
             "lifecycle": {
-              "archiveUntil": 1783820643000,
+              "archiveUntil": 1783884814000,
               "contentClass": "upahead_alert",
-              "displayUntil": 1783215843000,
+              "displayUntil": 1783280014000,
               "isActionValid": true,
               "isVisible": true,
               "plannerEligibleByLifecycle": true,
@@ -2001,7 +2018,7 @@
             "localityScore": 1.0,
             "normalizedCategory": "alerts",
             "plannerEligible": true,
-            "publishedAt": 1783129443000,
+            "publishedAt": 1783193614000,
             "region": "tn",
             "scoreBreakdown": {
               "actionabilityScore": 1.0,
@@ -2014,10 +2031,10 @@
             },
             "source": "The Hindu Chennai",
             "sourceGroup": "the_hindu",
-            "summary": "Signal cleared for one route but train got diverted to another: official sources",
+            "summary": "The GCC has decided to collect charges from schools for access to its playgrounds during school hours; this has led to disruption of sports activities in schools in the congested neighbourhood",
             "suppressionReason": null,
-            "title": "Alert locopilots stop train going in the wrong direction in Chennai Division",
-            "url": "https://www.thehindu.com/news/national/tamil-nadu/alert-locopilots-stop-train-going-in-the-wrong-direction-in-chennaidivision/article71180110.ece"
+            "title": "Access to GCC playgrounds restricted for govt.-aided schools in George Town",
+            "url": "https://www.thehindu.com/news/cities/chennai/access-to-gcc-playgrounds-restricted-forgovt-aided-schools-in-george-town/article71183265.ece"
           },
           "locationKey": "chennai",
           "rankingReasons": [
@@ -2027,7 +2044,7 @@
             "planner advisory fit"
           ],
           "score": 0.8485,
-          "title": "Alert locopilots stop train going in the wrong direction in Chennai Division"
+          "title": "Access to GCC playgrounds restricted for govt.-aided schools in George Town"
         },
         {
           "category": "alerts",
@@ -2603,6 +2620,121 @@
           ],
           "score": 0.8485,
           "title": "Corporation to build new bus terminus, depot near Velachery MRTS station"
+        },
+        {
+          "category": "alerts",
+          "gates": [
+            {
+              "details": {
+                "dedupKey": "6f8027d4a7508bf7"
+              },
+              "name": "dedup",
+              "reason": "unique item",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "displayUntil": 1783270013000
+              },
+              "name": "futureValidity",
+              "reason": "valid undated item with active display window",
+              "score": 0.65,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "matchScore": 1.0,
+                "matchedLocation": "chennai",
+                "relevance": "primary",
+                "scope": "exactCity"
+              },
+              "name": "location",
+              "reason": "location matches configured profile",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "hasPlace": true,
+                "hasTime": true
+              },
+              "name": "actionability",
+              "reason": "item has enough action fields",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {},
+              "name": "offerValidity",
+              "reason": "not an offer",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "severe": false
+              },
+              "name": "alertUrgency",
+              "reason": "active alert",
+              "score": 0.78,
+              "status": "PASS"
+            }
+          ],
+          "id": "618d139f900ed27c",
+          "item": {
+            "actionabilityScore": 0.7,
+            "category": "alerts",
+            "city": "Chennai",
+            "contentClass": "upahead_alert",
+            "dateConfidence": "unknown",
+            "dateSource": "none",
+            "eventEndAt": null,
+            "eventStartAt": null,
+            "expiryAt": 1783270013000,
+            "id": "618d139f900ed27c",
+            "language": "en",
+            "lifecycle": {
+              "archiveUntil": 1783874813000,
+              "contentClass": "upahead_alert",
+              "displayUntil": 1783270013000,
+              "isActionValid": true,
+              "isVisible": true,
+              "plannerEligibleByLifecycle": true,
+              "plannerPastGraceHours": 6,
+              "retentionReason": "expiryAt",
+              "withinSevenDayHorizon": true
+            },
+            "localityScore": 1.0,
+            "normalizedCategory": "alerts",
+            "plannerEligible": true,
+            "publishedAt": 1783183613000,
+            "region": "tn",
+            "scoreBreakdown": {
+              "actionabilityScore": 1.0,
+              "categoryPriorityScore": 1.0,
+              "lifecycleScore": 0.65,
+              "locationScore": 1.0,
+              "plannerFitScore": 1.0,
+              "sourceConfidenceScore": 0.58,
+              "urgencyOrExpiryScore": 0.78
+            },
+            "source": "The Hindu Chennai",
+            "sourceGroup": "the_hindu",
+            "summary": "The former Chief Minister asserts that no other political party could match the DMK’s organisational strength",
+            "suppressionReason": null,
+            "title": "DMK bound together by ideology, will rise like a phoenix, says Stalin",
+            "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-bound-together-by-ideology-will-rise-like-a-phoenix-says-stalin/article71183496.ece"
+          },
+          "locationKey": "chennai",
+          "rankingReasons": [
+            "alerts",
+            "valid undated item with active display window",
+            "location matches configured profile",
+            "planner advisory fit"
+          ],
+          "score": 0.8485,
+          "title": "DMK bound together by ideology, will rise like a phoenix, says Stalin"
         },
         {
           "category": "alerts",
@@ -3299,121 +3431,6 @@
           "gates": [
             {
               "details": {
-                "dedupKey": "a72e45f5cbea0571"
-              },
-              "name": "dedup",
-              "reason": "unique item",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "displayUntil": 1783227596000
-              },
-              "name": "futureValidity",
-              "reason": "valid undated item with active display window",
-              "score": 0.65,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "matchScore": 1.0,
-                "matchedLocation": "chennai",
-                "relevance": "primary",
-                "scope": "exactCity"
-              },
-              "name": "location",
-              "reason": "location matches configured profile",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "hasPlace": true,
-                "hasTime": true
-              },
-              "name": "actionability",
-              "reason": "item has enough action fields",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "offerValidity",
-              "reason": "not an offer",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "severe": false
-              },
-              "name": "alertUrgency",
-              "reason": "active alert",
-              "score": 0.78,
-              "status": "PASS"
-            }
-          ],
-          "id": "60f0c472e1d0e145",
-          "item": {
-            "actionabilityScore": 0.7,
-            "category": "alerts",
-            "city": "Chennai",
-            "contentClass": "upahead_alert",
-            "dateConfidence": "unknown",
-            "dateSource": "none",
-            "eventEndAt": null,
-            "eventStartAt": null,
-            "expiryAt": 1783227596000,
-            "id": "60f0c472e1d0e145",
-            "language": "en",
-            "lifecycle": {
-              "archiveUntil": 1783832396000,
-              "contentClass": "upahead_alert",
-              "displayUntil": 1783227596000,
-              "isActionValid": true,
-              "isVisible": true,
-              "plannerEligibleByLifecycle": true,
-              "plannerPastGraceHours": 6,
-              "retentionReason": "expiryAt",
-              "withinSevenDayHorizon": true
-            },
-            "localityScore": 1.0,
-            "normalizedCategory": "alerts",
-            "plannerEligible": true,
-            "publishedAt": 1783141196000,
-            "region": "tn",
-            "scoreBreakdown": {
-              "actionabilityScore": 1.0,
-              "categoryPriorityScore": 1.0,
-              "lifecycleScore": 0.65,
-              "locationScore": 1.0,
-              "plannerFitScore": 1.0,
-              "sourceConfidenceScore": 0.58,
-              "urgencyOrExpiryScore": 0.78
-            },
-            "source": "The Hindu Chennai",
-            "sourceGroup": "the_hindu",
-            "summary": "They have sent a jointly signed letter to the Mylapore MLA P. Venkataramanan seeking that he prevent any further cutting of trees and concreting of the ground",
-            "suppressionReason": null,
-            "title": "Hobby groups decry Nageswara Rao Park’s makeover",
-            "url": "https://www.thehindu.com/news/cities/chennai/hobby-groups-decrynageswararao-parks-makeover/article71181803.ece"
-          },
-          "locationKey": "chennai",
-          "rankingReasons": [
-            "alerts",
-            "valid undated item with active display window",
-            "location matches configured profile",
-            "planner advisory fit"
-          ],
-          "score": 0.8485,
-          "title": "Hobby groups decry Nageswara Rao Park’s makeover"
-        },
-        {
-          "category": "alerts",
-          "gates": [
-            {
-              "details": {
                 "dedupKey": "90d711a94d5c969a"
               },
               "name": "dedup",
@@ -4098,6 +4115,121 @@
           ],
           "score": 0.8485,
           "title": "Over 46 kg of ganja, 100 kg of gutkha seized; 11 arrested in Avadi"
+        },
+        {
+          "category": "alerts",
+          "gates": [
+            {
+              "details": {
+                "dedupKey": "b8a2c7f1800b94f8"
+              },
+              "name": "dedup",
+              "reason": "unique item",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "displayUntil": 1783280002000
+              },
+              "name": "futureValidity",
+              "reason": "valid undated item with active display window",
+              "score": 0.65,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "matchScore": 1.0,
+                "matchedLocation": "chennai",
+                "relevance": "primary",
+                "scope": "exactCity"
+              },
+              "name": "location",
+              "reason": "location matches configured profile",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "hasPlace": true,
+                "hasTime": true
+              },
+              "name": "actionability",
+              "reason": "item has enough action fields",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {},
+              "name": "offerValidity",
+              "reason": "not an offer",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "severe": false
+              },
+              "name": "alertUrgency",
+              "reason": "active alert",
+              "score": 0.78,
+              "status": "PASS"
+            }
+          ],
+          "id": "370f33b59cf33cd4",
+          "item": {
+            "actionabilityScore": 0.7,
+            "category": "alerts",
+            "city": "Chennai",
+            "contentClass": "upahead_alert",
+            "dateConfidence": "unknown",
+            "dateSource": "none",
+            "eventEndAt": null,
+            "eventStartAt": null,
+            "expiryAt": 1783280002000,
+            "id": "370f33b59cf33cd4",
+            "language": "en",
+            "lifecycle": {
+              "archiveUntil": 1783884802000,
+              "contentClass": "upahead_alert",
+              "displayUntil": 1783280002000,
+              "isActionValid": true,
+              "isVisible": true,
+              "plannerEligibleByLifecycle": true,
+              "plannerPastGraceHours": 6,
+              "retentionReason": "expiryAt",
+              "withinSevenDayHorizon": true
+            },
+            "localityScore": 1.0,
+            "normalizedCategory": "alerts",
+            "plannerEligible": true,
+            "publishedAt": 1783193602000,
+            "region": "tn",
+            "scoreBreakdown": {
+              "actionabilityScore": 1.0,
+              "categoryPriorityScore": 1.0,
+              "lifecycleScore": 0.65,
+              "locationScore": 1.0,
+              "plannerFitScore": 1.0,
+              "sourceConfidenceScore": 0.58,
+              "urgencyOrExpiryScore": 0.78
+            },
+            "source": "The Hindu Chennai",
+            "sourceGroup": "the_hindu",
+            "summary": "In September 2025, the Supreme Court had ruled that all teachers, except those with less than five years of service, must clear TET to continue in their jobs, with no exceptions even for promotion",
+            "suppressionReason": null,
+            "title": "Over 59,000 teachers take up TET exam across Tamil Nadu",
+            "url": "https://www.thehindu.com/news/cities/chennai/over-59000-teachers-take-up-tet-exam-across-tamil-nadu/article71182873.ece"
+          },
+          "locationKey": "chennai",
+          "rankingReasons": [
+            "alerts",
+            "valid undated item with active display window",
+            "location matches configured profile",
+            "planner advisory fit"
+          ],
+          "score": 0.8485,
+          "title": "Over 59,000 teachers take up TET exam across Tamil Nadu"
         },
         {
           "category": "alerts",
@@ -4903,121 +5035,6 @@
           ],
           "score": 0.8485,
           "title": "T.N. Governor inaugurates two-day conference on intraocular implant and refractive surgery"
-        },
-        {
-          "category": "alerts",
-          "gates": [
-            {
-              "details": {
-                "dedupKey": "97797247e3fddf7e"
-              },
-              "name": "dedup",
-              "reason": "unique item",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "displayUntil": 1783273593000
-              },
-              "name": "futureValidity",
-              "reason": "valid undated item with active display window",
-              "score": 0.65,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "matchScore": 1.0,
-                "matchedLocation": "chennai",
-                "relevance": "primary",
-                "scope": "exactCity"
-              },
-              "name": "location",
-              "reason": "location matches configured profile",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "hasPlace": true,
-                "hasTime": true
-              },
-              "name": "actionability",
-              "reason": "item has enough action fields",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "offerValidity",
-              "reason": "not an offer",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "severe": false
-              },
-              "name": "alertUrgency",
-              "reason": "active alert",
-              "score": 0.78,
-              "status": "PASS"
-            }
-          ],
-          "id": "dc718854f219141b",
-          "item": {
-            "actionabilityScore": 0.5,
-            "category": "alerts",
-            "city": "Chennai",
-            "contentClass": "upahead_alert",
-            "dateConfidence": "unknown",
-            "dateSource": "none",
-            "eventEndAt": null,
-            "eventStartAt": null,
-            "expiryAt": 1783273593000,
-            "id": "dc718854f219141b",
-            "language": "en",
-            "lifecycle": {
-              "archiveUntil": 1783878393000,
-              "contentClass": "upahead_alert",
-              "displayUntil": 1783273593000,
-              "isActionValid": true,
-              "isVisible": true,
-              "plannerEligibleByLifecycle": true,
-              "plannerPastGraceHours": 6,
-              "retentionReason": "expiryAt",
-              "withinSevenDayHorizon": true
-            },
-            "localityScore": 1.0,
-            "normalizedCategory": "alerts",
-            "plannerEligible": true,
-            "publishedAt": 1783187193000,
-            "region": "tn",
-            "scoreBreakdown": {
-              "actionabilityScore": 1.0,
-              "categoryPriorityScore": 1.0,
-              "lifecycleScore": 0.65,
-              "locationScore": 1.0,
-              "plannerFitScore": 1.0,
-              "sourceConfidenceScore": 0.58,
-              "urgencyOrExpiryScore": 0.78
-            },
-            "source": "The Hindu Chennai",
-            "sourceGroup": "the_hindu",
-            "summary": "The Parandur airport project was not part of the review as it will be discussed at a separate meeting, sources say",
-            "suppressionReason": null,
-            "title": "Tamil Nadu government holds review on Chennai airport’s capacity and proposed satellite terminal project",
-            "url": "https://www.thehindu.com/news/cities/chennai/tamil-nadu-government-holds-review-on-chennai-airports-capacity-and-proposed-satellite-terminal-project/article71183377.ece"
-          },
-          "locationKey": "chennai",
-          "rankingReasons": [
-            "alerts",
-            "valid undated item with active display window",
-            "location matches configured profile",
-            "planner advisory fit"
-          ],
-          "score": 0.8485,
-          "title": "Tamil Nadu government holds review on Chennai airport’s capacity and proposed satellite terminal project"
         }
       ],
       "rankingProfile": "upAhead-v2-lifecycle-location-category",
@@ -5032,7 +5049,7 @@
       }
     }
   },
-  "generatedAt": 1783210015345,
+  "generatedAt": 1783230280357,
   "implementedDestinations": [
     "upAhead",
     "buzz",
@@ -5051,7 +5068,7 @@
   "schemaVersion": 1,
   "summary": {
     "actionRequired": [
-      "13 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "19 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no active offer items in ranked Up Ahead set",
       "no ranked Up Ahead item for muscat",
       "ranked Up Ahead set is category-dominated",
@@ -5066,7 +5083,7 @@
     ],
     "destinationScores": {
       "buzz": 0.0,
-      "insight": 0.3833,
+      "insight": 0.3951,
       "localTravel": 0.0,
       "upAhead": 0.8586
     },
@@ -5076,7 +5093,7 @@
       "localTravel": "FAIL",
       "upAhead": "WARN"
     },
-    "overallScore": 0.3105,
+    "overallScore": 0.3134,
     "overallStatus": "FAIL",
     "rankingProfiles": {
       "buzz": "buzz-v2-trend-local-travel",
@@ -5085,19 +5102,26 @@
       "upAhead": "upAhead-v2-lifecycle-location-category"
     },
     "topFindings": [
+      "Still using traditional door locks? These smart lock deals are worth checking before Amazon Prime Day Sale ends - livemint.com: location failed — offline/local item lacks configured location match",
+      "We’re Updating The 80+ Best 4th Of July Sales As New Deals Drop - Forbes: location failed — offline/local item lacks configured location match",
       "Diljit Dosanjh wondered if Satluj would ever release; says Jaswant Singh Khalra's voice was suppressed twice: location failed — offline/local item lacks configured location match",
       "Huma Qureshi says she doesn't look at Alia Bhatt, Sharvari's Alpha as competition amid clash with her Baby Do Die Do: location failed — offline/local item lacks configured location match",
       "Ajay Devgn's Dhamaal 4 cleared by CBFC; 'obscene' gestures and words modified before release: location failed — offline/local item lacks configured location match",
       "Best smartphone deals under 15000 rupees during Amazon Prime Day Sale 2026 - Sportskeeda Tech: location failed — offline/local item lacks configured location match",
       "Amazon Prime Day Sale 2026: Best smartphone deals you shouldn't miss - Udayavani: location failed — offline/local item lacks configured location match",
+      "Hobby groups decry Nageswara Rao Park’s makeover: futureValidity failed — expired display window",
+      "Hobby groups decry Nageswara Rao Park’s makeover: alertUrgency failed — alert expired",
+      "The hidden cost of Chennai’s data centre boom: Can the city afford AI’s water and power hunger? - Down To Earth: futureValidity failed — expired display window",
+      "The hidden cost of Chennai’s data centre boom: Can the city afford AI’s water and power hunger? - Down To Earth: alertUrgency failed — alert expired",
+      "An online petition to save Nageswara Rao park: futureValidity failed — expired display window",
+      "An online petition to save Nageswara Rao park: alertUrgency failed — alert expired",
       "These 31+ Amazon July 4th deals feel like Prime Day just got extended - NBC News: location failed — offline/local item lacks configured location match",
       "Amazon Prime Day Mobile Offers 2026: Best Deals on OnePlus, Nothing and More - Gadgets 360: location failed — offline/local item lacks configured location match",
       "Best tablets under 20000 rupees during Amazon Prime Day Sale 2026 - Sportskeeda Tech: location failed — offline/local item lacks configured location match",
       "Star Air Launches Monsoon Sale with Fares from ₹1,799 - safariindia.com: location failed — offline/local item lacks configured location match",
       "Amazon Prime Day 2026: Best Deals on Smartphones Under Rs. 30,000 - Gadgets 360: location failed — offline/local item lacks configured location match",
       "Hisense India Announces Up to 40% Discounts on TVs and Air Conditioners During Amazon Prime Day and Flipkart GOAT Sale - Business Standard: location failed — offline/local item lacks configured location match",
-      "Amazon Prime Day 2026 Prime Membership Plans: Benefits, Prices and Which Plan is Right for You - News18: location failed — offline/local item lacks configured location match",
-      "New OTT Releases this week (June 29-July 5, 2026): Enola Holmes Season 3, Pritam and Pedro, Elle- 6 new titles coming on Netflix, Prime Video and more - WION: location failed — offline/local item lacks configured location match"
+      "World Chocolate Day 2026: Best Amazon India Deals on Ferrero Rocher, Toblerone, Lindt and More (July 1 to 7) - Gogi Tech: futureValidity failed — expired display window"
     ]
   }
 }
