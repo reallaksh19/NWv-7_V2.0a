@@ -1,33 +1,8 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1783275289511,
-  "contentHash": "3d9394b1b37a",
+  "fetchedAt": 1783280595518,
+  "contentHash": "16c5180ac101",
   "breaking": [
-    {
-      "title": "‘Very dangerous’ Super Typhoon barrels towards US Pacific islands with 280 kmph winds",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132197004.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Super Typhoon Bavi, a storm of Category 5 hurricane strength, is bearing down on Guam and the Northern Mariana Islands, triggering emergency evacuations. Destructive winds up to 280 km/h and torrential rain are already lashing the US Pacific territories. Authorities warn of catastrophic damage, with many structures potentially becoming uninhabitable for weeks. Residents are urged to seek shelter as the powerful typhoon approaches.",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/us/very-dangerous-super-typhoon-bavi-barrels-towards-us-pacific-islands-with-280-kmph-winds/articleshow/132197004.cms",
-      "publishedAt": 1783260929000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "3e10f987e3e66718",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.668,
-      "breakingReasons": [
-        "multi_source_velocity",
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "the_hindu",
-        "times_of_india"
-      ],
-      "firstSeen": 1783259705000
-    },
     {
       "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
       "summary": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
@@ -41,32 +16,57 @@
       "id": "2f65f8fc2ccc5439",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.477,
+      "breakingScore": 7.354,
       "breakingReasons": [
+        "multi_source_velocity",
         "severity_lexicon"
       ],
-      "sourceCount": 3,
+      "sourceCount": 2,
       "allSources": [
         "bbc",
+        "the_hindu"
+      ],
+      "firstSeen": 1783271332000
+    },
+    {
+      "title": "‘Very dangerous’ Super Typhoon barrels towards US Pacific islands with 280 kmph winds",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132197004.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Super Typhoon Bavi, a storm of Category 5 hurricane strength, is bearing down on Guam and the Northern Mariana Islands, triggering emergency evacuations. Destructive winds up to 280 km/h and torrential rain are already lashing the US Pacific territories. Authorities warn of catastrophic damage, with many structures potentially becoming uninhabitable for weeks. Residents are urged to seek shelter as the powerful typhoon approaches.",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/us/very-dangerous-super-typhoon-bavi-barrels-towards-us-pacific-islands-with-280-kmph-winds/articleshow/132197004.cms",
+      "publishedAt": 1783260929000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "3e10f987e3e66718",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.545,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
         "the_hindu",
         "times_of_india"
       ],
-      "firstSeen": 1783236103000
+      "firstSeen": 1783259705000
     },
     {
       "title": "2 Women Injured As Tree Crashes Down In Mumbai, Third Collapse In 6 Days",
       "summary": "Many locals believe poor pruning was behind the collapse.",
-      "source": "NDTV",
+      "source": "NDTV India",
       "sourceGroup": "ndtv",
       "url": "https://www.ndtv.com/india-news/2-women-injured-as-tree-crashes-down-in-mumbai-third-collapse-in-6-days-11730441#publisher=newsstand",
       "publishedAt": 1783262411000,
-      "category": "topStories",
+      "category": "india",
       "region": "in",
       "language": "en",
       "id": "ba7939a2221ca527",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.202,
+      "breakingScore": 5.079,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -75,6 +75,31 @@
         "ndtv"
       ],
       "firstSeen": 1783262411000
+    },
+    {
+      "title": "Seaplane carrying 8 crashes into New York's East River, all rescued - video",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132202617.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />A seaplane carrying eight people crashed into New York City's East River on Sunday, prompting a swift emergency response.  All passengers were rescued by the FDNY, with two sustaining minor injuries. The aircraft, which partially capsized after a hard landing, was later righted and towed. Authorities are investigating the incident, which follows a similar seaplane rescue last month.",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/us/seaplane-carrying-8-crashes-into-new-yorks-east-river-all-rescued-video/articleshow/132202617.cms",
+      "publishedAt": 1783279441000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "c3f574c525cee0b8",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 4.473,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "times_of_india"
+      ],
+      "firstSeen": 1783276523000
     },
     {
       "title": "The real reason behind Taylor Swift and Travis Kelce's 'no-gift' wedding policy and why more couples are doing the same",
@@ -89,7 +114,7 @@
       "id": "10b8a0f20971962b",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.398,
+      "breakingScore": 4.275,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -102,44 +127,19 @@
       "firstSeen": 1783266500000
     },
     {
-      "title": "Boy, 11, To Face Trial For Shopping Plaza Fire Which Killed 72 In Pakistan",
-      "summary": "The inferno gutted the Gul Plaza shopping plaza on Karachi's famous M A Jinnah Road",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/boy-11-to-face-trial-for-shopping-plaza-fire-which-killed-72-in-pakistan-11730263#publisher=newsstand",
-      "publishedAt": 1783258849000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "9c9b2ec9c6d14b71",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 4.119,
-      "breakingReasons": [
-        "multi_source_velocity",
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "times_of_india"
-      ],
-      "firstSeen": 1783254634000
-    },
-    {
       "title": "Six persons arrested for assaulting man at Tiruvannamalai GH",
       "summary": "The police said when the ambulance halted at the hospital, the gang dragged an injured Silambarasan from the vehicle and beat him before police rescued him",
-      "source": "The Hindu",
+      "source": "The Hindu National",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/six-persons-arrested-for-assaulting-man-at-tiruvannamalai-gh/article71186162.ece",
       "publishedAt": 1783274910000,
-      "category": "topStories",
+      "category": "india",
       "region": "in",
       "language": "en",
       "id": "63304798d34e4c91",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.991,
+      "breakingScore": 3.868,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -150,28 +150,27 @@
       "firstSeen": 1783274910000
     },
     {
-      "title": "Heavy Mumbai rains: Three dead, four injured as rain disrupts life in Maharashtra",
-      "summary": "Flight operations affected for an hour at Mumbai airport; holiday declared for schools and colleges in Mumbai and Thane on July 5",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/heavy-mumbai-rains-airport-runway-operations-halted-updates-on-july-5-2026/article71185894.ece",
-      "publishedAt": 1783274260000,
-      "category": "topStories",
+      "title": "6, Including 4 Women, Killed After Chawl Collapses In Mumbai Amid Heavy Rain",
+      "summary": "The exact cause of the collapse is yet to be ascertained.",
+      "source": "NDTV India",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/6-including-4-women-killed-after-chawl-collapses-in-mumbai-amid-heavy-rain-11730992#publisher=newsstand",
+      "publishedAt": 1783274320000,
+      "category": "india",
       "region": "in",
       "language": "en",
-      "id": "5a7a3f4cfa500ed5",
+      "id": "43d7a884bd6f9e5f",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.976,
+      "breakingScore": 3.855,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "ndtv",
-        "the_hindu"
+        "ndtv"
       ],
-      "firstSeen": 1783268850000
+      "firstSeen": 1783272331000
     },
     {
       "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
@@ -186,7 +185,7 @@
       "id": "861f4f22adebb8f6",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.939,
+      "breakingScore": 3.816,
       "breakingReasons": [
         "severity_lexicon"
       ],
