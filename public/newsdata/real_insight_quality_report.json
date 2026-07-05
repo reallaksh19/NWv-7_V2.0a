@@ -1,20 +1,20 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1783250392575,
-  "contentHash": "722bca25b3e2043c",
+  "generatedAt": 1783263612832,
+  "contentHash": "3f5af0a2d45f8933",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 454,
+  "storyCount": 493,
   "sourceGroupCount": 9,
   "grade": "D",
   "parentCount": 10,
-  "avgAngles": 1.2,
-  "avgTemporalTiers": 1.3,
-  "avgEvolutionRoles": 1.5,
-  "baseReportShare": 0.4,
-  "multiAngleCount": 2,
-  "weakParentCount": 8,
+  "avgAngles": 1.5,
+  "avgTemporalTiers": 1.5,
+  "avgEvolutionRoles": 1.7,
+  "baseReportShare": 0.3157894736842105,
+  "multiAngleCount": 5,
+  "weakParentCount": 5,
   "runtimeQualityGate": {
     "attempted": true,
     "recovered": false,
@@ -23,55 +23,55 @@
       "grade": "D",
       "tone": "danger",
       "title": "Weak insight signal",
-      "signalScore": 23,
+      "signalScore": 41,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 402,
+      "storyCount": 432,
       "risingCount": 0,
-      "thinCount": 8,
-      "multiAngleCount": 2,
-      "lowAngleCount": 8,
+      "thinCount": 5,
+      "multiAngleCount": 5,
+      "lowAngleCount": 5,
       "strongAngleCount": 0,
-      "avgAngles": 1.2,
-      "avgChildren": 1.5,
-      "avgScore": 0.6576142527176578,
-      "sourceDiversityCoverage": 5,
-      "snapshotCoverage": 3,
-      "coverageLabel": "2/10",
+      "avgAngles": 1.5,
+      "avgChildren": 1.9,
+      "avgScore": 0.6277943540883244,
+      "sourceDiversityCoverage": 7,
+      "snapshotCoverage": 5,
+      "coverageLabel": "5/10",
       "warnings": [
-        "8 cluster(s) have fewer than two visible child angles.",
+        "5 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "5 cluster(s) are below source-diversity target.",
-        "7 cluster(s) have weak snapshot coverage.",
-        "8 cluster(s) are marked thin.",
-        "520 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "3 cluster(s) are below source-diversity target.",
+        "5 cluster(s) have weak snapshot coverage.",
+        "5 cluster(s) are marked thin.",
+        "610 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "D",
       "tone": "danger",
       "title": "Weak insight signal",
-      "signalScore": 23,
+      "signalScore": 41,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 402,
+      "storyCount": 432,
       "risingCount": 0,
-      "thinCount": 8,
-      "multiAngleCount": 2,
-      "lowAngleCount": 8,
+      "thinCount": 5,
+      "multiAngleCount": 5,
+      "lowAngleCount": 5,
       "strongAngleCount": 0,
-      "avgAngles": 1.2,
-      "avgChildren": 1.5,
-      "avgScore": 0.6576142527176578,
-      "sourceDiversityCoverage": 5,
-      "snapshotCoverage": 3,
-      "coverageLabel": "2/10",
+      "avgAngles": 1.5,
+      "avgChildren": 1.9,
+      "avgScore": 0.6277943540883244,
+      "sourceDiversityCoverage": 7,
+      "snapshotCoverage": 5,
+      "coverageLabel": "5/10",
       "warnings": [
-        "8 cluster(s) have fewer than two visible child angles.",
+        "5 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "5 cluster(s) are below source-diversity target.",
-        "7 cluster(s) have weak snapshot coverage.",
-        "8 cluster(s) are marked thin."
+        "3 cluster(s) are below source-diversity target.",
+        "5 cluster(s) have weak snapshot coverage.",
+        "5 cluster(s) are marked thin."
       ]
     },
     "recoveryConfig": {
@@ -85,7 +85,48 @@
   },
   "parents": [
     {
-      "parentId": "cluster_158_b4eddbb43b5d9adc",
+      "parentId": "cluster_26_2f65f8fc2ccc5439",
+      "headline": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+      "score": 0.6165916683316486,
+      "postTreeScore": 1.0566,
+      "childCount": 3,
+      "angles": [
+        "fact_update",
+        "official_response"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "analysis"
+      ],
+      "evolutionRoles": [
+        "fact_update"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_76_dd4a2f1740b7fb68",
+      "headline": "How Washington DC marked America 250",
+      "score": 0.6732467197849983,
+      "postTreeScore": 1.0532,
+      "childCount": 2,
+      "angles": [
+        "base_report",
+        "market_reaction"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "reaction"
+      ],
+      "evolutionRoles": [
+        "first_report",
+        "corroboration"
+      ],
+      "baseReportShare": 0.5,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_194_b4eddbb43b5d9adc",
       "headline": "Ninth edition of The Hindu Home Expo commences at LuLu Mall",
       "score": 0.6265800531183316,
       "postTreeScore": 1.0066,
@@ -106,48 +147,50 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_44_dd4a2f1740b7fb68",
-      "headline": "How Washington DC marked America 250",
-      "score": 0.6052599999999999,
-      "postTreeScore": 1.0053,
-      "childCount": 2,
+      "parentId": "cluster_22_72584d611c95d52c",
+      "headline": "British military says cargo ship reports being under attack in Red Sea off coast of Yemen",
+      "score": 0.5545916683316485,
+      "postTreeScore": 0.9746,
+      "childCount": 3,
       "angles": [
-        "base_report",
-        "market_reaction"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "reaction"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "corroboration"
-      ],
-      "baseReportShare": 0.5,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_356_80fbcc9ba2ed3be9",
-      "headline": "Taylor Swift, Travis Kelce are married in elaborate Madison Square Garden ceremony",
-      "score": 0.6385800531183317,
-      "postTreeScore": 0.5286,
-      "childCount": 2,
-      "angles": [
+        "official_response",
         "fact_update"
       ],
       "temporalTiers": [
-        "breaking",
-        "developing"
+        "established",
+        "developing",
+        "breaking"
       ],
       "evolutionRoles": [
-        "fact_update",
-        "official_response"
+        "corroboration",
+        "official_response",
+        "investigation"
       ],
       "baseReportShare": 0,
-      "weakTree": true
+      "weakTree": false
     },
     {
-      "parentId": "cluster_74_436508566c5b8117",
+      "parentId": "cluster_16_3e10f987e3e66718",
+      "headline": "‘Very dangerous’ Super Typhoon barrels towards US Pacific islands with 280 kmph winds",
+      "score": 0.5465933333333333,
+      "postTreeScore": 0.9466,
+      "childCount": 2,
+      "angles": [
+        "regional_followup",
+        "official_response"
+      ],
+      "temporalTiers": [
+        "breaking"
+      ],
+      "evolutionRoles": [
+        "first_report",
+        "public_reaction"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_108_436508566c5b8117",
       "headline": "Performer calls for Trump's death at funeral for Iran's late supreme leader",
       "score": 0.5636732802150018,
       "postTreeScore": 0.4737,
@@ -166,7 +209,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_72_6ae2bf2c6cb66d49",
+      "parentId": "cluster_106_6ae2bf2c6cb66d49",
       "headline": "'We are heroic people with heroic spirit': Donald Trump marks America's 250th Independence Day",
       "score": 0.5285933333333332,
       "postTreeScore": 0.4386,
@@ -185,7 +228,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_312_87d19d24340b43ce",
+      "parentId": "cluster_349_87d19d24340b43ce",
       "headline": "10 crore mutual fund investors, Rs 150 lakh crore AUM: Inside AMFI's massive 2030 roadmap",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
@@ -203,7 +246,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_318_20c30fcff5bbb2ec",
+      "parentId": "cluster_355_20c30fcff5bbb2ec",
       "headline": "Yes Bank Q1 business update: Advances rise 18% to Rs 2.85 lakh crore, deposits up 14%",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
@@ -221,49 +264,13 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_330_fb02c7c8fdc92b7b",
+      "parentId": "cluster_366_fb02c7c8fdc92b7b",
       "headline": "SBI Funds Management seeks Rs 2,000 crore in pre-IPO round",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
       "childCount": 1,
       "angles": [
         "market_reaction"
-      ],
-      "temporalTiers": [
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "fact_update"
-      ],
-      "baseReportShare": 0,
-      "weakTree": true
-    },
-    {
-      "parentId": "cluster_332_8105286e2002799a",
-      "headline": "On Bond Street, falling yields spur a Rs 17,000-crore fundraise",
-      "score": 0.7226911614783158,
-      "postTreeScore": 0.4227,
-      "childCount": 1,
-      "angles": [
-        "fact_update"
-      ],
-      "temporalTiers": [
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "fact_update"
-      ],
-      "baseReportShare": 0,
-      "weakTree": true
-    },
-    {
-      "parentId": "cluster_335_e57a61fc03d21fa9",
-      "headline": "Inspira seals Rs 1,800-crore private credit for Burger King buy in India",
-      "score": 0.7226911614783158,
-      "postTreeScore": 0.4227,
-      "childCount": 1,
-      "angles": [
-        "fact_update"
       ],
       "temporalTiers": [
         "breaking"
@@ -283,7 +290,7 @@
     "status": "FAIL",
     "gateVersion": "real-insight-snapshot-ratchet-v1",
     "grade": "D",
-    "score": 0,
+    "score": 52,
     "passed": [
       {
         "id": "parent-count",
@@ -292,15 +299,27 @@
         "required": ">= 3"
       },
       {
+        "id": "avg-angle-count",
+        "label": "Average visible angle count",
+        "actual": 1.5,
+        "required": ">= 1.4"
+      },
+      {
+        "id": "avg-evolution-role-count",
+        "label": "Average evolution role count",
+        "actual": 1.7,
+        "required": ">= 1.6"
+      },
+      {
         "id": "base-report-share",
         "label": "Base report share",
-        "actual": 0.4,
+        "actual": 0.316,
         "required": "<= 0.55"
       },
       {
         "id": "multi-angle-parent-count",
         "label": "Multi-angle parent count",
-        "actual": 2,
+        "actual": 5,
         "required": ">= 1"
       },
       {
@@ -312,8 +331,14 @@
       {
         "id": "top-parent-child-depth",
         "label": "Top parent child depth",
-        "actual": 2,
+        "actual": 3,
         "required": ">= 2"
+      },
+      {
+        "id": "weak-parent-ratio",
+        "label": "Weak parent ratio",
+        "actual": 0.5,
+        "required": "<= 0.5"
       }
     ],
     "failed": [
@@ -326,50 +351,26 @@
         "fix": "Do not accept D/F real snapshot output. Improve child selection, parent rerank, or data intake."
       },
       {
-        "id": "avg-angle-count",
-        "label": "Average visible angle count",
-        "actual": 1.2,
-        "required": ">= 1.4",
-        "severity": "fail",
-        "fix": "Angle-diverse child selection is not strong enough on real data."
-      },
-      {
         "id": "avg-temporal-tier-count",
         "label": "Average temporal tier count",
-        "actual": 1.3,
+        "actual": 1.5,
         "required": ">= 1.8",
         "severity": "fail",
         "fix": "C+E output should cover multiple event-time tiers, not only source buckets."
-      },
-      {
-        "id": "avg-evolution-role-count",
-        "label": "Average evolution role count",
-        "actual": 1.5,
-        "required": ">= 1.6",
-        "severity": "fail",
-        "fix": "C+E output should include distinct event evolution roles."
-      },
-      {
-        "id": "weak-parent-ratio",
-        "label": "Weak parent ratio",
-        "actual": 0.8,
-        "required": "<= 0.5",
-        "severity": "warn",
-        "fix": "Too many weak trees remain. Repair or demote weak trees after diversity repair."
       }
     ],
     "summary": {
       "parentCount": 10,
-      "avgAngles": 1.2,
-      "avgTemporalTiers": 1.3,
-      "avgEvolutionRoles": 1.5,
-      "baseReportShare": 0.4,
-      "multiAngleCount": 2,
-      "weakParentCount": 8,
-      "weakParentRatio": 0.8,
+      "avgAngles": 1.5,
+      "avgTemporalTiers": 1.5,
+      "avgEvolutionRoles": 1.7,
+      "baseReportShare": 0.316,
+      "multiAngleCount": 5,
+      "weakParentCount": 5,
+      "weakParentRatio": 0.5,
       "topParentAngles": 2,
-      "topParentChildren": 2,
-      "storyCount": 454,
+      "topParentChildren": 3,
+      "storyCount": 493,
       "sourceGroupCount": 9
     }
   }
