@@ -1,18 +1,18 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1783349100374,
-  "contentHash": "63243b641bba6687",
+  "generatedAt": 1783360153798,
+  "contentHash": "545ccf300cda83d3",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 540,
-  "sourceGroupCount": 9,
+  "storyCount": 586,
+  "sourceGroupCount": 10,
   "grade": "D",
   "parentCount": 10,
   "avgAngles": 1.4,
   "avgTemporalTiers": 1.4,
-  "avgEvolutionRoles": 1.7,
-  "baseReportShare": 0.2777777777777778,
+  "avgEvolutionRoles": 1.5,
+  "baseReportShare": 0.0625,
   "multiAngleCount": 4,
   "weakParentCount": 6,
   "runtimeQualityGate": {
@@ -23,53 +23,53 @@
       "grade": "D",
       "tone": "danger",
       "title": "Weak insight signal",
-      "signalScore": 37,
+      "signalScore": 33,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 496,
+      "storyCount": 537,
       "risingCount": 1,
       "thinCount": 6,
       "multiAngleCount": 4,
       "lowAngleCount": 6,
       "strongAngleCount": 0,
       "avgAngles": 1.4,
-      "avgChildren": 1.8,
-      "avgScore": 0.6556209045134876,
-      "sourceDiversityCoverage": 7,
+      "avgChildren": 1.6,
+      "avgScore": 0.6753351314973177,
+      "sourceDiversityCoverage": 5,
       "snapshotCoverage": 2,
       "coverageLabel": "4/10",
       "warnings": [
         "6 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "3 cluster(s) are below source-diversity target.",
+        "5 cluster(s) are below source-diversity target.",
         "8 cluster(s) have weak snapshot coverage.",
         "6 cluster(s) are marked thin.",
-        "440 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "490 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "D",
       "tone": "danger",
       "title": "Weak insight signal",
-      "signalScore": 37,
+      "signalScore": 33,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 496,
+      "storyCount": 537,
       "risingCount": 1,
       "thinCount": 6,
       "multiAngleCount": 4,
       "lowAngleCount": 6,
       "strongAngleCount": 0,
       "avgAngles": 1.4,
-      "avgChildren": 1.8,
-      "avgScore": 0.6556209045134876,
-      "sourceDiversityCoverage": 7,
+      "avgChildren": 1.6,
+      "avgScore": 0.6753351314973177,
+      "sourceDiversityCoverage": 5,
       "snapshotCoverage": 2,
       "coverageLabel": "4/10",
       "warnings": [
         "6 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "3 cluster(s) are below source-diversity target.",
+        "5 cluster(s) are below source-diversity target.",
         "8 cluster(s) have weak snapshot coverage.",
         "6 cluster(s) are marked thin."
       ]
@@ -85,7 +85,7 @@
   },
   "parents": [
     {
-      "parentId": "cluster_359_72584d611c95d52c",
+      "parentId": "cluster_428_72584d611c95d52c",
       "headline": "British military says cargo ship reports being under attack in Red Sea off coast of Yemen",
       "score": 0.6425487346782661,
       "postTreeScore": 1.0425,
@@ -108,7 +108,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_363_2f65f8fc2ccc5439",
+      "parentId": "cluster_432_2f65f8fc2ccc5439",
       "headline": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
       "score": 0.6522467197849984,
       "postTreeScore": 1.0322,
@@ -128,7 +128,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_130_a986719f44b9d59d",
+      "parentId": "cluster_196_a986719f44b9d59d",
       "headline": "After a century, forgotten Punjabi soldiers finally recognised for WWI sacrifice",
       "score": 0.6052599999999999,
       "postTreeScore": 1.0053,
@@ -149,7 +149,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_352_3e10f987e3e66718",
+      "parentId": "cluster_421_3e10f987e3e66718",
       "headline": "‘Very dangerous’ Super Typhoon barrels towards US Pacific islands with 280 kmph winds",
       "score": 0.6225800531183316,
       "postTreeScore": 1.0026,
@@ -169,48 +169,10 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_455_436508566c5b8117",
-      "headline": "Performer calls for Trump's death at funeral for Iran's late supreme leader",
-      "score": 0.6636467197849983,
-      "postTreeScore": 0.5536,
-      "childCount": 2,
-      "angles": [
-        "base_report"
-      ],
-      "temporalTiers": [
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "corroboration"
-      ],
-      "baseReportShare": 1,
-      "weakTree": true
-    },
-    {
-      "parentId": "cluster_453_6ae2bf2c6cb66d49",
-      "headline": "'We are heroic people with heroic spirit': Donald Trump marks America's 250th Independence Day",
-      "score": 0.6165800531183316,
-      "postTreeScore": 0.5066,
-      "childCount": 2,
-      "angles": [
-        "base_report"
-      ],
-      "temporalTiers": [
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "corroboration"
-      ],
-      "baseReportShare": 1,
-      "weakTree": true
-    },
-    {
-      "parentId": "cluster_201_0bdb590e0aab2e65",
+      "parentId": "cluster_268_0bdb590e0aab2e65",
       "headline": "Six killed in Mumbai as rains wreak havoc, disrupt travel",
-      "score": 0.5852732802150018,
-      "postTreeScore": 0.4953,
+      "score": 0.6172599999999999,
+      "postTreeScore": 0.5273,
       "childCount": 2,
       "angles": [
         "fact_update"
@@ -226,7 +188,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_48_1838546823aff100",
+      "parentId": "cluster_114_1838546823aff100",
       "headline": "Prestige Estates buys 50% stake in Advent Convention and Hotels International for Rs 504 crore",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
@@ -244,7 +206,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_77_9c5e22be94d2e340",
+      "parentId": "cluster_143_9c5e22be94d2e340",
       "headline": "EasyJet shares rally 10% on potential $7.3 billion acquisition by Castlelake",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
@@ -262,8 +224,44 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_207_689709a748e0bb2a",
+      "parentId": "cluster_176_6e67badedcf46b63",
+      "headline": "Prestige Estates acquires 50% stake in Mumbai commercial project for Rs 504 crore",
+      "score": 0.7226911614783158,
+      "postTreeScore": 0.4227,
+      "childCount": 1,
+      "angles": [
+        "fact_update"
+      ],
+      "temporalTiers": [
+        "breaking"
+      ],
+      "evolutionRoles": [
+        "fact_update"
+      ],
+      "baseReportShare": 0,
+      "weakTree": true
+    },
+    {
+      "parentId": "cluster_274_689709a748e0bb2a",
       "headline": "Senco Gold shares soar 6% as Q1 business update highlights 60% revenue growth",
+      "score": 0.7226911614783158,
+      "postTreeScore": 0.4227,
+      "childCount": 1,
+      "angles": [
+        "fact_update"
+      ],
+      "temporalTiers": [
+        "breaking"
+      ],
+      "evolutionRoles": [
+        "fact_update"
+      ],
+      "baseReportShare": 0,
+      "weakTree": true
+    },
+    {
+      "parentId": "cluster_277_ccb0f9138377da63",
+      "headline": "Shakti Pumps shares surge 8% on Rs 354 crore solar pump order from MSEDCL",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
       "childCount": 1,
@@ -288,7 +286,7 @@
     "status": "FAIL",
     "gateVersion": "real-insight-snapshot-ratchet-v1",
     "grade": "D",
-    "score": 42,
+    "score": 18,
     "passed": [
       {
         "id": "parent-count",
@@ -303,15 +301,9 @@
         "required": ">= 1.4"
       },
       {
-        "id": "avg-evolution-role-count",
-        "label": "Average evolution role count",
-        "actual": 1.7,
-        "required": ">= 1.6"
-      },
-      {
         "id": "base-report-share",
         "label": "Base report share",
-        "actual": 0.278,
+        "actual": 0.063,
         "required": "<= 0.55"
       },
       {
@@ -351,6 +343,14 @@
         "fix": "C+E output should cover multiple event-time tiers, not only source buckets."
       },
       {
+        "id": "avg-evolution-role-count",
+        "label": "Average evolution role count",
+        "actual": 1.5,
+        "required": ">= 1.6",
+        "severity": "fail",
+        "fix": "C+E output should include distinct event evolution roles."
+      },
+      {
         "id": "weak-parent-ratio",
         "label": "Weak parent ratio",
         "actual": 0.6,
@@ -363,15 +363,15 @@
       "parentCount": 10,
       "avgAngles": 1.4,
       "avgTemporalTiers": 1.4,
-      "avgEvolutionRoles": 1.7,
-      "baseReportShare": 0.278,
+      "avgEvolutionRoles": 1.5,
+      "baseReportShare": 0.063,
       "multiAngleCount": 4,
       "weakParentCount": 6,
       "weakParentRatio": 0.6,
       "topParentAngles": 2,
       "topParentChildren": 3,
-      "storyCount": 540,
-      "sourceGroupCount": 9
+      "storyCount": 586,
+      "sourceGroupCount": 10
     }
   }
 }
