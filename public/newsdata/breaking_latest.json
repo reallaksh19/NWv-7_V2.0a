@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1783358065543,
-  "contentHash": "cc2f874268f6",
+  "fetchedAt": 1783364774856,
+  "contentHash": "cf6eb3730f83",
   "breaking": [
     {
       "title": "At least 26 killed in deadly prison riots in Sri Lanka’s Negombo",
@@ -16,7 +16,7 @@
       "id": "90530bb4ef21dc5f",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 7.281,
+      "breakingScore": 7.126,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -41,7 +41,7 @@
       "id": "d04b28e361adb692",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.827,
+      "breakingScore": 6.672,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -64,7 +64,7 @@
       "id": "a7b6aa800fdd8049",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.161,
+      "breakingScore": 5.005,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -73,79 +73,6 @@
         "the_hindu"
       ],
       "firstSeen": 1783343400000
-    },
-    {
-      "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
-      "summary": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1783339664000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "e0c0497e698053af",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 4.074,
-      "breakingReasons": [
-        "multi_source_velocity",
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "the_hindu"
-      ],
-      "firstSeen": 1783338514000
-    },
-    {
-      "title": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran for supreme leader's funeral",
-      "summary": "Huge crowds have lined the streets of Tehran for the funeral procession of Iran's late supreme leader, Ayatollah Ali Khamenei.",
-      "source": "BBC",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1783355024000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "b33980836d9e84a0",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.93,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 3,
-      "allSources": [
-        "bbc",
-        "the_hindu",
-        "times_of_india"
-      ],
-      "firstSeen": 1783351217000
-    },
-    {
-      "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
-      "summary": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1783351589000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "861f4f22adebb8f6",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.85,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1783351589000
     },
     {
       "title": "Wildfire in southern France forces evacuation of 10,000 people",
@@ -160,7 +87,7 @@
       "id": "dce80f317fd442f4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.658,
+      "breakingScore": 3.503,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -171,19 +98,67 @@
       "firstSeen": 1783343303000
     },
     {
-      "title": "Thousands evacuated from homes in southwest France as wildfire burns",
-      "summary": "The fire has scorched some 4,600 hectares ⁠in the foothills of the French Pyrenees, local prefect Pierre Regnault de la Mothe said in a post on X",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/thousands-evacuated-from-homes-in-southwest-france-as-wildfire-burns/article71189003.ece",
-      "publishedAt": 1783336491000,
+      "title": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran for supreme leader's funeral",
+      "summary": "Huge crowds have lined the streets of Tehran for the funeral procession of Iran's late supreme leader, Ayatollah Ali Khamenei.",
+      "source": "BBC",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1783355024000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "ccdd920b103817b0",
+      "id": "b33980836d9e84a0",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.501,
+      "breakingScore": 2.774,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "times_of_india"
+      ],
+      "firstSeen": 1783351217000
+    },
+    {
+      "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
+      "summary": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1783363844000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "e0c0497e698053af",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.478,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "the_hindu"
+      ],
+      "firstSeen": 1783338514000
+    },
+    {
+      "title": "157 houses for Wayanad landslide survivors to be completed by September 30, says Minister",
+      "summary": "",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/157-more-houses-for-wayanad-landslide-survivors-to-be-completed-by-september-30-says-minister/article71189956.ece",
+      "publishedAt": 1783363490000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "76014d6e15dd341a",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.47,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -191,7 +166,30 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1783336491000
+      "firstSeen": 1783363490000
+    },
+    {
+      "title": "Consultants in England vote in favour of NHS strikes",
+      "summary": "The senior doctors in England now have a mandate for strike action over the next 12 months.",
+      "source": "BBC",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/c79yyyxzergo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1783362445000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "c1a2cc95f5387c12",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.446,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1783362445000
     }
   ]
 }
