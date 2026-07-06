@@ -10,9 +10,9 @@
 - Base report share: `0.3333333333333333`
 - Multi-angle parents: `5`
 - Weak parents: `5`
-- Story count: `467`
-- Source groups: `10`
-- Content hash: `633dad6f5e83386f`
+- Story count: `452`
+- Source groups: `9`
+- Content hash: `55fe45bcf4f575f1`
 
 ## Top parents
 
@@ -27,7 +27,7 @@
 | 7 | Performer calls for Trump's death at funeral for Iran's late supreme leader | 2 | base_report | YES | 0.5636732802150018 |
 | 8 | Vedanta, TCS among 5 stocks with the highest dividend yield. Check details | 1 | market_reaction | YES | 0.7226911614783158 |
 | 9 | 11 largecap stocks with upside potential of up to 50%. Do you own any? | 1 | market_reaction | YES | 0.7096244948116492 |
-| 10 | Sobha Ltd Q1 sales bookings up 76% to ₹3,656 crore on better housing demand | 1 | fact_update | YES | 0.7096244948116492 |
+| 10 | Is enforcement of banking regulations ownership neutral? | 1 | fact_update | YES | 0.6965578281449826 |
 
 ## Warnings
 

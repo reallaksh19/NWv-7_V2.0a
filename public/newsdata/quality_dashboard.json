@@ -1,30 +1,30 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1783285766406,
+  "generatedAt": 1783296813196,
   "windowDays": 7,
   "latest": {
     "insightGrade": "D",
     "insightScore": 0,
-    "totalStories": 467,
-    "usableStories36h": 439,
-    "sourceGroups": 10,
+    "totalStories": 452,
+    "usableStories36h": 408,
+    "sourceGroups": 9,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3002,
+    "rankingOverallScore": 0.3019,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3002,
+    "overallScore": 0.3019,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1783285765670,
+    "generatedAt": 1783296812456,
     "destinationScores": {
       "buzz": 0,
-      "insight": 0.3895,
+      "insight": 0.3974,
       "localTravel": 0,
-      "upAhead": 0.8112
+      "upAhead": 0.8103
     },
     "destinationStatuses": {
       "buzz": "FAIL",
@@ -48,7 +48,7 @@
       {
         "destination": "insight",
         "status": "WARN",
-        "score": 0.3895,
+        "score": 0.3974,
         "profile": "insight-v2-event-angle-tree"
       },
       {
@@ -60,7 +60,7 @@
       {
         "destination": "upAhead",
         "status": "WARN",
-        "score": 0.8112,
+        "score": 0.8103,
         "profile": "upAhead-v2-lifecycle-location-category"
       }
     ],
@@ -74,11 +74,11 @@
         "oneSourceCappedCount": 0
       },
       "insight": {
-        "parentClusters": 8,
-        "strongParents": 8,
+        "parentClusters": 7,
+        "strongParents": 7,
         "weakParentsDemoted": 0,
         "avgAnglesPerParent": 0,
-        "baseReportHeavyParents": 2,
+        "baseReportHeavyParents": 3,
         "duplicateChildrenSuppressed": 0
       },
       "localTravel": {
@@ -92,7 +92,7 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 32,
+        "suppressedItemCount": 33,
         "events": 0,
         "onlineOffers": 3,
         "offlineOffers": 14,
@@ -120,7 +120,7 @@
       "Ethanol-blended petrol is safe to use: oil firm representatives: alertUrgency failed — alert expired"
     ],
     "actionRequired": [
-      "32 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "33 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no ranked Up Ahead item for muscat",
       "no local Buzz item in ranked set",
       "no travel Buzz item in ranked set",
@@ -129,7 +129,7 @@
       "no ranked local/travel item for muscat",
       "no ranked local/travel item for chennai",
       "no ranked local/travel item for trichy",
-      "2 base-report-heavy Insight parent(s) demoted",
+      "3 base-report-heavy Insight parent(s) demoted",
       "buzz: no local Buzz item in ranked set",
       "buzz: no travel Buzz item in ranked set"
     ]
@@ -149,27 +149,10 @@
     "avgInsightScore7d": 0,
     "sourceUptimePercent7d": 0,
     "angleDiversity7d": 0,
-    "avgRankingScore7d": 0.31,
+    "avgRankingScore7d": 0.3,
     "avgRankingWeakDestinations7d": 4
   },
   "history": [
-    {
-      "date": "2026-06-29",
-      "generatedAt": 1782768264738,
-      "insightGrade": "D",
-      "insightScore": 0,
-      "totalStories": 598,
-      "usableStories36h": 574,
-      "sourceGroups": 11,
-      "angleHintCoverage": 1,
-      "sectionsTotalStories": 0,
-      "sectionsCount": 10,
-      "rankingOverallScore": 0.3104,
-      "rankingOverallStatus": "FAIL",
-      "sourceUptimePercent": 0,
-      "angleDiversityScore": 0,
-      "rankingWeakDestinationCount": 4
-    },
     {
       "date": "2026-06-30",
       "generatedAt": 1782854810266,
@@ -267,6 +250,23 @@
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
       "rankingOverallScore": 0.3002,
+      "rankingOverallStatus": "FAIL",
+      "sourceUptimePercent": 0,
+      "angleDiversityScore": 0,
+      "rankingWeakDestinationCount": 4
+    },
+    {
+      "date": "2026-07-06",
+      "generatedAt": 1783296813196,
+      "insightGrade": "D",
+      "insightScore": 0,
+      "totalStories": 452,
+      "usableStories36h": 408,
+      "sourceGroups": 9,
+      "angleHintCoverage": 1,
+      "sectionsTotalStories": 0,
+      "sectionsCount": 10,
+      "rankingOverallScore": 0.3019,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,
