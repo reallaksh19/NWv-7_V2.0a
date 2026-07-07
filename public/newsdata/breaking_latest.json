@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1783461136203,
-  "contentHash": "ad77c218c4b2",
+  "fetchedAt": 1783464911212,
+  "contentHash": "1c1ec0804064",
   "breaking": [
     {
       "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
@@ -16,7 +16,7 @@
       "id": "9f96d52233c6f8d1",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.676,
+      "breakingScore": 6.588,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -39,7 +39,7 @@
       "id": "90127c10a27d15f6",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.38,
+      "breakingScore": 4.293,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -64,7 +64,7 @@
       "id": "6c380be67316035a",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.875,
+      "breakingScore": 3.787,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -87,7 +87,7 @@
       "id": "f387050906ca577e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.683,
+      "breakingScore": 3.595,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -110,7 +110,7 @@
       "id": "088c471bfed544a1",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.661,
+      "breakingScore": 3.573,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -123,17 +123,17 @@
     {
       "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
       "summary": "The US Central Command says the strikes are intended to impose \"heavy costs\" on Iran.",
-      "source": "BBC",
+      "source": "BBC World",
       "sourceGroup": "bbc",
       "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1783460899000,
+      "publishedAt": 1783464525000,
       "category": "world",
       "region": "in",
       "language": "en",
       "id": "082780d1f901efea",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.495,
+      "breakingScore": 2.491,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -145,6 +145,29 @@
         "times_of_india"
       ],
       "firstSeen": 1783436419000
+    },
+    {
+      "title": "Farage resigns as MP and vows to fight by-election amid finances row",
+      "summary": "Labour, the Conservatives, the Lib Dems and Restore Britain rule out standing in the by-election, in an effective boycott.",
+      "source": "BBC",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/c0ly51kzdz3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1783462658000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "0480f2dca0b85281",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.448,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1783462658000
     },
     {
       "title": "Indian-origin motel manager arrested in Los Angeles for profiting off prostitution, sex-trafficking",
@@ -159,7 +182,7 @@
       "id": "eaf6a9f587d299bf",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.413,
+      "breakingScore": 2.326,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -168,29 +191,6 @@
         "times_of_india"
       ],
       "firstSeen": 1783457374000
-    },
-    {
-      "title": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
-      "summary": "The preliminary hearing will determine whether Tyler Robinson, accused of killing conservative activist Charlie Kirk, will stand trial.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1783454457000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "327d4b6ded4bfab1",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.345,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1783454457000
     }
   ]
 }
