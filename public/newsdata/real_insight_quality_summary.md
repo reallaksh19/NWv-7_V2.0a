@@ -10,24 +10,24 @@
 - Base report share: `0.3157894736842105`
 - Multi-angle parents: `3`
 - Weak parents: `7`
-- Story count: `571`
-- Source groups: `10`
-- Content hash: `195a2b25111ea638`
+- Story count: `611`
+- Source groups: `9`
+- Content hash: `db05815ed9a4819a`
 
 ## Top parents
 
 | # | Headline | Children | Angles | Weak | Score |
 |---:|---|---:|---|---|---:|
-| 1 | Trump says there will either be a deal with Iran or U.S. will ‘finish the job’ | 2 | base_report, official_response | NO | 0.6705800531183317 |
-| 2 | Report | 2 | market_reaction, investigative_detail | NO | 0.6852467197849983 |
-| 3 | After a century, forgotten Punjabi soldiers finally recognised for WWI sacrifice | 2 | base_report, fact_update | NO | 0.6732467197849983 |
+| 1 | Report | 2 | market_reaction, investigative_detail | NO | 0.6852467197849983 |
+| 2 | After a century, forgotten Punjabi soldiers finally recognised for WWI sacrifice | 2 | base_report, fact_update | NO | 0.6732467197849983 |
+| 3 | Trump says there will either be a deal with Iran or U.S. will ‘finish the job’ | 2 | base_report, official_response | NO | 0.6265800531183316 |
 | 4 | Russian strikes kill at least 26 in Kyiv region on eve of NATO summit | 3 | fact_update | YES | 0.6982906546249833 |
-| 5 | China test fires missile into Pacific, sparks alarm | 2 | base_report | YES | 0.6694800531183316 |
-| 6 | Six killed in Mumbai as rains wreak havoc, disrupt travel | 2 | fact_update | YES | 0.6852467197849983 |
-| 7 | US accuses Iran of attacking 2 commercial ships; mulls action | 2 | base_report | YES | 0.6538300531183316 |
-| 8 | PM Modi conferred with Indonesia's highest honour ‘Bintang Adipurna' in Jakarta | 2 | official_response | YES | 0.60551 |
-| 9 | Info Edge shares surge 11% after Q1FY27 billings rise 14% YoY | 1 | market_reaction | YES | 0.7226911614783158 |
-| 10 | RITES shares soar 9% after bagging a $36 million locomotive supply order from South Africa | 1 | fact_update | YES | 0.7226911614783158 |
+| 5 | Six killed in Mumbai as rains wreak havoc, disrupt travel | 2 | fact_update | YES | 0.6852467197849983 |
+| 6 | China test fires missile into Pacific, sparks alarm | 2 | base_report | YES | 0.6254800531183317 |
+| 7 | PM Modi conferred with Indonesia's highest honour ‘Bintang Adipurna' in Jakarta | 2 | official_response | YES | 0.60551 |
+| 8 | US accuses Iran of attacking 2 commercial ships; mulls action | 2 | base_report | YES | 0.6098300531183317 |
+| 9 | FIFA World Cup drives prediction market to record high; sports volumes may hit $740 billion by 2030, says Binance Research | 1 | fact_update | YES | 0.7226911614783158 |
+| 10 | Info Edge shares surge 11% after Q1FY27 billings rise 14% YoY | 1 | market_reaction | YES | 0.7226911614783158 |
 
 ## Warnings
 
