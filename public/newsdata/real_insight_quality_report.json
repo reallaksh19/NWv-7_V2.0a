@@ -1,18 +1,18 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1783429371805,
-  "contentHash": "db05815ed9a4819a",
+  "generatedAt": 1783440360953,
+  "contentHash": "d3e2febefbde58d4",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 611,
+  "storyCount": 680,
   "sourceGroupCount": 9,
   "grade": "D",
   "parentCount": 10,
   "avgAngles": 1.3,
-  "avgTemporalTiers": 1.6,
-  "avgEvolutionRoles": 1.8,
-  "baseReportShare": 0.3157894736842105,
+  "avgTemporalTiers": 1.7,
+  "avgEvolutionRoles": 1.9,
+  "baseReportShare": 0.3,
   "multiAngleCount": 3,
   "weakParentCount": 7,
   "runtimeQualityGate": {
@@ -23,53 +23,53 @@
       "grade": "D",
       "tone": "danger",
       "title": "Weak insight signal",
-      "signalScore": 33,
+      "signalScore": 36,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 573,
-      "risingCount": 0,
+      "storyCount": 630,
+      "risingCount": 1,
       "thinCount": 7,
       "multiAngleCount": 3,
       "lowAngleCount": 7,
       "strongAngleCount": 0,
       "avgAngles": 1.3,
-      "avgChildren": 1.9,
-      "avgScore": 0.6654813296291605,
-      "sourceDiversityCoverage": 8,
+      "avgChildren": 2,
+      "avgScore": 0.6522239201159907,
+      "sourceDiversityCoverage": 9,
       "snapshotCoverage": 2,
       "coverageLabel": "3/10",
       "warnings": [
         "7 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "2 cluster(s) are below source-diversity target.",
+        "1 cluster(s) are below source-diversity target.",
         "8 cluster(s) have weak snapshot coverage.",
         "7 cluster(s) are marked thin.",
-        "380 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "500 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "D",
       "tone": "danger",
       "title": "Weak insight signal",
-      "signalScore": 33,
+      "signalScore": 36,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 573,
-      "risingCount": 0,
+      "storyCount": 630,
+      "risingCount": 1,
       "thinCount": 7,
       "multiAngleCount": 3,
       "lowAngleCount": 7,
       "strongAngleCount": 0,
       "avgAngles": 1.3,
-      "avgChildren": 1.9,
-      "avgScore": 0.6654813296291605,
-      "sourceDiversityCoverage": 8,
+      "avgChildren": 2,
+      "avgScore": 0.6522239201159907,
+      "sourceDiversityCoverage": 9,
       "snapshotCoverage": 2,
       "coverageLabel": "3/10",
       "warnings": [
         "7 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "2 cluster(s) are below source-diversity target.",
+        "1 cluster(s) are below source-diversity target.",
         "8 cluster(s) have weak snapshot coverage.",
         "7 cluster(s) are marked thin."
       ]
@@ -85,7 +85,7 @@
   },
   "parents": [
     {
-      "parentId": "cluster_418_c3332f609a097ba6",
+      "parentId": "cluster_493_c3332f609a097ba6",
       "headline": "Report",
       "score": 0.6852467197849983,
       "postTreeScore": 1.0652,
@@ -105,7 +105,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_446_a986719f44b9d59d",
+      "parentId": "cluster_521_a986719f44b9d59d",
       "headline": "After a century, forgotten Punjabi soldiers finally recognised for WWI sacrifice",
       "score": 0.6732467197849983,
       "postTreeScore": 1.0532,
@@ -126,7 +126,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_180_643d18269d89aec7",
+      "parentId": "cluster_255_643d18269d89aec7",
       "headline": "Trump says there will either be a deal with Iran or U.S. will ‘finish the job’",
       "score": 0.6265800531183316,
       "postTreeScore": 1.0066,
@@ -147,10 +147,10 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_177_439dc7c5c96cb6c1",
+      "parentId": "cluster_252_439dc7c5c96cb6c1",
       "headline": "Russian strikes kill at least 26 in Kyiv region on eve of NATO summit",
-      "score": 0.6982906546249833,
-      "postTreeScore": 0.6483,
+      "score": 0.6942477209716008,
+      "postTreeScore": 0.6242,
       "childCount": 3,
       "angles": [
         "fact_update"
@@ -168,7 +168,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_516_0bdb590e0aab2e65",
+      "parentId": "cluster_591_0bdb590e0aab2e65",
       "headline": "Six killed in Mumbai as rains wreak havoc, disrupt travel",
       "score": 0.6852467197849983,
       "postTreeScore": 0.5752,
@@ -187,7 +187,27 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_182_8efb5f1f72804483",
+      "parentId": "cluster_175_6435737a710295c9",
+      "headline": "PM Modi conferred with Indonesia's highest honour ‘Bintang Adipurna' in Jakarta",
+      "score": 0.61351,
+      "postTreeScore": 0.5235,
+      "childCount": 2,
+      "angles": [
+        "official_response"
+      ],
+      "temporalTiers": [
+        "developing",
+        "breaking"
+      ],
+      "evolutionRoles": [
+        "corroboration",
+        "official_response"
+      ],
+      "baseReportShare": 0,
+      "weakTree": true
+    },
+    {
+      "parentId": "cluster_257_8efb5f1f72804483",
       "headline": "China test fires missile into Pacific, sparks alarm",
       "score": 0.6254800531183317,
       "postTreeScore": 0.5155,
@@ -207,27 +227,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_101_6435737a710295c9",
-      "headline": "PM Modi conferred with Indonesia's highest honour ‘Bintang Adipurna' in Jakarta",
-      "score": 0.60551,
-      "postTreeScore": 0.5155,
-      "childCount": 2,
-      "angles": [
-        "official_response"
-      ],
-      "temporalTiers": [
-        "developing",
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "corroboration",
-        "official_response"
-      ],
-      "baseReportShare": 0,
-      "weakTree": true
-    },
-    {
-      "parentId": "cluster_183_28d554d6f11369ee",
+      "parentId": "cluster_258_28d554d6f11369ee",
       "headline": "US accuses Iran of attacking 2 commercial ships; mulls action",
       "score": 0.6098300531183317,
       "postTreeScore": 0.4998,
@@ -246,31 +246,33 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_39_c276e82e8321f5c8",
+      "parentId": "cluster_20_9f96d52233c6f8d1",
+      "headline": "Woman suspected of Monaco bomb attack found dead in Ukraine",
+      "score": 0.58616,
+      "postTreeScore": 0.4962,
+      "childCount": 2,
+      "angles": [
+        "fact_update"
+      ],
+      "temporalTiers": [
+        "developing",
+        "breaking"
+      ],
+      "evolutionRoles": [
+        "corroboration",
+        "cause_claim"
+      ],
+      "baseReportShare": 0,
+      "weakTree": true
+    },
+    {
+      "parentId": "cluster_110_c276e82e8321f5c8",
       "headline": "FIFA World Cup drives prediction market to record high; sports volumes may hit $740 billion by 2030, says Binance Research",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
       "childCount": 1,
       "angles": [
         "fact_update"
-      ],
-      "temporalTiers": [
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "fact_update"
-      ],
-      "baseReportShare": 0,
-      "weakTree": true
-    },
-    {
-      "parentId": "cluster_81_201c26433a6c61f4",
-      "headline": "Info Edge shares surge 11% after Q1FY27 billings rise 14% YoY",
-      "score": 0.7226911614783158,
-      "postTreeScore": 0.4227,
-      "childCount": 1,
-      "angles": [
-        "market_reaction"
       ],
       "temporalTiers": [
         "breaking"
@@ -301,13 +303,13 @@
       {
         "id": "avg-evolution-role-count",
         "label": "Average evolution role count",
-        "actual": 1.8,
+        "actual": 1.9,
         "required": ">= 1.6"
       },
       {
         "id": "base-report-share",
         "label": "Base report share",
-        "actual": 0.316,
+        "actual": 0.3,
         "required": "<= 0.55"
       },
       {
@@ -349,7 +351,7 @@
       {
         "id": "avg-temporal-tier-count",
         "label": "Average temporal tier count",
-        "actual": 1.6,
+        "actual": 1.7,
         "required": ">= 1.8",
         "severity": "fail",
         "fix": "C+E output should cover multiple event-time tiers, not only source buckets."
@@ -366,15 +368,15 @@
     "summary": {
       "parentCount": 10,
       "avgAngles": 1.3,
-      "avgTemporalTiers": 1.6,
-      "avgEvolutionRoles": 1.8,
-      "baseReportShare": 0.316,
+      "avgTemporalTiers": 1.7,
+      "avgEvolutionRoles": 1.9,
+      "baseReportShare": 0.3,
       "multiAngleCount": 3,
       "weakParentCount": 7,
       "weakParentRatio": 0.7,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 611,
+      "storyCount": 680,
       "sourceGroupCount": 9
     }
   }
