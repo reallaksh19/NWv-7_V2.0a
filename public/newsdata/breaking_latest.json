@@ -1,24 +1,48 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1783432369280,
-  "contentHash": "1565e4572cd7",
+  "fetchedAt": 1783441371356,
+  "contentHash": "6539f120647d",
   "breaking": [
     {
-      "title": "Interpol-wanted woman in Monaco bombing case found shot dead near Kyiv; two detained",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132239265.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Anastasiia Berezovska, a Ukrainian woman linked to a bomb attack in Monaco, was discovered dead near Kyiv, having been shot. She was under an Interpol warrant for attempted murder. Authorities have detained two suspects, one of whom is an intelligence officer, in connection with her murder. The bombing had targeted a prosperous businessman from Ukraine living in Monaco, leaving him and his family injured.",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/europe/interpol-wanted-woman-in-monaco-bombing-case-found-shot-dead-near-kyiv-two-detained/articleshow/132239265.cms",
-      "publishedAt": 1783426656000,
-      "category": "india",
+      "title": "3 Tankers Attacked In Strait Of Hormuz In 24 Hours Amid US-Iran Ceasefire",
+      "summary": "The second tanker sustained structural damage when it was hit, but no one was injured (File photo)",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/3-tankers-attacked-in-strait-of-hormuz-in-24-hours-amid-us-iran-ceasefire-11739814#publisher=newsstand",
+      "publishedAt": 1783436864000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "f4f1e8c07fdb07a2",
+      "id": "657b5a36b0e3452a",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 8.868,
+      "breakingScore": 7.396,
       "breakingReasons": [
         "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1783436419000
+    },
+    {
+      "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
+      "summary": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1783438870000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "9f96d52233c6f8d1",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 6.942,
+      "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 2,
@@ -26,7 +50,7 @@
         "bbc",
         "times_of_india"
       ],
-      "firstSeen": 1783424560000
+      "firstSeen": 1783426656000
     },
     {
       "title": "Explosions injure 18 in Damascus during Macron's visit",
@@ -41,7 +65,7 @@
       "id": "f387050906ca577e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.783,
+      "breakingScore": 5.575,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -52,29 +76,6 @@
         "the_hindu"
       ],
       "firstSeen": 1783418182000
-    },
-    {
-      "title": "China battered by extreme weather: Floods, tornadoes &amp; landslides kills over 20, videos capture destruction",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132238377.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Torrential rain and tornadoes killed at least twenty people across China. Over 330 others sustained injuries from extreme weather events in several provinces. A landslide in Gansu Province buried thirty-three people, with twelve still missing. Record rainfall triggered severe flooding in Guangxi, affecting over 93,000 residents. President Xi Jinping ordered all-out efforts for rescue and disaster relief operations.",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/china/china-battered-by-extreme-weather-floods-tornadoes-landslides-kills-over-20-videos-capture-destruction/articleshow/132238377.cms",
-      "publishedAt": 1783424260000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "ad7f14bab8340e41",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.312,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "times_of_india"
-      ],
-      "firstSeen": 1783424260000
     },
     {
       "title": "Militants kill nine police officers in attack on post in southwest Pakistan",
@@ -89,7 +90,7 @@
       "id": "396f98b4cc5807ef",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.217,
+      "breakingScore": 5.009,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -105,14 +106,14 @@
       "source": "BBC",
       "sourceGroup": "bbc",
       "url": "https://www.bbc.co.uk/news/articles/cvgdlnvg2n5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1783431441000,
+      "publishedAt": 1783434043000,
       "category": "world",
       "region": "in",
       "language": "en",
       "id": "647a5b65da297a55",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.479,
+      "breakingScore": 4.33,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -125,44 +126,67 @@
       "firstSeen": 1783430609000
     },
     {
-      "title": "Ukraine Strikes 8 Russian 'Shadow Fleet' Tankers Delivering Fuel To Crimea",
-      "summary": "Ukrainian drones strikes tankers from Russia. (Representational Image)",
+      "title": "Marine Le Pen found guilty, but court clears way for presidential run if she wears tag",
+      "summary": "The National Rally leader now has to decide whether she will run with an electronic tag and will speak on TV later.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cly85qjg45no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1783439165000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "695de6b236260841",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.949,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 3,
+      "allSources": [
+        "bbc",
+        "the_hindu",
+        "times_of_india"
+      ],
+      "firstSeen": 1783433852000
+    },
+    {
+      "title": "\"Man-Made Disaster\": 2 Kerala Ministers On Wayanad Landslide That Killed 5",
+      "summary": "Kerala ministers T Siddique and Ramesh Chennithala",
       "source": "NDTV",
       "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/ukraine-strikes-eight-russian-shadow-fleet-tankers-kyiv-says-11738707#publisher=newsstand",
-      "publishedAt": 1783426290000,
+      "url": "https://www.ndtv.com/kerala-news/man-made-disaster-2-kerala-ministers-on-wayanad-landslide-that-killed-5-11740192#publisher=newsstand",
+      "publishedAt": 1783438452000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "4a038a2b9df6c002",
+      "id": "36fd384c4020dbca",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.359,
+      "breakingScore": 3.932,
       "breakingReasons": [
-        "multi_source_velocity",
         "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "ndtv",
-        "times_of_india"
+        "ndtv"
       ],
-      "firstSeen": 1783424811000
+      "firstSeen": 1783438452000
     },
     {
-      "title": "West Asia War LIVE: Another tanker hit by unidentified projectile in Hormuz, UKMTO says; no casualties reported",
+      "title": "West Asia War LIVE: Third tanker struck in Hormuz in 24 hours, UKMTO says; no casualties reported",
       "summary": "Iran says no talks unless Trump halts threats; Israel, Lebanon to hold talks in Rome in mid-July",
-      "source": "The Hindu",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/west-asia-war-live-updates-july-7-2026-khamenei-funeral-ceremonies/article71191969.ece",
-      "publishedAt": 1783431762000,
-      "category": "topStories",
+      "publishedAt": 1783434412000,
+      "category": "world",
       "region": "in",
       "language": "en",
       "id": "0be8a701fde8909e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.986,
+      "breakingScore": 3.839,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -170,31 +194,7 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1783431762000
-    },
-    {
-      "title": "5-month-old startup wants to launch 100,000 AI data centre satellites into space",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132237468.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/science/5-month-old-startup-wants-to-launch-100000-ai-data-centre-satellites-into-space/articleshow/132237468.cms",
-      "publishedAt": 1783425600000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "27861a4ec3e83507",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.843,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "economic_times",
-        "times_of_india"
-      ],
-      "firstSeen": 1783425462000
+      "firstSeen": 1783434412000
     }
   ]
 }
