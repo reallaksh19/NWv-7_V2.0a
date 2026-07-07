@@ -2,31 +2,31 @@
   "checks": [
     {
       "ageHours": 0.01,
-      "ageMs": 28516,
-      "contentHash": "d3e2febefbde58d4",
+      "ageMs": 20818,
+      "contentHash": "7570af08ce9e5109",
       "errors": [],
-      "fetchedAt": 1783440251401,
+      "fetchedAt": 1783444944415,
       "name": "insight",
       "path": "public/newsdata/insight_latest.json",
       "status": "PASS",
-      "storyCount": 680,
+      "storyCount": 666,
       "warnings": []
     },
     {
       "ageHours": 0.0,
-      "ageMs": 15054,
-      "contentHash": "9d6bb5daa307",
+      "ageMs": 17799,
+      "contentHash": "e1bbc00af000",
       "errors": [],
-      "fetchedAt": 1783440264863,
+      "fetchedAt": 1783444947434,
       "name": "sections",
       "path": "public/newsdata/sections_latest.json",
       "status": "PASS",
-      "storyCount": 285,
+      "storyCount": 277,
       "warnings": []
     }
   ],
   "errors": [],
-  "generatedAt": 1783440279917,
+  "generatedAt": 1783444965233,
   "schemaVersion": 1,
   "status": "PASS",
   "thresholds": {
