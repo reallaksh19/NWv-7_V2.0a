@@ -1,11 +1,11 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1783454732422,
-  "contentHash": "697571b11f04486f",
+  "generatedAt": 1783469070741,
+  "contentHash": "128a9d41571456c3",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 653,
+  "storyCount": 606,
   "sourceGroupCount": 9,
   "grade": "D",
   "parentCount": 10,
@@ -26,7 +26,7 @@
       "signalScore": 24,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 602,
+      "storyCount": 558,
       "risingCount": 0,
       "thinCount": 8,
       "multiAngleCount": 2,
@@ -34,7 +34,7 @@
       "strongAngleCount": 0,
       "avgAngles": 1.2,
       "avgChildren": 1.6,
-      "avgScore": 0.6621308689741039,
+      "avgScore": 0.6609142023074371,
       "sourceDiversityCoverage": 5,
       "snapshotCoverage": 3,
       "coverageLabel": "2/10",
@@ -44,7 +44,7 @@
         "5 cluster(s) are below source-diversity target.",
         "7 cluster(s) have weak snapshot coverage.",
         "8 cluster(s) are marked thin.",
-        "510 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "480 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
@@ -54,7 +54,7 @@
       "signalScore": 24,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 602,
+      "storyCount": 558,
       "risingCount": 0,
       "thinCount": 8,
       "multiAngleCount": 2,
@@ -62,7 +62,7 @@
       "strongAngleCount": 0,
       "avgAngles": 1.2,
       "avgChildren": 1.6,
-      "avgScore": 0.6621308689741039,
+      "avgScore": 0.6609142023074371,
       "sourceDiversityCoverage": 5,
       "snapshotCoverage": 3,
       "coverageLabel": "2/10",
@@ -85,7 +85,7 @@
   },
   "parents": [
     {
-      "parentId": "cluster_317_643d18269d89aec7",
+      "parentId": "cluster_348_643d18269d89aec7",
       "headline": "Trump says there will either be a deal with Iran or U.S. will ‘finish the job’",
       "score": 0.6265800531183316,
       "postTreeScore": 1.0066,
@@ -106,7 +106,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_183_2461d5f072ec0fa1",
+      "parentId": "cluster_214_2461d5f072ec0fa1",
       "headline": "India, Indonesia expand defence ties; New Delhi to supply BrahMos missiles",
       "score": 0.5517727761127958,
       "postTreeScore": 0.9718,
@@ -128,7 +128,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_232_6435737a710295c9",
+      "parentId": "cluster_263_6435737a710295c9",
       "headline": "PM Modi conferred with Indonesia's highest honour ‘Bintang Adipurna' in Jakarta",
       "score": 0.61351,
       "postTreeScore": 0.5235,
@@ -148,7 +148,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_72_9f96d52233c6f8d1",
+      "parentId": "cluster_101_9f96d52233c6f8d1",
       "headline": "Woman suspected of Monaco bomb attack found dead in Ukraine",
       "score": 0.60616,
       "postTreeScore": 0.5162,
@@ -168,7 +168,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_320_28d554d6f11369ee",
+      "parentId": "cluster_351_28d554d6f11369ee",
       "headline": "US accuses Iran of attacking 2 commercial ships; mulls action",
       "score": 0.6098300531183317,
       "postTreeScore": 0.4998,
@@ -187,7 +187,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_166_c276e82e8321f5c8",
+      "parentId": "cluster_197_c276e82e8321f5c8",
       "headline": "FIFA World Cup drives prediction market to record high; sports volumes may hit $740 billion by 2030, says Binance Research",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
@@ -205,7 +205,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_211_201c26433a6c61f4",
+      "parentId": "cluster_242_201c26433a6c61f4",
       "headline": "Info Edge shares surge 11% after Q1FY27 billings rise 14% YoY",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
@@ -223,7 +223,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_256_b4525085c8e7c6e4",
+      "parentId": "cluster_287_b4525085c8e7c6e4",
       "headline": "RITES shares soar 9% after bagging a $36 million locomotive supply order from South Africa",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
@@ -241,7 +241,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_500_1838546823aff100",
+      "parentId": "cluster_534_1838546823aff100",
       "headline": "Prestige Estates buys 50% stake in Advent Convention and Hotels International for Rs 504 crore",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
@@ -259,13 +259,13 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_529_9c5e22be94d2e340",
-      "headline": "EasyJet shares rally 10% on potential $7.3 billion acquisition by Castlelake",
-      "score": 0.7226911614783158,
-      "postTreeScore": 0.4227,
+      "parentId": "cluster_276_80e0eaa2293862e4",
+      "headline": "Cult.fit IPO: Fitness company files draft IPO papers to raise Rs 950 crore via fresh issue",
+      "score": 0.7105244948116493,
+      "postTreeScore": 0.4105,
       "childCount": 1,
       "angles": [
-        "fact_update"
+        "market_reaction"
       ],
       "temporalTiers": [
         "breaking"
@@ -371,7 +371,7 @@
       "weakParentRatio": 0.8,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 653,
+      "storyCount": 606,
       "sourceGroupCount": 9
     }
   }

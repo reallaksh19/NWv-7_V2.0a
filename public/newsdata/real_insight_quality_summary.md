@@ -10,9 +10,9 @@
 - Base report share: `0.25`
 - Multi-angle parents: `2`
 - Weak parents: `8`
-- Story count: `653`
+- Story count: `606`
 - Source groups: `9`
-- Content hash: `697571b11f04486f`
+- Content hash: `128a9d41571456c3`
 
 ## Top parents
 
@@ -27,7 +27,7 @@
 | 7 | Info Edge shares surge 11% after Q1FY27 billings rise 14% YoY | 1 | market_reaction | YES | 0.7226911614783158 |
 | 8 | RITES shares soar 9% after bagging a $36 million locomotive supply order from South Africa | 1 | fact_update | YES | 0.7226911614783158 |
 | 9 | Prestige Estates buys 50% stake in Advent Convention and Hotels International for Rs 504 crore | 1 | fact_update | YES | 0.7226911614783158 |
-| 10 | EasyJet shares rally 10% on potential $7.3 billion acquisition by Castlelake | 1 | fact_update | YES | 0.7226911614783158 |
+| 10 | Cult.fit IPO: Fitness company files draft IPO papers to raise Rs 950 crore via fresh issue | 1 | market_reaction | YES | 0.7105244948116493 |
 
 ## Warnings
 
