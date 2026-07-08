@@ -10,16 +10,16 @@
 - Base report share: `0.3157894736842105`
 - Multi-angle parents: `4`
 - Weak parents: `6`
-- Story count: `572`
-- Source groups: `9`
-- Content hash: `8a9d753d6da74b61`
+- Story count: `615`
+- Source groups: `10`
+- Content hash: `fe4c98985dda059b`
 
 ## Top parents
 
 | # | Headline | Children | Angles | Weak | Score |
 |---:|---|---:|---|---|---:|
 | 1 | Nato showcases big arms deals as Trump sulks | 2 | base_report, official_response | NO | 0.7209967197849984 |
-| 2 | US official says latest attacks on Iran "4-5 times bigger" than last strikes: Report | 2 | base_report, official_response | NO | 0.61751 |
+| 2 | US official says latest attacks on Iran "4-5 times bigger" than last strikes: Report | 2 | base_report, official_response | NO | 0.6934967197849984 |
 | 3 | Trump says there will either be a deal with Iran or U.S. will ‘finish the job’ | 2 | base_report, official_response | NO | 0.6265800531183316 |
 | 4 | India, Indonesia expand defence ties; New Delhi to supply BrahMos missiles | 3 | base_report, official_response | NO | 0.5517727761127958 |
 | 5 | PM Modi conferred with Indonesia's highest honour ‘Bintang Adipurna' in Jakarta | 2 | official_response | YES | 0.61351 |

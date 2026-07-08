@@ -1,12 +1,12 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1783497411511,
-  "contentHash": "8a9d753d6da74b61",
+  "generatedAt": 1783507108448,
+  "contentHash": "fe4c98985dda059b",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 572,
-  "sourceGroupCount": 9,
+  "storyCount": 615,
+  "sourceGroupCount": 10,
   "grade": "D",
   "parentCount": 10,
   "avgAngles": 1.4,
@@ -23,10 +23,10 @@
       "grade": "D",
       "tone": "danger",
       "title": "Weak insight signal",
-      "signalScore": 39,
+      "signalScore": 38,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 531,
+      "storyCount": 564,
       "risingCount": 0,
       "thinCount": 6,
       "multiAngleCount": 4,
@@ -34,27 +34,27 @@
       "strongAngleCount": 0,
       "avgAngles": 1.4,
       "avgChildren": 1.9,
-      "avgScore": 0.6405321978209422,
+      "avgScore": 0.648130869799442,
       "sourceDiversityCoverage": 8,
-      "snapshotCoverage": 5,
+      "snapshotCoverage": 4,
       "coverageLabel": "4/10",
       "warnings": [
         "6 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
         "2 cluster(s) are below source-diversity target.",
-        "5 cluster(s) have weak snapshot coverage.",
+        "6 cluster(s) have weak snapshot coverage.",
         "6 cluster(s) are marked thin.",
-        "410 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "510 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "D",
       "tone": "danger",
       "title": "Weak insight signal",
-      "signalScore": 39,
+      "signalScore": 38,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 531,
+      "storyCount": 564,
       "risingCount": 0,
       "thinCount": 6,
       "multiAngleCount": 4,
@@ -62,15 +62,15 @@
       "strongAngleCount": 0,
       "avgAngles": 1.4,
       "avgChildren": 1.9,
-      "avgScore": 0.6405321978209422,
+      "avgScore": 0.648130869799442,
       "sourceDiversityCoverage": 8,
-      "snapshotCoverage": 5,
+      "snapshotCoverage": 4,
       "coverageLabel": "4/10",
       "warnings": [
         "6 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
         "2 cluster(s) are below source-diversity target.",
-        "5 cluster(s) have weak snapshot coverage.",
+        "6 cluster(s) have weak snapshot coverage.",
         "6 cluster(s) are marked thin."
       ]
     },
@@ -85,7 +85,7 @@
   },
   "parents": [
     {
-      "parentId": "cluster_116_295caf0cfb2c8fac",
+      "parentId": "cluster_157_295caf0cfb2c8fac",
       "headline": "Nato showcases big arms deals as Trump sulks",
       "score": 0.7209967197849984,
       "postTreeScore": 1.121,
@@ -106,10 +106,10 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_101_d7a85ce7d4c1167e",
+      "parentId": "cluster_141_d7a85ce7d4c1167e",
       "headline": "US official says latest attacks on Iran \"4-5 times bigger\" than last strikes: Report",
-      "score": 0.61751,
-      "postTreeScore": 1.0175,
+      "score": 0.6934967197849984,
+      "postTreeScore": 1.0735,
       "childCount": 2,
       "angles": [
         "base_report",
@@ -127,7 +127,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_479_643d18269d89aec7",
+      "parentId": "cluster_524_643d18269d89aec7",
       "headline": "Trump says there will either be a deal with Iran or U.S. will ‘finish the job’",
       "score": 0.6265800531183316,
       "postTreeScore": 1.0066,
@@ -148,7 +148,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_341_2461d5f072ec0fa1",
+      "parentId": "cluster_383_2461d5f072ec0fa1",
       "headline": "India, Indonesia expand defence ties; New Delhi to supply BrahMos missiles",
       "score": 0.5517727761127958,
       "postTreeScore": 0.9718,
@@ -170,7 +170,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_394_6435737a710295c9",
+      "parentId": "cluster_437_6435737a710295c9",
       "headline": "PM Modi conferred with Indonesia's highest honour ‘Bintang Adipurna' in Jakarta",
       "score": 0.61351,
       "postTreeScore": 0.5235,
@@ -190,7 +190,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_226_9f96d52233c6f8d1",
+      "parentId": "cluster_268_9f96d52233c6f8d1",
       "headline": "Woman suspected of Monaco bomb attack found dead in Ukraine",
       "score": 0.60616,
       "postTreeScore": 0.5162,
@@ -210,7 +210,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_38_98fab96bbd6b5689",
+      "parentId": "cluster_70_98fab96bbd6b5689",
       "headline": "India news LIVE updates, 8 July 2026: Baruipur rape-murder accused shot dead in encounter, Mumbai airport near-miss as two Air India flights face off on runway, US hits 80 Iranian targets after Hormuz attacks - The Indian Express",
       "score": 0.6135800531183317,
       "postTreeScore": 0.5036,
@@ -230,7 +230,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_482_28d554d6f11369ee",
+      "parentId": "cluster_527_28d554d6f11369ee",
       "headline": "US accuses Iran of attacking 2 commercial ships; mulls action",
       "score": 0.6098300531183317,
       "postTreeScore": 0.4998,
@@ -249,7 +249,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_69_3697f44e61018085",
+      "parentId": "cluster_109_3697f44e61018085",
       "headline": "Eternal, ICICI Bank & 8 stocks with up to 27% upside. Do you own them?",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
@@ -267,7 +267,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_89_77d93646ec7ef476",
+      "parentId": "cluster_129_77d93646ec7ef476",
       "headline": "Cochin Shipyard shares dip 2% as govt’s OFS opens for retail investors today",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
@@ -373,8 +373,8 @@
       "weakParentRatio": 0.6,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 572,
-      "sourceGroupCount": 9
+      "storyCount": 615,
+      "sourceGroupCount": 10
     }
   }
 }
