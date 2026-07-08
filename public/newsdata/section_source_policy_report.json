@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1783529059568,
+  "generatedAt": 1783534948793,
   "policyVersion": "section-source-policy-v1",
   "reportVersion": "section-source-policy-report-v1",
   "schemaVersion": 1,
@@ -31,17 +31,17 @@
     },
     "entertainment": {
       "sourceGroupCount": 1,
-      "storyCount": 17,
+      "storyCount": 18,
       "thin": true,
       "topCategories": [
         {
           "category": "entertainment",
-          "count": 17
+          "count": 18
         }
       ],
       "topSources": [
         {
-          "count": 17,
+          "count": 18,
           "sourceGroup": "google_news"
         }
       ]
@@ -62,12 +62,12 @@
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 8,
-          "sourceGroup": "ndtv"
+          "count": 5,
+          "sourceGroup": "times_of_india"
         },
         {
-          "count": 2,
-          "sourceGroup": "times_of_india"
+          "count": 5,
+          "sourceGroup": "ndtv"
         }
       ]
     },
@@ -108,11 +108,11 @@
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 10,
+          "count": 12,
           "sourceGroup": "bbc"
         },
         {
-          "count": 6,
+          "count": 4,
           "sourceGroup": "google_news"
         }
       ]
@@ -129,7 +129,7 @@
       ],
       "topSources": [
         {
-          "count": 17,
+          "count": 16,
           "sourceGroup": "the_hindu"
         },
         {
@@ -137,7 +137,7 @@
           "sourceGroup": "gadgets360"
         },
         {
-          "count": 5,
+          "count": 6,
           "sourceGroup": "google_news"
         }
       ]
@@ -154,11 +154,11 @@
       ],
       "topSources": [
         {
-          "count": 20,
+          "count": 19,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 10,
+          "count": 11,
           "sourceGroup": "google_news"
         }
       ]
@@ -179,11 +179,11 @@
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 8,
+          "count": 9,
           "sourceGroup": "ndtv"
         },
         {
-          "count": 2,
+          "count": 1,
           "sourceGroup": "economic_times"
         }
       ]
@@ -200,12 +200,12 @@
       ],
       "topSources": [
         {
-          "count": 19,
-          "sourceGroup": "the_hindu"
+          "count": 15,
+          "sourceGroup": "google_news"
         },
         {
-          "count": 11,
-          "sourceGroup": "google_news"
+          "count": 15,
+          "sourceGroup": "the_hindu"
         }
       ]
     },
@@ -582,7 +582,7 @@
       "configuredFeeds": 9,
       "health": {
         "feedUrl": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-IN&gl=IN&ceid=IN:en",
-        "items": 19,
+        "items": 18,
         "ok": true,
         "section": "entertainment"
       },
