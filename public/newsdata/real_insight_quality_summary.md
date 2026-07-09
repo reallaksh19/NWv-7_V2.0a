@@ -2,17 +2,17 @@
 
 - Status: **PASS**
 - Reason: -
-- Grade: `C`
+- Grade: `B`
 - Parents: `10`
-- Average angles: `1.5`
+- Average angles: `1.9`
 - Average temporal tiers: `1.7`
-- Average evolution roles: `1.7`
-- Base report share: `0.15`
-- Multi-angle parents: `5`
-- Weak parents: `5`
-- Story count: `603`
+- Average evolution roles: `1.8`
+- Base report share: `0.38095238095238093`
+- Multi-angle parents: `9`
+- Weak parents: `1`
+- Story count: `661`
 - Source groups: `10`
-- Content hash: `653ba90394888fce`
+- Content hash: `68316ae1e8c59b09`
 
 ## Top parents
 
@@ -20,27 +20,27 @@
 |---:|---|---:|---|---|---:|
 | 1 | Tehran targets Bahrain, Kuwait after US strikes and limits Iran's oil sales over ship attacks | 2 | fact_update, base_report | NO | 0.6834967197849984 |
 | 2 | New U.S. attacks on Iran were absolutely necessary, NATO chief says | 2 | market_reaction, official_response | NO | 0.6732467197849983 |
-| 3 | 'Lust for murder': German doctor who killed 15 patients gets life term; suspected in 76 more deaths | 2 | base_report, fact_update | NO | 0.61211 |
-| 4 | Trump | 2 | official_response, base_report | NO | 0.58191 |
-| 5 | 2 girls attacked with weapon at Germany school, teenager arrested | 2 | official_response, investigative_detail | NO | 0.58111 |
-| 6 | Nuvama, Cushman & Wakefield-backed realty fund raises Rs 4,000 cr | 2 | fact_update | YES | 0.7666133864516651 |
-| 7 | Trump says Iran ceasefire ‘over’ after fighting flares | 2 | official_response | YES | 0.6732467197849983 |
-| 8 | India estimates 300 GW power demand next year, backs local clean-energy manufacturing | 2 | regional_followup | YES | 0.5952732802150018 |
-| 9 | India news LIVE updates, 8 July 2026: Baruipur rape-murder accused shot dead in encounter, Mumbai airport near-miss as two Air India flights face off on runway, US hits 80 Iranian targets after Hormuz attacks - The Indian Express | 2 | fact_update | YES | 0.6135800531183317 |
-| 10 | Trump's Board of Peace planning pilot humanitarian zone in Gaza, official says | 2 | official_response | YES | 0.5395933333333333 |
+| 3 | US charges puts gangsters Lawrence Bishnoi and Goldy Brar at centre of transnational murder, stops short of accusing India | 3 | base_report, official_response | NO | 0.619081054304934 |
+| 4 | 'Lust for murder': German doctor who killed 15 patients gets life term; suspected in 76 more deaths | 2 | base_report, fact_update | NO | 0.61211 |
+| 5 | Trump | 2 | official_response, base_report | NO | 0.60191 |
+| 6 | 2 girls attacked with weapon at Germany school, teenager arrested | 2 | official_response, investigative_detail | NO | 0.60111 |
+| 7 | New Zealand announces 57% tariff-free exports to India ahead of Modi visit | 2 | official_response, base_report | NO | 0.5945899468816684 |
+| 8 | India, Australia to expand partnership in critical minerals, clean energy - The Economic Times | 2 | base_report, fact_update | NO | 0.5732433333333333 |
+| 9 | India, Australia unveil new defence declaration to deepen Indo-Pacific cooperation | 2 | official_response, base_report | NO | 0.5485933333333333 |
+| 10 | Nuvama, Cushman & Wakefield-backed realty fund raises Rs 4,000 cr | 2 | fact_update | YES | 0.7666133864516651 |
 
 ## Real Snapshot Ratchet Gate
 
 - Status: **FAIL**
 - Gate version: `real-insight-snapshot-ratchet-v1`
-- Grade: `C`
+- Grade: `B`
 - Score: `76`
 - Parents: `10`
-- Average angles: `1.5`
+- Average angles: `1.9`
 - Average temporal tiers: `1.7`
-- Average evolution roles: `1.7`
-- Base report share: `0.15`
-- Multi-angle parents: `5`
+- Average evolution roles: `1.8`
+- Base report share: `0.381`
+- Multi-angle parents: `9`
 - Top parent angles: `2`
 - Top parent children: `2`
 
@@ -50,12 +50,12 @@
 
 ### Passed gates
 
-- Real snapshot grade floor: `C` / `A/B/C`
+- Real snapshot grade floor: `B` / `A/B/C`
 - Parent cluster count: `10` / `>= 3`
-- Average visible angle count: `1.5` / `>= 1.4`
-- Average evolution role count: `1.7` / `>= 1.6`
-- Base report share: `0.15` / `<= 0.55`
-- Multi-angle parent count: `5` / `>= 1`
+- Average visible angle count: `1.9` / `>= 1.4`
+- Average evolution role count: `1.8` / `>= 1.6`
+- Base report share: `0.381` / `<= 0.55`
+- Multi-angle parent count: `9` / `>= 1`
 - Top parent angle count: `2` / `>= 2`
 - Top parent child depth: `2` / `>= 2`
-- Weak parent ratio: `0.5` / `<= 0.5`
+- Weak parent ratio: `0.1` / `<= 0.5`
