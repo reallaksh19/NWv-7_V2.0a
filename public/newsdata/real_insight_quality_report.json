@@ -1,16 +1,16 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1783591633993,
-  "contentHash": "68316ae1e8c59b09",
+  "generatedAt": 1783604155690,
+  "contentHash": "e0e0456155c079f4",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 661,
-  "sourceGroupCount": 10,
+  "storyCount": 698,
+  "sourceGroupCount": 9,
   "grade": "B",
   "parentCount": 10,
   "avgAngles": 1.9,
-  "avgTemporalTiers": 1.7,
+  "avgTemporalTiers": 1.8,
   "avgEvolutionRoles": 1.8,
   "baseReportShare": 0.38095238095238093,
   "multiAngleCount": 9,
@@ -26,7 +26,7 @@
       "signalScore": 65,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 592,
+      "storyCount": 630,
       "risingCount": 1,
       "thinCount": 1,
       "multiAngleCount": 9,
@@ -34,7 +34,7 @@
       "strongAngleCount": 0,
       "avgAngles": 1.9,
       "avgChildren": 2.1,
-      "avgScore": 0.627399449387493,
+      "avgScore": 0.6289994493874931,
       "sourceDiversityCoverage": 10,
       "snapshotCoverage": 6,
       "coverageLabel": "9/10",
@@ -43,7 +43,7 @@
         "No cluster currently exposes three or more visible child angles.",
         "4 cluster(s) have weak snapshot coverage.",
         "1 cluster(s) are marked thin.",
-        "691 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "681 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
@@ -53,7 +53,7 @@
       "signalScore": 65,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 592,
+      "storyCount": 630,
       "risingCount": 1,
       "thinCount": 1,
       "multiAngleCount": 9,
@@ -61,7 +61,7 @@
       "strongAngleCount": 0,
       "avgAngles": 1.9,
       "avgChildren": 2.1,
-      "avgScore": 0.627399449387493,
+      "avgScore": 0.6289994493874931,
       "sourceDiversityCoverage": 10,
       "snapshotCoverage": 6,
       "coverageLabel": "9/10",
@@ -70,13 +70,13 @@
         "No cluster currently exposes three or more visible child angles.",
         "4 cluster(s) have weak snapshot coverage.",
         "1 cluster(s) are marked thin.",
-        "691 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "681 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_391_9ee978a2bc32e8fb",
+      "parentId": "cluster_449_9ee978a2bc32e8fb",
       "headline": "Tehran targets Bahrain, Kuwait after US strikes and limits Iran's oil sales over ship attacks",
       "score": 0.6834967197849984,
       "postTreeScore": 1.0635,
@@ -96,7 +96,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_364_1b10261cf8ec84d2",
+      "parentId": "cluster_422_1b10261cf8ec84d2",
       "headline": "New U.S. attacks on Iran were absolutely necessary, NATO chief says",
       "score": 0.6732467197849983,
       "postTreeScore": 1.0532,
@@ -117,7 +117,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_397_6a1c90727ad680d0",
+      "parentId": "cluster_455_6a1c90727ad680d0",
       "headline": "US charges puts gangsters Lawrence Bishnoi and Goldy Brar at centre of transnational murder, stops short of accusing India",
       "score": 0.619081054304934,
       "postTreeScore": 1.0391,
@@ -138,7 +138,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_275_6eb8a77397386bc0",
+      "parentId": "cluster_332_6eb8a77397386bc0",
       "headline": "'Lust for murder': German doctor who killed 15 patients gets life term; suspected in 76 more deaths",
       "score": 0.61211,
       "postTreeScore": 1.0121,
@@ -158,7 +158,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_156_3c468d6d762e0fa6",
+      "parentId": "cluster_213_3c468d6d762e0fa6",
       "headline": "Trump",
       "score": 0.60191,
       "postTreeScore": 1.0019,
@@ -179,7 +179,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_153_3ef9490213562868",
+      "parentId": "cluster_210_3ef9490213562868",
       "headline": "2 girls attacked with weapon at Germany school, teenager arrested",
       "score": 0.60111,
       "postTreeScore": 1.0011,
@@ -199,7 +199,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_9_15485cc2730e4452",
+      "parentId": "cluster_65_15485cc2730e4452",
       "headline": "New Zealand announces 57% tariff-free exports to India ahead of Modi visit",
       "score": 0.5945899468816684,
       "postTreeScore": 0.9946,
@@ -220,7 +220,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_37_76c70eeead844e34",
+      "parentId": "cluster_93_76c70eeead844e34",
       "headline": "India, Australia to expand partnership in critical minerals, clean energy - The Economic Times",
       "score": 0.5732433333333333,
       "postTreeScore": 0.9732,
@@ -241,17 +241,18 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_57_7a53db0c612d6686",
-      "headline": "India, Australia unveil new defence declaration to deepen Indo-Pacific cooperation",
-      "score": 0.5485933333333333,
-      "postTreeScore": 0.9486,
+      "parentId": "cluster_26_c9307bee90b6a4e8",
+      "headline": "Eye on Indo-Pacific: India and Australia deepen ties across nuclear, maritime and mineral sectors",
+      "score": 0.5645933333333333,
+      "postTreeScore": 0.9646,
       "childCount": 2,
       "angles": [
         "official_response",
         "base_report"
       ],
       "temporalTiers": [
-        "breaking"
+        "breaking",
+        "established"
       ],
       "evolutionRoles": [
         "first_report",
@@ -261,7 +262,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_328_6e34de537b5024bc",
+      "parentId": "cluster_385_6e34de537b5024bc",
       "headline": "Nuvama, Cushman & Wakefield-backed realty fund raises Rs 4,000 cr",
       "score": 0.7666133864516651,
       "postTreeScore": 0.6566,
@@ -283,10 +284,10 @@
   "warnings": [],
   "errors": [],
   "ratchetGate": {
-    "status": "FAIL",
+    "status": "PASS",
     "gateVersion": "real-insight-snapshot-ratchet-v1",
     "grade": "B",
-    "score": 76,
+    "score": 100,
     "passed": [
       {
         "id": "grade-floor",
@@ -305,6 +306,12 @@
         "label": "Average visible angle count",
         "actual": 1.9,
         "required": ">= 1.4"
+      },
+      {
+        "id": "avg-temporal-tier-count",
+        "label": "Average temporal tier count",
+        "actual": 1.8,
+        "required": ">= 1.8"
       },
       {
         "id": "avg-evolution-role-count",
@@ -343,20 +350,11 @@
         "required": "<= 0.5"
       }
     ],
-    "failed": [
-      {
-        "id": "avg-temporal-tier-count",
-        "label": "Average temporal tier count",
-        "actual": 1.7,
-        "required": ">= 1.8",
-        "severity": "fail",
-        "fix": "C+E output should cover multiple event-time tiers, not only source buckets."
-      }
-    ],
+    "failed": [],
     "summary": {
       "parentCount": 10,
       "avgAngles": 1.9,
-      "avgTemporalTiers": 1.7,
+      "avgTemporalTiers": 1.8,
       "avgEvolutionRoles": 1.8,
       "baseReportShare": 0.381,
       "multiAngleCount": 9,
@@ -364,8 +362,8 @@
       "weakParentRatio": 0.1,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 661,
-      "sourceGroupCount": 10
+      "storyCount": 698,
+      "sourceGroupCount": 9
     }
   }
 }

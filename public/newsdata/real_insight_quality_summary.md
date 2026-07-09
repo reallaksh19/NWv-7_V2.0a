@@ -5,14 +5,14 @@
 - Grade: `B`
 - Parents: `10`
 - Average angles: `1.9`
-- Average temporal tiers: `1.7`
+- Average temporal tiers: `1.8`
 - Average evolution roles: `1.8`
 - Base report share: `0.38095238095238093`
 - Multi-angle parents: `9`
 - Weak parents: `1`
-- Story count: `661`
-- Source groups: `10`
-- Content hash: `68316ae1e8c59b09`
+- Story count: `698`
+- Source groups: `9`
+- Content hash: `e0e0456155c079f4`
 
 ## Top parents
 
@@ -26,18 +26,18 @@
 | 6 | 2 girls attacked with weapon at Germany school, teenager arrested | 2 | official_response, investigative_detail | NO | 0.60111 |
 | 7 | New Zealand announces 57% tariff-free exports to India ahead of Modi visit | 2 | official_response, base_report | NO | 0.5945899468816684 |
 | 8 | India, Australia to expand partnership in critical minerals, clean energy - The Economic Times | 2 | base_report, fact_update | NO | 0.5732433333333333 |
-| 9 | India, Australia unveil new defence declaration to deepen Indo-Pacific cooperation | 2 | official_response, base_report | NO | 0.5485933333333333 |
+| 9 | Eye on Indo-Pacific: India and Australia deepen ties across nuclear, maritime and mineral sectors | 2 | official_response, base_report | NO | 0.5645933333333333 |
 | 10 | Nuvama, Cushman & Wakefield-backed realty fund raises Rs 4,000 cr | 2 | fact_update | YES | 0.7666133864516651 |
 
 ## Real Snapshot Ratchet Gate
 
-- Status: **FAIL**
+- Status: **PASS**
 - Gate version: `real-insight-snapshot-ratchet-v1`
 - Grade: `B`
-- Score: `76`
+- Score: `100`
 - Parents: `10`
 - Average angles: `1.9`
-- Average temporal tiers: `1.7`
+- Average temporal tiers: `1.8`
 - Average evolution roles: `1.8`
 - Base report share: `0.381`
 - Multi-angle parents: `9`
@@ -46,13 +46,14 @@
 
 ### Failed gates
 
-- **Average temporal tier count** — actual `1.7`, required `>= 1.8`. Fix: C+E output should cover multiple event-time tiers, not only source buckets.
+- None
 
 ### Passed gates
 
 - Real snapshot grade floor: `B` / `A/B/C`
 - Parent cluster count: `10` / `>= 3`
 - Average visible angle count: `1.9` / `>= 1.4`
+- Average temporal tier count: `1.8` / `>= 1.8`
 - Average evolution role count: `1.8` / `>= 1.6`
 - Base report share: `0.381` / `<= 0.55`
 - Multi-angle parent count: `9` / `>= 1`
