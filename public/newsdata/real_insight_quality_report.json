@@ -1,12 +1,12 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1783626934777,
-  "contentHash": "5e72df5b08b3e179",
+  "generatedAt": 1783632525669,
+  "contentHash": "3881614bdb833017",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 670,
-  "sourceGroupCount": 9,
+  "storyCount": 687,
+  "sourceGroupCount": 10,
   "grade": "C",
   "parentCount": 10,
   "avgAngles": 1.8,
@@ -23,10 +23,10 @@
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 60,
+      "signalScore": 58,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 610,
+      "storyCount": 621,
       "risingCount": 0,
       "thinCount": 2,
       "multiAngleCount": 8,
@@ -34,26 +34,26 @@
       "strongAngleCount": 0,
       "avgAngles": 1.8,
       "avgChildren": 2.1,
-      "avgScore": 0.6198125161019977,
+      "avgScore": 0.6322098600589973,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 7,
+      "snapshotCoverage": 5,
       "coverageLabel": "8/10",
       "warnings": [
         "2 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "3 cluster(s) have weak snapshot coverage.",
+        "5 cluster(s) have weak snapshot coverage.",
         "2 cluster(s) are marked thin.",
-        "601 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "661 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 60,
+      "signalScore": 58,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 610,
+      "storyCount": 621,
       "risingCount": 0,
       "thinCount": 2,
       "multiAngleCount": 8,
@@ -61,22 +61,43 @@
       "strongAngleCount": 0,
       "avgAngles": 1.8,
       "avgChildren": 2.1,
-      "avgScore": 0.6198125161019977,
+      "avgScore": 0.6322098600589973,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 7,
+      "snapshotCoverage": 5,
       "coverageLabel": "8/10",
       "warnings": [
         "2 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "3 cluster(s) have weak snapshot coverage.",
+        "5 cluster(s) have weak snapshot coverage.",
         "2 cluster(s) are marked thin.",
-        "601 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "661 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_568_9ee978a2bc32e8fb",
+      "parentId": "cluster_186_15485cc2730e4452",
+      "headline": "New Zealand announces 57% tariff-free exports to India ahead of Modi visit",
+      "score": 0.6945633864516649,
+      "postTreeScore": 1.0746,
+      "childCount": 2,
+      "angles": [
+        "official_response",
+        "base_report"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "developing"
+      ],
+      "evolutionRoles": [
+        "first_report",
+        "corroboration"
+      ],
+      "baseReportShare": 0.5,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_586_9ee978a2bc32e8fb",
       "headline": "Tehran targets Bahrain, Kuwait after US strikes and limits Iran's oil sales over ship attacks",
       "score": 0.6834967197849984,
       "postTreeScore": 1.0635,
@@ -96,31 +117,10 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_173_15485cc2730e4452",
-      "headline": "New Zealand announces 57% tariff-free exports to India ahead of Modi visit",
-      "score": 0.6265766666666668,
-      "postTreeScore": 1.0266,
-      "childCount": 2,
-      "angles": [
-        "official_response",
-        "base_report"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "developing"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "corroboration"
-      ],
-      "baseReportShare": 0.5,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_448_6eb8a77397386bc0",
+      "parentId": "cluster_466_6eb8a77397386bc0",
       "headline": "'Lust for murder': German doctor who killed 15 patients gets life term; suspected in 76 more deaths",
-      "score": 0.61211,
-      "postTreeScore": 1.0121,
+      "score": 0.6680967197849983,
+      "postTreeScore": 1.0481,
       "childCount": 2,
       "angles": [
         "base_report",
@@ -137,7 +137,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_325_3c468d6d762e0fa6",
+      "parentId": "cluster_342_3c468d6d762e0fa6",
       "headline": "Trump",
       "score": 0.60191,
       "postTreeScore": 1.0019,
@@ -158,7 +158,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_322_3ef9490213562868",
+      "parentId": "cluster_338_3ef9490213562868",
       "headline": "2 girls attacked with weapon at Germany school, teenager arrested",
       "score": 0.60111,
       "postTreeScore": 1.0011,
@@ -178,7 +178,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_47_e46e226f8ea4abcd",
+      "parentId": "cluster_59_e46e226f8ea4abcd",
       "headline": "India and Australia Deepen Defence Ties: What It Means for the Indo-Pacific | Above the Fold | 09.07.2026",
       "score": 0.5765916683316485,
       "postTreeScore": 0.9966,
@@ -200,7 +200,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_201_76c70eeead844e34",
+      "parentId": "cluster_214_76c70eeead844e34",
       "headline": "India, Australia to expand partnership in critical minerals, clean energy - The Economic Times",
       "score": 0.5732433333333333,
       "postTreeScore": 0.9732,
@@ -221,7 +221,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_207_f1fc3c147523059b",
+      "parentId": "cluster_220_f1fc3c147523059b",
       "headline": "How undercover agents and informants helped the FBI unravel Lawrence Bishnoi’s gang | Explained",
       "score": 0.5545933333333333,
       "postTreeScore": 0.9546,
@@ -241,7 +241,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_317_da6090dc5cceba59",
+      "parentId": "cluster_333_da6090dc5cceba59",
       "headline": "India estimates 300 GW power demand next year, backs local clean-energy manufacturing",
       "score": 0.6952467197849983,
       "postTreeScore": 0.5852,
@@ -261,7 +261,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_486_51d07193727801fd",
+      "parentId": "cluster_504_51d07193727801fd",
       "headline": "Trump says Iran ceasefire ‘over’ after fighting flares",
       "score": 0.6732467197849983,
       "postTreeScore": 0.5632,
@@ -365,8 +365,8 @@
       "weakParentRatio": 0.2,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 670,
-      "sourceGroupCount": 9
+      "storyCount": 687,
+      "sourceGroupCount": 10
     }
   }
 }

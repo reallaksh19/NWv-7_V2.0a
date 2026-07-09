@@ -10,17 +10,17 @@
 - Base report share: `0.3333333333333333`
 - Multi-angle parents: `8`
 - Weak parents: `2`
-- Story count: `670`
-- Source groups: `9`
-- Content hash: `5e72df5b08b3e179`
+- Story count: `687`
+- Source groups: `10`
+- Content hash: `3881614bdb833017`
 
 ## Top parents
 
 | # | Headline | Children | Angles | Weak | Score |
 |---:|---|---:|---|---|---:|
-| 1 | Tehran targets Bahrain, Kuwait after US strikes and limits Iran's oil sales over ship attacks | 2 | fact_update, base_report | NO | 0.6834967197849984 |
-| 2 | New Zealand announces 57% tariff-free exports to India ahead of Modi visit | 2 | official_response, base_report | NO | 0.6265766666666668 |
-| 3 | 'Lust for murder': German doctor who killed 15 patients gets life term; suspected in 76 more deaths | 2 | base_report, fact_update | NO | 0.61211 |
+| 1 | New Zealand announces 57% tariff-free exports to India ahead of Modi visit | 2 | official_response, base_report | NO | 0.6945633864516649 |
+| 2 | Tehran targets Bahrain, Kuwait after US strikes and limits Iran's oil sales over ship attacks | 2 | fact_update, base_report | NO | 0.6834967197849984 |
+| 3 | 'Lust for murder': German doctor who killed 15 patients gets life term; suspected in 76 more deaths | 2 | base_report, fact_update | NO | 0.6680967197849983 |
 | 4 | Trump | 2 | official_response, base_report | NO | 0.60191 |
 | 5 | 2 girls attacked with weapon at Germany school, teenager arrested | 2 | official_response, investigative_detail | NO | 0.60111 |
 | 6 | India and Australia Deepen Defence Ties: What It Means for the Indo-Pacific / Above the Fold / 09.07.2026 | 3 | official_response, base_report | NO | 0.5765916683316485 |
