@@ -60,7 +60,7 @@
       "gateResults": [
         {
           "details": {
-            "itemCount": 10
+            "itemCount": 9
           },
           "name": "insightEventPool",
           "reason": "rankable Insight event pool",
@@ -79,14 +79,14 @@
         "avgAnglesPerParent": 0.0,
         "baseReportHeavyParents": 0,
         "duplicateChildrenSuppressed": 0,
-        "inputCandidateCount": 10,
-        "parentClusters": 10,
-        "strongParents": 10,
+        "inputCandidateCount": 9,
+        "parentClusters": 9,
+        "strongParents": 9,
         "suppressedCandidateCount": 0,
         "weakParentsDemoted": 0
       },
       "qualityGrade": "F",
-      "qualityScore": 0.3706,
+      "qualityScore": 0.3738,
       "qualityStatus": "WARN",
       "rankedItems": [
         {
@@ -708,14 +708,14 @@
               "status": "PASS"
             }
           ],
-          "id": "sketch:fcde5c7120",
+          "id": "sketch:571f280dd5",
           "item": {
             "angleCount": 1,
             "baseReportRatio": 0.0,
             "childScores": [],
-            "id": "sketch:fcde5c7120",
-            "representativeId": "cefd0947496f8de7",
-            "representativeTitle": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial",
+            "id": "sketch:571f280dd5",
+            "representativeId": "17484e8f2c91c3d1",
+            "representativeTitle": "Dow Jones| Nasdaq | S&P 500 | US Stock Market Today | Live: US stock futures rebound as oil retreats, investors weigh US-Iran tensions",
             "scoreBreakdown": {
               "angleDiversityScore": 0.25,
               "eventImportanceScore": 0.59,
@@ -727,16 +727,16 @@
             },
             "slotCount": 1,
             "slots": [
-              "minus24h"
+              "now"
             ],
             "sourceGroupCount": 1,
             "sourceGroups": [
-              "moneycontrol"
+              "economic_times"
             ],
             "storyCount": 2,
             "storyIds": [
-              "cefd0947496f8de7",
-              "d0020e471404281a"
+              "17484e8f2c91c3d1",
+              "e7a6e129b2506ace"
             ],
             "topAngles": [
               {
@@ -745,12 +745,12 @@
               }
             ],
             "topTokens": [
-              "bajaj",
-              "finance",
-              "target",
-              "emkay"
+              "stock",
+              "jones",
+              "nasdaq",
+              "market"
             ],
-            "topicKey": "bajaj|finance|target"
+            "topicKey": "stock|jones|nasdaq"
           },
           "locationKey": "event",
           "rankingReasons": [
@@ -759,7 +759,7 @@
             "one-source event candidate"
           ],
           "score": 0.389,
-          "title": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial"
+          "title": "Dow Jones| Nasdaq | S&P 500 | US Stock Market Today | Live: US stock futures rebound as oil retreats, investors weigh US-Iran tensions"
         },
         {
           "category": "insightEvent",
@@ -818,14 +818,14 @@
               "status": "PASS"
             }
           ],
-          "id": "sketch:571f280dd5",
+          "id": "sketch:ae390abab1",
           "item": {
             "angleCount": 1,
             "baseReportRatio": 0.0,
             "childScores": [],
-            "id": "sketch:571f280dd5",
-            "representativeId": "17484e8f2c91c3d1",
-            "representativeTitle": "Dow Jones| Nasdaq | S&P 500 | US Stock Market Today | Live: US stock futures rebound as oil retreats, investors weigh US-Iran tensions",
+            "id": "sketch:ae390abab1",
+            "representativeId": "16eb6be69fe155a6",
+            "representativeTitle": "England and India ready for ground-breaking first women's test at Lord's - The Economic Times",
             "scoreBreakdown": {
               "angleDiversityScore": 0.25,
               "eventImportanceScore": 0.59,
@@ -841,26 +841,26 @@
             ],
             "sourceGroupCount": 1,
             "sourceGroups": [
-              "economic_times"
+              "google_news"
             ],
             "storyCount": 2,
             "storyIds": [
-              "17484e8f2c91c3d1",
-              "e7a6e129b2506ace"
+              "16eb6be69fe155a6",
+              "fcf3a8daf1266b6c"
             ],
             "topAngles": [
               {
-                "angle": "market_reaction",
+                "angle": "fact_update",
                 "count": 2
               }
             ],
             "topTokens": [
-              "stock",
-              "jones",
-              "nasdaq",
-              "market"
+              "england",
+              "india",
+              "ready",
+              "ground-breaking"
             ],
-            "topicKey": "stock|jones|nasdaq"
+            "topicKey": "england|india|ready"
           },
           "locationKey": "event",
           "rankingReasons": [
@@ -869,7 +869,7 @@
             "one-source event candidate"
           ],
           "score": 0.389,
-          "title": "Dow Jones| Nasdaq | S&P 500 | US Stock Market Today | Live: US stock futures rebound as oil retreats, investors weigh US-Iran tensions"
+          "title": "England and India ready for ground-breaking first women's test at Lord's - The Economic Times"
         },
         {
           "category": "insightEvent",
@@ -995,117 +995,6 @@
             },
             {
               "details": {
-                "baseReportRatio": 0.0,
-                "distinctAngles": 1
-              },
-              "name": "angleDiversity",
-              "reason": "weak child angle diversity",
-              "score": 0.25,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "sourceGroupCount": 1
-              },
-              "name": "sourceDiversity",
-              "reason": "one-source event candidate",
-              "score": 0.35,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "baseReportRatio": 0.0
-              },
-              "name": "baseReportCap",
-              "reason": "base-report ratio controlled",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "childCount": 2
-              },
-              "name": "weakTree",
-              "reason": "child tree has enough depth",
-              "score": 0.5,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "duplicateChildren",
-              "reason": "no child objects to dedup",
-              "score": 0.7,
-              "status": "PASS"
-            }
-          ],
-          "id": "sketch:c8dc31c381",
-          "item": {
-            "angleCount": 1,
-            "baseReportRatio": 0.0,
-            "childScores": [],
-            "id": "sketch:c8dc31c381",
-            "representativeId": "a16de94f0126c6ce",
-            "representativeTitle": "Sun Pharma among 4 stocks to hit 52-week highs & rally up to 25% in a month",
-            "scoreBreakdown": {
-              "angleDiversityScore": 0.25,
-              "eventImportanceScore": 0.59,
-              "freshnessScore": 0.0,
-              "noveltyDeltaScore": 0.44999999999999996,
-              "sourceAuthorityScore": 0.38,
-              "sourceDiversityScore": 0.35,
-              "temporalEvolutionScore": 0.37
-            },
-            "slotCount": 1,
-            "slots": [
-              "now"
-            ],
-            "sourceGroupCount": 1,
-            "sourceGroups": [
-              "economic_times"
-            ],
-            "storyCount": 2,
-            "storyIds": [
-              "a16de94f0126c6ce",
-              "7f1a7cbfdf12309d"
-            ],
-            "topAngles": [
-              {
-                "angle": "market_reaction",
-                "count": 2
-              }
-            ],
-            "topTokens": [
-              "stocks",
-              "52-week",
-              "highs",
-              "pharma",
-              "despite"
-            ],
-            "topicKey": "stocks|52-week|highs"
-          },
-          "locationKey": "event",
-          "rankingReasons": [
-            "event sketch has repeated story count",
-            "weak child angle diversity",
-            "one-source event candidate"
-          ],
-          "score": 0.389,
-          "title": "Sun Pharma among 4 stocks to hit 52-week highs & rally up to 25% in a month"
-        },
-        {
-          "category": "insightEvent",
-          "gates": [
-            {
-              "details": {
-                "storyCount": 2
-              },
-              "name": "eventCoherence",
-              "reason": "event sketch has repeated story count",
-              "score": 0.62,
-              "status": "PASS"
-            },
-            {
-              "details": {
                 "baseReportRatio": 0.5,
                 "distinctAngles": 1
               },
@@ -1212,12 +1101,12 @@
       "rankingProfile": "insight-v2-event-angle-tree",
       "scoreBreakdown": {
         "angleDiversityScore": 0.25,
-        "eventImportanceScore": 0.626,
+        "eventImportanceScore": 0.63,
         "freshnessScore": 0.0,
-        "noveltyDeltaScore": 0.46,
-        "sourceAuthorityScore": 0.428,
-        "sourceDiversityScore": 0.424,
-        "temporalEvolutionScore": 0.406
+        "noveltyDeltaScore": 0.4611,
+        "sourceAuthorityScore": 0.4333,
+        "sourceDiversityScore": 0.4322,
+        "temporalEvolutionScore": 0.41
       }
     },
     "localTravel": {
@@ -1277,7 +1166,7 @@
     },
     "upAhead": {
       "actionableFindings": [
-        "24 invalid/expired/duplicate Up Ahead item(s) suppressed",
+        "25 invalid/expired/duplicate Up Ahead item(s) suppressed",
         "no active offer items in ranked Up Ahead set",
         "no ranked Up Ahead item for muscat"
       ],
@@ -1348,7 +1237,7 @@
         "onlineOffers": 0,
         "plannerAdvisoryItems": 30,
         "rankedItemCount": 30,
-        "suppressedItemCount": 24
+        "suppressedItemCount": 25
       },
       "qualityGrade": "B",
       "qualityScore": 0.8518,
@@ -4817,7 +4706,7 @@
       }
     }
   },
-  "generatedAt": 1783632526801,
+  "generatedAt": 1783642321892,
   "implementedDestinations": [
     "upAhead",
     "buzz",
@@ -4836,7 +4725,7 @@
   "schemaVersion": 1,
   "summary": {
     "actionRequired": [
-      "24 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "25 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no active offer items in ranked Up Ahead set",
       "no ranked Up Ahead item for muscat",
       "no local Buzz item in ranked set",
@@ -4850,7 +4739,7 @@
     ],
     "destinationScores": {
       "buzz": 0.0,
-      "insight": 0.3706,
+      "insight": 0.3738,
       "localTravel": 0.0,
       "upAhead": 0.8518
     },
@@ -4860,7 +4749,7 @@
       "localTravel": "FAIL",
       "upAhead": "WARN"
     },
-    "overallScore": 0.3056,
+    "overallScore": 0.3064,
     "overallStatus": "FAIL",
     "rankingProfiles": {
       "buzz": "buzz-v2-trend-local-travel",
