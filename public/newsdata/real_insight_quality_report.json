@@ -1,18 +1,18 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1783712540774,
-  "contentHash": "3ee9b9854adba048",
+  "generatedAt": 1783717952529,
+  "contentHash": "c5ae909f6a0f1ae6",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 684,
+  "storyCount": 662,
   "sourceGroupCount": 9,
   "grade": "B",
   "parentCount": 10,
   "avgAngles": 2,
-  "avgTemporalTiers": 2,
-  "avgEvolutionRoles": 2.1,
-  "baseReportShare": 0.3333333333333333,
+  "avgTemporalTiers": 2.1,
+  "avgEvolutionRoles": 2,
+  "baseReportShare": 0.2857142857142857,
   "multiAngleCount": 10,
   "weakParentCount": 0,
   "runtimeQualityGate": {
@@ -26,22 +26,22 @@
       "signalScore": 67,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 631,
-      "risingCount": 1,
+      "storyCount": 614,
+      "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 10,
       "lowAngleCount": 0,
       "strongAngleCount": 0,
       "avgAngles": 2,
       "avgChildren": 2.1,
-      "avgScore": 0.6520874706348257,
+      "avgScore": 0.6476821319896592,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 3,
+      "snapshotCoverage": 5,
       "coverageLabel": "10/10",
       "warnings": [
         "No cluster currently exposes three or more visible child angles.",
-        "7 cluster(s) have weak snapshot coverage.",
-        "530 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "5 cluster(s) have weak snapshot coverage.",
+        "480 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
@@ -51,31 +51,31 @@
       "signalScore": 67,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 631,
-      "risingCount": 1,
+      "storyCount": 614,
+      "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 10,
       "lowAngleCount": 0,
       "strongAngleCount": 0,
       "avgAngles": 2,
       "avgChildren": 2.1,
-      "avgScore": 0.6520874706348257,
+      "avgScore": 0.6476821319896592,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 3,
+      "snapshotCoverage": 5,
       "coverageLabel": "10/10",
       "warnings": [
         "No cluster currently exposes three or more visible child angles.",
-        "7 cluster(s) have weak snapshot coverage.",
-        "530 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "5 cluster(s) have weak snapshot coverage.",
+        "480 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_10_8fea6267bf260121",
+      "parentId": "cluster_22_8fea6267bf260121",
       "headline": "Former DGP Vaikunth no more",
-      "score": 0.6956810543049341,
-      "postTreeScore": 1.1157,
+      "score": 0.7396810543049341,
+      "postTreeScore": 1.1797,
       "childCount": 3,
       "angles": [
         "base_report",
@@ -95,28 +95,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_549_15485cc2730e4452",
-      "headline": "New Zealand announces 57% tariff-free exports to India ahead of Modi visit",
-      "score": 0.6945633864516649,
-      "postTreeScore": 1.0746,
-      "childCount": 2,
-      "angles": [
-        "official_response",
-        "base_report"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "developing"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "corroboration"
-      ],
-      "baseReportShare": 0.5,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_85_23dd97b84ea99826",
+      "parentId": "cluster_105_23dd97b84ea99826",
       "headline": "Emirates to launch flagship airbus A380 on Dubai–Delhi route from October 25, expands premium economy in India",
       "score": 0.6874967197849983,
       "postTreeScore": 1.0675,
@@ -137,7 +116,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_289_593073c0d938ef71",
+      "parentId": "cluster_310_593073c0d938ef71",
       "headline": "PM Modi and Australian PM Albanese release Sports Collaboration Roadmap",
       "score": 0.6814967197849984,
       "postTreeScore": 1.0615,
@@ -158,7 +137,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_249_838eb7164ab471b7",
+      "parentId": "cluster_270_838eb7164ab471b7",
       "headline": "PM Modi leaves for New Zealand after concluding Australia visit - The Hindu",
       "score": 0.6758967197849983,
       "postTreeScore": 1.0559,
@@ -179,7 +158,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_272_32a995562db90c82",
+      "parentId": "cluster_293_32a995562db90c82",
       "headline": "Government Removes Import Duty on Some Electronics, Smartphone Parts",
       "score": 0.62791,
       "postTreeScore": 1.0279,
@@ -200,7 +179,28 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_243_cc98cab5e48224ef",
+      "parentId": "cluster_438_e46e226f8ea4abcd",
+      "headline": "India and Australia Deepen Defence Ties: What It Means for the Indo-Pacific | Above the Fold | 09.07.2026",
+      "score": 0.6445800531183317,
+      "postTreeScore": 1.0246,
+      "childCount": 2,
+      "angles": [
+        "base_report",
+        "official_response"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "established"
+      ],
+      "evolutionRoles": [
+        "first_report",
+        "fact_update"
+      ],
+      "baseReportShare": 0.5,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_264_cc98cab5e48224ef",
       "headline": "China successfully tests sea-based rocket booster recovery system, says state media",
       "score": 0.61351,
       "postTreeScore": 1.0135,
@@ -221,7 +221,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_5_04b5243c07a775fd",
+      "parentId": "cluster_17_04b5243c07a775fd",
       "headline": "Don’t politicise jobs to families of stampede victims: Vasan",
       "score": 0.60301,
       "postTreeScore": 1.003,
@@ -242,27 +242,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_591_f1fc3c147523059b",
-      "headline": "How undercover agents and informants helped the FBI unravel Lawrence Bishnoi’s gang | Explained",
-      "score": 0.6225800531183316,
-      "postTreeScore": 1.0026,
-      "childCount": 2,
-      "angles": [
-        "base_report",
-        "expert_analysis"
-      ],
-      "temporalTiers": [
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "cause_claim"
-      ],
-      "baseReportShare": 0.5,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_332_560f011490ebf24f",
+      "parentId": "cluster_353_560f011490ebf24f",
       "headline": "Bonnie Tyler, who topped the charts with epic 'Total Eclipse of the Heart', dies",
       "score": 0.6187300531183317,
       "postTreeScore": 0.9987,
@@ -280,6 +260,26 @@
         "corroboration"
       ],
       "baseReportShare": 0.5,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_111_7ddf363267be8980",
+      "headline": "Government examining WhatsApp’s reply on ‘usernames’ notice: Sources",
+      "score": 0.5845100000000001,
+      "postTreeScore": 0.9845,
+      "childCount": 2,
+      "angles": [
+        "official_response",
+        "investigative_detail"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "established"
+      ],
+      "evolutionRoles": [
+        "official_response"
+      ],
+      "baseReportShare": 0,
       "weakTree": false
     }
   ],
@@ -312,19 +312,19 @@
       {
         "id": "avg-temporal-tier-count",
         "label": "Average temporal tier count",
-        "actual": 2,
+        "actual": 2.1,
         "required": ">= 1.8"
       },
       {
         "id": "avg-evolution-role-count",
         "label": "Average evolution role count",
-        "actual": 2.1,
+        "actual": 2,
         "required": ">= 1.6"
       },
       {
         "id": "base-report-share",
         "label": "Base report share",
-        "actual": 0.333,
+        "actual": 0.286,
         "required": "<= 0.55"
       },
       {
@@ -356,15 +356,15 @@
     "summary": {
       "parentCount": 10,
       "avgAngles": 2,
-      "avgTemporalTiers": 2,
-      "avgEvolutionRoles": 2.1,
-      "baseReportShare": 0.333,
+      "avgTemporalTiers": 2.1,
+      "avgEvolutionRoles": 2,
+      "baseReportShare": 0.286,
       "multiAngleCount": 10,
       "weakParentCount": 0,
       "weakParentRatio": 0,
       "topParentAngles": 2,
       "topParentChildren": 3,
-      "storyCount": 684,
+      "storyCount": 662,
       "sourceGroupCount": 9
     }
   }
