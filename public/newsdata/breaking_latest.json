@@ -1,8 +1,79 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1783698274131,
-  "contentHash": "f7ac22fae3ea",
+  "fetchedAt": 1783704560705,
+  "contentHash": "67e05f10115f",
   "breaking": [
+    {
+      "title": "Monsoon tracker LIVE: Highways blocked after landslides in hill states; floods in Mizoram, Tripura trigger evacuations",
+      "summary": "2 teenagers missing in Bijnor river; 3 injured as Mirzapur road caved-in",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/monsoon-rain-live-updates-delhi-mumbai-india-imd-forecast-train-flight-cancellations-latest-updates-july-10-2026/article71205158.ece",
+      "publishedAt": 1783703240000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "69e07c176474ba56",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 6.969,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1783703240000
+    },
+    {
+      "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
+      "summary": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1783692506000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "00d3d0e79098bec7",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.721,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "the_hindu"
+      ],
+      "firstSeen": 1783690092000
+    },
+    {
+      "title": "Four alleged gangsters killed in gunfight with police in Gurugram",
+      "summary": "The gang was planning to target the house of businessman to whom they had made several extortion calls, say police; one gang member critically injured, three police personnel wounded",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/haryana/four-shooters-killed-in-gurugram-encounter-after-attack-on-businessmans-house/article71205080.ece",
+      "publishedAt": 1783702458000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "13879bfe17d816e6",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.451,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1783702458000
+    },
     {
       "title": "Three held in Greece over deadly bomb attacks targeting ruling party politicians",
       "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132315128.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Greece's anti-terrorism forces have taken swift action, detaining three individuals believed to be behind a wave of firebomb assaults targeting members of the ruling New Democracy party. Among the attacks was a tragic explosion in Thessaloniki, which claimed the life of a parliamentary candidate's mother. These arrests not only demonstrate the government's resolve to seek justice but also underscore Greece's challenging history with political extremism.",
@@ -16,7 +87,7 @@
       "id": "05f348e0a7e86253",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.467,
+      "breakingScore": 5.321,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -25,29 +96,6 @@
         "times_of_india"
       ],
       "firstSeen": 1783696834000
-    },
-    {
-      "title": "One of Spain's deadliest wildfires has killed at least 12 people, with 23 others missing",
-      "summary": "Several victims of the fire in the southern province of Almeria, a popular holiday destination, were found inside burnt-out vehicles and were thought to have died while trying to flee the flames",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/one-of-spains-deadliest-wildfires-has-killed-at-least-12-people-with-23-others-missing/article71206655.ece",
-      "publishedAt": 1783690092000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "1f98f31a6a3cd8c4",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.311,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1783690092000
     },
     {
       "title": "2 Women Killed, 16 Injured After School Bus Hits Tractor-Trolley In UP",
@@ -62,7 +110,7 @@
       "id": "950b20d115134b58",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.87,
+      "breakingScore": 3.724,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -85,7 +133,7 @@
       "id": "3b9ab43ca64d4bf0",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.831,
+      "breakingScore": 3.686,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -96,96 +144,51 @@
       "firstSeen": 1783690977000
     },
     {
-      "title": "West Asia war LIVE: Iran will respond against Israel if infrastructure attacked, security official says",
-      "summary": "Fighting picked up again this week between the U.S. and Iran in the most significant exchange of fire since the two sides signed a memorandum of understanding on June 17",
-      "source": "The Hindu International",
+      "title": "Iran has asked to continue talks, and the U.S. agreed, Trump says",
+      "summary": "The two nations reached an interim deal last month to end ‌a four-month conflict that has throttled worldwide energy supplies",
+      "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-ali-khamenei-funeral-ceremony-burial-military-strikes-donald-trump-mojtaba-khamenei-ceasefire-deal/article71205094.ece",
-      "publishedAt": 1783687528000,
+      "url": "https://www.thehindu.com/news/international/iran-has-asked-to-continue-talks-and-the-us-agreed-trump-says/article71207807.ece",
+      "publishedAt": 1783702572000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "9e71d50c1aa28776",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.954,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1783697485000
+    },
+    {
+      "title": "Watch: Police confirm 26 year-old suspect in custody",
+      "summary": "A 26-year-old man has been arrested on suspicion of murder following the death of Ann Widdecombe, police say.",
+      "source": "BBC",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/videos/c1ly3glepr1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1783703882000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "9e97f506e48664c4",
+      "id": "2c8146258a6beb8d",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.751,
+      "breakingScore": 2.484,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "the_hindu"
+        "bbc"
       ],
-      "firstSeen": 1783687528000
-    },
-    {
-      "title": "Perumbavoor court grants bail to accused in forcible tonsure of youth on suspicion of supplying ganja",
-      "summary": "Six persons were arrested in connection with the alleged assault, stripping, public humiliation and forcible tonsuring of three youths accused of supplying ganja to a schoolboy",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/perumbavoor-court-grants-bail-to-accused-in-forcible-tonsure-of-youth-on-suspicion-of-supplying-ganja/article71207280.ece",
-      "publishedAt": 1783697998000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "38eea7e2b670654d",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.494,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1783697998000
-    },
-    {
-      "title": "Massive fire breaks out at car godown in Hyderabad’s Chaderghat, no casualties reported",
-      "summary": "",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/massive-fire-breaks-out-at-car-godown-in-hyderabads-chaderghat-no-casualties-reported/article71206409.ece",
-      "publishedAt": 1783697797000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "92a8346d047f6511",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.489,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1783697797000
-    },
-    {
-      "title": "'Agreed To Continue Talks, But Ceasefire Over': Trump's Mixed Iran Message",
-      "summary": "Trump said US has agreed to continue talks for peace only because Iran has asked to continue it",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/agreed-to-continue-talks-but-ceasefire-over-trumps-mixed-iran-message-11754954#publisher=newsstand",
-      "publishedAt": 1783697485000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "d220ee620d4caafb",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.482,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1783697485000
+      "firstSeen": 1783703882000
     }
   ]
 }
