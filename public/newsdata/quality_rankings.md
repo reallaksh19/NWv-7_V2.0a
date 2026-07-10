@@ -26,4 +26,4 @@
 - no ranked local/travel item for muscat
 - no ranked local/travel item for chennai
 - no ranked local/travel item for trichy
-- Insight event/angle ranking has no critical demotion finding
+- 1 base-report-heavy Insight parent(s) demoted
