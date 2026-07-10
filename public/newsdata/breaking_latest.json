@@ -1,31 +1,102 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1783670580101,
-  "contentHash": "204552a4f4de",
+  "fetchedAt": 1783682255827,
+  "contentHash": "2546b56084b3",
   "breaking": [
     {
-      "title": "At least 12 dead and 19 missing in wildfire in southern Spain",
-      "summary": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1783669179000,
+      "title": "15 killed in Philippines landslides as Typhoon Bavi wreaks havoc, heads for Taiwan",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132309915.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Typhoon Bavi wreaked havoc in the Philippines, leading to tragic landslides that claimed the lives of at least fifteen people. The approaching storm caused significant evacuations and transport disruptions, as Taiwan braced for severe flooding and landslides, resulting in widespread school and business closures. Although weakening, the typhoon was poised to impact northern and eastern Taiwan before heading towards eastern China after affecting regions in Taiwan and Japan.",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/15-killed-in-philippines-landslides-as-typhoon-bavi-wreaks-havoc-heads-for-taiwan/articleshow/132309915.cms",
+      "publishedAt": 1783680769000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "600b0fa4eba90866",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 6.966,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 3,
+      "allSources": [
+        "bbc",
+        "ndtv",
+        "times_of_india"
+      ],
+      "firstSeen": 1783675192000
+    },
+    {
+      "title": "West Asia war LIVE: U.S.-Iran escalation could threaten 2027 oil market surplus, IEA says",
+      "summary": "Iran laid to rest its former supreme leader Ali Khamenei over four months after his killing in an airstrike, as two days of U.S. and Iranian attacks raised fears of a return to all-out war",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-ali-khamenei-funeral-ceremony-burial-military-strikes-donald-trump-mojtaba-khamenei-ceasefire-deal/article71205094.ece",
+      "publishedAt": 1783679865000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "00d3d0e79098bec7",
+      "id": "9e97f506e48664c4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.968,
+      "breakingScore": 6.945,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 2,
       "allSources": [
-        "bbc",
+        "economic_times",
         "the_hindu"
       ],
-      "firstSeen": 1783646894000
+      "firstSeen": 1783647357000
+    },
+    {
+      "title": "The deadly El Niño that killed millions in the 1870s could return in 2026",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132309279.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/science/in-the-1870s-one-of-historys-deadliest-el-nio-events-killed-millions-scientists-warn-the-upcoming-2026-event-could-rival-it/articleshow/132309279.cms",
+      "publishedAt": 1783680184000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "cbd8c1549bc4799a",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.952,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "times_of_india"
+      ],
+      "firstSeen": 1783680184000
+    },
+    {
+      "title": "How a secret CIA operation in 1953 set the stage for decades of tension between Iran and United States",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132306948.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />US-Iran hostility stems from a 1953 CIA-backed coup which removed Prime Minister Mossadegh. Britain's oil dispute with Iran triggered the crisis and led to economic pressure. The Shah's rule, supported by the US, fostered growing opposition and anger. This historical distrust fueled the 1979 revolution and subsequent US embassy hostage crisis. Ongoing tensions persist over Iran's nuclear program and regional activities.",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/us/how-a-secret-cia-operation-in-1953-set-the-stage-for-decades-of-tension-between-iran-and-united-states/articleshow/132306948.cms",
+      "publishedAt": 1783677325000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "3ccad5988dc87d47",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.886,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "times_of_india"
+      ],
+      "firstSeen": 1783677325000
     },
     {
       "title": "Israel shared intel about ‘new’ Iran plot to kill Trump: reports",
@@ -40,7 +111,7 @@
       "id": "98515a03766fd2cb",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.913,
+      "breakingScore": 3.643,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -51,90 +122,67 @@
       "firstSeen": 1783666815000
     },
     {
-      "title": "Mexican Immigrant Killed In ICE Shooting Was Not The Target: US",
-      "summary": "Family members of Lorenzo Salgado Araujo grieve at a makeshift memorial during a candlelight vigil.",
+      "title": "Stock Market Highlights, Sensex Today: Sensex Settles 827 Points Higher Amid Positive Global Cues",
+      "summary": "Sensex Today, Stock Market, Nifty, Share Market Highlights",
       "source": "NDTV",
       "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/investigation-underway-after-ice-agent-kills-unarmed-man-salgado-araujo-not-targeted-in-houston-11752237#publisher=newsstand",
-      "publishedAt": 1783665252000,
+      "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-10-july-us-iran-war-trump-oil-prices-11751809#publisher=newsstand",
+      "publishedAt": 1783678140000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "8c5ba4d3863fa713",
+      "id": "c9c991c98a260889",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.877,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1783665252000
-    },
-    {
-      "title": "Vijay Karur visit LIVE: Chief Minister announces memorial for stampede victims on behalf of TVK",
-      "summary": "Extensive security arrangements have been put in place across Karur for the Chief Minister's visit, with barricades, QR code-enabled entry passes for participants and heavy police deployment at all venues.",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-karur-visit-live-updates-stampede-victim-families-meet-tvk-party-meeting-job-order/article71205273.ece",
-      "publishedAt": 1783670122000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "7b91447473c7c2e4",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.989,
+      "breakingScore": 2.905,
       "breakingReasons": [
         "multi_source_velocity"
       ],
       "sourceCount": 2,
       "allSources": [
-        "ndtv",
-        "the_hindu"
+        "economic_times",
+        "ndtv"
       ],
-      "firstSeen": 1783665865000
+      "firstSeen": 1783673998000
     },
     {
-      "title": "Former Conservative MP, Reform UK spokesperson Ann Widdecombe dies aged 78",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132306235.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/uk/former-conservative-mp-reform-uk-spokesperson-ann-widdecombe-dies-aged-78/articleshow/132306235.cms",
-      "publishedAt": 1783669495000,
-      "category": "india",
+      "title": "China successfully tests sea-based rocket booster recovery system, says state media",
+      "summary": "Long March 10B rocket launch ​marked China’s first successful controlled ⁠recovery of a carrier ⁠rocket’s booster",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/sci-tech/china-successfully-tests-sea-based-rocket-booster-recovery-system/article71205427.ece",
+      "publishedAt": 1783670418000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "d5c501fa0246f697",
+      "id": "cc98cab5e48224ef",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.975,
+      "breakingScore": 2.726,
       "breakingReasons": [
         "multi_source_velocity"
       ],
       "sourceCount": 2,
       "allSources": [
         "bbc",
-        "times_of_india"
+        "the_hindu"
       ],
-      "firstSeen": 1783667268000
+      "firstSeen": 1783665861000
     },
     {
-      "title": "Hit-and-run twist in fatal accident in Kerala capital; car driver nabbed based on CCTV evidence",
-      "summary": "Police apprehend car driver after establishing that the motorcycle was hit from behind before the four-wheeler sped away from the scene in Thiruvallam. Two young IT professionals were killed in the incident",
+      "title": "Monsoon tracker LIVE: Monsoon fury batters several states, over 10 dead in rain-related incidents across country",
+      "summary": "Heavy rain in Himachal's Sirmaur; schools forced to shut in Paonta today",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/hit-and-run-twist-in-fatal-accident-in-kerala-capital-car-driver-nabbed-based-on-cctv-evidence/article71205539.ece",
-      "publishedAt": 1783669952000,
+      "url": "https://www.thehindu.com/news/national/monsoon-rain-live-updates-delhi-mumbai-india-imd-forecast-train-flight-cancellations-latest-updates-july-10-2026/article71205158.ece",
+      "publishedAt": 1783680618000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "0b21147596e58f34",
+      "id": "69e07c176474ba56",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.485,
+      "breakingScore": 2.462,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -142,53 +190,7 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1783669952000
-    },
-    {
-      "title": "Drunk Man Steals Bus In Telangana, Drives 21 Km Before Crashing Into Toll Gate",
-      "summary": "The accused has been taken into custody and a case has been registered, police said.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/drunk-man-steals-bus-in-telangana-drives-21-km-before-crashing-into-toll-gate-11752839#publisher=newsstand",
-      "publishedAt": 1783669729000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "44ac4d39547771d6",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.48,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1783669729000
-    },
-    {
-      "title": "Brijmohan Tyagi, Sandeep Gadoli, Batla House: A Look At Major Encounters In Delhi-NCR",
-      "summary": "Gurugram witnessed one of the most high-profile and sensational encounters, in which the police killed four shooters of fugitive gangster Deepak Nandal.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/brijmohan-tyagi-sandeep-gadoli-batla-house-a-look-at-major-encounters-in-delhi-ncr-11752777#publisher=newsstand",
-      "publishedAt": 1783669488000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "1a4b13428b036e64",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.475,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1783669488000
+      "firstSeen": 1783680618000
     }
   ]
 }
