@@ -1,12 +1,12 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1783677819321,
+  "generatedAt": 1783687367147,
   "windowDays": 7,
   "latest": {
     "insightGrade": "C",
     "insightScore": 0,
-    "totalStories": 607,
-    "usableStories36h": 591,
+    "totalStories": 625,
+    "usableStories36h": 620,
     "sourceGroups": 9,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
@@ -19,12 +19,12 @@
     "overallScore": 0.3103,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1783677817938,
+    "generatedAt": 1783687365826,
     "destinationScores": {
       "buzz": 0,
       "insight": 0.3827,
       "localTravel": 0,
-      "upAhead": 0.8586
+      "upAhead": 0.8585
     },
     "destinationStatuses": {
       "buzz": "FAIL",
@@ -60,7 +60,7 @@
       {
         "destination": "upAhead",
         "status": "WARN",
-        "score": 0.8586,
+        "score": 0.8585,
         "profile": "upAhead-v2-lifecycle-location-category"
       }
     ],
@@ -78,7 +78,7 @@
         "strongParents": 7,
         "weakParentsDemoted": 0,
         "avgAnglesPerParent": 0,
-        "baseReportHeavyParents": 1,
+        "baseReportHeavyParents": 0,
         "duplicateChildrenSuppressed": 0
       },
       "localTravel": {
@@ -92,7 +92,7 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 11,
+        "suppressedItemCount": 12,
         "events": 0,
         "onlineOffers": 0,
         "offlineOffers": 0,
@@ -105,24 +105,23 @@
       }
     },
     "topFindings": [
+      "Prime Day Is Over, But 62 of Our Favorite Deals Are Still Available - WIRED: location failed — offline/local item lacks configured location match",
       "Amazon Prime Day Early Sale Slashes MSI RTX 5060 Ti Graphics Card by 26% to ¥59,800 - finance.biggo.com: location failed — offline/local item lacks configured location match",
       "Away Promo Codes: Up to 20% Off in July 2026 - Condé Nast Traveler: location failed — offline/local item lacks configured location match",
-      "Prime Day Is Over, But 62 of Our Favorite Deals Are Still Available - WIRED: location failed — offline/local item lacks configured location match",
       "The best Pokémon deals as Prime Day wraps up — Pokémon TCG, books, games, and more on sale - Mashable: location failed — offline/local item lacks configured location match",
-      "CMDA plans to shelve projects in Chennai as it grapples with outstanding liabilities up to ₹3,500 crore: futureValidity failed — expired display window",
-      "CMDA plans to shelve projects in Chennai as it grapples with outstanding liabilities up to ₹3,500 crore: alertUrgency failed — alert expired",
-      "Minister Nirmalkumar’s claims on Parandur site are false propaganda: T.N. BJP: futureValidity failed — expired display window",
-      "Minister Nirmalkumar’s claims on Parandur site are false propaganda: T.N. BJP: alertUrgency failed — alert expired",
+      "Restoration of colonial-era building in Poonamallee enters final phase: futureValidity failed — expired display window",
+      "Restoration of colonial-era building in Poonamallee enters final phase: alertUrgency failed — alert expired",
+      "Oilseeds cultivation to be promoted on 2,100 hectares in Tiruchi district this year: futureValidity failed — expired display window",
+      "Oilseeds cultivation to be promoted on 2,100 hectares in Tiruchi district this year: alertUrgency failed — alert expired",
+      "Goddess Saraswati without veena: Sculptures of Pallava, Chola eras reveal an earlier iconography: futureValidity failed — expired display window",
+      "Goddess Saraswati without veena: Sculptures of Pallava, Chola eras reveal an earlier iconography: alertUrgency failed — alert expired",
       "65-inch TV deal: Save over 50% on Toshiba's 2026 premium Mini LED 4K TV at Amazon - Mashable: location failed — offline/local item lacks configured location match",
-      "Amazon’s $25B ‘surprise’ bond sale lured buyers in with extra yield—flashing an AI boom warning sign - Fortune: location failed — offline/local item lacks configured location match",
-      "Diljit Dosanjh wondered if Satluj would ever release; says Jaswant Singh Khalra's voice was suppressed twice: location failed — offline/local item lacks configured location match",
-      "Huma Qureshi says she doesn't look at Alia Bhatt, Sharvari's Alpha as competition amid clash with her Baby Do Die Do: location failed — offline/local item lacks configured location match"
+      "Amazon’s $25B ‘surprise’ bond sale lured buyers in with extra yield—flashing an AI boom warning sign - Fortune: location failed — offline/local item lacks configured location match"
     ],
     "actionRequired": [
-      "11 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "12 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no active offer items in ranked Up Ahead set",
       "no ranked Up Ahead item for muscat",
-      "ranked Up Ahead set is category-dominated",
       "no local Buzz item in ranked set",
       "no travel Buzz item in ranked set",
       "no active local/travel disruption item",
@@ -130,7 +129,8 @@
       "no ranked local/travel item for muscat",
       "no ranked local/travel item for chennai",
       "no ranked local/travel item for trichy",
-      "1 base-report-heavy Insight parent(s) demoted"
+      "Insight event/angle ranking has no critical demotion finding",
+      "buzz: no local Buzz item in ranked set"
     ]
   },
   "sourceHealth": {
@@ -256,11 +256,11 @@
     },
     {
       "date": "2026-07-10",
-      "generatedAt": 1783677819321,
+      "generatedAt": 1783687367147,
       "insightGrade": "C",
       "insightScore": 0,
-      "totalStories": 607,
-      "usableStories36h": 591,
+      "totalStories": 625,
+      "usableStories36h": 620,
       "sourceGroups": 9,
       "angleHintCoverage": 1,
       "sectionsTotalStories": 0,
