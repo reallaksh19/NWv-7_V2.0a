@@ -1,8 +1,8 @@
 {
   "schemaVersion": "2.0.0",
-  "generatedAt": "2026-07-11T17:03:30.631240Z",
-  "generated_at": "2026-07-11T17:03:30.631245Z",
-  "fetchedAt": 1783789410631,
+  "generatedAt": "2026-07-11T20:56:22.925275Z",
+  "generated_at": "2026-07-11T20:56:22.925279Z",
+  "fetchedAt": 1783803382925,
   "sourceMode": "snapshot-worker-v2",
   "indices": [
     {
@@ -68,24 +68,6 @@
   ],
   "globalIndices": [
     {
-      "name": "HANG SENG",
-      "symbol": "^HSI",
-      "value": "24,175.12",
-      "change": "144.94",
-      "changePercent": "0.60",
-      "direction": "up",
-      "sourceMode": "yahoo-yfinance"
-    },
-    {
-      "name": "S&P 500",
-      "symbol": "^GSPC",
-      "value": "7,575.39",
-      "change": "31.75",
-      "changePercent": "0.42",
-      "direction": "up",
-      "sourceMode": "yahoo-yfinance"
-    },
-    {
       "name": "NASDAQ",
       "symbol": "^IXIC",
       "value": "26,281.61",
@@ -109,6 +91,24 @@
       "value": "68,557.73",
       "change": "813.88",
       "changePercent": "1.20",
+      "direction": "up",
+      "sourceMode": "yahoo-yfinance"
+    },
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "value": "7,575.39",
+      "change": "31.75",
+      "changePercent": "0.42",
+      "direction": "up",
+      "sourceMode": "yahoo-yfinance"
+    },
+    {
+      "name": "HANG SENG",
+      "symbol": "^HSI",
+      "value": "24,175.12",
+      "change": "144.94",
+      "changePercent": "0.60",
       "direction": "up",
       "sourceMode": "yahoo-yfinance"
     }
@@ -228,16 +228,6 @@
   ],
   "commodities": [
     {
-      "name": "Gold",
-      "symbol": "GC=F",
-      "value": "$4104.10",
-      "unit": "$/oz",
-      "change": "-26.50",
-      "changePercent": "-0.64",
-      "direction": "down",
-      "source": "yahoo-yfinance"
-    },
-    {
       "name": "Silver",
       "symbol": "SI=F",
       "value": "$59.81",
@@ -256,22 +246,19 @@
       "changePercent": "-0.93",
       "direction": "down",
       "source": "yahoo-yfinance"
+    },
+    {
+      "name": "Gold",
+      "symbol": "GC=F",
+      "value": "$4104.10",
+      "unit": "$/oz",
+      "change": "-26.50",
+      "changePercent": "-0.64",
+      "direction": "down",
+      "source": "yahoo-yfinance"
     }
   ],
   "currencies": [
-    {
-      "name": "JPY/INR",
-      "pair": "JPYINR",
-      "symbol": "JPYINR=X",
-      "value": "₹0.5897",
-      "rate": 0.5896999835968018,
-      "change": "0.0022",
-      "changePercent": "0.38",
-      "direction": "up",
-      "source": "yahoo-yfinance",
-      "mode": "fallback-intraday",
-      "asOf": "2026-07-11T17:01:48.166995Z"
-    },
     {
       "name": "USD/INR",
       "pair": "USDINR",
@@ -283,20 +270,7 @@
       "direction": "down",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-07-11T17:01:48.188290Z"
-    },
-    {
-      "name": "GBP/INR",
-      "pair": "GBPINR",
-      "symbol": "GBPINR=X",
-      "value": "₹127.7879",
-      "rate": 127.78790283203125,
-      "change": "-0.4285",
-      "changePercent": "-0.33",
-      "direction": "down",
-      "source": "yahoo-yfinance",
-      "mode": "fallback-intraday",
-      "asOf": "2026-07-11T17:01:48.195100Z"
+      "asOf": "2026-07-11T20:54:41.713328Z"
     },
     {
       "name": "OMR/INR",
@@ -309,7 +283,7 @@
       "direction": "up",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-07-11T17:01:48.243154Z"
+      "asOf": "2026-07-11T20:54:41.720315Z"
     },
     {
       "name": "EUR/INR",
@@ -322,7 +296,33 @@
       "direction": "down",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-07-11T17:01:48.287229Z"
+      "asOf": "2026-07-11T20:54:41.734144Z"
+    },
+    {
+      "name": "GBP/INR",
+      "pair": "GBPINR",
+      "symbol": "GBPINR=X",
+      "value": "₹127.7879",
+      "rate": 127.78790283203125,
+      "change": "-0.4285",
+      "changePercent": "-0.33",
+      "direction": "down",
+      "source": "yahoo-yfinance",
+      "mode": "fallback-intraday",
+      "asOf": "2026-07-11T20:54:41.741090Z"
+    },
+    {
+      "name": "JPY/INR",
+      "pair": "JPYINR",
+      "symbol": "JPYINR=X",
+      "value": "₹0.5897",
+      "rate": 0.5896999835968018,
+      "change": "0.0022",
+      "changePercent": "0.38",
+      "direction": "up",
+      "source": "yahoo-yfinance",
+      "mode": "fallback-intraday",
+      "asOf": "2026-07-11T20:54:41.753472Z"
     }
   ],
   "mutualFunds": [
@@ -337,7 +337,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588050Z"
+        "fetchedAt": "2026-07-11T20:54:45.893849Z"
       },
       "extras": {},
       "fundType": "value",
@@ -355,7 +355,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588082Z"
+        "fetchedAt": "2026-07-11T20:54:45.893872Z"
       },
       "extras": {},
       "fundType": "value",
@@ -373,7 +373,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588103Z"
+        "fetchedAt": "2026-07-11T20:54:45.893907Z"
       },
       "extras": {},
       "fundType": "value",
@@ -391,7 +391,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588122Z"
+        "fetchedAt": "2026-07-11T20:54:45.893931Z"
       },
       "extras": {},
       "fundType": "value",
@@ -409,7 +409,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588387Z"
+        "fetchedAt": "2026-07-11T20:54:45.894210Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -427,7 +427,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588405Z"
+        "fetchedAt": "2026-07-11T20:54:45.894231Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -445,7 +445,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588426Z"
+        "fetchedAt": "2026-07-11T20:54:45.894251Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -463,7 +463,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588443Z"
+        "fetchedAt": "2026-07-11T20:54:45.894272Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -481,7 +481,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588466Z"
+        "fetchedAt": "2026-07-11T20:54:45.894290Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -499,7 +499,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588485Z"
+        "fetchedAt": "2026-07-11T20:54:45.894312Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -517,7 +517,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588513Z"
+        "fetchedAt": "2026-07-11T20:54:45.894339Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -535,7 +535,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588530Z"
+        "fetchedAt": "2026-07-11T20:54:45.894360Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -553,7 +553,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588550Z"
+        "fetchedAt": "2026-07-11T20:54:45.894380Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -571,7 +571,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588575Z"
+        "fetchedAt": "2026-07-11T20:54:45.894407Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -589,7 +589,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588588Z"
+        "fetchedAt": "2026-07-11T20:54:45.894421Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -607,7 +607,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588612Z"
+        "fetchedAt": "2026-07-11T20:54:45.894445Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -625,7 +625,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588628Z"
+        "fetchedAt": "2026-07-11T20:54:45.894464Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -643,7 +643,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588669Z"
+        "fetchedAt": "2026-07-11T20:54:45.894510Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -661,7 +661,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588686Z"
+        "fetchedAt": "2026-07-11T20:54:45.894531Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -679,7 +679,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588706Z"
+        "fetchedAt": "2026-07-11T20:54:45.894551Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -697,7 +697,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588726Z"
+        "fetchedAt": "2026-07-11T20:54:45.894572Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -715,7 +715,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588746Z"
+        "fetchedAt": "2026-07-11T20:54:45.894591Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -733,7 +733,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588767Z"
+        "fetchedAt": "2026-07-11T20:54:45.894616Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -751,7 +751,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588783Z"
+        "fetchedAt": "2026-07-11T20:54:45.894633Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -769,7 +769,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588975Z"
+        "fetchedAt": "2026-07-11T20:54:45.894835Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -787,7 +787,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.588995Z"
+        "fetchedAt": "2026-07-11T20:54:45.894855Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -805,7 +805,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589016Z"
+        "fetchedAt": "2026-07-11T20:54:45.894874Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -823,7 +823,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589043Z"
+        "fetchedAt": "2026-07-11T20:54:45.894918Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -841,7 +841,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589067Z"
+        "fetchedAt": "2026-07-11T20:54:45.894926Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -859,7 +859,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589098Z"
+        "fetchedAt": "2026-07-11T20:54:45.894962Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -877,7 +877,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589113Z"
+        "fetchedAt": "2026-07-11T20:54:45.894976Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -895,7 +895,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589140Z"
+        "fetchedAt": "2026-07-11T20:54:45.895012Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -913,7 +913,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589153Z"
+        "fetchedAt": "2026-07-11T20:54:45.895026Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -931,7 +931,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589164Z"
+        "fetchedAt": "2026-07-11T20:54:45.895038Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -949,7 +949,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589181Z"
+        "fetchedAt": "2026-07-11T20:54:45.895058Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -967,7 +967,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589198Z"
+        "fetchedAt": "2026-07-11T20:54:45.895076Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -985,7 +985,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589214Z"
+        "fetchedAt": "2026-07-11T20:54:45.895091Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -1003,7 +1003,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589229Z"
+        "fetchedAt": "2026-07-11T20:54:45.895107Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -1021,7 +1021,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589251Z"
+        "fetchedAt": "2026-07-11T20:54:45.895132Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -1039,7 +1039,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589277Z"
+        "fetchedAt": "2026-07-11T20:54:45.895156Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -1057,7 +1057,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589286Z"
+        "fetchedAt": "2026-07-11T20:54:45.895187Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -1075,7 +1075,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589306Z"
+        "fetchedAt": "2026-07-11T20:54:45.895210Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -1093,7 +1093,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589328Z"
+        "fetchedAt": "2026-07-11T20:54:45.895230Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -1111,7 +1111,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589346Z"
+        "fetchedAt": "2026-07-11T20:54:45.895250Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -1129,7 +1129,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589403Z"
+        "fetchedAt": "2026-07-11T20:54:45.895290Z"
       },
       "extras": {},
       "fundType": "flexi-cap",
@@ -1147,7 +1147,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589421Z"
+        "fetchedAt": "2026-07-11T20:54:45.895310Z"
       },
       "extras": {},
       "fundType": "flexi-cap",
@@ -1165,7 +1165,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589452Z"
+        "fetchedAt": "2026-07-11T20:54:45.895330Z"
       },
       "extras": {},
       "fundType": "flexi-cap",
@@ -1183,7 +1183,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589475Z"
+        "fetchedAt": "2026-07-11T20:54:45.895356Z"
       },
       "extras": {},
       "fundType": "flexi-cap",
@@ -1201,7 +1201,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589497Z"
+        "fetchedAt": "2026-07-11T20:54:45.895380Z"
       },
       "extras": {},
       "fundType": "flexi-cap",
@@ -1219,7 +1219,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-07-11T17:01:50.589506Z"
+        "fetchedAt": "2026-07-11T20:54:45.895390Z"
       },
       "extras": {},
       "fundType": "flexi-cap",
@@ -1233,7 +1233,7 @@
     "recent": []
   },
   "nfo": [],
-  "ipoLastCheckedAt": "2026-07-11T17:01:52.769794+00:00",
+  "ipoLastCheckedAt": "2026-07-11T20:54:46.372806+00:00",
   "marketNews": [],
   "stockCategories": {
     "highs": [],
