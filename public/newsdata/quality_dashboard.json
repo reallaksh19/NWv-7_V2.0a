@@ -1,28 +1,28 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1783792772153,
+  "generatedAt": 1783797647958,
   "windowDays": 7,
   "latest": {
     "insightGrade": "C",
     "insightScore": 0,
-    "totalStories": 631,
-    "usableStories36h": 624,
-    "sourceGroups": 9,
+    "totalStories": 667,
+    "usableStories36h": 629,
+    "sourceGroups": 10,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3176,
+    "rankingOverallScore": 0.3142,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3176,
+    "overallScore": 0.3142,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1783792771242,
+    "generatedAt": 1783797646819,
     "destinationScores": {
       "buzz": 0,
-      "insight": 0.41,
+      "insight": 0.3963,
       "localTravel": 0,
       "upAhead": 0.8606
     },
@@ -48,7 +48,7 @@
       {
         "destination": "insight",
         "status": "WARN",
-        "score": 0.41,
+        "score": 0.3963,
         "profile": "insight-v2-event-angle-tree"
       },
       {
@@ -74,8 +74,8 @@
         "oneSourceCappedCount": 0
       },
       "insight": {
-        "parentClusters": 4,
-        "strongParents": 4,
+        "parentClusters": 5,
+        "strongParents": 5,
         "weakParentsDemoted": 0,
         "avgAnglesPerParent": 0,
         "baseReportHeavyParents": 0,
@@ -92,7 +92,7 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 6,
+        "suppressedItemCount": 14,
         "events": 0,
         "onlineOffers": 0,
         "offlineOffers": 0,
@@ -107,19 +107,19 @@
     "topFindings": [
       "One of Brooks’ most popular running shoes is on sale for under $100 - NBC News: location failed — offline/local item lacks configured location match",
       "Prime Day Is Over, But 62 of Our Favorite Deals Are Still Available - WIRED: location failed — offline/local item lacks configured location match",
+      "Metrowater to hold open house meetings in Chennai on Saturday: futureValidity failed — expired display window",
+      "Metrowater to hold open house meetings in Chennai on Saturday: alertUrgency failed — alert expired",
+      "Cloud cover eases heat in parts of north T.N. on Friday: futureValidity failed — expired display window",
+      "Cloud cover eases heat in parts of north T.N. on Friday: alertUrgency failed — alert expired",
+      "Police arrest two more, including doctor, in TVK MLA poaching case: futureValidity failed — expired display window",
+      "Police arrest two more, including doctor, in TVK MLA poaching case: alertUrgency failed — alert expired",
       "You Can Get Up to 35% Off a Pair of New Balances on Amazon Right Now - Esquire: location failed — offline/local item lacks configured location match",
-      "Amazon’s $25 Billion Bond Sale: Is the AI-Debt Boom a Warning Sign or a Smart Way to Bankroll a Build-Out? - MarketWise: location failed — offline/local item lacks configured location match",
-      "Amazon Prime Day Early Sale Slashes MSI RTX 5060 Ti Graphics Card by 26% to ¥59,800 - finance.biggo.com: location failed — offline/local item lacks configured location match",
-      "Away Promo Codes: Up to 20% Off in July 2026 - Condé Nast Traveler: location failed — offline/local item lacks configured location match",
-      "upAhead: One of Brooks’ most popular running shoes is on sale for under $100 - NBC News: location failed — offline/local item lacks configured location match",
-      "upAhead: Prime Day Is Over, But 62 of Our Favorite Deals Are Still Available - WIRED: location failed — offline/local item lacks configured location match",
-      "upAhead: You Can Get Up to 35% Off a Pair of New Balances on Amazon Right Now - Esquire: location failed — offline/local item lacks configured location match",
-      "upAhead: Amazon’s $25 Billion Bond Sale: Is the AI-Debt Boom a Warning Sign or a Smart Way to Bankroll a Build-Out? - MarketWise: location failed — offline/local item lacks configured location match",
-      "upAhead: Amazon Prime Day Early Sale Slashes MSI RTX 5060 Ti Graphics Card by 26% to ¥59,800 - finance.biggo.com: location failed — offline/local item lacks configured location match",
-      "upAhead: Away Promo Codes: Up to 20% Off in July 2026 - Condé Nast Traveler: location failed — offline/local item lacks configured location match"
+      "Gas pipeline fire after excavation disrupts traffic, damages shops in Madhavaram: futureValidity failed — expired display window",
+      "Gas pipeline fire after excavation disrupts traffic, damages shops in Madhavaram: alertUrgency failed — alert expired",
+      "Chennai police arrest two for cheating more than 100 engineering graduates with fake software job offers: futureValidity failed — expired display window"
     ],
     "actionRequired": [
-      "6 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "14 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no active offer items in ranked Up Ahead set",
       "no ranked Up Ahead item for muscat",
       "no local Buzz item in ranked set",
@@ -256,16 +256,16 @@
     },
     {
       "date": "2026-07-11",
-      "generatedAt": 1783792772153,
+      "generatedAt": 1783797647958,
       "insightGrade": "C",
       "insightScore": 0,
-      "totalStories": 631,
-      "usableStories36h": 624,
-      "sourceGroups": 9,
+      "totalStories": 667,
+      "usableStories36h": 629,
+      "sourceGroups": 10,
       "angleHintCoverage": 1,
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
-      "rankingOverallScore": 0.3176,
+      "rankingOverallScore": 0.3142,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,
