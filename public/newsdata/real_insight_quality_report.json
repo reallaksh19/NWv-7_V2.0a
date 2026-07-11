@@ -1,11 +1,11 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1783773193007,
-  "contentHash": "d9da2bf642520d0d",
+  "generatedAt": 1783780673244,
+  "contentHash": "25d6be68be92511d",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 636,
+  "storyCount": 646,
   "sourceGroupCount": 9,
   "grade": "C",
   "parentCount": 10,
@@ -23,10 +23,10 @@
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 63,
+      "signalScore": 60,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 587,
+      "storyCount": 598,
       "risingCount": 1,
       "thinCount": 1,
       "multiAngleCount": 9,
@@ -34,27 +34,27 @@
       "strongAngleCount": 0,
       "avgAngles": 1.9,
       "avgChildren": 2.2,
-      "avgScore": 0.663610209117399,
+      "avgScore": 0.6579185424507324,
       "sourceDiversityCoverage": 9,
-      "snapshotCoverage": 4,
+      "snapshotCoverage": 2,
       "coverageLabel": "9/10",
       "warnings": [
         "1 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
         "1 cluster(s) are below source-diversity target.",
-        "6 cluster(s) have weak snapshot coverage.",
+        "8 cluster(s) have weak snapshot coverage.",
         "1 cluster(s) are marked thin.",
-        "490 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "480 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 63,
+      "signalScore": 60,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 587,
+      "storyCount": 598,
       "risingCount": 1,
       "thinCount": 1,
       "multiAngleCount": 9,
@@ -62,23 +62,23 @@
       "strongAngleCount": 0,
       "avgAngles": 1.9,
       "avgChildren": 2.2,
-      "avgScore": 0.663610209117399,
+      "avgScore": 0.6579185424507324,
       "sourceDiversityCoverage": 9,
-      "snapshotCoverage": 4,
+      "snapshotCoverage": 2,
       "coverageLabel": "9/10",
       "warnings": [
         "1 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
         "1 cluster(s) are below source-diversity target.",
-        "6 cluster(s) have weak snapshot coverage.",
+        "8 cluster(s) have weak snapshot coverage.",
         "1 cluster(s) are marked thin.",
-        "490 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "480 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_144_d7bc951d351abbb5",
+      "parentId": "cluster_174_d7bc951d351abbb5",
       "headline": "It's a mystery who launched latest strikes against Iran",
       "score": 0.7566456657689977,
       "postTreeScore": 1.1966,
@@ -102,7 +102,28 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_454_cc98cab5e48224ef",
+      "parentId": "cluster_290_d4637d68b9edc9cd",
+      "headline": "Why the battle has lasted over five years",
+      "score": 0.6874967197849983,
+      "postTreeScore": 1.0675,
+      "childCount": 2,
+      "angles": [
+        "background_context",
+        "investigative_detail"
+      ],
+      "temporalTiers": [
+        "developing",
+        "breaking"
+      ],
+      "evolutionRoles": [
+        "fact_update",
+        "official_response"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_486_cc98cab5e48224ef",
       "headline": "China successfully tests sea-based rocket booster recovery system, says state media",
       "score": 0.6814967197849984,
       "postTreeScore": 1.0615,
@@ -123,28 +144,28 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_502_593073c0d938ef71",
-      "headline": "PM Modi and Australian PM Albanese release Sports Collaboration Roadmap",
-      "score": 0.6814967197849984,
-      "postTreeScore": 1.0615,
+      "parentId": "cluster_386_d875ef6b25996b0d",
+      "headline": "India-Australia Roadmap for Sports Collaboration - orissadiary.com",
+      "score": 0.6758967197849983,
+      "postTreeScore": 1.0559,
       "childCount": 2,
       "angles": [
-        "fact_update",
-        "official_response"
+        "official_response",
+        "base_report"
       ],
       "temporalTiers": [
         "breaking",
-        "developing"
+        "established"
       ],
       "evolutionRoles": [
         "first_report",
         "corroboration"
       ],
-      "baseReportShare": 0,
+      "baseReportShare": 0.5,
       "weakTree": false
     },
     {
-      "parentId": "cluster_460_838eb7164ab471b7",
+      "parentId": "cluster_492_838eb7164ab471b7",
       "headline": "PM Modi leaves for New Zealand after concluding Australia visit - The Hindu",
       "score": 0.6758967197849983,
       "postTreeScore": 1.0559,
@@ -165,27 +186,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_300_7ddf363267be8980",
-      "headline": "Government examining WhatsApp’s reply on ‘usernames’ notice: Sources",
-      "score": 0.6604967197849982,
-      "postTreeScore": 1.0405,
-      "childCount": 2,
-      "angles": [
-        "official_response",
-        "investigative_detail"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "established"
-      ],
-      "evolutionRoles": [
-        "official_response"
-      ],
-      "baseReportShare": 0,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_118_a38aebece774b044",
+      "parentId": "cluster_148_a38aebece774b044",
       "headline": "Passenger partially sucked out window on Ryanair flight from Greece",
       "score": 0.6281899468816685,
       "postTreeScore": 1.0282,
@@ -206,28 +207,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_485_32a995562db90c82",
-      "headline": "Government Removes Import Duty on Some Electronics, Smartphone Parts",
-      "score": 0.62791,
-      "postTreeScore": 1.0279,
-      "childCount": 2,
-      "angles": [
-        "base_report",
-        "fact_update"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "reaction"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "fact_update"
-      ],
-      "baseReportShare": 0.5,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_204_8fea6267bf260121",
+      "parentId": "cluster_234_8fea6267bf260121",
       "headline": "Former DGP Vaikunth no more",
       "score": 0.6209800531183317,
       "postTreeScore": 1.001,
@@ -248,10 +228,30 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_65_d0c7a28e74c19851",
+      "parentId": "cluster_514_6b85a4155ea3a5fa",
+      "headline": "Govt. receives WhatsApp’s reply on notice over ‘username’ feature",
+      "score": 0.6055800531183317,
+      "postTreeScore": 0.9856,
+      "childCount": 2,
+      "angles": [
+        "fact_update",
+        "official_response"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "established"
+      ],
+      "evolutionRoles": [
+        "official_response"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_95_d0c7a28e74c19851",
       "headline": "PM Modi tours New Zealand sports innovation showcase",
-      "score": 0.5762928264800007,
-      "postTreeScore": 0.9363,
+      "score": 0.5203061066950025,
+      "postTreeScore": 0.8603,
       "childCount": 2,
       "angles": [
         "fact_update",
@@ -269,7 +269,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_165_cef4bb98cb3f47e6",
+      "parentId": "cluster_195_cef4bb98cb3f47e6",
       "headline": "'One nation, one election' mechanism may be ready for rollout by 2029: Joint panel chief",
       "score": 0.7266967197849983,
       "postTreeScore": 0.6167,
@@ -370,7 +370,7 @@
       "weakParentRatio": 0.1,
       "topParentAngles": 2,
       "topParentChildren": 4,
-      "storyCount": 636,
+      "storyCount": 646,
       "sourceGroupCount": 9
     }
   }
