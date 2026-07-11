@@ -725,7 +725,7 @@
     },
     "upAhead": {
       "actionableFindings": [
-        "8 invalid/expired/duplicate Up Ahead item(s) suppressed",
+        "9 invalid/expired/duplicate Up Ahead item(s) suppressed",
         "no active offer items in ranked Up Ahead set",
         "no ranked Up Ahead item for muscat"
       ],
@@ -734,12 +734,15 @@
         "One of Brooks’ most popular running shoes is on sale for under $100 - NBC News: location failed — offline/local item lacks configured location match",
         "Prime Day Is Over, But 62 of Our Favorite Deals Are Still Available - WIRED: location failed — offline/local item lacks configured location match",
         "You Can Get Up to 35% Off a Pair of New Balances on Amazon Right Now - Esquire: location failed — offline/local item lacks configured location match",
+        "IMD warns of heavy rain, storms across major tourist hubs - MSN: futureValidity failed — expired display window",
+        "IMD warns of heavy rain, storms across major tourist hubs - MSN: alertUrgency failed — alert expired",
         "Amazon’s $25 Billion Bond Sale: Is the AI-Debt Boom a Warning Sign or a Smart Way to Bankroll a Build-Out? - MarketWise: location failed — offline/local item lacks configured location match",
-        "CMRL increases fine for those playing loud music or causing nuisance in Metro Rails: futureValidity failed — expired display window",
-        "CMRL increases fine for those playing loud music or causing nuisance in Metro Rails: alertUrgency failed — alert expired",
         "Amazon Prime Day Early Sale Slashes MSI RTX 5060 Ti Graphics Card by 26% to ¥59,800 - finance.biggo.com: location failed — offline/local item lacks configured location match",
         "Away Promo Codes: Up to 20% Off in July 2026 - Condé Nast Traveler: location failed — offline/local item lacks configured location match",
-        "The best Pokémon deals as Prime Day wraps up — Pokémon TCG, books, games, and more on sale - Mashable: location failed — offline/local item lacks configured location match"
+        "Hyperice Promo Codes: Save Up To $250 On Post-Workout Recovery Devices - Forbes: location failed — offline/local item lacks configured location match",
+        "The best Pokémon deals as Prime Day wraps up — Pokémon TCG, books, games, and more on sale - Mashable: futureValidity failed — expired display window",
+        "The best Pokémon deals as Prime Day wraps up — Pokémon TCG, books, games, and more on sale - Mashable: location failed — offline/local item lacks configured location match",
+        "The best Pokémon deals as Prime Day wraps up — Pokémon TCG, books, games, and more on sale - Mashable: offerValidity failed — offer expired"
       ],
       "gateResults": [
         {
@@ -754,8 +757,8 @@
         {
           "details": {
             "categoryCounts": {
-              "alerts": 28,
-              "weather_alerts": 2
+              "alerts": 29,
+              "weather_alerts": 1
             }
           },
           "name": "categoryCoverage",
@@ -767,15 +770,15 @@
       "gateSummary": {
         "alerts": 30,
         "categoryCounts": {
-          "alerts": 28,
-          "weather_alerts": 2
+          "alerts": 29,
+          "weather_alerts": 1
         },
         "events": 0,
         "festivals": 0,
-        "inputItemCount": 60,
+        "inputItemCount": 65,
         "locationCounts": {
-          "chennai": 24,
-          "trichy": 6
+          "chennai": 25,
+          "trichy": 5
         },
         "locationsCovered": [
           "chennai",
@@ -785,10 +788,10 @@
         "onlineOffers": 0,
         "plannerAdvisoryItems": 30,
         "rankedItemCount": 30,
-        "suppressedItemCount": 8
+        "suppressedItemCount": 9
       },
       "qualityGrade": "B",
-      "qualityScore": 0.8615,
+      "qualityScore": 0.8606,
       "qualityStatus": "WARN",
       "rankedItems": [
         {
@@ -905,121 +908,6 @@
           ],
           "score": 0.8705,
           "title": "‘Withdraw no meat day closures’"
-        },
-        {
-          "category": "weather_alerts",
-          "gates": [
-            {
-              "details": {
-                "dedupKey": "0d681168e35cf535"
-              },
-              "name": "dedup",
-              "reason": "unique item",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "displayUntil": 1783784116000
-              },
-              "name": "futureValidity",
-              "reason": "valid undated item with active display window",
-              "score": 0.65,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "matchScore": 1.0,
-                "matchedLocation": "chennai",
-                "relevance": "primary",
-                "scope": "exactCity"
-              },
-              "name": "location",
-              "reason": "location matches configured profile",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "hasPlace": true,
-                "hasTime": true
-              },
-              "name": "actionability",
-              "reason": "item has enough action fields",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "offerValidity",
-              "reason": "not an offer",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "severe": true
-              },
-              "name": "alertUrgency",
-              "reason": "severe/active alert",
-              "score": 1.0,
-              "status": "PASS"
-            }
-          ],
-          "id": "2a8a683fdb8c87e6",
-          "item": {
-            "actionabilityScore": 0.7,
-            "category": "weather_alerts",
-            "city": "Chennai",
-            "contentClass": "upahead_alert",
-            "dateConfidence": "unknown",
-            "dateSource": "none",
-            "eventEndAt": null,
-            "eventStartAt": null,
-            "expiryAt": 1783784116000,
-            "id": "2a8a683fdb8c87e6",
-            "language": "en",
-            "lifecycle": {
-              "archiveUntil": 1784388916000,
-              "contentClass": "upahead_alert",
-              "displayUntil": 1783784116000,
-              "isActionValid": true,
-              "isVisible": true,
-              "plannerEligibleByLifecycle": true,
-              "plannerPastGraceHours": 6,
-              "retentionReason": "expiryAt",
-              "withinSevenDayHorizon": true
-            },
-            "localityScore": 1.0,
-            "normalizedCategory": "weather_alerts",
-            "plannerEligible": true,
-            "publishedAt": 1783697716000,
-            "region": "tn",
-            "scoreBreakdown": {
-              "actionabilityScore": 1.0,
-              "categoryPriorityScore": 0.98,
-              "lifecycleScore": 0.65,
-              "locationScore": 1.0,
-              "plannerFitScore": 1.0,
-              "sourceConfidenceScore": 0.58,
-              "urgencyOrExpiryScore": 1.0
-            },
-            "source": "Google News Chennai Weather",
-            "sourceGroup": "google_news",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNnVGbFNNNERhaTJTSmsxSng5ZFBacnFvcWNtOFFNY3RmMjJhLXpwYzk1bm9VWkZ1RjlyZHBESkFPaHRPM0h1Zk03RUVnQnRNS1E3VTBSX2dGWng0OFRKZUV2YTZrZi1HbmJsLU9TbEJ2Tk9sN20zdVVYU29FVXlVSy04VFpBOWVsWkFXM3Y0TF96UlhhMXEtaHU2amJHTzl1MUZMVVYxODRueE1rOUZjbVp1c0JHd1VINF9LRHlBT2VnVmt3dllmUlJZSjBPVUp1SWVCbUVzUkRZcjVqdEhV?oc=5\" target=\"_blank\">IMD warns of heavy rain, storms across major tourist hubs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-            "suppressionReason": null,
-            "title": "IMD warns of heavy rain, storms across major tourist hubs - MSN",
-            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNnVGbFNNNERhaTJTSmsxSng5ZFBacnFvcWNtOFFNY3RmMjJhLXpwYzk1bm9VWkZ1RjlyZHBESkFPaHRPM0h1Zk03RUVnQnRNS1E3VTBSX2dGWng0OFRKZUV2YTZrZi1HbmJsLU9TbEJ2Tk9sN20zdVVYU29FVXlVSy04VFpBOWVsWkFXM3Y0TF96UlhhMXEtaHU2amJHTzl1MUZMVVYxODRueE1rOUZjbVp1c0JHd1VINF9LRHlBT2VnVmt3dllmUlJZSjBPVUp1SWVCbUVzUkRZcjVqdEhV?oc=5"
-          },
-          "locationKey": "chennai",
-          "rankingReasons": [
-            "weather_alerts",
-            "valid undated item with active display window",
-            "location matches configured profile",
-            "planner advisory fit"
-          ],
-          "score": 0.8675,
-          "title": "IMD warns of heavy rain, storms across major tourist hubs - MSN"
         },
         {
           "category": "weather_alerts",
@@ -1595,6 +1483,121 @@
           ],
           "score": 0.8485,
           "title": "Ban on registration of 3,085 acres of ‘temple land’ in Karur district lifted"
+        },
+        {
+          "category": "alerts",
+          "gates": [
+            {
+              "details": {
+                "dedupKey": "869b08376a9016e9"
+              },
+              "name": "dedup",
+              "reason": "unique item",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "displayUntil": 1783867388000
+              },
+              "name": "futureValidity",
+              "reason": "valid undated item with active display window",
+              "score": 0.65,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "matchScore": 1.0,
+                "matchedLocation": "chennai",
+                "relevance": "primary",
+                "scope": "exactCity"
+              },
+              "name": "location",
+              "reason": "location matches configured profile",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "hasPlace": true,
+                "hasTime": true
+              },
+              "name": "actionability",
+              "reason": "item has enough action fields",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {},
+              "name": "offerValidity",
+              "reason": "not an offer",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "severe": false
+              },
+              "name": "alertUrgency",
+              "reason": "active alert",
+              "score": 0.78,
+              "status": "PASS"
+            }
+          ],
+          "id": "ded0fcc782acd2eb",
+          "item": {
+            "actionabilityScore": 0.7,
+            "category": "alerts",
+            "city": "Chennai",
+            "contentClass": "upahead_alert",
+            "dateConfidence": "unknown",
+            "dateSource": "none",
+            "eventEndAt": null,
+            "eventStartAt": null,
+            "expiryAt": 1783867388000,
+            "id": "ded0fcc782acd2eb",
+            "language": "en",
+            "lifecycle": {
+              "archiveUntil": 1784472188000,
+              "contentClass": "upahead_alert",
+              "displayUntil": 1783867388000,
+              "isActionValid": true,
+              "isVisible": true,
+              "plannerEligibleByLifecycle": true,
+              "plannerPastGraceHours": 6,
+              "retentionReason": "expiryAt",
+              "withinSevenDayHorizon": true
+            },
+            "localityScore": 1.0,
+            "normalizedCategory": "alerts",
+            "plannerEligible": true,
+            "publishedAt": 1783780988000,
+            "region": "tn",
+            "scoreBreakdown": {
+              "actionabilityScore": 1.0,
+              "categoryPriorityScore": 1.0,
+              "lifecycleScore": 0.65,
+              "locationScore": 1.0,
+              "plannerFitScore": 1.0,
+              "sourceConfidenceScore": 0.58,
+              "urgencyOrExpiryScore": 0.78
+            },
+            "source": "The Hindu Chennai",
+            "sourceGroup": "the_hindu",
+            "summary": "",
+            "suppressionReason": null,
+            "title": "CMWSSB Union felicitates sewer workers for recovering gold ornament",
+            "url": "https://www.thehindu.com/news/cities/chennai/cmwssb-union-felicitates-sewer-workers-for-recovering-gold-ornament/article71210438.ece"
+          },
+          "locationKey": "chennai",
+          "rankingReasons": [
+            "alerts",
+            "valid undated item with active display window",
+            "location matches configured profile",
+            "planner advisory fit"
+          ],
+          "score": 0.8485,
+          "title": "CMWSSB Union felicitates sewer workers for recovering gold ornament"
         },
         {
           "category": "alerts",
@@ -3211,6 +3214,121 @@
           "gates": [
             {
               "details": {
+                "dedupKey": "02d14ee1a0f2663a"
+              },
+              "name": "dedup",
+              "reason": "unique item",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "displayUntil": 1783869818000
+              },
+              "name": "futureValidity",
+              "reason": "valid undated item with active display window",
+              "score": 0.65,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "matchScore": 1.0,
+                "matchedLocation": "chennai",
+                "relevance": "primary",
+                "scope": "exactCity"
+              },
+              "name": "location",
+              "reason": "location matches configured profile",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "hasPlace": true,
+                "hasTime": true
+              },
+              "name": "actionability",
+              "reason": "item has enough action fields",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {},
+              "name": "offerValidity",
+              "reason": "not an offer",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "severe": false
+              },
+              "name": "alertUrgency",
+              "reason": "active alert",
+              "score": 0.78,
+              "status": "PASS"
+            }
+          ],
+          "id": "c9936e432f0aecd6",
+          "item": {
+            "actionabilityScore": 0.5,
+            "category": "alerts",
+            "city": "Chennai",
+            "contentClass": "upahead_alert",
+            "dateConfidence": "unknown",
+            "dateSource": "none",
+            "eventEndAt": null,
+            "eventStartAt": null,
+            "expiryAt": 1783869818000,
+            "id": "c9936e432f0aecd6",
+            "language": "en",
+            "lifecycle": {
+              "archiveUntil": 1784474618000,
+              "contentClass": "upahead_alert",
+              "displayUntil": 1783869818000,
+              "isActionValid": true,
+              "isVisible": true,
+              "plannerEligibleByLifecycle": true,
+              "plannerPastGraceHours": 6,
+              "retentionReason": "expiryAt",
+              "withinSevenDayHorizon": true
+            },
+            "localityScore": 1.0,
+            "normalizedCategory": "alerts",
+            "plannerEligible": true,
+            "publishedAt": 1783783418000,
+            "region": "tn",
+            "scoreBreakdown": {
+              "actionabilityScore": 1.0,
+              "categoryPriorityScore": 1.0,
+              "lifecycleScore": 0.65,
+              "locationScore": 1.0,
+              "plannerFitScore": 1.0,
+              "sourceConfidenceScore": 0.58,
+              "urgencyOrExpiryScore": 0.78
+            },
+            "source": "The Hindu Chennai",
+            "sourceGroup": "the_hindu",
+            "summary": "Restore at Kottivakkam on East Coast Road offers a 2 per cent discount on purchases if the customer brings their own bag; Kazhani Native Farms in Kottivakkam has placed a cardboard box at the entrance inviting customers to drop off extra shopping bags for others to reuse; and Tula India in Adyar encourages customers to bring their own bags, and those who forget are handed handmade newspaper bags",
+            "suppressionReason": null,
+            "title": "Judge a purchase by its cover: how three sustainable outlets in Chennai make sure packaging does not leave carbon footprints",
+            "url": "https://www.thehindu.com/news/cities/chennai/judge-a-purchase-by-its-cover-how-three-sustainable-outlets-in-chennai-make-sure-packaging-does-not-leave-carbon-footprints/article71211007.ece"
+          },
+          "locationKey": "chennai",
+          "rankingReasons": [
+            "alerts",
+            "valid undated item with active display window",
+            "location matches configured profile",
+            "planner advisory fit"
+          ],
+          "score": 0.8485,
+          "title": "Judge a purchase by its cover: how three sustainable outlets in Chennai make sure packaging does not leave carbon footprints"
+        },
+        {
+          "category": "alerts",
+          "gates": [
+            {
+              "details": {
                 "dedupKey": "d86f1805ff021514"
               },
               "name": "dedup",
@@ -4125,136 +4243,21 @@
           ],
           "score": 0.8485,
           "title": "On a bird quest: Doctors in Chennai turn avid bird photographers"
-        },
-        {
-          "category": "alerts",
-          "gates": [
-            {
-              "details": {
-                "dedupKey": "531f9e4a7a6b6d15"
-              },
-              "name": "dedup",
-              "reason": "unique item",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "displayUntil": 1783781556000
-              },
-              "name": "futureValidity",
-              "reason": "valid undated item with active display window",
-              "score": 0.65,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "matchScore": 1.0,
-                "matchedLocation": "trichy",
-                "relevance": "primary",
-                "scope": "exactCity"
-              },
-              "name": "location",
-              "reason": "location matches configured profile",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "hasPlace": true,
-                "hasTime": true
-              },
-              "name": "actionability",
-              "reason": "item has enough action fields",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "offerValidity",
-              "reason": "not an offer",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "severe": false
-              },
-              "name": "alertUrgency",
-              "reason": "active alert",
-              "score": 0.78,
-              "status": "PASS"
-            }
-          ],
-          "id": "90dce014caffbabd",
-          "item": {
-            "actionabilityScore": 0.7,
-            "category": "alerts",
-            "city": "Trichy",
-            "contentClass": "upahead_alert",
-            "dateConfidence": "unknown",
-            "dateSource": "none",
-            "eventEndAt": null,
-            "eventStartAt": null,
-            "expiryAt": 1783781556000,
-            "id": "90dce014caffbabd",
-            "language": "en",
-            "lifecycle": {
-              "archiveUntil": 1784386356000,
-              "contentClass": "upahead_alert",
-              "displayUntil": 1783781556000,
-              "isActionValid": true,
-              "isVisible": true,
-              "plannerEligibleByLifecycle": true,
-              "plannerPastGraceHours": 6,
-              "retentionReason": "expiryAt",
-              "withinSevenDayHorizon": true
-            },
-            "localityScore": 0.9,
-            "normalizedCategory": "alerts",
-            "plannerEligible": true,
-            "publishedAt": 1783695156000,
-            "region": "tn",
-            "scoreBreakdown": {
-              "actionabilityScore": 1.0,
-              "categoryPriorityScore": 1.0,
-              "lifecycleScore": 0.65,
-              "locationScore": 1.0,
-              "plannerFitScore": 1.0,
-              "sourceConfidenceScore": 0.58,
-              "urgencyOrExpiryScore": 0.78
-            },
-            "source": "The Hindu Trichy",
-            "sourceGroup": "the_hindu",
-            "summary": "",
-            "suppressionReason": null,
-            "title": "Over 100 teacher guides of National Children’s Science Congress attend camp",
-            "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/over-100-teacher-guides-of-national-childrens-science-congress-attend-camp/article71206900.ece"
-          },
-          "locationKey": "trichy",
-          "rankingReasons": [
-            "alerts",
-            "valid undated item with active display window",
-            "location matches configured profile",
-            "planner advisory fit"
-          ],
-          "score": 0.8485,
-          "title": "Over 100 teacher guides of National Children’s Science Congress attend camp"
         }
       ],
       "rankingProfile": "upAhead-v2-lifecycle-location-category",
       "scoreBreakdown": {
         "actionabilityScore": 1.0,
-        "categoryPriorityScore": 0.9987,
+        "categoryPriorityScore": 0.9993,
         "lifecycleScore": 0.65,
         "locationScore": 1.0,
         "plannerFitScore": 1.0,
         "sourceConfidenceScore": 0.58,
-        "urgencyOrExpiryScore": 0.802
+        "urgencyOrExpiryScore": 0.7947
       }
     }
   },
-  "generatedAt": 1783780673938,
+  "generatedAt": 1783785702985,
   "implementedDestinations": [
     "upAhead",
     "buzz",
@@ -4273,7 +4276,7 @@
   "schemaVersion": 1,
   "summary": {
     "actionRequired": [
-      "8 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "9 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no active offer items in ranked Up Ahead set",
       "no ranked Up Ahead item for muscat",
       "no local Buzz item in ranked set",
@@ -4289,7 +4292,7 @@
       "buzz": 0.0,
       "insight": 0.3997,
       "localTravel": 0.0,
-      "upAhead": 0.8615
+      "upAhead": 0.8606
     },
     "destinationStatuses": {
       "buzz": "FAIL",
@@ -4297,7 +4300,7 @@
       "localTravel": "FAIL",
       "upAhead": "WARN"
     },
-    "overallScore": 0.3153,
+    "overallScore": 0.3151,
     "overallStatus": "FAIL",
     "rankingProfiles": {
       "buzz": "buzz-v2-trend-local-travel",
@@ -4309,12 +4312,15 @@
       "One of Brooks’ most popular running shoes is on sale for under $100 - NBC News: location failed — offline/local item lacks configured location match",
       "Prime Day Is Over, But 62 of Our Favorite Deals Are Still Available - WIRED: location failed — offline/local item lacks configured location match",
       "You Can Get Up to 35% Off a Pair of New Balances on Amazon Right Now - Esquire: location failed — offline/local item lacks configured location match",
+      "IMD warns of heavy rain, storms across major tourist hubs - MSN: futureValidity failed — expired display window",
+      "IMD warns of heavy rain, storms across major tourist hubs - MSN: alertUrgency failed — alert expired",
       "Amazon’s $25 Billion Bond Sale: Is the AI-Debt Boom a Warning Sign or a Smart Way to Bankroll a Build-Out? - MarketWise: location failed — offline/local item lacks configured location match",
-      "CMRL increases fine for those playing loud music or causing nuisance in Metro Rails: futureValidity failed — expired display window",
-      "CMRL increases fine for those playing loud music or causing nuisance in Metro Rails: alertUrgency failed — alert expired",
       "Amazon Prime Day Early Sale Slashes MSI RTX 5060 Ti Graphics Card by 26% to ¥59,800 - finance.biggo.com: location failed — offline/local item lacks configured location match",
       "Away Promo Codes: Up to 20% Off in July 2026 - Condé Nast Traveler: location failed — offline/local item lacks configured location match",
-      "The best Pokémon deals as Prime Day wraps up — Pokémon TCG, books, games, and more on sale - Mashable: location failed — offline/local item lacks configured location match"
+      "Hyperice Promo Codes: Save Up To $250 On Post-Workout Recovery Devices - Forbes: location failed — offline/local item lacks configured location match",
+      "The best Pokémon deals as Prime Day wraps up — Pokémon TCG, books, games, and more on sale - Mashable: futureValidity failed — expired display window",
+      "The best Pokémon deals as Prime Day wraps up — Pokémon TCG, books, games, and more on sale - Mashable: location failed — offline/local item lacks configured location match",
+      "The best Pokémon deals as Prime Day wraps up — Pokémon TCG, books, games, and more on sale - Mashable: offerValidity failed — offer expired"
     ]
   }
 }
