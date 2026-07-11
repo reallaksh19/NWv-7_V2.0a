@@ -60,7 +60,7 @@
       "gateResults": [
         {
           "details": {
-            "itemCount": 7
+            "itemCount": 6
           },
           "name": "insightEventPool",
           "reason": "rankable Insight event pool",
@@ -79,14 +79,14 @@
         "avgAnglesPerParent": 0.0,
         "baseReportHeavyParents": 0,
         "duplicateChildrenSuppressed": 0,
-        "inputCandidateCount": 7,
-        "parentClusters": 7,
-        "strongParents": 7,
+        "inputCandidateCount": 6,
+        "parentClusters": 6,
+        "strongParents": 6,
         "suppressedCandidateCount": 0,
         "weakParentsDemoted": 0
       },
       "qualityGrade": "F",
-      "qualityScore": 0.3806,
+      "qualityScore": 0.3674,
       "qualityStatus": "WARN",
       "rankedItems": [
         {
@@ -757,133 +757,17 @@
           ],
           "score": 0.389,
           "title": "England and India ready for ground-breaking first women's test at Lord's - The Economic Times"
-        },
-        {
-          "category": "insightEvent",
-          "gates": [
-            {
-              "details": {
-                "storyCount": 2
-              },
-              "name": "eventCoherence",
-              "reason": "event sketch has repeated story count",
-              "score": 0.62,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "baseReportRatio": 0.5,
-                "distinctAngles": 1
-              },
-              "name": "angleDiversity",
-              "reason": "weak child angle diversity",
-              "score": 0.25,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "sourceGroupCount": 2
-              },
-              "name": "sourceDiversity",
-              "reason": "multi-source event",
-              "score": 0.72,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "baseReportRatio": 0.5
-              },
-              "name": "baseReportCap",
-              "reason": "base-report heavy but usable",
-              "score": 0.55,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "childCount": 2
-              },
-              "name": "weakTree",
-              "reason": "child tree has enough depth",
-              "score": 0.5,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "duplicateChildren",
-              "reason": "no child objects to dedup",
-              "score": 0.7,
-              "status": "PASS"
-            }
-          ],
-          "id": "sketch:d0a4a727e5",
-          "item": {
-            "angleCount": 2,
-            "baseReportRatio": 0.5,
-            "childScores": [],
-            "id": "sketch:d0a4a727e5",
-            "representativeId": "d67f513850456ce4",
-            "representativeTitle": "Ukrainian drones batter Russian oil facilities, set more oil tankers ablaze",
-            "scoreBreakdown": {
-              "angleDiversityScore": 0.25,
-              "eventImportanceScore": 0.59,
-              "freshnessScore": 0.0,
-              "noveltyDeltaScore": 0.55,
-              "sourceAuthorityScore": 0.62,
-              "sourceDiversityScore": 0.72,
-              "temporalEvolutionScore": 0.49
-            },
-            "slotCount": 2,
-            "slots": [
-              "minus12h",
-              "minus4h"
-            ],
-            "sourceGroupCount": 2,
-            "sourceGroups": [
-              "the_hindu",
-              "times_of_india"
-            ],
-            "storyCount": 2,
-            "storyIds": [
-              "d67f513850456ce4",
-              "159b24826c3f1a16"
-            ],
-            "topAngles": [
-              {
-                "angle": "base_report",
-                "count": 1
-              },
-              {
-                "angle": "regional_followup",
-                "count": 1
-              }
-            ],
-            "topTokens": [
-              "ukrainian",
-              "drones",
-              "batter",
-              "russian"
-            ],
-            "topicKey": "ukrainian|drones|batter"
-          },
-          "locationKey": "event",
-          "rankingReasons": [
-            "event sketch has repeated story count",
-            "weak child angle diversity",
-            "multi-source event"
-          ],
-          "score": 0.2764,
-          "title": "Ukrainian drones batter Russian oil facilities, set more oil tankers ablaze"
         }
       ],
       "rankingProfile": "insight-v2-event-angle-tree",
       "scoreBreakdown": {
         "angleDiversityScore": 0.25,
-        "eventImportanceScore": 0.6071,
+        "eventImportanceScore": 0.61,
         "freshnessScore": 0.0,
-        "noveltyDeltaScore": 0.4643,
-        "sourceAuthorityScore": 0.4486,
-        "sourceDiversityScore": 0.4557,
-        "temporalEvolutionScore": 0.4386
+        "noveltyDeltaScore": 0.45,
+        "sourceAuthorityScore": 0.42,
+        "sourceDiversityScore": 0.4117,
+        "temporalEvolutionScore": 0.43
       }
     },
     "localTravel": {
@@ -3941,7 +3825,7 @@
             },
             {
               "details": {
-                "hoursLeft": 34.37
+                "hoursLeft": 31.49
               },
               "name": "offerValidity",
               "reason": "offer active within three days",
@@ -4056,7 +3940,7 @@
             },
             {
               "details": {
-                "hoursLeft": 10.81
+                "hoursLeft": 7.93
               },
               "name": "offerValidity",
               "reason": "offer expires soon",
@@ -4171,7 +4055,7 @@
             },
             {
               "details": {
-                "hoursLeft": 36.97
+                "hoursLeft": 34.08
               },
               "name": "offerValidity",
               "reason": "offer active within three days",
@@ -4286,7 +4170,7 @@
             },
             {
               "details": {
-                "hoursLeft": 30.76
+                "hoursLeft": 27.88
               },
               "name": "offerValidity",
               "reason": "offer active within three days",
@@ -4369,7 +4253,7 @@
       }
     }
   },
-  "generatedAt": 1783717953234,
+  "generatedAt": 1783728326992,
   "implementedDestinations": [
     "upAhead",
     "buzz",
@@ -4401,7 +4285,7 @@
     ],
     "destinationScores": {
       "buzz": 0.0,
-      "insight": 0.3806,
+      "insight": 0.3674,
       "localTravel": 0.0,
       "upAhead": 0.8475
     },
@@ -4411,7 +4295,7 @@
       "localTravel": "FAIL",
       "upAhead": "WARN"
     },
-    "overallScore": 0.307,
+    "overallScore": 0.3037,
     "overallStatus": "FAIL",
     "rankingProfiles": {
       "buzz": "buzz-v2-trend-local-travel",
