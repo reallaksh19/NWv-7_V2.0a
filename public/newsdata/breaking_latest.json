@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1783885729344,
-  "contentHash": "49936e2dcafb",
+  "fetchedAt": 1783888647810,
+  "contentHash": "39117525f988",
   "breaking": [
     {
       "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
@@ -16,7 +16,7 @@
       "id": "6427f7fe58dbdccb",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.232,
+      "breakingScore": 5.164,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -42,7 +42,7 @@
       "id": "8e70fa3e47c060dd",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.222,
+      "breakingScore": 5.154,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -65,7 +65,7 @@
       "id": "95cd8ef91101dfac",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.198,
+      "breakingScore": 5.131,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -88,7 +88,7 @@
       "id": "93c413b30a5b34ae",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.161,
+      "breakingScore": 5.093,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -97,6 +97,31 @@
         "ndtv"
       ],
       "firstSeen": 1783871073000
+    },
+    {
+      "title": "At least 27 killed as fire breaks out at pub in Bangkok",
+      "summary": "Firefighters took about half an hour to bring the fire under control; cause of the fire is unknown and under investigation",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/bangkok-pub-fire-deaths-thailand-july-13-2026/article71215014.ece",
+      "publishedAt": 1783887477000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "7f893e6bc56287ac",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 4.473,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "the_hindu"
+      ],
+      "firstSeen": 1783887194000
     },
     {
       "title": "West Asia war LIVE: Projectiles hit Iran's Gulf island of Qeshm, state media says",
@@ -111,7 +136,7 @@
       "id": "75b9664bd9ea58c0",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.952,
+      "breakingScore": 3.884,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -135,7 +160,7 @@
       "id": "eea1fb76f89aa894",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.937,
+      "breakingScore": 3.869,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -158,7 +183,7 @@
       "id": "282e00a906c0056f",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.835,
+      "breakingScore": 3.767,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -167,30 +192,6 @@
         "ndtv"
       ],
       "firstSeen": 1783878597000
-    },
-    {
-      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1783874784000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "a61b59bee6176398",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.747,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "ndtv"
-      ],
-      "firstSeen": 1783865256000
     }
   ]
 }
