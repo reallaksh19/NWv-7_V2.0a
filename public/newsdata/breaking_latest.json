@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1783855899445,
-  "contentHash": "1ec5482e2ec3",
+  "fetchedAt": 1783859743893,
+  "contentHash": "898fc9f2f231",
   "breaking": [
     {
       "title": "Indian-origin woman shot dead in U.S.; husband arrested",
@@ -16,7 +16,7 @@
       "id": "d46db1ca746e90b0",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.901,
+      "breakingScore": 6.812,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -25,30 +25,6 @@
         "the_hindu"
       ],
       "firstSeen": 1783851612000
-    },
-    {
-      "title": "2 dead and 3 wounded in shooting near Toronto street festival, police say",
-      "summary": "Two people have been killed and three others wounded in a shooting near a Toronto street festival, prompting police to warn of an active shooter before later saying the scene had been secured",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/toronto-salsa-street-festival-shooting-death-injuries-july-2026/article71212979.ece",
-      "publishedAt": 1783836820000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "64b9ced50466fa88",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 6.558,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "the_hindu"
-      ],
-      "firstSeen": 1783828562000
     },
     {
       "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
@@ -63,7 +39,7 @@
       "id": "a61b59bee6176398",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.608,
+      "breakingScore": 5.519,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -81,14 +57,14 @@
       "source": "The Hindu National",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/national/india-monsoon-tracker-live-weather-forecast-imd-alerts-flood-rainfall-landslip-july-12-2026-updates/article71213197.ece",
-      "publishedAt": 1783855744000,
+      "publishedAt": 1783857182000,
       "category": "india",
       "region": "in",
       "language": "en",
       "id": "d36f98d6389fc5f6",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.496,
+      "breakingScore": 5.441,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -96,91 +72,47 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1783855744000
+      "firstSeen": 1783857182000
     },
     {
-      "title": "US-Iran War Live Updates: After US Strikes Iran, Missile Alerts Sounded In UAE, Qatar, Bahrain",
-      "summary": "The US also revoked a sanctions waiver for Iranian oil.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/us-iran-war-live-updates-us-strikes-iran-after-tanker-attacks-in-hormuz-donald-trump-nato-israel-lebanon-hezbollah-ceasefire-11741497#publisher=newsstand",
-      "publishedAt": 1783846290000,
-      "category": "topStories",
+      "title": "British hikers found alive in ravine after Spain wildfire leaves them with 40% burns",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132344349.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/uk/british-hiking-couple-found-alive-in-ravine-with-40-burns-during-deadly-spain-wildfires/articleshow/132344349.cms",
+      "publishedAt": 1783856088000,
+      "category": "india",
       "region": "in",
       "language": "en",
-      "id": "1c525fef0b22450e",
+      "id": "8a299e63c342dcca",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.278,
+      "breakingScore": 4.415,
       "breakingReasons": [
+        "multi_source_velocity",
         "severity_lexicon"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1783846290000
-    },
-    {
-      "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
-      "summary": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, according to local media",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1783855389000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "0f882c4c9d82e763",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.988,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
+        "bbc",
+        "times_of_india"
       ],
       "firstSeen": 1783855389000
     },
     {
-      "title": "Constable cycling to ‘Sunday with Cycle’ event killed in Ongole car crash",
-      "summary": "Armed Reserve Constable Surabhi Mariyadasu was cycling to the District Police Office when a speeding car hit him from behind; the car was allegedly driven by a postgraduate medical student",
+      "title": "West Asia war LIVE: Oman summons Iranian ambassador, issues formal protest after attack",
+      "summary": "10 Indians rescued, one missing after vessel attacked off Oman; Pakistan, Saudi Arabia express concern over escalation",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/constable-cycling-to-sunday-with-cycle-event-killed-in-ongole-car-crash/article71213456.ece",
-      "publishedAt": 1783855271000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "5b56a41bda3f5a5b",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.985,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1783855271000
-    },
-    {
-      "title": "West Asia war LIVE: Iran adviser says Hormuz 'more important' than nuclear bombs",
-      "summary": "10 Indians rescued, one missing after vessel attacked off Oman; Pakistan, Saudi Arabia express concern over escalation",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-ceasefire-donald-trump-tehran-attacks-strait-of-hormuz-ships-live-updates-july-12-2026/article71212951.ece",
-      "publishedAt": 1783854147000,
-      "category": "world",
+      "publishedAt": 1783859064000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
       "id": "75b9664bd9ea58c0",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.959,
+      "breakingScore": 3.984,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -188,7 +120,78 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1783854147000
+      "firstSeen": 1783859064000
+    },
+    {
+      "title": "Watch: Bison flings man eight feet into air in dramatic attack at US Yellowstone National Park",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132342610.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />A man sustained serious injuries after a bull bison charged and flipped him nearly eight feet. The aggressive animal targeted the victim and his grandson while they were walking in Yellowstone. Bystanders shouted and rushed the bison, successfully driving it away from the injured man. Emergency responders transported the man for treatment, reporting significant hip and leg pain.",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/us/watch-bison-flings-man-eight-feet-into-air-in-dramatic-attack-at-us-yellowstone-national-park/articleshow/132342610.cms",
+      "publishedAt": 1783847601000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "bf9aac59fbb0efa6",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.719,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "times_of_india"
+      ],
+      "firstSeen": 1783847601000
+    },
+    {
+      "title": "PM Modi’s Statehood promise should carry weight: Omar Abdullah",
+      "summary": "National Conference has announced a sit-in at New Delhi’s Jantar Mantar on July 20, the first day of the Monsoon Session of Parliament, to demand restoration of Statehood and constitutional safeguards",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/pm-modis-statehood-promise-shouldcarry-weight-omar-abdullah/article71213670.ece",
+      "publishedAt": 1783858026000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "359a5f63d05cc2c1",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.96,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1783854156000
+    },
+    {
+      "title": "Vietnam Police Arrest Captain After Speedboat Overturns, Killing 15 Indians",
+      "summary": "15 Indians died in the Vietnam boat tragedy.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/vietnam-boat-tragedy-vietnam-police-arrest-captain-after-speedboat-overturns-killing-15-indians-11761315#publisher=newsstand",
+      "publishedAt": 1783856501000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "f2177bd3fae22c2c",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.925,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1783855564000
     }
   ]
 }
