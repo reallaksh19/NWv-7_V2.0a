@@ -1,28 +1,28 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1783872261170,
+  "generatedAt": 1783879417713,
   "windowDays": 7,
   "latest": {
     "insightGrade": "C",
     "insightScore": 0,
-    "totalStories": 524,
-    "usableStories36h": 518,
+    "totalStories": 560,
+    "usableStories36h": 527,
     "sourceGroups": 9,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3236,
+    "rankingOverallScore": 0.3228,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3236,
+    "overallScore": 0.3228,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1783872259860,
+    "generatedAt": 1783879416401,
     "destinationScores": {
       "buzz": 0,
-      "insight": 0.4359,
+      "insight": 0.4327,
       "localTravel": 0,
       "upAhead": 0.8586
     },
@@ -48,7 +48,7 @@
       {
         "destination": "insight",
         "status": "WARN",
-        "score": 0.4359,
+        "score": 0.4327,
         "profile": "insight-v2-event-angle-tree"
       },
       {
@@ -92,7 +92,7 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 4,
+        "suppressedItemCount": 5,
         "events": 0,
         "onlineOffers": 0,
         "offlineOffers": 0,
@@ -106,18 +106,20 @@
     },
     "topFindings": [
       "Prime Day Is Over, But 62 of Our Favorite Deals Are Still Available - WIRED: location failed — offline/local item lacks configured location match",
-      "DakshinaChitra’s LangFest 2026 makes space for the pluralities of voices in history: futureValidity failed — expired display window",
-      "DakshinaChitra’s LangFest 2026 makes space for the pluralities of voices in history: alertUrgency failed — alert expired",
+      "Lives Among The Palms: Students from the palmyrah belt turn the lens on life, landscape and labour: futureValidity failed — expired display window",
+      "Lives Among The Palms: Students from the palmyrah belt turn the lens on life, landscape and labour: alertUrgency failed — alert expired",
+      "Tamil Nadu’s Total Fertility Rate stands at 1.3, need to study situation, says Health Minister: futureValidity failed — expired display window",
+      "Tamil Nadu’s Total Fertility Rate stands at 1.3, need to study situation, says Health Minister: alertUrgency failed — alert expired",
       "One of Brooks’ most popular running shoes is on sale for under $100 - NBC News: location failed — offline/local item lacks configured location match",
       "You Can Get Up to 35% Off a Pair of New Balances on Amazon Right Now - Esquire: location failed — offline/local item lacks configured location match",
       "upAhead: Prime Day Is Over, But 62 of Our Favorite Deals Are Still Available - WIRED: location failed — offline/local item lacks configured location match",
-      "upAhead: DakshinaChitra’s LangFest 2026 makes space for the pluralities of voices in history: futureValidity failed — expired display window",
-      "upAhead: DakshinaChitra’s LangFest 2026 makes space for the pluralities of voices in history: alertUrgency failed — alert expired",
-      "upAhead: One of Brooks’ most popular running shoes is on sale for under $100 - NBC News: location failed — offline/local item lacks configured location match",
-      "upAhead: You Can Get Up to 35% Off a Pair of New Balances on Amazon Right Now - Esquire: location failed — offline/local item lacks configured location match"
+      "upAhead: Lives Among The Palms: Students from the palmyrah belt turn the lens on life, landscape and labour: futureValidity failed — expired display window",
+      "upAhead: Lives Among The Palms: Students from the palmyrah belt turn the lens on life, landscape and labour: alertUrgency failed — alert expired",
+      "upAhead: Tamil Nadu’s Total Fertility Rate stands at 1.3, need to study situation, says Health Minister: futureValidity failed — expired display window",
+      "upAhead: Tamil Nadu’s Total Fertility Rate stands at 1.3, need to study situation, says Health Minister: alertUrgency failed — alert expired"
     ],
     "actionRequired": [
-      "4 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "5 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no active offer items in ranked Up Ahead set",
       "no ranked Up Ahead item for muscat",
       "ranked Up Ahead set is category-dominated",
@@ -254,16 +256,16 @@
     },
     {
       "date": "2026-07-12",
-      "generatedAt": 1783872261170,
+      "generatedAt": 1783879417713,
       "insightGrade": "C",
       "insightScore": 0,
-      "totalStories": 524,
-      "usableStories36h": 518,
+      "totalStories": 560,
+      "usableStories36h": 527,
       "sourceGroups": 9,
       "angleHintCoverage": 1,
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
-      "rankingOverallScore": 0.3236,
+      "rankingOverallScore": 0.3228,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,
