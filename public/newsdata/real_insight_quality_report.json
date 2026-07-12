@@ -1,17 +1,17 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1783851009146,
-  "contentHash": "8de4fad9552d3968",
+  "generatedAt": 1783856406512,
+  "contentHash": "00fefcf0d3386fa4",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 518,
-  "sourceGroupCount": 10,
+  "storyCount": 489,
+  "sourceGroupCount": 9,
   "grade": "C",
   "parentCount": 10,
   "avgAngles": 1.7,
   "avgTemporalTiers": 2,
-  "avgEvolutionRoles": 1.9,
+  "avgEvolutionRoles": 1.8,
   "baseReportShare": 0.2608695652173913,
   "multiAngleCount": 7,
   "weakParentCount": 3,
@@ -23,10 +23,10 @@
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 57,
+      "signalScore": 58,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 463,
+      "storyCount": 445,
       "risingCount": 1,
       "thinCount": 3,
       "multiAngleCount": 7,
@@ -34,27 +34,27 @@
       "strongAngleCount": 0,
       "avgAngles": 1.7,
       "avgChildren": 2.3,
-      "avgScore": 0.5983105694494989,
+      "avgScore": 0.6084225747613321,
       "sourceDiversityCoverage": 9,
-      "snapshotCoverage": 8,
+      "snapshotCoverage": 9,
       "coverageLabel": "7/10",
       "warnings": [
         "3 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
         "1 cluster(s) are below source-diversity target.",
-        "2 cluster(s) have weak snapshot coverage.",
+        "1 cluster(s) have weak snapshot coverage.",
         "3 cluster(s) are marked thin.",
-        "550 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "440 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 57,
+      "signalScore": 58,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 463,
+      "storyCount": 445,
       "risingCount": 1,
       "thinCount": 3,
       "multiAngleCount": 7,
@@ -62,23 +62,23 @@
       "strongAngleCount": 0,
       "avgAngles": 1.7,
       "avgChildren": 2.3,
-      "avgScore": 0.5983105694494989,
+      "avgScore": 0.6084225747613321,
       "sourceDiversityCoverage": 9,
-      "snapshotCoverage": 8,
+      "snapshotCoverage": 9,
       "coverageLabel": "7/10",
       "warnings": [
         "3 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
         "1 cluster(s) are below source-diversity target.",
-        "2 cluster(s) have weak snapshot coverage.",
+        "1 cluster(s) have weak snapshot coverage.",
         "3 cluster(s) are marked thin.",
-        "550 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "440 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_190_48028dc598af3c94",
+      "parentId": "cluster_206_48028dc598af3c94",
       "headline": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
       "score": 0.6601766666666666,
       "postTreeScore": 1.0602,
@@ -99,7 +99,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_6_db39314f1e7f9f94",
+      "parentId": "cluster_20_db39314f1e7f9f94",
       "headline": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
       "score": 0.6172369182817352,
       "postTreeScore": 1.0572,
@@ -120,7 +120,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_150_7ebe0ad70ec7f03c",
+      "parentId": "cluster_166_7ebe0ad70ec7f03c",
       "headline": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
       "score": 0.6035573212916499,
       "postTreeScore": 1.0436,
@@ -141,7 +141,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_35_d8d032e1a9aa8dbf",
+      "parentId": "cluster_51_d8d032e1a9aa8dbf",
       "headline": "EPFO invites applications from PF trusts for amnesty scheme",
       "score": 0.61751,
       "postTreeScore": 1.0175,
@@ -162,7 +162,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_65_a1af5054caf64206",
+      "parentId": "cluster_81_a1af5054caf64206",
       "headline": "China issues red alert for rainstorms as Typhoon Bavi makes landfall",
       "score": 0.6105766666666668,
       "postTreeScore": 1.0106,
@@ -183,7 +183,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_307_d0c7a28e74c19851",
+      "parentId": "cluster_323_d0c7a28e74c19851",
       "headline": "PM Modi tours New Zealand sports innovation showcase",
       "score": 0.6002928264800007,
       "postTreeScore": 0.9603,
@@ -204,7 +204,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_23_bd41f3ba98ec309a",
+      "parentId": "cluster_38_bd41f3ba98ec309a",
       "headline": "Qatar’s former ruler Sheikh Hamad bin Khalifa Al Thani dies at 74",
       "score": 0.5385933333333333,
       "postTreeScore": 0.9386,
@@ -225,7 +225,26 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_241_d29cc5d24aa57ba0",
+      "parentId": "cluster_160_0b7042e7fe13159d",
+      "headline": "Aditya Birla Group to invest additional ₹12,000 crore in Odisha alumina refinery expansion",
+      "score": 0.6503933333333334,
+      "postTreeScore": 0.5604,
+      "childCount": 2,
+      "angles": [
+        "fact_update"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "established"
+      ],
+      "evolutionRoles": [
+        "fact_update"
+      ],
+      "baseReportShare": 0,
+      "weakTree": true
+    },
+    {
+      "parentId": "cluster_257_d29cc5d24aa57ba0",
       "headline": "Boat carrying Indians capsizes in Vietnam; search under way",
       "score": 0.6261154013449327,
       "postTreeScore": 0.5361,
@@ -245,7 +264,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_3_27e2d833fa8e8f3e",
+      "parentId": "cluster_17_27e2d833fa8e8f3e",
       "headline": "14 nations, EU reaffirm 2016 ruling invalidating China's claims in South China Sea",
       "score": 0.5597732802150018,
       "postTreeScore": 0.4698,
@@ -259,26 +278,6 @@
       ],
       "evolutionRoles": [
         "official_response"
-      ],
-      "baseReportShare": 0,
-      "weakTree": true
-    },
-    {
-      "parentId": "cluster_91_450dc52c2f0eb92d",
-      "headline": "At least two killed in Toronto street festival shooting",
-      "score": 0.5492732802150018,
-      "postTreeScore": 0.4393,
-      "childCount": 2,
-      "angles": [
-        "fact_update"
-      ],
-      "temporalTiers": [
-        "developing",
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "corroboration",
-        "fact_update"
       ],
       "baseReportShare": 0,
       "weakTree": true
@@ -319,7 +318,7 @@
       {
         "id": "avg-evolution-role-count",
         "label": "Average evolution role count",
-        "actual": 1.9,
+        "actual": 1.8,
         "required": ">= 1.6"
       },
       {
@@ -358,15 +357,15 @@
       "parentCount": 10,
       "avgAngles": 1.7,
       "avgTemporalTiers": 2,
-      "avgEvolutionRoles": 1.9,
+      "avgEvolutionRoles": 1.8,
       "baseReportShare": 0.261,
       "multiAngleCount": 7,
       "weakParentCount": 3,
       "weakParentRatio": 0.3,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 518,
-      "sourceGroupCount": 10
+      "storyCount": 489,
+      "sourceGroupCount": 9
     }
   }
 }
