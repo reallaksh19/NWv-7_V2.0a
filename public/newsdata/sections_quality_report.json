@@ -1,8 +1,8 @@
 {
-  "contentHash": "ac532e99cef1",
+  "contentHash": "451c48c097b9",
   "errors": [],
-  "fetchedAt": 1783842104696,
-  "generatedAt": 1783842116731,
+  "fetchedAt": 1783850952411,
+  "generatedAt": 1783850961323,
   "schemaVersion": 2,
   "sectionCount": 10,
   "sectionHealth": {
@@ -14,36 +14,36 @@
       "thin": false,
       "topSources": [
         {
-          "count": 16,
+          "count": 17,
           "sourceGroup": "business_line"
         },
         {
-          "count": 11,
+          "count": 7,
           "sourceGroup": "economic_times"
         },
         {
-          "count": 3,
+          "count": 6,
           "sourceGroup": "google_news"
         }
       ]
     },
     "entertainment": {
       "qualitySourceGroupCount": 1,
-      "qualityStoryCount": 15,
+      "qualityStoryCount": 16,
       "sourceGroupCount": 1,
-      "storyCount": 15,
+      "storyCount": 16,
       "thin": true,
       "topSources": [
         {
-          "count": 15,
+          "count": 16,
           "sourceGroup": "google_news"
         }
       ]
     },
     "india": {
-      "qualitySourceGroupCount": 2,
+      "qualitySourceGroupCount": 3,
       "qualityStoryCount": 30,
-      "sourceGroupCount": 2,
+      "sourceGroupCount": 3,
       "storyCount": 30,
       "thin": false,
       "topSources": [
@@ -52,25 +52,33 @@
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 10,
+          "count": 7,
           "sourceGroup": "ndtv"
+        },
+        {
+          "count": 3,
+          "sourceGroup": "times_of_india"
         }
       ]
     },
     "muscat": {
-      "qualitySourceGroupCount": 2,
+      "qualitySourceGroupCount": 3,
       "qualityStoryCount": 30,
-      "sourceGroupCount": 2,
+      "sourceGroupCount": 3,
       "storyCount": 30,
       "thin": false,
       "topSources": [
         {
-          "count": 20,
+          "count": 15,
           "sourceGroup": "times_of_oman"
         },
         {
-          "count": 10,
+          "count": 14,
           "sourceGroup": "google_news_oman"
+        },
+        {
+          "count": 1,
+          "sourceGroup": "google_news"
         }
       ]
     },
@@ -103,12 +111,12 @@
       "thin": false,
       "topSources": [
         {
-          "count": 14,
-          "sourceGroup": "gadgets360"
+          "count": 15,
+          "sourceGroup": "google_news"
         },
         {
-          "count": 14,
-          "sourceGroup": "google_news"
+          "count": 13,
+          "sourceGroup": "gadgets360"
         },
         {
           "count": 2,
@@ -145,20 +153,20 @@
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 6,
+          "count": 8,
           "sourceGroup": "ndtv"
         },
         {
-          "count": 4,
+          "count": 2,
           "sourceGroup": "economic_times"
         }
       ]
     },
     "trichy": {
-      "qualitySourceGroupCount": 2,
-      "qualityStoryCount": 18,
-      "sourceGroupCount": 2,
-      "storyCount": 18,
+      "qualitySourceGroupCount": 3,
+      "qualityStoryCount": 19,
+      "sourceGroupCount": 3,
+      "storyCount": 19,
       "thin": false,
       "topSources": [
         {
@@ -168,6 +176,10 @@
         {
           "count": 5,
           "sourceGroup": "google_news"
+        },
+        {
+          "count": 1,
+          "sourceGroup": "google_news_alt"
         }
       ]
     },
@@ -179,19 +191,19 @@
       "thin": false,
       "topSources": [
         {
-          "count": 15,
-          "sourceGroup": "bbc"
+          "count": 17,
+          "sourceGroup": "the_hindu"
         },
         {
-          "count": 15,
-          "sourceGroup": "the_hindu"
+          "count": 13,
+          "sourceGroup": "bbc"
         }
       ]
     }
   },
-  "sourceGroupCount": 9,
+  "sourceGroupCount": 11,
   "status": "WARN",
-  "storyCount": 273,
+  "storyCount": 275,
   "thresholds": {
     "expectedRetainHours": 36,
     "minSectionSourceGroups": 2,
@@ -214,7 +226,7 @@
     "Section entertainment has weak source diversity: 1 source group(s)"
   ],
   "window": {
-    "cutoffAt": 1783712504696,
+    "cutoffAt": 1783721352411,
     "retainHours": 36
   }
 }
