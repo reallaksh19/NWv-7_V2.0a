@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1783929332147,
-  "contentHash": "ed6a4708a926",
+  "fetchedAt": 1783940071102,
+  "contentHash": "2261d9534d9c",
   "breaking": [
     {
-      "title": "West Asia war LIVE: IRGC claims strikes against Oman and Bahrain",
-      "summary": "Iran’s Revolutionary Guards said they destroyed radar systems in Oman and targeted U.S. military facilities on the southern edge of Manama",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-missile-attacks-strait-of-hormuz-donald-trump-mojtaba-khamenei-cenctom-irgc-ceasefire-deal/article71215794.ece",
-      "publishedAt": 1783927680000,
-      "category": "world",
+      "title": "US-Iran War Live Updates: US, Iran Both Claim Control Of Strait Of Hormuz As Tensions Escalate",
+      "summary": "US-Iran War Live Updates: The flare-up is the latest to undermine an interim agreement between Washington and Tehran aimed at ending their war, which has caused global economic shockwaves since it began in late February.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand",
+      "publishedAt": 1783933512000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "6c6c89021a844685",
+      "id": "287f07c12ee84038",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.962,
+      "breakingScore": 4.348,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -26,47 +26,91 @@
         "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1783924000000
+      "firstSeen": 1783930987000
     },
     {
-      "title": "2,700 Killed By Heatwaves Across England Between May And June: Study",
-      "summary": "UK Health Security Agency will publish its official estimate of heat-related deaths in coming weeks",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/england-heatwaves-2-700-killed-by-heatwaves-across-england-between-may-and-june-study-11763461#publisher=newsstand",
-      "publishedAt": 1783925262000,
+      "title": "Fresh floods, landslides disrupt normal life in several districts of Arunachal",
+      "summary": "At least 97,182 people have been affected by the flood in 425 villages in all 26 districts. The calamity has caused widespread damage to agriculture and public infrastructure",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/arunachal-pradesh/fresh-floods-landslides-disrupt-normal-life-in-several-districts-of-arunachal/article71216583.ece",
+      "publishedAt": 1783939107000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "d6cf4114722ba56f",
+      "id": "c32e93d3f6c181fb",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.406,
+      "breakingScore": 3.978,
       "breakingReasons": [
-        "multi_source_velocity",
         "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "bbc",
-        "ndtv"
+        "the_hindu"
       ],
-      "firstSeen": 1783925128000
+      "firstSeen": 1783939107000
+    },
+    {
+      "title": "Gunmen open fire after a funeral in Nigeria, killing 8",
+      "summary": "Amnesty International Nigeria said at least 10 people were killed. Police in Nigeria often report more conservative casualty figures",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/gunmen-open-fire-after-a-funeral-in-nigeria-killing-8/article71216790.ece",
+      "publishedAt": 1783938686000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "f470aed6438b5492",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.968,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1783938686000
+    },
+    {
+      "title": "West Asia war LIVE: IRGC claims strikes against Oman and Bahrain",
+      "summary": "Iran’s Revolutionary Guards said they destroyed radar systems in Oman and targeted U.S. military facilities on the southern edge of Manama",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-missile-attacks-strait-of-hormuz-donald-trump-mojtaba-khamenei-cenctom-irgc-ceasefire-deal/article71215794.ece",
+      "publishedAt": 1783929426000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "6c6c89021a844685",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.754,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1783929426000
     },
     {
       "title": "U.S. hits Iran as Gulf states targeted in flare-up over Hormuz",
       "summary": "Iran responded to the latest U.S. attacks by targeting Gulf nations, with the powerful Revolutionary Guards announcing new strikes on Bahrain, Jordan and Kuwait, according to state media reports",
-      "source": "The Hindu",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/us-hits-iran-as-gulf-states-targeted-in-flare-up-over-hormuz/article71216183.ece",
       "publishedAt": 1783928694000,
-      "category": "topStories",
+      "category": "world",
       "region": "in",
       "language": "en",
       "id": "0b1baafd40c6f2b1",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.985,
+      "breakingScore": 3.737,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -77,30 +121,7 @@
       "firstSeen": 1783928694000
     },
     {
-      "title": "When anti-cow slaughter mob tried to burn down Kamaraj’s house in New Delhi in 1966",
-      "summary": "The Congress national president was having a siesta when the mob, taking out a rally to Parliament, attacked his residence on Jantar Mantar Road in New Delhi on November 7. The house was partly burnt. His cook, Ambi, was attacked with sticks and injured in the face. Kamaraj escaped to the adjoining Vithalbhai Hostel for MPs",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/when-anti-cow-slaughter-mob-tried-to-burn-down-kamarajs-house-in-new-delhi/article69269863.ece",
-      "publishedAt": 1783928576000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "b2ea9b90b32211e9",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.982,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1783928576000
-    },
-    {
-      "title": "At least 27 killed, 22 critically injured in Bangkok bar fire",
+      "title": "At least 27 killed, 25 critically injured after fire engulfs Bangkok bar",
       "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
       "source": "BBC World",
       "sourceGroup": "bbc",
@@ -112,87 +133,62 @@
       "id": "9748e80930f983d2",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.85,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 3,
-      "allSources": [
-        "bbc",
-        "the_hindu",
-        "times_of_india"
-      ],
-      "firstSeen": 1783908892000
-    },
-    {
-      "title": "Jordan says it shot down four missiles launched by Iran",
-      "summary": "Iran earlier had claimed an attack targeting Jordan, which hosts U.S. military forces",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/jordan-says-it-shot-down-four-missiles-launched-by-iran/article71216119.ece",
-      "publishedAt": 1783922068000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "b4695025858e77b1",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.832,
+      "breakingScore": 3.601,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "the_hindu"
+        "bbc"
       ],
-      "firstSeen": 1783922068000
+      "firstSeen": 1783922837000
     },
     {
-      "title": "'We heard an explosion, then flames spread': Survivors recount Bangkok pub inferno that killed 27",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132356705.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />In a horrific incident, a raging fire swept through a crowded pub in Bangkok, resulting in the deaths of 27 individuals. Panic ensued as smoke enveloped the venue, with numerous victims cornered at the rear due to obstructed emergency exits. Eyewitnesses shared their desperate attempts to escape the chaos as the inferno blazed shortly before midnight.",
+      "title": "In 1906, one wrong turn sent the SS Valencia into the Pacific's “Graveyard of the Pacific”, where more than 100 people died",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132361937.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
       "source": "Times of India",
       "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/we-heard-an-explosion-then-flames-spread-survivors-recount-bangkok-pub-inferno-that-killed-27/articleshow/132356705.cms",
-      "publishedAt": 1783917812000,
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1906-one-wrong-turn-sent-the-ss-valencia-into-the-pacifics-graveyard-of-the-pacific-where-more-than-100-people-died/articleshow/132361937.cms",
+      "publishedAt": 1783935900000,
       "category": "india",
       "region": "in",
       "language": "en",
-      "id": "940e7b9065516c0b",
+      "id": "a233d35e17d233ca",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.733,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "times_of_india"
-      ],
-      "firstSeen": 1783917812000
-    },
-    {
-      "title": "Ban cow slaughter in Tamil Nadu with immediate effect, orders Madras High Court",
-      "summary": "Judges say, goats and sheep too should not be allowed to be slaughtered in any place other than a licensed slaughter house",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/ban-cow-slaughter-in-tamil-nadu-with-immediate-effect-orders-madras-high-court/article71029921.ece",
-      "publishedAt": 1783928517000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "7b10bea90da9a7c0",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.981,
+      "breakingScore": 2.903,
       "breakingReasons": [
         "multi_source_velocity"
       ],
       "sourceCount": 2,
       "allSources": [
-        "ndtv",
-        "the_hindu"
+        "bbc",
+        "times_of_india"
       ],
-      "firstSeen": 1783927482000
+      "firstSeen": 1783933035000
+    },
+    {
+      "title": "UK seeking extradition of man suspected of killing wife and two daughters",
+      "summary": "The UK is trying to extradite a man after his wife and two daughters are found dead in Bedfordshire.",
+      "source": "BBC",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cy8w61qz873o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1783939684000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "ad5d43bce3a9db9b",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.491,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1783939684000
     }
   ]
 }
