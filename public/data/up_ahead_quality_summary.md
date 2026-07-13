@@ -10,5 +10,5 @@
 
 ## Category counts
 
-- alerts: 33
-- shopping: 7
+- alerts: 34
+- shopping: 6
