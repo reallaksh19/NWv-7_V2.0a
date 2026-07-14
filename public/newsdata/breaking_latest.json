@@ -1,47 +1,22 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1784047974131,
-  "contentHash": "214940d98b97",
+  "fetchedAt": 1784051873416,
+  "contentHash": "f6e46deb9a65",
   "breaking": [
-    {
-      "title": "Nasa's Anil Menon, two Russians blast off for 8-month International Space Station mission",
-      "summary": "Mr. Menon will \"conduct scientific research and technology demonstrations aimed at advancing human space exploration and benefiting life on Earth,\" according to NASA",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/nasas-anil-menon-two-russians-blast-off-for-8-month-international-space-station-mission/article71222648.ece",
-      "publishedAt": 1784047449000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "48f81d6cde1ca06a",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 4.488,
-      "breakingReasons": [
-        "multi_source_velocity",
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1784042695000
-    },
     {
       "title": "Government summons Iran envoy after Indian national killed in attack on ship",
       "summary": "External Affairs Ministry spokesperson Randhir Jaiswal said the Indian side conveyed “deepest concerns” about the incident in the Strait of Hormuz and urged for “de-escalation”",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/national/mea-summons-iranian-deputy-envoy-after-indian-national-killed-in-attack-on-ship/article71221170.ece",
-      "publishedAt": 1784047655000,
+      "publishedAt": 1784050230000,
       "category": "topStories",
       "region": "in",
       "language": "en",
       "id": "34852fd2242cb42b",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.993,
+      "breakingScore": 3.962,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -49,7 +24,53 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1784047655000
+      "firstSeen": 1784050230000
+    },
+    {
+      "title": "Heavy rain collapses roof and kills 11 people in northwest Pakistan",
+      "summary": "Officials in northwest Pakistan say 11 people were killed overnight when heavy rain caused the roof of a mud-brick house to collapse",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/heavy-rain-collapses-roof-and-kills-11-people-in-northwest-pakistan/article71220527.ece",
+      "publishedAt": 1784049734000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "da2511314f623c3b",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.95,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1784049734000
+    },
+    {
+      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+      "summary": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1784049207000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "b9f01e45f76e1ce7",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.938,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1784049207000
     },
     {
       "title": "Army Soldier, Father Killed By Cousin In Bihar After Fight Over Banana Tree",
@@ -64,7 +85,7 @@
       "id": "69bfe2986b91ea63",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.835,
+      "breakingScore": 3.745,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -87,7 +108,7 @@
       "id": "f5c50bd1744b73fe",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.827,
+      "breakingScore": 3.737,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -100,17 +121,17 @@
     {
       "title": "Cop Killed, 3 Injured After Police Van Rams Parked Truck In Jharkhand's Dhanbad",
       "summary": "A constable died, while three others suffered injuries, police said.",
-      "source": "NDTV",
+      "source": "NDTV India",
       "sourceGroup": "ndtv",
       "url": "https://www.ndtv.com/india-news/cop-killed-3-injured-after-police-van-rams-parked-truck-in-jharkhands-dhanbad-11769376#publisher=newsstand",
       "publishedAt": 1784038662000,
-      "category": "topStories",
+      "category": "india",
       "region": "in",
       "language": "en",
       "id": "a80d6348005f2ae2",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.784,
+      "breakingScore": 3.694,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -121,42 +142,19 @@
       "firstSeen": 1784038662000
     },
     {
-      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-      "summary": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1784036774000,
+      "title": "Incentives, warnings and assurances: how an Indian sailor transited Hormuz",
+      "summary": "Indian seafarer aboard oil tanker recalls incentives from his employer to make the risky transit via route near Oman, the threats from the Iranian side to stop, and encouragement from the U.S. Navy to move ahead",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/incentives-warnings-and-assurances-how-an-indian-sailor-transited-hormuz/article71222566.ece",
+      "publishedAt": 1784049831000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "b9f01e45f76e1ce7",
+      "id": "beb191add85458f8",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.741,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1784036774000
-    },
-    {
-      "title": "Trump Can't Think 'Strait' On Hormuz. Drops Transit Fee, Wants Deals",
-      "summary": "Trump said that the investments will be \"massive\" and that the deals will be \"extraordinarily good\"",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/trump-drops-20-fee-for-hormuz-transit-idea-now-wants-deals-with-gulf-nations-11771282#publisher=newsstand",
-      "publishedAt": 1784046437000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "d8aae40e523fc94c",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.964,
+      "breakingScore": 2.953,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -165,22 +163,22 @@
         "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1784043650000
+      "firstSeen": 1784049322000
     },
     {
-      "title": "Chief warder, two warders arrested for the death of a remand prisoner in Nagercoil jail",
-      "summary": "Sabari Varman, 34, a differently abled resident of Eeththankaadu near Suchindram, was arrested on July 9 for allegedly possessing the banned gutka and remanded in custody.  He died in the prison  there under suspicious circumstances on July 12",
+      "title": "Drug peddler arrested, 26 grams MDMA seized",
+      "summary": "",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/cities/Madurai/chief-warder-two-warders-arrested-for-the-death-of-a-remand-prisoner-in-nagercoil-jail/article71222438.ece",
-      "publishedAt": 1784047534000,
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/drug-peddler-arrested-26-grams-mdma-seized/article71222721.ece",
+      "publishedAt": 1784051583000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "11712b8386e8c3f1",
+      "id": "3e0f0dc5f98fccc9",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.49,
+      "breakingScore": 2.493,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -188,7 +186,7 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1784047534000
+      "firstSeen": 1784051583000
     }
   ]
 }
