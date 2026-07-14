@@ -26,4 +26,4 @@
 - no ranked local/travel item for muscat
 - no ranked local/travel item for chennai
 - no ranked local/travel item for trichy
-- 1 base-report-heavy Insight parent(s) demoted
+- 2 base-report-heavy Insight parent(s) demoted
