@@ -2,10 +2,10 @@
 
 - Status: **WARN**
 - Schema: `2`
-- Content hash: `43899c27ef4e`
+- Content hash: `51f1e6c11cb6`
 - Sections: `10`
-- Stories: `280`
-- Source groups: `10`
+- Stories: `279`
+- Source groups: `9`
 - Retain hours: `36`
 
 ## Section health
@@ -13,7 +13,7 @@
 | Section | Stories | Sources | Thin |
 |---|---:|---:|---|
 | topStories | 30 | 3 | False |
-| india | 30 | 3 | False |
+| india | 30 | 2 | False |
 | tn | 30 | 2 | False |
 | trichy | 23 | 2 | False |
 | muscat | 30 | 2 | False |
@@ -21,7 +21,7 @@
 | business | 30 | 3 | False |
 | technology | 30 | 3 | False |
 | sports | 30 | 3 | False |
-| entertainment | 17 | 1 | True |
+| entertainment | 16 | 1 | True |
 
 ## Warnings
 
