@@ -1,45 +1,19 @@
 {
   "schemaVersion": "2.0.0",
-  "generatedAt": "2026-07-14T07:25:47.995974Z",
+  "generatedAt": "2026-07-14T09:24:21.239102Z",
   "currencies": [
     {
-      "name": "GBP/INR",
-      "pair": "GBPINR",
-      "symbol": "GBPINR=X",
-      "value": "₹128.4480",
-      "rate": 128.447998046875,
-      "change": "0.7009",
-      "changePercent": "0.55",
+      "name": "EUR/INR",
+      "pair": "EURINR",
+      "symbol": "EURINR=X",
+      "value": "₹109.6793",
+      "rate": 109.6792984008789,
+      "change": "0.8433",
+      "changePercent": "0.77",
       "direction": "up",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-07-14T07:24:06.116798Z"
-    },
-    {
-      "name": "USD/INR",
-      "pair": "USDINR",
-      "symbol": "USDINR=X",
-      "value": "₹96.1725",
-      "rate": 96.17250061035156,
-      "change": "0.8475",
-      "changePercent": "0.89",
-      "direction": "up",
-      "source": "yahoo-yfinance",
-      "mode": "fallback-intraday",
-      "asOf": "2026-07-14T07:24:06.120923Z"
-    },
-    {
-      "name": "JPY/INR",
-      "pair": "JPYINR",
-      "symbol": "JPYINR=X",
-      "value": "₹0.5922",
-      "rate": 0.5922399759292603,
-      "change": "0.0058",
-      "changePercent": "1.00",
-      "direction": "up",
-      "source": "yahoo-yfinance",
-      "mode": "fallback-intraday",
-      "asOf": "2026-07-14T07:24:06.184156Z"
+      "asOf": "2026-07-14T09:22:35.297806Z"
     },
     {
       "name": "OMR/INR",
@@ -52,20 +26,46 @@
       "direction": "up",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-07-14T07:24:06.208821Z"
+      "asOf": "2026-07-14T09:22:35.303642Z"
     },
     {
-      "name": "EUR/INR",
-      "pair": "EURINR",
-      "symbol": "EURINR=X",
-      "value": "₹109.5491",
-      "rate": 109.54910278320312,
-      "change": "0.7131",
-      "changePercent": "0.66",
+      "name": "GBP/INR",
+      "pair": "GBPINR",
+      "symbol": "GBPINR=X",
+      "value": "₹128.7193",
+      "rate": 128.71929931640625,
+      "change": "0.9722",
+      "changePercent": "0.76",
       "direction": "up",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-07-14T07:24:06.269908Z"
+      "asOf": "2026-07-14T09:22:35.306612Z"
+    },
+    {
+      "name": "JPY/INR",
+      "pair": "JPYINR",
+      "symbol": "JPYINR=X",
+      "value": "₹0.5929",
+      "rate": 0.5928699970245361,
+      "change": "0.0065",
+      "changePercent": "1.11",
+      "direction": "up",
+      "source": "yahoo-yfinance",
+      "mode": "fallback-intraday",
+      "asOf": "2026-07-14T09:22:35.319177Z"
+    },
+    {
+      "name": "USD/INR",
+      "pair": "USDINR",
+      "symbol": "USDINR=X",
+      "value": "₹96.2225",
+      "rate": 96.22250366210938,
+      "change": "0.8975",
+      "changePercent": "0.94",
+      "direction": "up",
+      "source": "yahoo-yfinance",
+      "mode": "fallback-intraday",
+      "asOf": "2026-07-14T09:22:35.376082Z"
     }
   ],
   "sourceHealth": {
