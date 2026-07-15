@@ -1,28 +1,28 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1784108068713,
+  "generatedAt": 1784117039865,
   "windowDays": 7,
   "latest": {
     "insightGrade": "C",
     "insightScore": 0,
-    "totalStories": 694,
-    "usableStories36h": 651,
-    "sourceGroups": 10,
+    "totalStories": 691,
+    "usableStories36h": 683,
+    "sourceGroups": 9,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3115,
+    "rankingOverallScore": 0.3126,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3115,
+    "overallScore": 0.3126,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1784108067447,
+    "generatedAt": 1784117039232,
     "destinationScores": {
       "buzz": 0,
-      "insight": 0.3867,
+      "insight": 0.3908,
       "localTravel": 0,
       "upAhead": 0.8595
     },
@@ -48,7 +48,7 @@
       {
         "destination": "insight",
         "status": "WARN",
-        "score": 0.3867,
+        "score": 0.3908,
         "profile": "insight-v2-event-angle-tree"
       },
       {
@@ -74,11 +74,11 @@
         "oneSourceCappedCount": 0
       },
       "insight": {
-        "parentClusters": 12,
-        "strongParents": 12,
+        "parentClusters": 11,
+        "strongParents": 11,
         "weakParentsDemoted": 0,
         "avgAnglesPerParent": 0,
-        "baseReportHeavyParents": 3,
+        "baseReportHeavyParents": 2,
         "duplicateChildrenSuppressed": 0
       },
       "localTravel": {
@@ -92,7 +92,7 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 5,
+        "suppressedItemCount": 6,
         "events": 0,
         "onlineOffers": 0,
         "offlineOffers": 0,
@@ -110,6 +110,8 @@
       "Prime Day Is Over, But 62 of Our Favorite Deals Are Still Available - WIRED: location failed — offline/local item lacks configured location match",
       "Philippine Airlines Middle East Flight Sale - Nomad Lawyer: location failed — offline/local item lacks configured location match",
       "Best Fire TV Stick deal: Save $15 on Amazon Fire TV Stick HD - Mashable: location failed — offline/local item lacks configured location match",
+      "The composer in mridangist Arunprakash takes centre stage: futureValidity failed — expired display window",
+      "The composer in mridangist Arunprakash takes centre stage: alertUrgency failed — alert expired",
       "upAhead: Amazon Prime Day sale ends with mega deals - News.com.au: location failed — offline/local item lacks configured location match",
       "upAhead: Deal | 34-inch 240 Hz LG OLED gaming monitor sees $500 discount in new Amazon sale - Notebookcheck: location failed — offline/local item lacks configured location match",
       "upAhead: Prime Day Is Over, But 62 of Our Favorite Deals Are Still Available - WIRED: location failed — offline/local item lacks configured location match",
@@ -117,7 +119,7 @@
       "upAhead: Best Fire TV Stick deal: Save $15 on Amazon Fire TV Stick HD - Mashable: location failed — offline/local item lacks configured location match"
     ],
     "actionRequired": [
-      "5 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "6 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no active offer items in ranked Up Ahead set",
       "no ranked Up Ahead item for muscat",
       "no local Buzz item in ranked set",
@@ -127,7 +129,7 @@
       "no ranked local/travel item for muscat",
       "no ranked local/travel item for chennai",
       "no ranked local/travel item for trichy",
-      "3 base-report-heavy Insight parent(s) demoted",
+      "2 base-report-heavy Insight parent(s) demoted",
       "buzz: no local Buzz item in ranked set"
     ]
   },
@@ -254,16 +256,16 @@
     },
     {
       "date": "2026-07-15",
-      "generatedAt": 1784108068713,
+      "generatedAt": 1784117039865,
       "insightGrade": "C",
       "insightScore": 0,
-      "totalStories": 694,
-      "usableStories36h": 651,
-      "sourceGroups": 10,
+      "totalStories": 691,
+      "usableStories36h": 683,
+      "sourceGroups": 9,
       "angleHintCoverage": 1,
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
-      "rankingOverallScore": 0.3115,
+      "rankingOverallScore": 0.3126,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,
