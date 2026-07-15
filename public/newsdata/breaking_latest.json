@@ -1,8 +1,33 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1784071978524,
-  "contentHash": "97d5bcce9ccd",
+  "fetchedAt": 1784077175305,
+  "contentHash": "bd9314abefc8",
   "breaking": [
+    {
+      "title": "Trump threatens to hit Iran power plants next week if no deal",
+      "summary": "Asked how long the US strikes would carry on, the U.S President replied: \"They'll continue until I say it's enough.\"",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/trump-threatens-to-hit-iran-power-plants-next-week-if-no-deal/article71223840.ece",
+      "publishedAt": 1784073981000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "8261abae2d043121",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 4.426,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1784073233000
+    },
     {
       "title": "France vs Spain, World Cup semifinal: Oyarzabal, Porro score as Spain nullifies French attack to reach final",
       "summary": "France managed only two shots on target as Spain, chasing a second World Cup title, suffocated them",
@@ -16,7 +41,7 @@
       "id": "61d641d62c1832a7",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.378,
+      "breakingScore": 4.257,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -26,32 +51,76 @@
         "bbc",
         "the_hindu"
       ],
-      "firstSeen": 1784066512000
+      "firstSeen": 1784064779000
     },
     {
-      "title": "E Jean Carroll receives $5.6 million in sexual abuse case after years-long legal battle with Trump",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132398267.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Writer E. Jean Carroll has received over $5.6 million in damages awarded in her civil case against US President Donald Trump after a federal court released funds held in escrow during the appeals process. The payment follows the US Supreme Court's decision to let the 2023 verdict stand. Trump continues to challenge the ruling and has filed further appeals.",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/us/e-jean-carroll-receives-5-6-million-in-sexual-abuse-case-after-years-long-legal-battle-with-trump/articleshow/132398267.cms",
-      "publishedAt": 1784051256000,
-      "category": "india",
+      "title": "Seven Britons among those killed in Spain wildfires",
+      "summary": "Twelve of the 13 victims were foreign nationals, Spanish authorities said on Tuesday.",
+      "source": "BBC",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1784072037000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "cdcf9781333b3ab9",
+      "id": "47a4dcda673c6b1c",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.02,
+      "breakingScore": 3.881,
       "breakingReasons": [
-        "multi_source_velocity",
         "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "bbc",
-        "times_of_india"
+        "bbc"
       ],
-      "firstSeen": 1784048862000
+      "firstSeen": 1784072037000
+    },
+    {
+      "title": "Trump withdraws planned 20% levy on Hormuz ships; attacks intensify",
+      "summary": "The U.S. carried out another wave of strikes ahead of its planned reimposition of a blockade on Iran’s ports",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/trump-withdraws-planned-20-levy-on-hormuz-ships-calls-for-trade-deals-with-gulf-countries-instead/article71222372.ece",
+      "publishedAt": 1784072021000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "241843248980e9dc",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.881,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1784072021000
+    },
+    {
+      "title": "Venezuela Earthquake: Death Count Rises To 4,734, More Than 16,700 Injured",
+      "summary": "The 7.2 and 7.5 magnitude quakes struck within a minute of each other on June 24.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/venezuela-earthquake-death-count-rises-to-4-734-more-than-16-700-injured-11772478#publisher=newsstand",
+      "publishedAt": 1784070256000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "10fd46d9414e5c9e",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.84,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1784070256000
     },
     {
       "title": "US Halts Immigration Traffic Stops After 2 Fatal Shootings",
@@ -66,7 +135,7 @@
       "id": "d3b085e9a5cd7c07",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.651,
+      "breakingScore": 3.531,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -75,29 +144,6 @@
         "ndtv"
       ],
       "firstSeen": 1784056896000
-    },
-    {
-      "title": "Police say Ann Widdecombe killed in 'targeted attack' as motive investigated",
-      "summary": "Counter terror police say they have obtained a warrant to hold a 28-year-old suspect for up to seven days.",
-      "source": "BBC",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/c0ryr74zjzvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1784052428000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "5c987531fe77ad6a",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.547,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1784052428000
     },
     {
       "title": "Midnight social media curfew proposed for older UK teens",
@@ -112,7 +158,7 @@
       "id": "0ff502daca04bc7e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.978,
+      "breakingScore": 2.858,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -136,7 +182,7 @@
       "id": "332a62c55073f68e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.666,
+      "breakingScore": 2.546,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -146,53 +192,6 @@
         "the_hindu"
       ],
       "firstSeen": 1784053074000
-    },
-    {
-      "title": "Incentives, warnings and assurances: how an Indian sailor transited Hormuz",
-      "summary": "Indian seafarer aboard oil tanker recalls incentives from his employer to make the risky transit via route near Oman, the threats from the Iranian side to stop, and encouragement from the U.S. Navy to move ahead",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/incentives-warnings-and-assurances-how-an-indian-sailor-transited-hormuz/article71222566.ece",
-      "publishedAt": 1784053551000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "beb191add85458f8",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.573,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1784053284000
-    },
-    {
-      "title": "Florida Man Killed After Fleeing US Immigration Agents, 3rd Death In A Week",
-      "summary": "It was the third death in about a week involving encounters with ICE agents.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/florida-man-killed-after-fleeing-us-immigration-agents-3rd-death-in-a-week-11772362#publisher=newsstand",
-      "publishedAt": 1784064913000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "9390c20012d98ec9",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.336,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1784064913000
     }
   ]
 }
