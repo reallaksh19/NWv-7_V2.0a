@@ -1,8 +1,8 @@
 {
-  "contentHash": "4be627d423b9",
+  "contentHash": "4578c823f6fb",
   "errors": [],
-  "fetchedAt": 1784116945281,
-  "generatedAt": 1784116959621,
+  "fetchedAt": 1784125350461,
+  "generatedAt": 1784125362702,
   "schemaVersion": 2,
   "sectionCount": 10,
   "sectionHealth": {
@@ -14,28 +14,28 @@
       "thin": false,
       "topSources": [
         {
-          "count": 14,
+          "count": 17,
           "sourceGroup": "economic_times"
         },
         {
-          "count": 10,
+          "count": 12,
           "sourceGroup": "business_line"
         },
         {
-          "count": 6,
+          "count": 1,
           "sourceGroup": "google_news"
         }
       ]
     },
     "entertainment": {
       "qualitySourceGroupCount": 1,
-      "qualityStoryCount": 19,
+      "qualityStoryCount": 20,
       "sourceGroupCount": 1,
-      "storyCount": 19,
+      "storyCount": 20,
       "thin": true,
       "topSources": [
         {
-          "count": 19,
+          "count": 20,
           "sourceGroup": "google_news"
         }
       ]
@@ -52,11 +52,11 @@
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 7,
+          "count": 6,
           "sourceGroup": "times_of_india"
         },
         {
-          "count": 3,
+          "count": 4,
           "sourceGroup": "ndtv"
         }
       ]
@@ -86,16 +86,16 @@
       "thin": false,
       "topSources": [
         {
-          "count": 16,
+          "count": 15,
           "sourceGroup": "bbc"
+        },
+        {
+          "count": 8,
+          "sourceGroup": "the_hindu"
         },
         {
           "count": 7,
           "sourceGroup": "google_news"
-        },
-        {
-          "count": 7,
-          "sourceGroup": "the_hindu"
         }
       ]
     },
@@ -107,15 +107,15 @@
       "thin": false,
       "topSources": [
         {
-          "count": 15,
+          "count": 16,
           "sourceGroup": "gadgets360"
         },
         {
-          "count": 10,
+          "count": 11,
           "sourceGroup": "google_news"
         },
         {
-          "count": 5,
+          "count": 3,
           "sourceGroup": "the_hindu"
         }
       ]
@@ -128,11 +128,11 @@
       "thin": false,
       "topSources": [
         {
-          "count": 18,
+          "count": 19,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 12,
+          "count": 11,
           "sourceGroup": "google_news"
         }
       ]
@@ -149,29 +149,29 @@
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 9,
-          "sourceGroup": "economic_times"
+          "count": 8,
+          "sourceGroup": "ndtv"
         },
         {
-          "count": 1,
-          "sourceGroup": "ndtv"
+          "count": 2,
+          "sourceGroup": "economic_times"
         }
       ]
     },
     "trichy": {
       "qualitySourceGroupCount": 2,
-      "qualityStoryCount": 23,
+      "qualityStoryCount": 29,
       "sourceGroupCount": 2,
-      "storyCount": 23,
+      "storyCount": 29,
       "thin": false,
       "topSources": [
         {
-          "count": 14,
-          "sourceGroup": "google_news"
+          "count": 15,
+          "sourceGroup": "the_hindu"
         },
         {
-          "count": 9,
-          "sourceGroup": "the_hindu"
+          "count": 14,
+          "sourceGroup": "google_news"
         }
       ]
     },
@@ -183,11 +183,11 @@
       "thin": false,
       "topSources": [
         {
-          "count": 17,
+          "count": 16,
           "sourceGroup": "bbc"
         },
         {
-          "count": 13,
+          "count": 14,
           "sourceGroup": "the_hindu"
         }
       ]
@@ -195,7 +195,7 @@
   },
   "sourceGroupCount": 10,
   "status": "WARN",
-  "storyCount": 282,
+  "storyCount": 289,
   "thresholds": {
     "expectedRetainHours": 36,
     "minSectionSourceGroups": 2,
@@ -218,7 +218,7 @@
     "Section entertainment has weak source diversity: 1 source group(s)"
   ],
   "window": {
-    "cutoffAt": 1783987345281,
+    "cutoffAt": 1783995750461,
     "retainHours": 36
   }
 }
