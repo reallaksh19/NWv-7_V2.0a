@@ -10,9 +10,9 @@
 - Base report share: `0.13636363636363635`
 - Multi-angle parents: `5`
 - Weak parents: `5`
-- Story count: `786`
-- Source groups: `9`
-- Content hash: `df2c6987d107dad7`
+- Story count: `768`
+- Source groups: `10`
+- Content hash: `2d70a00e4f8e9b27`
 
 ## Top parents
 
@@ -21,8 +21,8 @@
 | 1 | Revised US Russia sanctions bill lowers proposed tariffs on China, India | 2 | base_report, correction | NO | 0.6893933333333335 |
 | 2 | NASA astronaut Anil Menon, two others reach International Space Station | 3 | base_report, fact_update | NO | 0.6542583349983153 |
 | 3 | E Jean Carroll receives $5.6 million in sexual abuse case after years-long legal battle with Trump | 2 | fact_update, official_response | NO | 0.6443266666666667 |
-| 4 | Hyderabad native dies in U.S. skydiving accident | 2 | market_reaction, official_response | NO | 0.6265800531183316 |
-| 5 | Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach - Reuters | 2 | official_response, investigative_detail | NO | 0.5952732802150018 |
+| 4 | Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach - Reuters | 2 | official_response, investigative_detail | NO | 0.6392600000000002 |
+| 5 | Hyderabad native dies in U.S. skydiving accident | 2 | market_reaction, official_response | NO | 0.6265800531183316 |
 | 6 | Indian missing after attack on ship off Oman coast is dead, family says - Reuters | 3 | fact_update | YES | 0.6445128768472055 |
 | 7 | Amended RPwD Act to include persons internally injured by acid ingestion, Centre tells Supreme Court | 2 | correction | YES | 0.6814967197849984 |
 | 8 | MEA summons Iranian deputy envoy, after Indian national killed in attack on ship | 2 | fact_update | YES | 0.6225800531183316 |

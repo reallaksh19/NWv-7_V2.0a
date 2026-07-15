@@ -1,12 +1,12 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1784139275808,
-  "contentHash": "df2c6987d107dad7",
+  "generatedAt": 1784149641482,
+  "contentHash": "2d70a00e4f8e9b27",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 786,
-  "sourceGroupCount": 9,
+  "storyCount": 768,
+  "sourceGroupCount": 10,
   "grade": "C",
   "parentCount": 10,
   "avgAngles": 1.5,
@@ -26,7 +26,7 @@
       "signalScore": 47,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 718,
+      "storyCount": 699,
       "risingCount": 0,
       "thinCount": 5,
       "multiAngleCount": 5,
@@ -34,7 +34,7 @@
       "strongAngleCount": 0,
       "avgAngles": 1.5,
       "avgChildren": 2.2,
-      "avgScore": 0.6364228037867183,
+      "avgScore": 0.6408214757652182,
       "sourceDiversityCoverage": 10,
       "snapshotCoverage": 6,
       "coverageLabel": "5/10",
@@ -43,7 +43,7 @@
         "No cluster currently exposes three or more visible child angles.",
         "4 cluster(s) have weak snapshot coverage.",
         "5 cluster(s) are marked thin.",
-        "680 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "690 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
@@ -53,7 +53,7 @@
       "signalScore": 47,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 718,
+      "storyCount": 699,
       "risingCount": 0,
       "thinCount": 5,
       "multiAngleCount": 5,
@@ -61,7 +61,7 @@
       "strongAngleCount": 0,
       "avgAngles": 1.5,
       "avgChildren": 2.2,
-      "avgScore": 0.6364228037867183,
+      "avgScore": 0.6408214757652182,
       "sourceDiversityCoverage": 10,
       "snapshotCoverage": 6,
       "coverageLabel": "5/10",
@@ -70,13 +70,13 @@
         "No cluster currently exposes three or more visible child angles.",
         "4 cluster(s) have weak snapshot coverage.",
         "5 cluster(s) are marked thin.",
-        "680 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "690 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_347_9d05a83d16ce328d",
+      "parentId": "cluster_398_9d05a83d16ce328d",
       "headline": "Revised US Russia sanctions bill lowers proposed tariffs on China, India",
       "score": 0.6893933333333335,
       "postTreeScore": 1.0894,
@@ -97,7 +97,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_237_029cb2be3dabfa1d",
+      "parentId": "cluster_287_029cb2be3dabfa1d",
       "headline": "NASA astronaut Anil Menon, two others reach International Space Station",
       "score": 0.6542583349983153,
       "postTreeScore": 1.0743,
@@ -120,7 +120,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_412_cdcf9781333b3ab9",
+      "parentId": "cluster_463_cdcf9781333b3ab9",
       "headline": "E Jean Carroll receives $5.6 million in sexual abuse case after years-long legal battle with Trump",
       "score": 0.6443266666666667,
       "postTreeScore": 1.0443,
@@ -140,7 +140,28 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_399_a50dc5334b9fe629",
+      "parentId": "cluster_154_c884c27f5f2504cb",
+      "headline": "Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach - Reuters",
+      "score": 0.6392600000000002,
+      "postTreeScore": 1.0393,
+      "childCount": 2,
+      "angles": [
+        "official_response",
+        "investigative_detail"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "developing"
+      ],
+      "evolutionRoles": [
+        "official_response",
+        "investigation"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_450_a50dc5334b9fe629",
       "headline": "Hyderabad native dies in U.S. skydiving accident",
       "score": 0.6265800531183316,
       "postTreeScore": 1.0066,
@@ -161,28 +182,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_106_c884c27f5f2504cb",
-      "headline": "Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach - Reuters",
-      "score": 0.5952732802150018,
-      "postTreeScore": 0.9953,
-      "childCount": 2,
-      "angles": [
-        "official_response",
-        "investigative_detail"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "developing"
-      ],
-      "evolutionRoles": [
-        "official_response",
-        "investigation"
-      ],
-      "baseReportShare": 0,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_173_f25926d9715362bb",
+      "parentId": "cluster_223_f25926d9715362bb",
       "headline": "Indian missing after attack on ship off Oman coast is dead, family says - Reuters",
       "score": 0.6445128768472055,
       "postTreeScore": 0.5945,
@@ -203,7 +203,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_431_f4a841e14a88e9d5",
+      "parentId": "cluster_482_f4a841e14a88e9d5",
       "headline": "Amended RPwD Act to include persons internally injured by acid ingestion, Centre tells Supreme Court",
       "score": 0.6814967197849984,
       "postTreeScore": 0.5715,
@@ -223,7 +223,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_529_34852fd2242cb42b",
+      "parentId": "cluster_580_34852fd2242cb42b",
       "headline": "MEA summons Iranian deputy envoy, after Indian national killed in attack on ship",
       "score": 0.6225800531183316,
       "postTreeScore": 0.5126,
@@ -242,7 +242,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_115_c473ebe2a7304f57",
+      "parentId": "cluster_164_c473ebe2a7304f57",
       "headline": "Cabinet Approves Mobile Phone Manufacturing Scheme With Rs. 62,500 Crore Budget to Scale Domestic Production",
       "score": 0.6002266666666667,
       "postTreeScore": 0.5102,
@@ -261,7 +261,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_239_a0b145a58b31795e",
+      "parentId": "cluster_289_a0b145a58b31795e",
       "headline": "Nepal court jails two former Ministers, 14 others",
       "score": 0.6055800531183317,
       "postTreeScore": 0.4956,
@@ -361,8 +361,8 @@
       "weakParentRatio": 0.5,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 786,
-      "sourceGroupCount": 9
+      "storyCount": 768,
+      "sourceGroupCount": 10
     }
   }
 }
