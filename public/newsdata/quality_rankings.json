@@ -53,7 +53,7 @@
     },
     "insight": {
       "actionableFindings": [
-        "1 base-report-heavy Insight parent(s) demoted"
+        "2 base-report-heavy Insight parent(s) demoted"
       ],
       "destination": "insight",
       "diagnosticReasons": [],
@@ -77,7 +77,7 @@
       ],
       "gateSummary": {
         "avgAnglesPerParent": 0.0,
-        "baseReportHeavyParents": 1,
+        "baseReportHeavyParents": 2,
         "duplicateChildrenSuppressed": 0,
         "inputCandidateCount": 12,
         "parentClusters": 12,
@@ -86,7 +86,7 @@
         "weakParentsDemoted": 0
       },
       "qualityGrade": "F",
-      "qualityScore": 0.3869,
+      "qualityScore": 0.3794,
       "qualityStatus": "WARN",
       "rankedItems": [
         {
@@ -434,121 +434,6 @@
           ],
           "score": 0.505,
           "title": "Buffett says decision to stop Gates Foundation donations not a surprise"
-        },
-        {
-          "category": "insightEvent",
-          "gates": [
-            {
-              "details": {
-                "storyCount": 2
-              },
-              "name": "eventCoherence",
-              "reason": "event sketch has repeated story count",
-              "score": 0.62,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "baseReportRatio": 0.0,
-                "distinctAngles": 2
-              },
-              "name": "angleDiversity",
-              "reason": "usable angle diversity",
-              "score": 0.78,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "sourceGroupCount": 1
-              },
-              "name": "sourceDiversity",
-              "reason": "one-source event candidate",
-              "score": 0.35,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "baseReportRatio": 0.0
-              },
-              "name": "baseReportCap",
-              "reason": "base-report ratio controlled",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "childCount": 2
-              },
-              "name": "weakTree",
-              "reason": "child tree has enough depth",
-              "score": 0.5,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "duplicateChildren",
-              "reason": "no child objects to dedup",
-              "score": 0.7,
-              "status": "PASS"
-            }
-          ],
-          "id": "sketch:e11fb486b6",
-          "item": {
-            "angleCount": 2,
-            "baseReportRatio": 0.0,
-            "childScores": [],
-            "id": "sketch:e11fb486b6",
-            "representativeId": "997a272c25cc9400",
-            "representativeTitle": "Nuvoco Vistas shares soar 10% after strong Q1. Why Nomura, Choice see up to 47% upside?",
-            "scoreBreakdown": {
-              "angleDiversityScore": 0.78,
-              "eventImportanceScore": 0.59,
-              "freshnessScore": 0.0,
-              "noveltyDeltaScore": 0.55,
-              "sourceAuthorityScore": 0.38,
-              "sourceDiversityScore": 0.35,
-              "temporalEvolutionScore": 0.37
-            },
-            "slotCount": 1,
-            "slots": [
-              "now"
-            ],
-            "sourceGroupCount": 1,
-            "sourceGroups": [
-              "economic_times"
-            ],
-            "storyCount": 2,
-            "storyIds": [
-              "997a272c25cc9400",
-              "c4d1033d1e68d5ff"
-            ],
-            "topAngles": [
-              {
-                "angle": "market_reaction",
-                "count": 1
-              },
-              {
-                "angle": "fact_update",
-                "count": 1
-              }
-            ],
-            "topTokens": [
-              "nuvoco",
-              "vistas",
-              "shares",
-              "strong",
-              "profit"
-            ],
-            "topicKey": "nuvoco|vistas|shares"
-          },
-          "locationKey": "event",
-          "rankingReasons": [
-            "event sketch has repeated story count",
-            "usable angle diversity",
-            "one-source event candidate"
-          ],
-          "score": 0.505,
-          "title": "Nuvoco Vistas shares soar 10% after strong Q1. Why Nomura, Choice see up to 47% upside?"
         },
         {
           "category": "insightEvent",
@@ -1166,14 +1051,14 @@
               "status": "PASS"
             }
           ],
-          "id": "sketch:c199f9f8ed",
+          "id": "sketch:768c327fc1",
           "item": {
             "angleCount": 1,
             "baseReportRatio": 0.0,
             "childScores": [],
-            "id": "sketch:c199f9f8ed",
-            "representativeId": "cde6ca6fd6eebcfc",
-            "representativeTitle": "Explained: Why South Korea's Kospi jumped 7% despite escalating Middle East tensions",
+            "id": "sketch:768c327fc1",
+            "representativeId": "b546216061ed1061",
+            "representativeTitle": "India News Live Updates,15 July 2026: Delhi HC to hear Siddharth Varadarajan’s plea on OCI status - The Indian Express",
             "scoreBreakdown": {
               "angleDiversityScore": 0.25,
               "eventImportanceScore": 0.59,
@@ -1189,27 +1074,26 @@
             ],
             "sourceGroupCount": 1,
             "sourceGroups": [
-              "economic_times"
+              "google_news"
             ],
             "storyCount": 2,
             "storyIds": [
-              "cde6ca6fd6eebcfc",
-              "914ba359aab989b2"
+              "b546216061ed1061",
+              "c70e8d70a297d2f1"
             ],
             "topAngles": [
               {
-                "angle": "market_reaction",
+                "angle": "fact_update",
                 "count": 2
               }
             ],
             "topTokens": [
-              "south",
-              "korea",
-              "kospi",
-              "semiconductor",
-              "crashes"
+              "india",
+              "live",
+              "updates",
+              "july"
             ],
-            "topicKey": "south|korea|kospi"
+            "topicKey": "india|live|updates"
           },
           "locationKey": "event",
           "rankingReasons": [
@@ -1218,7 +1102,7 @@
             "one-source event candidate"
           ],
           "score": 0.389,
-          "title": "Explained: Why South Korea's Kospi jumped 7% despite escalating Middle East tensions"
+          "title": "India News Live Updates,15 July 2026: Delhi HC to hear Siddharth Varadarajan’s plea on OCI status - The Indian Express"
         },
         {
           "category": "insightEvent",
@@ -1277,14 +1161,14 @@
               "status": "PASS"
             }
           ],
-          "id": "sketch:768c327fc1",
+          "id": "sketch:ebb7c157a9",
           "item": {
             "angleCount": 1,
             "baseReportRatio": 0.0,
             "childScores": [],
-            "id": "sketch:768c327fc1",
-            "representativeId": "b546216061ed1061",
-            "representativeTitle": "India News Live Updates,15 July 2026: Delhi HC to hear Siddharth Varadarajan’s plea on OCI status - The Indian Express",
+            "id": "sketch:ebb7c157a9",
+            "representativeId": "c89d6fcfe093e10c",
+            "representativeTitle": "Storyboard18 brings Gen Z to the forefront | AI reshapes creator discovery | India's new generation of founders breaking family business mould - Storyboard18",
             "scoreBreakdown": {
               "angleDiversityScore": 0.25,
               "eventImportanceScore": 0.59,
@@ -1304,8 +1188,8 @@
             ],
             "storyCount": 2,
             "storyIds": [
-              "b546216061ed1061",
-              "c70e8d70a297d2f1"
+              "c89d6fcfe093e10c",
+              "c60f20dcadd9a693"
             ],
             "topAngles": [
               {
@@ -1314,12 +1198,12 @@
               }
             ],
             "topTokens": [
-              "india",
-              "live",
-              "updates",
-              "july"
+              "storyboard18",
+              "brings",
+              "forefront",
+              "reshapes"
             ],
-            "topicKey": "india|live|updates"
+            "topicKey": "storyboard18|brings|forefront"
           },
           "locationKey": "event",
           "rankingReasons": [
@@ -1328,7 +1212,7 @@
             "one-source event candidate"
           ],
           "score": 0.389,
-          "title": "India News Live Updates,15 July 2026: Delhi HC to hear Siddharth Varadarajan’s plea on OCI status - The Indian Express"
+          "title": "Storyboard18 brings Gen Z to the forefront | AI reshapes creator discovery | India's new generation of founders breaking family business mould - Storyboard18"
         },
         {
           "category": "insightEvent",
@@ -1441,14 +1325,124 @@
           ],
           "score": 0.1858,
           "title": "NASA astronaut Anil Menon, two others reach International Space Station"
+        },
+        {
+          "category": "insightEvent",
+          "gates": [
+            {
+              "details": {
+                "storyCount": 2
+              },
+              "name": "eventCoherence",
+              "reason": "event sketch has repeated story count",
+              "score": 0.62,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "baseReportRatio": 1.0,
+                "distinctAngles": 0
+              },
+              "name": "angleDiversity",
+              "reason": "weak child angle diversity",
+              "score": 0.25,
+              "status": "WARN"
+            },
+            {
+              "details": {
+                "sourceGroupCount": 1
+              },
+              "name": "sourceDiversity",
+              "reason": "one-source event candidate",
+              "score": 0.35,
+              "status": "WARN"
+            },
+            {
+              "details": {
+                "baseReportRatio": 1.0
+              },
+              "name": "baseReportCap",
+              "reason": "base-report dominated event candidate",
+              "score": 0.25,
+              "status": "WARN"
+            },
+            {
+              "details": {
+                "childCount": 2
+              },
+              "name": "weakTree",
+              "reason": "child tree has enough depth",
+              "score": 0.5,
+              "status": "PASS"
+            },
+            {
+              "details": {},
+              "name": "duplicateChildren",
+              "reason": "no child objects to dedup",
+              "score": 0.7,
+              "status": "PASS"
+            }
+          ],
+          "id": "sketch:959f3e1a2a",
+          "item": {
+            "angleCount": 1,
+            "baseReportRatio": 1.0,
+            "childScores": [],
+            "id": "sketch:959f3e1a2a",
+            "representativeId": "9cd32363874a4c46",
+            "representativeTitle": "An emboldened India holds out for better terms in US trade talks - Reuters",
+            "scoreBreakdown": {
+              "angleDiversityScore": 0.25,
+              "eventImportanceScore": 0.59,
+              "freshnessScore": 0.0,
+              "noveltyDeltaScore": 0.44999999999999996,
+              "sourceAuthorityScore": 0.38,
+              "sourceDiversityScore": 0.35,
+              "temporalEvolutionScore": 0.37
+            },
+            "slotCount": 1,
+            "slots": [
+              "minus12h"
+            ],
+            "sourceGroupCount": 1,
+            "sourceGroups": [
+              "reuters"
+            ],
+            "storyCount": 2,
+            "storyIds": [
+              "9cd32363874a4c46",
+              "0e72ab70b3133b74"
+            ],
+            "topAngles": [
+              {
+                "angle": "base_report",
+                "count": 2
+              }
+            ],
+            "topTokens": [
+              "emboldened",
+              "india",
+              "holds",
+              "better"
+            ],
+            "topicKey": "emboldened|india|holds"
+          },
+          "locationKey": "event",
+          "rankingReasons": [
+            "event sketch has repeated story count",
+            "weak child angle diversity",
+            "one-source event candidate"
+          ],
+          "score": 0.1751,
+          "title": "An emboldened India holds out for better terms in US trade talks - Reuters"
         }
       ],
       "rankingProfile": "insight-v2-event-angle-tree",
       "scoreBreakdown": {
-        "angleDiversityScore": 0.3825,
+        "angleDiversityScore": 0.3383,
         "eventImportanceScore": 0.62,
         "freshnessScore": 0.0,
-        "noveltyDeltaScore": 0.475,
+        "noveltyDeltaScore": 0.4667,
         "sourceAuthorityScore": 0.4,
         "sourceDiversityScore": 0.3808,
         "temporalEvolutionScore": 0.45
@@ -1511,7 +1505,7 @@
     },
     "upAhead": {
       "actionableFindings": [
-        "8 invalid/expired/duplicate Up Ahead item(s) suppressed",
+        "7 invalid/expired/duplicate Up Ahead item(s) suppressed",
         "no active offer items in ranked Up Ahead set",
         "no ranked Up Ahead item for muscat"
       ],
@@ -1520,10 +1514,8 @@
         "Amazon Prime Day sale ends with mega deals - News.com.au: location failed — offline/local item lacks configured location match",
         "Deal | 34-inch 240 Hz LG OLED gaming monitor sees $500 discount in new Amazon sale - Notebookcheck: location failed — offline/local item lacks configured location match",
         "Prime Day Is Over, But 62 of Our Favorite Deals Are Still Available - WIRED: location failed — offline/local item lacks configured location match",
-        "Chennai Metro Rail to club phase-I extension with proposed phase-III network: futureValidity failed — expired display window",
-        "Chennai Metro Rail to club phase-I extension with proposed phase-III network: alertUrgency failed — alert expired",
-        "Plea to enhance the quantum of water release for drinking from Mettur.: futureValidity failed — expired display window",
-        "Plea to enhance the quantum of water release for drinking from Mettur.: alertUrgency failed — alert expired",
+        "Tragedy at sea: Vietnam boat capsize survivors from Tamil Nadu recount harrowing moments: futureValidity failed — expired display window",
+        "Tragedy at sea: Vietnam boat capsize survivors from Tamil Nadu recount harrowing moments: alertUrgency failed — alert expired",
         "Philippine Airlines Middle East Flight Sale - Nomad Lawyer: location failed — offline/local item lacks configured location match",
         "Best Fire TV Stick deal: Save $15 on Amazon Fire TV Stick HD - Mashable: location failed — offline/local item lacks configured location match",
         "Get Up To 30% Off Clothing And Home With Quince Discount Codes - Forbes: location failed — offline/local item lacks configured location match"
@@ -1561,8 +1553,8 @@
         "festivals": 0,
         "inputItemCount": 52,
         "locationCounts": {
-          "chennai": 25,
-          "trichy": 5
+          "chennai": 26,
+          "trichy": 4
         },
         "locationsCovered": [
           "chennai",
@@ -1572,12 +1564,127 @@
         "onlineOffers": 0,
         "plannerAdvisoryItems": 30,
         "rankedItemCount": 30,
-        "suppressedItemCount": 8
+        "suppressedItemCount": 7
       },
       "qualityGrade": "B",
-      "qualityScore": 0.8606,
+      "qualityScore": 0.8616,
       "qualityStatus": "WARN",
       "rankedItems": [
+        {
+          "category": "alerts",
+          "gates": [
+            {
+              "details": {
+                "dedupKey": "78b34b16e780f17a"
+              },
+              "name": "dedup",
+              "reason": "unique item",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "displayUntil": 1784217199000
+              },
+              "name": "futureValidity",
+              "reason": "valid undated item with active display window",
+              "score": 0.65,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "matchScore": 1.0,
+                "matchedLocation": "chennai",
+                "relevance": "primary",
+                "scope": "exactCity"
+              },
+              "name": "location",
+              "reason": "location matches configured profile",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "hasPlace": true,
+                "hasTime": true
+              },
+              "name": "actionability",
+              "reason": "item has enough action fields",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {},
+              "name": "offerValidity",
+              "reason": "not an offer",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "severe": true
+              },
+              "name": "alertUrgency",
+              "reason": "severe/active alert",
+              "score": 1.0,
+              "status": "PASS"
+            }
+          ],
+          "id": "4e927b817b1fdfe9",
+          "item": {
+            "actionabilityScore": 0.7,
+            "category": "alerts",
+            "city": "Chennai",
+            "contentClass": "upahead_alert",
+            "dateConfidence": "unknown",
+            "dateSource": "none",
+            "eventEndAt": null,
+            "eventStartAt": null,
+            "expiryAt": 1784217199000,
+            "id": "4e927b817b1fdfe9",
+            "language": "en",
+            "lifecycle": {
+              "archiveUntil": 1784821999000,
+              "contentClass": "upahead_alert",
+              "displayUntil": 1784217199000,
+              "isActionValid": true,
+              "isVisible": true,
+              "plannerEligibleByLifecycle": true,
+              "plannerPastGraceHours": 6,
+              "retentionReason": "expiryAt",
+              "withinSevenDayHorizon": true
+            },
+            "localityScore": 1.0,
+            "normalizedCategory": "alerts",
+            "plannerEligible": true,
+            "publishedAt": 1784130799000,
+            "region": "tn",
+            "scoreBreakdown": {
+              "actionabilityScore": 1.0,
+              "categoryPriorityScore": 1.0,
+              "lifecycleScore": 0.65,
+              "locationScore": 1.0,
+              "plannerFitScore": 1.0,
+              "sourceConfidenceScore": 0.58,
+              "urgencyOrExpiryScore": 1.0
+            },
+            "source": "The Hindu Chennai",
+            "sourceGroup": "the_hindu",
+            "summary": "",
+            "suppressionReason": null,
+            "title": "Minor earthquake strikes Krishnagiri district",
+            "url": "https://www.thehindu.com/news/cities/chennai/minor-earthquake-strikes-krishnagiri-district/article71226792.ece"
+          },
+          "locationKey": "chennai",
+          "rankingReasons": [
+            "alerts",
+            "valid undated item with active display window",
+            "location matches configured profile",
+            "planner advisory fit"
+          ],
+          "score": 0.8705,
+          "title": "Minor earthquake strikes Krishnagiri district"
+        },
         {
           "category": "alerts",
           "gates": [
@@ -2267,6 +2374,121 @@
           ],
           "score": 0.8485,
           "title": "Bus driver arrested in murder-for-gain case in Tiruvallur"
+        },
+        {
+          "category": "alerts",
+          "gates": [
+            {
+              "details": {
+                "dedupKey": "5422e339ae3541f1"
+              },
+              "name": "dedup",
+              "reason": "unique item",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "displayUntil": 1784219413000
+              },
+              "name": "futureValidity",
+              "reason": "valid undated item with active display window",
+              "score": 0.65,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "matchScore": 1.0,
+                "matchedLocation": "chennai",
+                "relevance": "primary",
+                "scope": "exactCity"
+              },
+              "name": "location",
+              "reason": "location matches configured profile",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "hasPlace": true,
+                "hasTime": true
+              },
+              "name": "actionability",
+              "reason": "item has enough action fields",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {},
+              "name": "offerValidity",
+              "reason": "not an offer",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "severe": false
+              },
+              "name": "alertUrgency",
+              "reason": "active alert",
+              "score": 0.78,
+              "status": "PASS"
+            }
+          ],
+          "id": "ff5dc4c86026d26f",
+          "item": {
+            "actionabilityScore": 0.7,
+            "category": "alerts",
+            "city": "Chennai",
+            "contentClass": "upahead_alert",
+            "dateConfidence": "unknown",
+            "dateSource": "none",
+            "eventEndAt": null,
+            "eventStartAt": null,
+            "expiryAt": 1784219413000,
+            "id": "ff5dc4c86026d26f",
+            "language": "en",
+            "lifecycle": {
+              "archiveUntil": 1784824213000,
+              "contentClass": "upahead_alert",
+              "displayUntil": 1784219413000,
+              "isActionValid": true,
+              "isVisible": true,
+              "plannerEligibleByLifecycle": true,
+              "plannerPastGraceHours": 6,
+              "retentionReason": "expiryAt",
+              "withinSevenDayHorizon": true
+            },
+            "localityScore": 1.0,
+            "normalizedCategory": "alerts",
+            "plannerEligible": true,
+            "publishedAt": 1784133013000,
+            "region": "tn",
+            "scoreBreakdown": {
+              "actionabilityScore": 1.0,
+              "categoryPriorityScore": 1.0,
+              "lifecycleScore": 0.65,
+              "locationScore": 1.0,
+              "plannerFitScore": 1.0,
+              "sourceConfidenceScore": 0.58,
+              "urgencyOrExpiryScore": 0.78
+            },
+            "source": "The Hindu Chennai",
+            "sourceGroup": "the_hindu",
+            "summary": "",
+            "suppressionReason": null,
+            "title": "CPCL concludes Swachhata Pakhwada 2026 with tree plantation drive",
+            "url": "https://www.thehindu.com/news/cities/chennai/cpcl-concludes-swachhata-pakhwada-2026-with-tree-plantation-drive/article71225970.ece"
+          },
+          "locationKey": "chennai",
+          "rankingReasons": [
+            "alerts",
+            "valid undated item with active display window",
+            "location matches configured profile",
+            "planner advisory fit"
+          ],
+          "score": 0.8485,
+          "title": "CPCL concludes Swachhata Pakhwada 2026 with tree plantation drive"
         },
         {
           "category": "alerts",
@@ -4797,236 +5019,6 @@
           ],
           "score": 0.8485,
           "title": "T.N. Medical Services Corporation invites bids for scheme to gift gold rings to babies born in government hospitals"
-        },
-        {
-          "category": "alerts",
-          "gates": [
-            {
-              "details": {
-                "dedupKey": "d9f29847cf198059"
-              },
-              "name": "dedup",
-              "reason": "unique item",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "displayUntil": 1784205409000
-              },
-              "name": "futureValidity",
-              "reason": "valid undated item with active display window",
-              "score": 0.65,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "matchScore": 1.0,
-                "matchedLocation": "chennai",
-                "relevance": "primary",
-                "scope": "exactCity"
-              },
-              "name": "location",
-              "reason": "location matches configured profile",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "hasPlace": true,
-                "hasTime": true
-              },
-              "name": "actionability",
-              "reason": "item has enough action fields",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "offerValidity",
-              "reason": "not an offer",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "severe": false
-              },
-              "name": "alertUrgency",
-              "reason": "active alert",
-              "score": 0.78,
-              "status": "PASS"
-            }
-          ],
-          "id": "382b857faa40dea1",
-          "item": {
-            "actionabilityScore": 0.7,
-            "category": "alerts",
-            "city": "Chennai",
-            "contentClass": "upahead_alert",
-            "dateConfidence": "unknown",
-            "dateSource": "none",
-            "eventEndAt": null,
-            "eventStartAt": null,
-            "expiryAt": 1784205409000,
-            "id": "382b857faa40dea1",
-            "language": "en",
-            "lifecycle": {
-              "archiveUntil": 1784810209000,
-              "contentClass": "upahead_alert",
-              "displayUntil": 1784205409000,
-              "isActionValid": true,
-              "isVisible": true,
-              "plannerEligibleByLifecycle": true,
-              "plannerPastGraceHours": 6,
-              "retentionReason": "expiryAt",
-              "withinSevenDayHorizon": true
-            },
-            "localityScore": 1.0,
-            "normalizedCategory": "alerts",
-            "plannerEligible": true,
-            "publishedAt": 1784119009000,
-            "region": "tn",
-            "scoreBreakdown": {
-              "actionabilityScore": 1.0,
-              "categoryPriorityScore": 1.0,
-              "lifecycleScore": 0.65,
-              "locationScore": 1.0,
-              "plannerFitScore": 1.0,
-              "sourceConfidenceScore": 0.58,
-              "urgencyOrExpiryScore": 0.78
-            },
-            "source": "The Hindu Chennai",
-            "sourceGroup": "the_hindu",
-            "summary": "The album Solladi Sivashakti, featuring Subramania Bharati’s songs, rendered by Bombay Jayashri, is his latest venture.",
-            "suppressionReason": null,
-            "title": "The composer in mridangist Arun Prakash takes centre stage",
-            "url": "https://www.thehindu.com/entertainment/music/the-composer-in-mridangist-arunprakash-takes-centre-stage/article71217259.ece"
-          },
-          "locationKey": "chennai",
-          "rankingReasons": [
-            "alerts",
-            "valid undated item with active display window",
-            "location matches configured profile",
-            "planner advisory fit"
-          ],
-          "score": 0.8485,
-          "title": "The composer in mridangist Arun Prakash takes centre stage"
-        },
-        {
-          "category": "alerts",
-          "gates": [
-            {
-              "details": {
-                "dedupKey": "f2a0e61806767967"
-              },
-              "name": "dedup",
-              "reason": "unique item",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "displayUntil": 1784213146000
-              },
-              "name": "futureValidity",
-              "reason": "valid undated item with active display window",
-              "score": 0.65,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "matchScore": 1.0,
-                "matchedLocation": "trichy",
-                "relevance": "primary",
-                "scope": "exactCity"
-              },
-              "name": "location",
-              "reason": "location matches configured profile",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "hasPlace": true,
-                "hasTime": true
-              },
-              "name": "actionability",
-              "reason": "item has enough action fields",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "offerValidity",
-              "reason": "not an offer",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "severe": false
-              },
-              "name": "alertUrgency",
-              "reason": "active alert",
-              "score": 0.78,
-              "status": "PASS"
-            }
-          ],
-          "id": "5088399dc6177613",
-          "item": {
-            "actionabilityScore": 0.7,
-            "category": "alerts",
-            "city": "Trichy",
-            "contentClass": "upahead_alert",
-            "dateConfidence": "unknown",
-            "dateSource": "none",
-            "eventEndAt": null,
-            "eventStartAt": null,
-            "expiryAt": 1784213146000,
-            "id": "5088399dc6177613",
-            "language": "en",
-            "lifecycle": {
-              "archiveUntil": 1784817946000,
-              "contentClass": "upahead_alert",
-              "displayUntil": 1784213146000,
-              "isActionValid": true,
-              "isVisible": true,
-              "plannerEligibleByLifecycle": true,
-              "plannerPastGraceHours": 6,
-              "retentionReason": "expiryAt",
-              "withinSevenDayHorizon": true
-            },
-            "localityScore": 0.9,
-            "normalizedCategory": "alerts",
-            "plannerEligible": true,
-            "publishedAt": 1784126746000,
-            "region": "tn",
-            "scoreBreakdown": {
-              "actionabilityScore": 1.0,
-              "categoryPriorityScore": 1.0,
-              "lifecycleScore": 0.65,
-              "locationScore": 1.0,
-              "plannerFitScore": 1.0,
-              "sourceConfidenceScore": 0.58,
-              "urgencyOrExpiryScore": 0.78
-            },
-            "source": "The Hindu Trichy",
-            "sourceGroup": "the_hindu",
-            "summary": "",
-            "suppressionReason": null,
-            "title": "Tiruchi to upgrade 4,000 more streetlights with brighter 40W lights",
-            "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/tiruchi-to-upgrade-4000-more-streetlights-with-brighter-40w-lights/article71225708.ece"
-          },
-          "locationKey": "trichy",
-          "rankingReasons": [
-            "alerts",
-            "valid undated item with active display window",
-            "location matches configured profile",
-            "planner advisory fit"
-          ],
-          "score": 0.8485,
-          "title": "Tiruchi to upgrade 4,000 more streetlights with brighter 40W lights"
         }
       ],
       "rankingProfile": "upAhead-v2-lifecycle-location-category",
@@ -5037,11 +5029,11 @@
         "locationScore": 1.0,
         "plannerFitScore": 1.0,
         "sourceConfidenceScore": 0.58,
-        "urgencyOrExpiryScore": 0.7947
+        "urgencyOrExpiryScore": 0.802
       }
     }
   },
-  "generatedAt": 1784132950884,
+  "generatedAt": 1784139276614,
   "implementedDestinations": [
     "upAhead",
     "buzz",
@@ -5060,7 +5052,7 @@
   "schemaVersion": 1,
   "summary": {
     "actionRequired": [
-      "8 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "7 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no active offer items in ranked Up Ahead set",
       "no ranked Up Ahead item for muscat",
       "no local Buzz item in ranked set",
@@ -5070,13 +5062,13 @@
       "no ranked local/travel item for muscat",
       "no ranked local/travel item for chennai",
       "no ranked local/travel item for trichy",
-      "1 base-report-heavy Insight parent(s) demoted"
+      "2 base-report-heavy Insight parent(s) demoted"
     ],
     "destinationScores": {
       "buzz": 0.0,
-      "insight": 0.3869,
+      "insight": 0.3794,
       "localTravel": 0.0,
-      "upAhead": 0.8606
+      "upAhead": 0.8616
     },
     "destinationStatuses": {
       "buzz": "FAIL",
@@ -5084,7 +5076,7 @@
       "localTravel": "FAIL",
       "upAhead": "WARN"
     },
-    "overallScore": 0.3119,
+    "overallScore": 0.3103,
     "overallStatus": "FAIL",
     "rankingProfiles": {
       "buzz": "buzz-v2-trend-local-travel",
@@ -5096,10 +5088,8 @@
       "Amazon Prime Day sale ends with mega deals - News.com.au: location failed — offline/local item lacks configured location match",
       "Deal | 34-inch 240 Hz LG OLED gaming monitor sees $500 discount in new Amazon sale - Notebookcheck: location failed — offline/local item lacks configured location match",
       "Prime Day Is Over, But 62 of Our Favorite Deals Are Still Available - WIRED: location failed — offline/local item lacks configured location match",
-      "Chennai Metro Rail to club phase-I extension with proposed phase-III network: futureValidity failed — expired display window",
-      "Chennai Metro Rail to club phase-I extension with proposed phase-III network: alertUrgency failed — alert expired",
-      "Plea to enhance the quantum of water release for drinking from Mettur.: futureValidity failed — expired display window",
-      "Plea to enhance the quantum of water release for drinking from Mettur.: alertUrgency failed — alert expired",
+      "Tragedy at sea: Vietnam boat capsize survivors from Tamil Nadu recount harrowing moments: futureValidity failed — expired display window",
+      "Tragedy at sea: Vietnam boat capsize survivors from Tamil Nadu recount harrowing moments: alertUrgency failed — alert expired",
       "Philippine Airlines Middle East Flight Sale - Nomad Lawyer: location failed — offline/local item lacks configured location match",
       "Best Fire TV Stick deal: Save $15 on Amazon Fire TV Stick HD - Mashable: location failed — offline/local item lacks configured location match",
       "Get Up To 30% Off Clothing And Home With Quince Discount Codes - Forbes: location failed — offline/local item lacks configured location match"
