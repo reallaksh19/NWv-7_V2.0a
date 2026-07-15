@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1784100652316,
+  "generatedAt": 1784107988130,
   "policyVersion": "section-source-policy-v1",
   "reportVersion": "section-source-policy-report-v1",
   "schemaVersion": 1,
@@ -20,28 +20,28 @@
           "sourceGroup": "economic_times"
         },
         {
-          "count": 6,
+          "count": 7,
           "sourceGroup": "business_line"
         },
         {
-          "count": 4,
+          "count": 3,
           "sourceGroup": "google_news"
         }
       ]
     },
     "entertainment": {
       "sourceGroupCount": 1,
-      "storyCount": 17,
+      "storyCount": 18,
       "thin": true,
       "topCategories": [
         {
           "category": "entertainment",
-          "count": 17
+          "count": 18
         }
       ],
       "topSources": [
         {
-          "count": 17,
+          "count": 18,
           "sourceGroup": "google_news"
         }
       ]
@@ -83,11 +83,11 @@
       ],
       "topSources": [
         {
-          "count": 20,
+          "count": 19,
           "sourceGroup": "times_of_oman"
         },
         {
-          "count": 10,
+          "count": 11,
           "sourceGroup": "google_news_oman"
         }
       ]
@@ -104,15 +104,15 @@
       ],
       "topSources": [
         {
-          "count": 15,
+          "count": 17,
           "sourceGroup": "bbc"
         },
         {
-          "count": 9,
+          "count": 8,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 6,
+          "count": 5,
           "sourceGroup": "google_news"
         }
       ]
@@ -129,15 +129,15 @@
       ],
       "topSources": [
         {
-          "count": 13,
+          "count": 14,
           "sourceGroup": "gadgets360"
         },
         {
-          "count": 11,
+          "count": 9,
           "sourceGroup": "google_news"
         },
         {
-          "count": 6,
+          "count": 7,
           "sourceGroup": "the_hindu"
         }
       ]
@@ -154,17 +154,17 @@
       ],
       "topSources": [
         {
-          "count": 19,
+          "count": 18,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 11,
+          "count": 12,
           "sourceGroup": "google_news"
         }
       ]
     },
     "topStories": {
-      "sourceGroupCount": 2,
+      "sourceGroupCount": 3,
       "storyCount": 30,
       "thin": false,
       "topCategories": [
@@ -179,24 +179,28 @@
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 10,
+          "count": 7,
+          "sourceGroup": "ndtv"
+        },
+        {
+          "count": 3,
           "sourceGroup": "economic_times"
         }
       ]
     },
     "trichy": {
       "sourceGroupCount": 2,
-      "storyCount": 23,
+      "storyCount": 24,
       "thin": false,
       "topCategories": [
         {
           "category": "trichy",
-          "count": 23
+          "count": 24
         }
       ],
       "topSources": [
         {
-          "count": 14,
+          "count": 15,
           "sourceGroup": "google_news"
         },
         {
@@ -217,12 +221,12 @@
       ],
       "topSources": [
         {
-          "count": 15,
-          "sourceGroup": "bbc"
+          "count": 16,
+          "sourceGroup": "the_hindu"
         },
         {
-          "count": 15,
-          "sourceGroup": "the_hindu"
+          "count": 14,
+          "sourceGroup": "bbc"
         }
       ]
     }
@@ -417,7 +421,7 @@
       "configuredFeeds": 1,
       "health": {
         "feedUrl": "https://www.thehindubusinessline.com/news/feeder/default.rss",
-        "items": 19,
+        "items": 20,
         "ok": true,
         "section": "business"
       },
@@ -578,7 +582,7 @@
       "configuredFeeds": 9,
       "health": {
         "feedUrl": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-IN&gl=IN&ceid=IN:en",
-        "items": 19,
+        "items": 20,
         "ok": true,
         "section": "entertainment"
       },
@@ -712,10 +716,9 @@
     {
       "configuredFeeds": 1,
       "health": {
-        "error": "HTTPSConnectionPool(host='www.omanobserver.om', port=443): Max retries exceeded with url: /rss (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.omanobserver.om', port=443) at 0x7fa07de81a10>, 'Connection to www.omanobserver.om timed out. (connect timeout=15)'))",
         "feedUrl": "https://www.omanobserver.om/rss",
         "items": 0,
-        "ok": false,
+        "ok": true,
         "section": "muscat"
       },
       "sections": [
@@ -732,7 +735,7 @@
       "configuredFeeds": 1,
       "health": {
         "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-        "items": 17,
+        "items": 18,
         "ok": true,
         "section": "india"
       },
