@@ -1,30 +1,30 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1784089989720,
+  "generatedAt": 1784100722697,
   "windowDays": 7,
   "latest": {
     "insightGrade": "D",
     "insightScore": 0,
-    "totalStories": 649,
-    "usableStories36h": 612,
-    "sourceGroups": 10,
+    "totalStories": 596,
+    "usableStories36h": 586,
+    "sourceGroups": 9,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3096,
+    "rankingOverallScore": 0.3127,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3096,
+    "overallScore": 0.3127,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1784089988504,
+    "generatedAt": 1784100721693,
     "destinationScores": {
       "buzz": 0,
-      "insight": 0.3827,
+      "insight": 0.394,
       "localTravel": 0,
-      "upAhead": 0.8559
+      "upAhead": 0.8568
     },
     "destinationStatuses": {
       "buzz": "FAIL",
@@ -48,7 +48,7 @@
       {
         "destination": "insight",
         "status": "WARN",
-        "score": 0.3827,
+        "score": 0.394,
         "profile": "insight-v2-event-angle-tree"
       },
       {
@@ -60,7 +60,7 @@
       {
         "destination": "upAhead",
         "status": "WARN",
-        "score": 0.8559,
+        "score": 0.8568,
         "profile": "upAhead-v2-lifecycle-location-category"
       }
     ],
@@ -74,8 +74,8 @@
         "oneSourceCappedCount": 0
       },
       "insight": {
-        "parentClusters": 11,
-        "strongParents": 11,
+        "parentClusters": 10,
+        "strongParents": 10,
         "weakParentsDemoted": 0,
         "avgAnglesPerParent": 0,
         "baseReportHeavyParents": 1,
@@ -92,7 +92,7 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 5,
+        "suppressedItemCount": 6,
         "events": 0,
         "onlineOffers": 0,
         "offlineOffers": 0,
@@ -110,6 +110,8 @@
       "Prime Day Is Over, But 62 of Our Favorite Deals Are Still Available - WIRED: location failed — offline/local item lacks configured location match",
       "Philippine Airlines Middle East Flight Sale - Nomad Lawyer: location failed — offline/local item lacks configured location match",
       "Best Fire TV Stick deal: Save $15 on Amazon Fire TV Stick HD - Mashable: location failed — offline/local item lacks configured location match",
+      "‘Boat flipped in three minutes,’ recounts Vietnam crash survivor upon arrival in Chennai: futureValidity failed — expired display window",
+      "‘Boat flipped in three minutes,’ recounts Vietnam crash survivor upon arrival in Chennai: alertUrgency failed — alert expired",
       "upAhead: Deal | 34-inch 240 Hz LG OLED gaming monitor sees $500 discount in new Amazon sale - Notebookcheck: location failed — offline/local item lacks configured location match",
       "upAhead: Amazon Prime Day sale ends with mega deals - News.com.au: location failed — offline/local item lacks configured location match",
       "upAhead: Prime Day Is Over, But 62 of Our Favorite Deals Are Still Available - WIRED: location failed — offline/local item lacks configured location match",
@@ -117,10 +119,9 @@
       "upAhead: Best Fire TV Stick deal: Save $15 on Amazon Fire TV Stick HD - Mashable: location failed — offline/local item lacks configured location match"
     ],
     "actionRequired": [
-      "5 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "6 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no active offer items in ranked Up Ahead set",
       "no ranked Up Ahead item for muscat",
-      "ranked Up Ahead set is category-dominated",
       "no local Buzz item in ranked set",
       "no travel Buzz item in ranked set",
       "no active local/travel disruption item",
@@ -128,7 +129,8 @@
       "no ranked local/travel item for muscat",
       "no ranked local/travel item for chennai",
       "no ranked local/travel item for trichy",
-      "1 base-report-heavy Insight parent(s) demoted"
+      "1 base-report-heavy Insight parent(s) demoted",
+      "buzz: no local Buzz item in ranked set"
     ]
   },
   "sourceHealth": {
@@ -254,16 +256,16 @@
     },
     {
       "date": "2026-07-15",
-      "generatedAt": 1784089989720,
+      "generatedAt": 1784100722697,
       "insightGrade": "D",
       "insightScore": 0,
-      "totalStories": 649,
-      "usableStories36h": 612,
-      "sourceGroups": 10,
+      "totalStories": 596,
+      "usableStories36h": 586,
+      "sourceGroups": 9,
       "angleHintCoverage": 1,
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
-      "rankingOverallScore": 0.3096,
+      "rankingOverallScore": 0.3127,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,

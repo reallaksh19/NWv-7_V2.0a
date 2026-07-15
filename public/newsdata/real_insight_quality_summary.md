@@ -5,29 +5,29 @@
 - Grade: `D`
 - Parents: `10`
 - Average angles: `1.4`
-- Average temporal tiers: `1.6`
-- Average evolution roles: `1.8`
-- Base report share: `0.16666666666666666`
+- Average temporal tiers: `1.8`
+- Average evolution roles: `1.9`
+- Base report share: `0.25`
 - Multi-angle parents: `4`
 - Weak parents: `6`
-- Story count: `649`
-- Source groups: `10`
-- Content hash: `67a4f270154595ed`
+- Story count: `596`
+- Source groups: `9`
+- Content hash: `38698f6811461800`
 
 ## Top parents
 
 | # | Headline | Children | Angles | Weak | Score |
 |---:|---|---:|---|---|---:|
 | 1 | ‘Boat flipped in three minutes,’ recounts Vietnam crash survivor upon arrival in Chennai | 2 | official_response, regional_followup | NO | 0.6943967197849983 |
-| 2 | Revised US Russia sanctions bill lowers proposed tariffs on China, India | 2 | base_report, correction | NO | 0.6334066135483352 |
-| 3 | E Jean Carroll receives $5.6 million in sexual abuse case after years-long legal battle with Trump | 2 | fact_update, official_response | NO | 0.6243266666666667 |
+| 2 | E Jean Carroll receives $5.6 million in sexual abuse case after years-long legal battle with Trump | 2 | fact_update, official_response | NO | 0.6443266666666667 |
+| 3 | Revised US Russia sanctions bill lowers proposed tariffs on China, India | 2 | base_report, correction | NO | 0.6334066135483352 |
 | 4 | Hyderabad native dies in U.S. skydiving accident | 2 | market_reaction, official_response | NO | 0.6265800531183316 |
-| 5 | Amended RPwD Act to include persons internally injured by acid ingestion, Centre tells Supreme Court | 2 | correction | YES | 0.60551 |
-| 6 | MEA summons Iranian deputy envoy, after Indian national killed in attack on ship | 3 | fact_update | YES | 0.5805916683316485 |
-| 7 | NASA astronaut Anil Menon and two Russian cosmonauts reach International Space Station | 2 | base_report | YES | 0.5815232802150019 |
-| 8 | Tata Elxsi shares slide 6% after weak Q1 results. Why Motilal Oswal sees 16% downside from current levels? | 1 | market_reaction | YES | 0.7226911614783158 |
-| 9 | Alpine Texworld IPO Day 2: GMP at 10%; check subscription, valuation and other key details | 1 | market_reaction | YES | 0.7226911614783158 |
-| 10 | L&T Tech shares gain over 2%, Q1 net profit rises 13%; Nomura, Nuvama, other brokerages revise target prices | 1 | market_reaction | YES | 0.7226911614783158 |
+| 5 | Darline Graham Nordone, sister of Lindsey Graham, chosen to fulfill remainder of his U.S. Senate term | 2 | base_report | YES | 0.6732467197849983 |
+| 6 | Amended RPwD Act to include persons internally injured by acid ingestion, Centre tells Supreme Court | 2 | correction | YES | 0.60551 |
+| 7 | MEA summons Iranian deputy envoy, after Indian national killed in attack on ship | 3 | fact_update | YES | 0.5805916683316485 |
+| 8 | NASA astronaut Anil Menon and two Russian cosmonauts reach International Space Station | 2 | base_report | YES | 0.5815232802150019 |
+| 9 | India bans the import of goods made using forced labour, even as U.S. investigation is pending | 2 | investigative_detail | YES | 0.5513433333333333 |
+| 10 | Groww shares gain 8% on strong Q1 earnings, net profit jumps 94% to Rs 735 crore | 1 | market_reaction | YES | 0.7226911614783158 |
 
 ## Warnings
 
@@ -38,12 +38,12 @@
 - Status: **FAIL**
 - Gate version: `real-insight-snapshot-ratchet-v1`
 - Grade: `D`
-- Score: `42`
+- Score: `66`
 - Parents: `10`
 - Average angles: `1.4`
-- Average temporal tiers: `1.6`
-- Average evolution roles: `1.8`
-- Base report share: `0.167`
+- Average temporal tiers: `1.8`
+- Average evolution roles: `1.9`
+- Base report share: `0.25`
 - Multi-angle parents: `4`
 - Top parent angles: `2`
 - Top parent children: `2`
@@ -51,15 +51,15 @@
 ### Failed gates
 
 - **Real snapshot grade floor** — actual `D`, required `A/B/C`. Fix: Do not accept D/F real snapshot output. Improve child selection, parent rerank, or data intake.
-- **Average temporal tier count** — actual `1.6`, required `>= 1.8`. Fix: C+E output should cover multiple event-time tiers, not only source buckets.
 - **Weak parent ratio** — actual `0.6`, required `<= 0.5`. Fix: Too many weak trees remain. Repair or demote weak trees after diversity repair.
 
 ### Passed gates
 
 - Parent cluster count: `10` / `>= 3`
 - Average visible angle count: `1.4` / `>= 1.4`
-- Average evolution role count: `1.8` / `>= 1.6`
-- Base report share: `0.167` / `<= 0.55`
+- Average temporal tier count: `1.8` / `>= 1.8`
+- Average evolution role count: `1.9` / `>= 1.6`
+- Base report share: `0.25` / `<= 0.55`
 - Multi-angle parent count: `4` / `>= 1`
 - Top parent angle count: `2` / `>= 2`
 - Top parent child depth: `2` / `>= 2`
