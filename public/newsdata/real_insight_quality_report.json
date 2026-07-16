@@ -1,20 +1,20 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1784218982563,
-  "contentHash": "8bff7169c47503c5",
+  "generatedAt": 1784225547352,
+  "contentHash": "ff35957193fe5a86",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 791,
+  "storyCount": 826,
   "sourceGroupCount": 9,
   "grade": "D",
   "parentCount": 10,
-  "avgAngles": 1.2,
+  "avgAngles": 1.3,
   "avgTemporalTiers": 1.7,
   "avgEvolutionRoles": 1.5,
-  "baseReportShare": 0.21052631578947367,
-  "multiAngleCount": 2,
-  "weakParentCount": 8,
+  "baseReportShare": 0.16666666666666666,
+  "multiAngleCount": 3,
+  "weakParentCount": 7,
   "runtimeQualityGate": {
     "attempted": true,
     "recovered": false,
@@ -23,56 +23,56 @@
       "grade": "D",
       "tone": "danger",
       "title": "Weak insight signal",
-      "signalScore": 31,
+      "signalScore": 34,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 726,
+      "storyCount": 750,
       "risingCount": 0,
-      "thinCount": 8,
-      "multiAngleCount": 2,
-      "lowAngleCount": 8,
+      "thinCount": 7,
+      "multiAngleCount": 3,
+      "lowAngleCount": 7,
       "strongAngleCount": 0,
-      "avgAngles": 1.2,
-      "avgChildren": 1.9,
-      "avgScore": 0.6367494707284976,
-      "sourceDiversityCoverage": 9,
+      "avgAngles": 1.3,
+      "avgChildren": 1.8,
+      "avgScore": 0.6517509853391645,
+      "sourceDiversityCoverage": 8,
       "snapshotCoverage": 4,
-      "coverageLabel": "2/10",
+      "coverageLabel": "3/10",
       "warnings": [
-        "8 cluster(s) have fewer than two visible child angles.",
+        "7 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "1 cluster(s) are below source-diversity target.",
+        "2 cluster(s) are below source-diversity target.",
         "6 cluster(s) have weak snapshot coverage.",
-        "8 cluster(s) are marked thin.",
-        "651 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "7 cluster(s) are marked thin.",
+        "764 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "D",
       "tone": "danger",
       "title": "Weak insight signal",
-      "signalScore": 31,
+      "signalScore": 34,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 726,
+      "storyCount": 750,
       "risingCount": 0,
-      "thinCount": 8,
-      "multiAngleCount": 2,
-      "lowAngleCount": 8,
+      "thinCount": 7,
+      "multiAngleCount": 3,
+      "lowAngleCount": 7,
       "strongAngleCount": 0,
-      "avgAngles": 1.2,
-      "avgChildren": 1.9,
-      "avgScore": 0.6367494707284976,
-      "sourceDiversityCoverage": 9,
+      "avgAngles": 1.3,
+      "avgChildren": 1.8,
+      "avgScore": 0.6517509853391645,
+      "sourceDiversityCoverage": 8,
       "snapshotCoverage": 4,
-      "coverageLabel": "2/10",
+      "coverageLabel": "3/10",
       "warnings": [
-        "8 cluster(s) have fewer than two visible child angles.",
+        "7 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "1 cluster(s) are below source-diversity target.",
+        "2 cluster(s) are below source-diversity target.",
         "6 cluster(s) have weak snapshot coverage.",
-        "8 cluster(s) are marked thin.",
-        "1 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "7 cluster(s) are marked thin.",
+        "2 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "recoveryConfig": {
@@ -86,7 +86,7 @@
   },
   "parents": [
     {
-      "parentId": "cluster_267_73639a6259358687",
+      "parentId": "cluster_307_73639a6259358687",
       "headline": "Kota C-section victims demand kidney transplant in 48 hours, write to President",
       "score": 0.6934967197849984,
       "postTreeScore": 1.0735,
@@ -107,7 +107,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_491_c884c27f5f2504cb",
+      "parentId": "cluster_530_c884c27f5f2504cb",
       "headline": "Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach - Reuters",
       "score": 0.6392600000000002,
       "postTreeScore": 1.0393,
@@ -128,7 +128,28 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_431_17448d814f42084f",
+      "parentId": "cluster_51_0e2bbc0261b777c1",
+      "headline": "Duration of US visa stay changes - what it means for foreign students, exchange visitors and journalists",
+      "score": 0.6010273179616862,
+      "postTreeScore": 1.021,
+      "childCount": 2,
+      "angles": [
+        "base_report",
+        "expert_analysis"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "developing"
+      ],
+      "evolutionRoles": [
+        "first_report",
+        "corroboration"
+      ],
+      "baseReportShare": 0.5,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_470_17448d814f42084f",
       "headline": "Swiggy Instamart and HPCL launch q-comm cylinder delivery",
       "score": 0.7012467197849983,
       "postTreeScore": 0.5912,
@@ -148,7 +169,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_565_f25926d9715362bb",
+      "parentId": "cluster_602_f25926d9715362bb",
       "headline": "Indian missing after attack on ship off Oman coast is dead, family says - Reuters",
       "score": 0.6950467197849983,
       "postTreeScore": 0.585,
@@ -168,7 +189,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_501_c473ebe2a7304f57",
+      "parentId": "cluster_540_c473ebe2a7304f57",
       "headline": "Cabinet Approves Mobile Phone Manufacturing Scheme With Rs. 62,500 Crore Budget to Scale Domestic Production",
       "score": 0.6442133864516649,
       "postTreeScore": 0.5342,
@@ -187,26 +208,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_636_a0b145a58b31795e",
-      "headline": "Nepal court jails two former Ministers, 14 others",
-      "score": 0.6055800531183317,
-      "postTreeScore": 0.4956,
-      "childCount": 2,
-      "angles": [
-        "investigative_detail"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "developing"
-      ],
-      "evolutionRoles": [
-        "official_response"
-      ],
-      "baseReportShare": 0,
-      "weakTree": true
-    },
-    {
-      "parentId": "cluster_19_3f1aaf6f2e804218",
+      "parentId": "cluster_56_3f1aaf6f2e804218",
       "headline": "Indian court orders Maruti to replace car in first E20 fuel damage ruling - Reuters",
       "score": 0.5693433333333333,
       "postTreeScore": 0.4793,
@@ -225,26 +227,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_32_5bb2c2a63ad84a92",
-      "headline": "U.S. to change visa regulations for foreign students, journalists",
-      "score": 0.5681232802150018,
-      "postTreeScore": 0.4781,
-      "childCount": 2,
-      "angles": [
-        "base_report"
-      ],
-      "temporalTiers": [
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "corroboration"
-      ],
-      "baseReportShare": 1,
-      "weakTree": true
-    },
-    {
-      "parentId": "cluster_136_d1ee91f5183ee7b0",
+      "parentId": "cluster_175_d1ee91f5183ee7b0",
       "headline": "Parliament approves Serhii Koretskyi amid cabinet shuffle",
       "score": 0.5275933333333334,
       "postTreeScore": 0.4376,
@@ -262,10 +245,28 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_88_48e013d49647d59d",
+      "parentId": "cluster_127_48e013d49647d59d",
       "headline": "BHEL shares jump 4% after Maharatna PSU posts net profit of Rs 377 crore in Q1, revenue jumps 40%",
       "score": 0.7235911614783158,
       "postTreeScore": 0.4236,
+      "childCount": 1,
+      "angles": [
+        "fact_update"
+      ],
+      "temporalTiers": [
+        "breaking"
+      ],
+      "evolutionRoles": [
+        "fact_update"
+      ],
+      "baseReportShare": 0,
+      "weakTree": true
+    },
+    {
+      "parentId": "cluster_87_0f63150bcd350916",
+      "headline": "SBI Funds Management gets highest applications for any IPO this year, sees Rs 2.98 lakh crore investor rush",
+      "score": 0.7226911614783158,
+      "postTreeScore": 0.4227,
       "childCount": 1,
       "angles": [
         "fact_update"
@@ -299,13 +300,13 @@
       {
         "id": "base-report-share",
         "label": "Base report share",
-        "actual": 0.211,
+        "actual": 0.167,
         "required": "<= 0.55"
       },
       {
         "id": "multi-angle-parent-count",
         "label": "Multi-angle parent count",
-        "actual": 2,
+        "actual": 3,
         "required": ">= 1"
       },
       {
@@ -333,7 +334,7 @@
       {
         "id": "avg-angle-count",
         "label": "Average visible angle count",
-        "actual": 1.2,
+        "actual": 1.3,
         "required": ">= 1.4",
         "severity": "fail",
         "fix": "Angle-diverse child selection is not strong enough on real data."
@@ -357,7 +358,7 @@
       {
         "id": "weak-parent-ratio",
         "label": "Weak parent ratio",
-        "actual": 0.8,
+        "actual": 0.7,
         "required": "<= 0.5",
         "severity": "warn",
         "fix": "Too many weak trees remain. Repair or demote weak trees after diversity repair."
@@ -365,16 +366,16 @@
     ],
     "summary": {
       "parentCount": 10,
-      "avgAngles": 1.2,
+      "avgAngles": 1.3,
       "avgTemporalTiers": 1.7,
       "avgEvolutionRoles": 1.5,
-      "baseReportShare": 0.211,
-      "multiAngleCount": 2,
-      "weakParentCount": 8,
-      "weakParentRatio": 0.8,
+      "baseReportShare": 0.167,
+      "multiAngleCount": 3,
+      "weakParentCount": 7,
+      "weakParentRatio": 0.7,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 791,
+      "storyCount": 826,
       "sourceGroupCount": 9
     }
   }
