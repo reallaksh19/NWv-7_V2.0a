@@ -1,8 +1,33 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1784231863790,
-  "contentHash": "ad9528e2528c",
+  "fetchedAt": 1784235460709,
+  "contentHash": "69f1549fcdff",
   "breaking": [
+    {
+      "title": "West Asia war LIVE: U.S. strikes hit around Iran's Qeshm island, says state media",
+      "summary": "Fars news agency reported an \"American missile strike in the vicinity of Qeshm\", citing local authorities, while Tasnim news agency said one of its correspondents reported locations around Qeshm \"were struck by projectiles from the American enemy\"",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-air-strikes-strait-of-hormuz-live-updates-july-16-2026/article71228351.ece",
+      "publishedAt": 1784232663000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "39170be933c7a713",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 7.435,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1784229276000
+    },
     {
       "title": "Iran slams 'barbaric' U.S. attack after hospital evacuated due to nearby strike",
       "summary": "At the heart of the fighting is the Strait of Hormuz, a waterway crucial to global oil and gas flows",
@@ -16,7 +41,7 @@
       "id": "41bdf50fa80ef701",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.246,
+      "breakingScore": 5.162,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -39,7 +64,7 @@
       "id": "e4d810709a541929",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.239,
+      "breakingScore": 5.155,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -48,31 +73,6 @@
         "ndtv"
       ],
       "firstSeen": 1784220567000
-    },
-    {
-      "title": "US-Iran War News LIVE: US Launches 5th Consecutive Night Of Strikes Against Iran",
-      "summary": "US-Iran War Live Updates: A fifth of all traded crude oil and natural gas passed through the Strait of Hormuz before the war, when it was open to all without tolls.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand",
-      "publishedAt": 1784229276000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "287f07c12ee84038",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.94,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 3,
-      "allSources": [
-        "bbc",
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1784202529000
     },
     {
       "title": "At least one dead in Texas floods ravaging same area where campers died",
@@ -87,7 +87,7 @@
       "id": "532982619e280ecd",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.832,
+      "breakingScore": 3.749,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -110,7 +110,7 @@
       "id": "ef0e6cb97ca8bc92",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.784,
+      "breakingScore": 3.701,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -133,7 +133,7 @@
       "id": "1c477ba467bce6bb",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.733,
+      "breakingScore": 3.65,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -156,7 +156,7 @@
       "id": "10c49768ec220df0",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.969,
+      "breakingScore": 2.886,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -168,27 +168,27 @@
       "firstSeen": 1784226411000
     },
     {
-      "title": "28-Year-Old Shot Dead By Friend In Gurugram: Cops",
-      "summary": "Further investigation is underway, say officials. (Representational)",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/28-year-old-shot-dead-by-friend-in-gurugram-cops-11781777#publisher=newsstand",
-      "publishedAt": 1784227216000,
-      "category": "topStories",
+      "title": "Hundreds of Canada wildfires prompt US air quality alerts as smoke spreads south",
+      "summary": "Smoke from more than 800 blazes has affected cities from Toronto to New York, as well as the US Midwest.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1784231935000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "774dffdf6da4dbb5",
+      "id": "95faef64f0358ac2",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.392,
+      "breakingScore": 2.418,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "ndtv"
+        "bbc"
       ],
-      "firstSeen": 1784227216000
+      "firstSeen": 1784231935000
     }
   ]
 }
