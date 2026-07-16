@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1784149643809,
+  "generatedAt": 1784160281000,
   "windowDays": 7,
   "latest": {
     "insightGrade": "C",
     "insightScore": 0,
-    "totalStories": 768,
-    "usableStories36h": 747,
-    "sourceGroups": 10,
+    "totalStories": 695,
+    "usableStories36h": 681,
+    "sourceGroups": 9,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
@@ -19,7 +19,7 @@
     "overallScore": 0.3089,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1784149642612,
+    "generatedAt": 1784160279713,
     "destinationScores": {
       "buzz": 0,
       "insight": 0.3739,
@@ -78,7 +78,7 @@
         "strongParents": 12,
         "weakParentsDemoted": 0,
         "avgAnglesPerParent": 0,
-        "baseReportHeavyParents": 0,
+        "baseReportHeavyParents": 1,
         "duplicateChildrenSuppressed": 0
       },
       "localTravel": {
@@ -92,7 +92,7 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 13,
+        "suppressedItemCount": 14,
         "events": 0,
         "onlineOffers": 0,
         "offlineOffers": 0,
@@ -119,7 +119,7 @@
       "Efforts are on to expand our products base, says CPCL MD: futureValidity failed — expired display window"
     ],
     "actionRequired": [
-      "13 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "14 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no active offer items in ranked Up Ahead set",
       "no ranked Up Ahead item for muscat",
       "no local Buzz item in ranked set",
@@ -129,7 +129,7 @@
       "no ranked local/travel item for muscat",
       "no ranked local/travel item for chennai",
       "no ranked local/travel item for trichy",
-      "Insight event/angle ranking has no critical demotion finding",
+      "1 base-report-heavy Insight parent(s) demoted",
       "buzz: no local Buzz item in ranked set"
     ]
   },
@@ -152,23 +152,6 @@
     "avgRankingWeakDestinations7d": 4
   },
   "history": [
-    {
-      "date": "2026-07-09",
-      "generatedAt": 1783632528076,
-      "insightGrade": "C",
-      "insightScore": 0,
-      "totalStories": 687,
-      "usableStories36h": 659,
-      "sourceGroups": 10,
-      "angleHintCoverage": 1,
-      "sectionsTotalStories": 0,
-      "sectionsCount": 10,
-      "rankingOverallScore": 0.3056,
-      "rankingOverallStatus": "FAIL",
-      "sourceUptimePercent": 0,
-      "angleDiversityScore": 0,
-      "rankingWeakDestinationCount": 4
-    },
     {
       "date": "2026-07-10",
       "generatedAt": 1783717954021,
@@ -262,6 +245,23 @@
       "totalStories": 768,
       "usableStories36h": 747,
       "sourceGroups": 10,
+      "angleHintCoverage": 1,
+      "sectionsTotalStories": 0,
+      "sectionsCount": 10,
+      "rankingOverallScore": 0.3089,
+      "rankingOverallStatus": "FAIL",
+      "sourceUptimePercent": 0,
+      "angleDiversityScore": 0,
+      "rankingWeakDestinationCount": 4
+    },
+    {
+      "date": "2026-07-16",
+      "generatedAt": 1784160281000,
+      "insightGrade": "C",
+      "insightScore": 0,
+      "totalStories": 695,
+      "usableStories36h": 681,
+      "sourceGroups": 9,
       "angleHintCoverage": 1,
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
