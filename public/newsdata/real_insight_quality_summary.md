@@ -10,9 +10,9 @@
 - Base report share: `0.21052631578947367`
 - Multi-angle parents: `4`
 - Weak parents: `6`
-- Story count: `733`
-- Source groups: `10`
-- Content hash: `7d7a2731981b41cf`
+- Story count: `729`
+- Source groups: `9`
+- Content hash: `59e4181478e2038d`
 
 ## Top parents
 
@@ -27,7 +27,7 @@
 | 7 | Cabinet Approves Mobile Phone Manufacturing Scheme With Rs. 62,500 Crore Budget to Scale Domestic Production | 2 | fact_update | YES | 0.6002266666666667 |
 | 8 | Nepal court jails two former Ministers, 14 others | 2 | investigative_detail | YES | 0.6055800531183317 |
 | 9 | Parliament approves Serhii Koretskyi amid cabinet shuffle | 2 | official_response | YES | 0.5075933333333333 |
-| 10 | Issue 16% subscribed on day one so far, GMP suggests 12% listing pop | 1 | fact_update | YES | 0.7226911614783158 |
+| 10 | BHEL shares jump 4% after Maharatna PSU posts net profit of Rs 377 crore in Q1, revenue jumps 40% | 1 | fact_update | YES | 0.7235911614783158 |
 
 ## Warnings
 
