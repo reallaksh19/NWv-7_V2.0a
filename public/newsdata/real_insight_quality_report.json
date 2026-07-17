@@ -1,12 +1,12 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1784283702459,
-  "contentHash": "f589408c32799947",
+  "generatedAt": 1784289337142,
+  "contentHash": "d6e7ef1b831bb181",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 734,
-  "sourceGroupCount": 10,
+  "storyCount": 723,
+  "sourceGroupCount": 9,
   "grade": "D",
   "parentCount": 10,
   "avgAngles": 1.2,
@@ -26,7 +26,7 @@
       "signalScore": 24,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 663,
+      "storyCount": 661,
       "risingCount": 0,
       "thinCount": 8,
       "multiAngleCount": 2,
@@ -44,7 +44,7 @@
         "4 cluster(s) are below source-diversity target.",
         "8 cluster(s) have weak snapshot coverage.",
         "8 cluster(s) are marked thin.",
-        "715 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "625 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
@@ -54,7 +54,7 @@
       "signalScore": 24,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 663,
+      "storyCount": 661,
       "risingCount": 0,
       "thinCount": 8,
       "multiAngleCount": 2,
@@ -86,7 +86,7 @@
   },
   "parents": [
     {
-      "parentId": "cluster_301_0e2bbc0261b777c1",
+      "parentId": "cluster_322_0e2bbc0261b777c1",
       "headline": "Duration of US visa stay changes - what it means for foreign students, exchange visitors and journalists",
       "score": 0.6010239879583166,
       "postTreeScore": 1.001,
@@ -107,7 +107,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_56_c92fee49bdb9e33d",
+      "parentId": "cluster_76_c92fee49bdb9e33d",
       "headline": "US Senate Bill seeks 100% tariffs on India, China for buying Russian oil",
       "score": 0.5976566135483352,
       "postTreeScore": 0.9977,
@@ -127,7 +127,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_190_4702db0051724a4a",
+      "parentId": "cluster_210_4702db0051724a4a",
       "headline": "NEET UG 2026 results: Punjab’s Aryan Gupta, Haryana’s Panshul Bansal top; 11.21 lakh qualify",
       "score": 0.7065633864516649,
       "postTreeScore": 0.5966,
@@ -147,7 +147,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_202_14d779082de96b43",
+      "parentId": "cluster_222_14d779082de96b43",
       "headline": "US to revive rule of no green cards for those who use public benefits",
       "score": 0.6220800531183317,
       "postTreeScore": 0.5121,
@@ -167,7 +167,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_434_d1ee91f5183ee7b0",
+      "parentId": "cluster_455_d1ee91f5183ee7b0",
       "headline": "Parliament approves Serhii Koretskyi amid cabinet shuffle",
       "score": 0.5955800531183317,
       "postTreeScore": 0.4856,
@@ -185,7 +185,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_308_3f1aaf6f2e804218",
+      "parentId": "cluster_329_3f1aaf6f2e804218",
       "headline": "Indian court orders Maruti to replace car in first E20 fuel damage ruling - Reuters",
       "score": 0.5013566135483352,
       "postTreeScore": 0.3914,
@@ -204,7 +204,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_384_48e013d49647d59d",
+      "parentId": "cluster_405_48e013d49647d59d",
       "headline": "BHEL shares jump 4% after Maharatna PSU posts net profit of Rs 377 crore in Q1, revenue jumps 40%",
       "score": 0.7235911614783158,
       "postTreeScore": 0.4236,
@@ -222,7 +222,25 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_16_3168dad875aad345",
+      "parentId": "cluster_23_08560b80bb26b336",
+      "headline": "Rs 9,000 crore bet! Reliance Industries promoters increase stake by 0.5% in June quarter",
+      "score": 0.7226911614783158,
+      "postTreeScore": 0.4227,
+      "childCount": 1,
+      "angles": [
+        "fact_update"
+      ],
+      "temporalTiers": [
+        "breaking"
+      ],
+      "evolutionRoles": [
+        "fact_update"
+      ],
+      "baseReportShare": 0,
+      "weakTree": true
+    },
+    {
+      "parentId": "cluster_36_3168dad875aad345",
       "headline": "JSW Steel Q1 Results: Net profit doubles to Rs 4,696 crore",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
@@ -240,31 +258,13 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_39_f60833dbe13ecb26",
+      "parentId": "cluster_59_f60833dbe13ecb26",
       "headline": "Zepto said to face sharply lower valuation for IPO",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
       "childCount": 1,
       "angles": [
         "fact_update"
-      ],
-      "temporalTiers": [
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "fact_update"
-      ],
-      "baseReportShare": 0,
-      "weakTree": true
-    },
-    {
-      "parentId": "cluster_99_7745ad0f53c98d3e",
-      "headline": "Relaxo Footwears jumps 14%, snaps 3-day losing streak. What should investors do now?",
-      "score": 0.7226911614783158,
-      "postTreeScore": 0.4227,
-      "childCount": 1,
-      "angles": [
-        "market_reaction"
       ],
       "temporalTiers": [
         "breaking"
@@ -370,8 +370,8 @@
       "weakParentRatio": 0.8,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 734,
-      "sourceGroupCount": 10
+      "storyCount": 723,
+      "sourceGroupCount": 9
     }
   }
 }
