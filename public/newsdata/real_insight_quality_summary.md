@@ -7,27 +7,27 @@
 - Average angles: `1.1`
 - Average temporal tiers: `1.4`
 - Average evolution roles: `1.3`
-- Base report share: `0.2`
+- Base report share: `0.06666666666666667`
 - Multi-angle parents: `1`
 - Weak parents: `9`
-- Story count: `715`
-- Source groups: `9`
-- Content hash: `5c74087aae024f83`
+- Story count: `648`
+- Source groups: `10`
+- Content hash: `500831eb3695da91`
 
 ## Top parents
 
 | # | Headline | Children | Angles | Weak | Score |
 |---:|---|---:|---|---|---:|
 | 1 | Duration of US visa stay changes - what it means for foreign students, exchange visitors and journalists | 2 | base_report, expert_analysis | NO | 0.6210273179616861 |
-| 2 | Swiggy Instamart and HPCL launch q-comm cylinder delivery | 2 | base_report | YES | 0.7012467197849983 |
-| 3 | Indian court orders Maruti to replace car in first E20 fuel damage ruling - Reuters | 2 | official_response | YES | 0.5693433333333333 |
+| 2 | NEET UG 2026 results: Punjab’s Aryan Gupta, Haryana’s Panshul Bansal top; 11.21 lakh qualify | 2 | fact_update | YES | 0.6425766666666668 |
+| 3 | Parliament approves Serhii Koretskyi amid cabinet shuffle | 2 | official_response | YES | 0.5955800531183317 |
 | 4 | US to revive rule of no green cards for those who use public benefits | 2 | reaction_public | YES | 0.5340933333333333 |
-| 5 | Parliament approves Serhii Koretskyi amid cabinet shuffle | 2 | official_response | YES | 0.5275933333333334 |
+| 5 | Indian court orders Maruti to replace car in first E20 fuel damage ruling - Reuters | 2 | official_response | YES | 0.5013566135483352 |
 | 6 | BHEL shares jump 4% after Maharatna PSU posts net profit of Rs 377 crore in Q1, revenue jumps 40% | 1 | fact_update | YES | 0.7235911614783158 |
-| 7 | SBI Funds Management gets highest applications for any IPO this year, sees Rs 2.98 lakh crore investor rush | 1 | fact_update | YES | 0.7226911614783158 |
-| 8 | Jio Financial Q1 Results: Profit skyrockets 155% YoY to Rs 830 crore | 1 | fact_update | YES | 0.7226911614783158 |
-| 9 | Polycab Q1 Results: Profit surges 33% YoY to Rs 797 crore, revenue jumps 39% | 1 | fact_update | YES | 0.7226911614783158 |
-| 10 | Tech Mahindra Q1 Results: Net profit rises 28% YoY to Rs 1,465 crore, revenue up 18% | 1 | fact_update | YES | 0.7226911614783158 |
+| 7 | Tech Mahindra shares jump 3% after Q1 earnings beat estimates. What Nomura, Nuvama, other brokerages now expect | 1 | fact_update | YES | 0.7226911614783158 |
+| 8 | Jio Financial Services shares rally 6% after stellar Q1 results. Buy, sell or hold the stock? | 1 | market_reaction | YES | 0.7226911614783158 |
+| 9 | SBI Funds Management gets highest applications for any IPO this year, sees Rs 2.98 lakh crore investor rush | 1 | fact_update | YES | 0.7226911614783158 |
+| 10 | Jio Financial Q1 Results: Profit skyrockets 155% YoY to Rs 830 crore | 1 | fact_update | YES | 0.7226911614783158 |
 
 ## Warnings
 
@@ -43,7 +43,7 @@
 - Average angles: `1.1`
 - Average temporal tiers: `1.4`
 - Average evolution roles: `1.3`
-- Base report share: `0.2`
+- Base report share: `0.067`
 - Multi-angle parents: `1`
 - Top parent angles: `2`
 - Top parent children: `2`
@@ -59,7 +59,7 @@
 ### Passed gates
 
 - Parent cluster count: `10` / `>= 3`
-- Base report share: `0.2` / `<= 0.55`
+- Base report share: `0.067` / `<= 0.55`
 - Multi-angle parent count: `1` / `>= 1`
 - Top parent angle count: `2` / `>= 2`
 - Top parent child depth: `2` / `>= 2`
