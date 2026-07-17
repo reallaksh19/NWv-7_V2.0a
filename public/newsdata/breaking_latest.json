@@ -1,22 +1,47 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1784276819689,
-  "contentHash": "40637598411f",
+  "fetchedAt": 1784283457853,
+  "contentHash": "e699a0bbfcd7",
   "breaking": [
     {
+      "title": "School bus crash kills at least 20 pupils in Uganda",
+      "summary": "Dozens others, including school staff, were injured in the crash, suspected to have been caused by a mechanical fault.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1784282667000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "bec2e390cf58ac2f",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.982,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "the_hindu"
+      ],
+      "firstSeen": 1784278474000
+    },
+    {
       "title": "West Asia war LIVE: Suspected Iranian attack on Kurdish dissident group in Iraq kills at least nine",
-      "summary": "U.S. airstrikes appear to have damaged Chabahar port and Iran says at least seven people killed ⁠in ‌U.S. ‌attacks on ‌bridges ⁠",
-      "source": "The Hindu",
+      "summary": "Iran did not immediately claim responsibility, but has repeatedly targeted Kurdish dissidents in Iraq ⁠",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/west-asia-war-us-iran-conflict-washington-strikes-tehran-donald-trump-strait-of-hormuz-live-updates-july-17-2026/article71232634.ece",
-      "publishedAt": 1784276485000,
-      "category": "topStories",
+      "publishedAt": 1784281256000,
+      "category": "world",
       "region": "in",
       "language": "en",
       "id": "0849aee2fbe74846",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.992,
+      "breakingScore": 3.949,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -24,7 +49,7 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1784276485000
+      "firstSeen": 1784281256000
     },
     {
       "title": "Russian recruits survive just 20-30 minutes on Ukraine frontlines: CIA chief explains why",
@@ -39,7 +64,7 @@
       "id": "430cd95617a60cbc",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.947,
+      "breakingScore": 3.793,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -62,7 +87,7 @@
       "id": "7943e5b4d78c4a90",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.906,
+      "breakingScore": 3.753,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -71,29 +96,6 @@
         "times_of_india"
       ],
       "firstSeen": 1784272767000
-    },
-    {
-      "title": "School bus crash kills at least 20 pupils in Uganda",
-      "summary": "Dozens others, including school staff, were injured in the crash, suspected to have been caused by a mechanical fault.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1784266582000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "bec2e390cf58ac2f",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.763,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1784266582000
     },
     {
       "title": "Olympic cyclist admits to driving despite ban after crash that killed wife",
@@ -108,7 +110,7 @@
       "id": "5a98e2793f0d0c03",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.725,
+      "breakingScore": 3.572,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -119,43 +121,19 @@
       "firstSeen": 1784264954000
     },
     {
-      "title": "Trump revives election fraud claims ahead of U.S. midterms",
-      "summary": "Mr. Trump portrayed the U.S. electoral system as dangerously exposed and urged lawmakers to adopt new restrictions on voting, despite scant appetite for the measures even within his own Republican Party",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/trump-revives-election-fraud-claims-ahead-of-us-midterms/article71232640.ece",
-      "publishedAt": 1784273905000,
-      "category": "world",
+      "title": "Trump alleges China interference in US elections amid suspicion he's prepping for mid-term loss",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132457509.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />President Donald Trump alleged China compromised American election data extensively. He claimed Beijing illicitly acquired millions of US voter files. Critics questioned these claims, citing public data availability and intelligence assessments. Intelligence agencies concluded China did not attempt to alter vote counts. The timing of these allegations raised concerns among Republicans and Democrats.",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/us/trump-alleges-china-interference-in-us-elections-amid-suspicion-hes-prepping-for-mid-term-loss/articleshow/132457509.cms",
+      "publishedAt": 1784281104000,
+      "category": "india",
       "region": "in",
       "language": "en",
-      "id": "2c2dcf7e17655bbc",
+      "id": "873853b0da3b1e23",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.933,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1784268698000
-    },
-    {
-      "title": "Japan relaxes royal succession rules - but ban on female emperors remains",
-      "summary": "The law now allows the adoption of male distant relatives aged over 15 back into the imperial family.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1784265394000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "108b0c34ba06f19c",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.736,
+      "breakingScore": 2.946,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -164,7 +142,7 @@
         "bbc",
         "times_of_india"
       ],
-      "firstSeen": 1784261121000
+      "firstSeen": 1784279526000
     },
     {
       "title": "US launches new strikes as Iran says civilian infrastructure hit",
@@ -172,14 +150,14 @@
       "source": "BBC World",
       "sourceGroup": "bbc",
       "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1784275812000,
+      "publishedAt": 1784283270000,
       "category": "world",
       "region": "in",
       "language": "en",
       "id": "ed22d83270f65606",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.477,
+      "breakingScore": 2.496,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -187,7 +165,30 @@
       "allSources": [
         "bbc"
       ],
-      "firstSeen": 1784275812000
+      "firstSeen": 1784283270000
+    },
+    {
+      "title": "Hang Seng crashes over 2% as tech selloff hits Asia markets. Why Hong Kong stocks are falling on Friday?",
+      "summary": "Hong Kong's Hang Seng Index fell 2% by midday on Friday, weighed down by a global selloff in technology stocks as renewed inflation concerns dampened risk appetite. The Hang Seng Tech Index plunged 4%, with investors reducing exposure to technology and other growth stocks amid fears that higher inflation could lead to tighter monetary policy and higher interest rates.",
+      "source": "Economic Times",
+      "sourceGroup": "economic_times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hang-seng-crashes-over-2-as-tech-selloff-hits-asia-markets-why-hong-kong-stocks-are-falling-on-friday/articleshow/132458594.cms",
+      "publishedAt": 1784282914000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "9c8649d91516a4c7",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.487,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "economic_times"
+      ],
+      "firstSeen": 1784282914000
     }
   ]
 }
