@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1784236074648,
+  "generatedAt": 1784246561435,
   "policyVersion": "section-source-policy-v1",
   "reportVersion": "section-source-policy-report-v1",
   "schemaVersion": 1,
@@ -62,11 +62,11 @@
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 6,
+          "count": 8,
           "sourceGroup": "times_of_india"
         },
         {
-          "count": 4,
+          "count": 2,
           "sourceGroup": "ndtv"
         }
       ]
@@ -83,11 +83,11 @@
       ],
       "topSources": [
         {
-          "count": 20,
+          "count": 19,
           "sourceGroup": "times_of_oman"
         },
         {
-          "count": 10,
+          "count": 11,
           "sourceGroup": "google_news_oman"
         }
       ]
@@ -104,15 +104,15 @@
       ],
       "topSources": [
         {
-          "count": 15,
+          "count": 17,
           "sourceGroup": "bbc"
         },
         {
-          "count": 8,
+          "count": 9,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 7,
+          "count": 4,
           "sourceGroup": "google_news"
         }
       ]
@@ -154,11 +154,11 @@
       ],
       "topSources": [
         {
-          "count": 18,
+          "count": 19,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 12,
+          "count": 11,
           "sourceGroup": "google_news"
         }
       ]
@@ -221,11 +221,11 @@
       ],
       "topSources": [
         {
-          "count": 22,
+          "count": 24,
           "sourceGroup": "bbc"
         },
         {
-          "count": 8,
+          "count": 6,
           "sourceGroup": "the_hindu"
         }
       ]
@@ -439,7 +439,7 @@
       "configuredFeeds": 2,
       "health": {
         "feedUrl": "https://economictimes.indiatimes.com/rssfeeds/1977021501.cms",
-        "items": 3,
+        "items": 4,
         "ok": true,
         "section": "business"
       },
@@ -476,9 +476,10 @@
     {
       "configuredFeeds": 1,
       "health": {
+        "error": "415 Client Error: Unsupported Media Type for url: https://www.muscatdaily.com/feed",
         "feedUrl": "https://www.muscatdaily.com/feed",
         "items": 0,
-        "ok": true,
+        "ok": false,
         "section": "muscat"
       },
       "sections": [
