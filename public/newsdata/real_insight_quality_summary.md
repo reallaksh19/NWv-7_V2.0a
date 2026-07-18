@@ -2,64 +2,61 @@
 
 - Status: **PASS**
 - Reason: -
-- Grade: `D`
+- Grade: `C`
 - Parents: `10`
-- Average angles: `1.4`
-- Average temporal tiers: `1.7`
-- Average evolution roles: `1.8`
-- Base report share: `0.15789473684210525`
-- Multi-angle parents: `4`
-- Weak parents: `6`
-- Story count: `597`
+- Average angles: `1.8`
+- Average temporal tiers: `1.8`
+- Average evolution roles: `2`
+- Base report share: `0.13043478260869565`
+- Multi-angle parents: `7`
+- Weak parents: `3`
+- Story count: `618`
 - Source groups: `9`
-- Content hash: `3d2dd1b6825d4c8b`
+- Content hash: `8daa6e25dbf4675b`
 
 ## Top parents
 
 | # | Headline | Children | Angles | Weak | Score |
 |---:|---|---:|---|---|---:|
-| 1 | PM launches India’s first hydrogen-powered train | 3 | base_report, official_response | NO | 0.6807477209716007 |
-| 2 | US Senate Bill seeks 100% tariffs on India, China for buying Russian oil | 2 | fact_update, base_report | NO | 0.6976300531183317 |
-| 3 | DCET results announced | 2 | official_response, fact_update | NO | 0.6697800531183317 |
-| 4 | US prosecutor says Justice Department made call to drop Gautam Adani case | 2 | expert_analysis, fact_update | NO | 0.6005899468816684 |
-| 5 | Sonam Wangchuk’s wife breaks silence after Delhi Police shift him to hospital, warns authorities against brea - India.Com | 3 | official_response | YES | 0.6365487346782661 |
-| 6 | CJP’s Abhijeet Dipke begins indefinite hunger strike, as police shifts Wangchuk to hospital | 2 | official_response | YES | 0.60551 |
-| 7 | A 7.3-magnitude earthquake hits Mexico-Guatemala border; no damage reported so far | 2 | official_response | YES | 0.5935232802150019 |
-| 8 | Axis Bank Q1 Results: Net profit rises 23% YoY to Rs 7,114 crore; NII up 8% | 1 | fact_update | YES | 0.7226911614783158 |
-| 9 | Zepto IPO anchor book nears closure; Norges, Motilal Oswal may take 40-45% | 1 | fact_update | YES | 0.7226911614783158 |
-| 10 | Reliance Retail Q1 results: Quick-commerce spends drag PAT 14% YoY to Rs 2,806 crore; revenue rises 7% | 1 | fact_update | YES | 0.7226911614783158 |
-
-## Warnings
-
-- Real snapshot still produces low Insight grade.
+| 1 | Vikram-1, country’s first private orbital-class rocket, successfully places tech payloads, postcards into orbit | 3 | market_reaction, investigative_detail, official_response | NO | 0.5989283316683515 |
+| 2 | PM launches India’s first hydrogen-powered train | 3 | base_report, official_response | NO | 0.6807477209716007 |
+| 3 | US Senate Bill seeks 100% tariffs on India, China for buying Russian oil | 2 | fact_update, base_report | NO | 0.6976300531183317 |
+| 4 | DCET results announced | 2 | official_response, fact_update | NO | 0.6697800531183317 |
+| 5 | CJP founder Abhijit Dipke begins indefinite hunger strike after Wangchuk shifted to hospital | 3 | official_response, reaction_public | NO | 0.5987583349983152 |
+| 6 | US prosecutor says Justice Department made call to drop Gautam Adani case | 2 | expert_analysis, fact_update | NO | 0.6005899468816684 |
+| 7 | Vikram-1 Lifts Off Skyroot Launches India's First Private Rocket Into Orbit Successfully / News18 - News18 | 2 | investigative_detail, fact_update | NO | 0.5593433333333333 |
+| 8 | Sonam Wangchuk’s wife breaks silence after Delhi Police shift him to hospital, warns authorities against brea - India.Com | 3 | official_response | YES | 0.6365487346782661 |
+| 9 | A 7.3-magnitude earthquake hits Mexico-Guatemala border; no damage reported so far | 2 | official_response | YES | 0.5935232802150019 |
+| 10 | Yes Bank Q1 Results: Net profit surges 34% YoY to Rs 1,071 crore; NII advances 18% | 1 | fact_update | YES | 0.7226911614783158 |
 
 ## Real Snapshot Ratchet Gate
 
-- Status: **FAIL**
+- Status: **PASS**
 - Gate version: `real-insight-snapshot-ratchet-v1`
-- Grade: `D`
-- Score: `42`
+- Grade: `C`
+- Score: `100`
 - Parents: `10`
-- Average angles: `1.4`
-- Average temporal tiers: `1.7`
-- Average evolution roles: `1.8`
-- Base report share: `0.158`
-- Multi-angle parents: `4`
-- Top parent angles: `2`
+- Average angles: `1.8`
+- Average temporal tiers: `1.8`
+- Average evolution roles: `2`
+- Base report share: `0.13`
+- Multi-angle parents: `7`
+- Top parent angles: `3`
 - Top parent children: `3`
 
 ### Failed gates
 
-- **Real snapshot grade floor** — actual `D`, required `A/B/C`. Fix: Do not accept D/F real snapshot output. Improve child selection, parent rerank, or data intake.
-- **Average temporal tier count** — actual `1.7`, required `>= 1.8`. Fix: C+E output should cover multiple event-time tiers, not only source buckets.
-- **Weak parent ratio** — actual `0.6`, required `<= 0.5`. Fix: Too many weak trees remain. Repair or demote weak trees after diversity repair.
+- None
 
 ### Passed gates
 
+- Real snapshot grade floor: `C` / `A/B/C`
 - Parent cluster count: `10` / `>= 3`
-- Average visible angle count: `1.4` / `>= 1.4`
-- Average evolution role count: `1.8` / `>= 1.6`
-- Base report share: `0.158` / `<= 0.55`
-- Multi-angle parent count: `4` / `>= 1`
-- Top parent angle count: `2` / `>= 2`
+- Average visible angle count: `1.8` / `>= 1.4`
+- Average temporal tier count: `1.8` / `>= 1.8`
+- Average evolution role count: `2` / `>= 1.6`
+- Base report share: `0.13` / `<= 0.55`
+- Multi-angle parent count: `7` / `>= 1`
+- Top parent angle count: `3` / `>= 2`
 - Top parent child depth: `3` / `>= 2`
+- Weak parent ratio: `0.3` / `<= 0.5`
