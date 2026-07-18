@@ -1,30 +1,30 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1784377859093,
+  "generatedAt": 1784383430761,
   "windowDays": 7,
   "latest": {
     "insightGrade": "C",
     "insightScore": 0,
-    "totalStories": 651,
-    "usableStories36h": 627,
-    "sourceGroups": 9,
+    "totalStories": 678,
+    "usableStories36h": 651,
+    "sourceGroups": 10,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3071,
+    "rankingOverallScore": 0.3042,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3071,
+    "overallScore": 0.3042,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1784377858198,
+    "generatedAt": 1784383430058,
     "destinationScores": {
       "buzz": 0,
-      "insight": 0.3917,
+      "insight": 0.3819,
       "localTravel": 0,
-      "upAhead": 0.8367
+      "upAhead": 0.8348
     },
     "destinationStatuses": {
       "buzz": "FAIL",
@@ -48,7 +48,7 @@
       {
         "destination": "insight",
         "status": "WARN",
-        "score": 0.3917,
+        "score": 0.3819,
         "profile": "insight-v2-event-angle-tree"
       },
       {
@@ -60,7 +60,7 @@
       {
         "destination": "upAhead",
         "status": "WARN",
-        "score": 0.8367,
+        "score": 0.8348,
         "profile": "upAhead-v2-lifecycle-location-category"
       }
     ],
@@ -74,11 +74,11 @@
         "oneSourceCappedCount": 0
       },
       "insight": {
-        "parentClusters": 10,
-        "strongParents": 10,
+        "parentClusters": 12,
+        "strongParents": 12,
         "weakParentsDemoted": 0,
         "avgAnglesPerParent": 0,
-        "baseReportHeavyParents": 0,
+        "baseReportHeavyParents": 1,
         "duplicateChildrenSuppressed": 0
       },
       "localTravel": {
@@ -91,12 +91,12 @@
         "locationsCovered": []
       },
       "upAhead": {
-        "rankedItemCount": 30,
-        "suppressedItemCount": 9,
+        "rankedItemCount": 26,
+        "suppressedItemCount": 13,
         "events": 0,
         "onlineOffers": 1,
         "offlineOffers": 4,
-        "alerts": 25,
+        "alerts": 21,
         "festivals": 0,
         "locationsCovered": [
           "chennai",
@@ -111,17 +111,17 @@
       "Prime Day Is Over, But 62 of Our Favorite Deals Are Still Available - WIRED: location failed — offline/local item lacks configured location match",
       "Amazon just dropped a bunch of great UGREEN NAS deals — including a hefty discount on the 'best starter NAS' we've tested - Android Central: location failed — offline/local item lacks configured location match",
       "CHITA’S 2026 Amazon Prime Day Sale: Exclusive Offers on Customer Favorites - The National Law Review: location failed — offline/local item lacks configured location match",
-      "Tiruchi Aerodrome Committee meeting emphasises on coordination for better security: futureValidity failed — expired display window",
-      "Tiruchi Aerodrome Committee meeting emphasises on coordination for better security: alertUrgency failed — alert expired",
-      "Man beaten to death in Padappai, two persons surrender before police: futureValidity failed — expired display window",
-      "Man beaten to death in Padappai, two persons surrender before police: alertUrgency failed — alert expired",
-      "How musicians are reinventing the centuries-old abhang: futureValidity failed — expired display window",
-      "How musicians are reinventing the centuries-old abhang: alertUrgency failed — alert expired",
-      "LG TV deals: Buy an OLED, QNED, or RGB TV on sale, get up to $200 in DoorDash or Uber Eats credit - Mashable: location failed — offline/local item lacks configured location match",
-      "Go big with the 45-inch LG Ultragear curved gaming monitor, now on sale for $654 off at Amazon - Mashable: location failed — offline/local item lacks configured location match"
+      "Citizens, NGOs join hands to clear seemai karuvelam at Korattur lake: futureValidity failed — expired display window",
+      "Citizens, NGOs join hands to clear seemai karuvelam at Korattur lake: alertUrgency failed — alert expired",
+      "IIT-M holds awareness programme for school heads in Thanjavur: futureValidity failed — expired display window",
+      "IIT-M holds awareness programme for school heads in Thanjavur: alertUrgency failed — alert expired",
+      "Private hospital in Chennai launches laser angioplasty technology: futureValidity failed — expired display window",
+      "Private hospital in Chennai launches laser angioplasty technology: alertUrgency failed — alert expired",
+      "Circular bus service introduced in Kumbakonam: futureValidity failed — expired display window",
+      "Circular bus service introduced in Kumbakonam: alertUrgency failed — alert expired"
     ],
     "actionRequired": [
-      "9 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "13 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no local Buzz item in ranked set",
       "no travel Buzz item in ranked set",
       "no active local/travel disruption item",
@@ -129,10 +129,10 @@
       "no ranked local/travel item for muscat",
       "no ranked local/travel item for chennai",
       "no ranked local/travel item for trichy",
-      "Insight event/angle ranking has no critical demotion finding",
+      "1 base-report-heavy Insight parent(s) demoted",
       "buzz: no local Buzz item in ranked set",
       "buzz: no travel Buzz item in ranked set",
-      "insight: Insight event/angle ranking has no critical demotion finding"
+      "insight: 1 base-report-heavy Insight parent(s) demoted"
     ]
   },
   "sourceHealth": {
@@ -258,16 +258,16 @@
     },
     {
       "date": "2026-07-18",
-      "generatedAt": 1784377859093,
+      "generatedAt": 1784383430761,
       "insightGrade": "C",
       "insightScore": 0,
-      "totalStories": 651,
-      "usableStories36h": 627,
-      "sourceGroups": 9,
+      "totalStories": 678,
+      "usableStories36h": 651,
+      "sourceGroups": 10,
       "angleHintCoverage": 1,
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
-      "rankingOverallScore": 0.3071,
+      "rankingOverallScore": 0.3042,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,
