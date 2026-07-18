@@ -1,28 +1,28 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1784348990315,
+  "generatedAt": 1784356316340,
   "windowDays": 7,
   "latest": {
     "insightGrade": "D",
     "insightScore": 0,
-    "totalStories": 627,
-    "usableStories36h": 583,
-    "sourceGroups": 10,
+    "totalStories": 597,
+    "usableStories36h": 581,
+    "sourceGroups": 9,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3081,
+    "rankingOverallScore": 0.3101,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3081,
+    "overallScore": 0.3101,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1784348989585,
+    "generatedAt": 1784356315475,
     "destinationScores": {
       "buzz": 0,
-      "insight": 0.3792,
+      "insight": 0.3871,
       "localTravel": 0,
       "upAhead": 0.8532
     },
@@ -48,7 +48,7 @@
       {
         "destination": "insight",
         "status": "WARN",
-        "score": 0.3792,
+        "score": 0.3871,
         "profile": "insight-v2-event-angle-tree"
       },
       {
@@ -95,11 +95,12 @@
         "suppressedItemCount": 4,
         "events": 0,
         "onlineOffers": 0,
-        "offlineOffers": 0,
-        "alerts": 30,
+        "offlineOffers": 1,
+        "alerts": 29,
         "festivals": 0,
         "locationsCovered": [
           "chennai",
+          "muscat",
           "trichy"
         ]
       }
@@ -116,9 +117,6 @@
     ],
     "actionRequired": [
       "4 invalid/expired/duplicate Up Ahead item(s) suppressed",
-      "no active offer items in ranked Up Ahead set",
-      "no ranked Up Ahead item for muscat",
-      "ranked Up Ahead set is category-dominated",
       "no local Buzz item in ranked set",
       "no travel Buzz item in ranked set",
       "no active local/travel disruption item",
@@ -126,7 +124,10 @@
       "no ranked local/travel item for muscat",
       "no ranked local/travel item for chennai",
       "no ranked local/travel item for trichy",
-      "1 base-report-heavy Insight parent(s) demoted"
+      "1 base-report-heavy Insight parent(s) demoted",
+      "buzz: no local Buzz item in ranked set",
+      "buzz: no travel Buzz item in ranked set",
+      "insight: 1 base-report-heavy Insight parent(s) demoted"
     ]
   },
   "sourceHealth": {
@@ -252,16 +253,16 @@
     },
     {
       "date": "2026-07-18",
-      "generatedAt": 1784348990315,
+      "generatedAt": 1784356316340,
       "insightGrade": "D",
       "insightScore": 0,
-      "totalStories": 627,
-      "usableStories36h": 583,
-      "sourceGroups": 10,
+      "totalStories": 597,
+      "usableStories36h": 581,
+      "sourceGroups": 9,
       "angleHintCoverage": 1,
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
-      "rankingOverallScore": 0.3081,
+      "rankingOverallScore": 0.3101,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,

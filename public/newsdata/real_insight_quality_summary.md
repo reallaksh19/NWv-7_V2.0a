@@ -10,9 +10,9 @@
 - Base report share: `0.15789473684210525`
 - Multi-angle parents: `4`
 - Weak parents: `6`
-- Story count: `627`
-- Source groups: `10`
-- Content hash: `343eb3ff11b388ac`
+- Story count: `597`
+- Source groups: `9`
+- Content hash: `3d2dd1b6825d4c8b`
 
 ## Top parents
 
@@ -22,10 +22,10 @@
 | 2 | US Senate Bill seeks 100% tariffs on India, China for buying Russian oil | 2 | fact_update, base_report | NO | 0.6976300531183317 |
 | 3 | DCET results announced | 2 | official_response, fact_update | NO | 0.6697800531183317 |
 | 4 | US prosecutor says Justice Department made call to drop Gautam Adani case | 2 | expert_analysis, fact_update | NO | 0.6005899468816684 |
-| 5 | NEET UG 2026 results: Punjab’s Aryan Gupta, Haryana’s Panshul Bansal top; 11.21 lakh qualify | 2 | fact_update | YES | 0.7065633864516649 |
-| 6 | US to revive rule of no green cards for those who use public benefits | 2 | reaction_public | YES | 0.6220800531183317 |
-| 7 | Sonam Wangchuk shifted to hospital; CJP founder Dipke under detention by Delhi Police | 2 | official_response | YES | 0.59551 |
-| 8 | A 7.3-magnitude earthquake hits Mexico-Guatemala border; no damage reported so far | 2 | official_response | YES | 0.5935232802150019 |
+| 5 | Sonam Wangchuk’s wife breaks silence after Delhi Police shift him to hospital, warns authorities against brea - India.Com | 3 | official_response | YES | 0.6365487346782661 |
+| 6 | CJP’s Abhijeet Dipke begins indefinite hunger strike, as police shifts Wangchuk to hospital | 2 | official_response | YES | 0.60551 |
+| 7 | A 7.3-magnitude earthquake hits Mexico-Guatemala border; no damage reported so far | 2 | official_response | YES | 0.5935232802150019 |
+| 8 | Axis Bank Q1 Results: Net profit rises 23% YoY to Rs 7,114 crore; NII up 8% | 1 | fact_update | YES | 0.7226911614783158 |
 | 9 | Zepto IPO anchor book nears closure; Norges, Motilal Oswal may take 40-45% | 1 | fact_update | YES | 0.7226911614783158 |
 | 10 | Reliance Retail Q1 results: Quick-commerce spends drag PAT 14% YoY to Rs 2,806 crore; revenue rises 7% | 1 | fact_update | YES | 0.7226911614783158 |
 
