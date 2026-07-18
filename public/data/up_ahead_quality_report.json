@@ -1,17 +1,17 @@
 {
   "categoryCounts": {
-    "alerts": 27,
+    "alerts": 28,
     "shopping": 11
   },
   "contentClassCounts": {
-    "upahead_alert": 27,
+    "upahead_alert": 28,
     "upahead_offer": 11
   },
-  "contentHash": "49c49d693a2e",
+  "contentHash": "e27d45507ab1",
   "contractVersion": "upahead-lifecycle-v1",
   "errors": [],
-  "fetchedAt": 1784368649985,
-  "generatedAt": 1784368662097,
+  "fetchedAt": 1784374212163,
+  "generatedAt": 1784374224432,
   "horizon": {
     "alertFallbackHours": 24,
     "eventPastGraceHours": 24,
@@ -19,23 +19,23 @@
     "offerFallbackHours": 48,
     "plannerPastGraceHours": 6
   },
-  "itemCount": 38,
+  "itemCount": 39,
   "lifecycleSummary": {
     "categoryCounts": {
-      "alerts": 27,
+      "alerts": 28,
       "shopping": 11
     },
     "contentClassCounts": {
-      "upahead_alert": 27,
+      "upahead_alert": 28,
       "upahead_offer": 11
     },
     "horizonViolationCount": 0,
     "horizonViolationSample": [],
-    "itemCount": 38,
-    "plannerEligibleByLifecycleCount": 37,
-    "visibleItemCount": 38
+    "itemCount": 39,
+    "plannerEligibleByLifecycleCount": 38,
+    "visibleItemCount": 39
   },
-  "plannerEligibleByLifecycleCount": 37,
+  "plannerEligibleByLifecycleCount": 38,
   "schemaVersion": 1,
   "status": "PASS",
   "thresholds": {
@@ -44,6 +44,6 @@
     "minVisibleItems": 3,
     "plannerPastGraceHours": 6
   },
-  "visibleItemCount": 38,
+  "visibleItemCount": 39,
   "warnings": []
 }
