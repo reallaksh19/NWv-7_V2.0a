@@ -1,20 +1,20 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1784383429382,
-  "contentHash": "9fd5ac052216dc46",
+  "generatedAt": 1784390615181,
+  "contentHash": "6037b4b0d744bf8b",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 678,
-  "sourceGroupCount": 10,
+  "storyCount": 671,
+  "sourceGroupCount": 9,
   "grade": "C",
   "parentCount": 10,
-  "avgAngles": 1.9,
-  "avgTemporalTiers": 1.9,
-  "avgEvolutionRoles": 2.1,
-  "baseReportShare": 0.16666666666666666,
-  "multiAngleCount": 8,
-  "weakParentCount": 2,
+  "avgAngles": 2,
+  "avgTemporalTiers": 1.8,
+  "avgEvolutionRoles": 2,
+  "baseReportShare": 0.13636363636363635,
+  "multiAngleCount": 9,
+  "weakParentCount": 1,
   "runtimeQualityGate": {
     "attempted": false,
     "recovered": false,
@@ -26,23 +26,23 @@
       "signalScore": 64,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 619,
-      "risingCount": 2,
-      "thinCount": 2,
-      "multiAngleCount": 8,
-      "lowAngleCount": 2,
+      "storyCount": 609,
+      "risingCount": 0,
+      "thinCount": 1,
+      "multiAngleCount": 9,
+      "lowAngleCount": 1,
       "strongAngleCount": 1,
-      "avgAngles": 1.9,
-      "avgChildren": 2.4,
-      "avgScore": 0.6321333228553196,
+      "avgAngles": 2,
+      "avgChildren": 2.2,
+      "avgScore": 0.6290743492688329,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 5,
-      "coverageLabel": "8/10",
+      "snapshotCoverage": 6,
+      "coverageLabel": "9/10",
       "warnings": [
-        "2 cluster(s) have fewer than two visible child angles.",
-        "5 cluster(s) have weak snapshot coverage.",
-        "2 cluster(s) are marked thin.",
-        "590 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "1 cluster(s) have fewer than two visible child angles.",
+        "4 cluster(s) have weak snapshot coverage.",
+        "1 cluster(s) are marked thin.",
+        "620 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
@@ -52,32 +52,32 @@
       "signalScore": 64,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 619,
-      "risingCount": 2,
-      "thinCount": 2,
-      "multiAngleCount": 8,
-      "lowAngleCount": 2,
+      "storyCount": 609,
+      "risingCount": 0,
+      "thinCount": 1,
+      "multiAngleCount": 9,
+      "lowAngleCount": 1,
       "strongAngleCount": 1,
-      "avgAngles": 1.9,
-      "avgChildren": 2.4,
-      "avgScore": 0.6321333228553196,
+      "avgAngles": 2,
+      "avgChildren": 2.2,
+      "avgScore": 0.6290743492688329,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 5,
-      "coverageLabel": "8/10",
+      "snapshotCoverage": 6,
+      "coverageLabel": "9/10",
       "warnings": [
-        "2 cluster(s) have fewer than two visible child angles.",
-        "5 cluster(s) have weak snapshot coverage.",
-        "2 cluster(s) are marked thin.",
-        "590 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "1 cluster(s) have fewer than two visible child angles.",
+        "4 cluster(s) have weak snapshot coverage.",
+        "1 cluster(s) are marked thin.",
+        "620 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_89_525d0cdeac499b78",
+      "parentId": "cluster_112_525d0cdeac499b78",
       "headline": "Vikram-1, country’s first private orbital-class rocket, successfully places tech payloads, postcards into orbit",
-      "score": 0.5789283316683514,
-      "postTreeScore": 1.1889,
+      "score": 0.5989283316683515,
+      "postTreeScore": 1.2089,
       "childCount": 3,
       "angles": [
         "market_reaction",
@@ -97,29 +97,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_321_24ad4691e9c67ac0",
-      "headline": "PM launches India’s first hydrogen-powered train",
-      "score": 0.6807477209716007,
-      "postTreeScore": 1.1007,
-      "childCount": 3,
-      "angles": [
-        "base_report",
-        "official_response"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "developing",
-        "established"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "corroboration"
-      ],
-      "baseReportShare": 0.6666666666666666,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_458_c92fee49bdb9e33d",
+      "parentId": "cluster_484_c92fee49bdb9e33d",
       "headline": "US Senate Bill seeks 100% tariffs on India, China for buying Russian oil",
       "score": 0.6976300531183317,
       "postTreeScore": 1.0776,
@@ -139,7 +117,28 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_193_532e90073384d905",
+      "parentId": "cluster_346_24ad4691e9c67ac0",
+      "headline": "PM launches India’s first hydrogen-powered train",
+      "score": 0.6803967197849983,
+      "postTreeScore": 1.0604,
+      "childCount": 2,
+      "angles": [
+        "official_response",
+        "base_report"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "established"
+      ],
+      "evolutionRoles": [
+        "first_report",
+        "corroboration"
+      ],
+      "baseReportShare": 0.5,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_217_532e90073384d905",
       "headline": "DCET results announced",
       "score": 0.6697800531183317,
       "postTreeScore": 1.0498,
@@ -160,7 +159,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_130_6710aa41f6cc91d4",
+      "parentId": "cluster_154_6710aa41f6cc91d4",
       "headline": "CJP founder Abhijit Dipke begins indefinite hunger strike after Wangchuk shifted to hospital",
       "score": 0.5987583349983152,
       "postTreeScore": 1.0188,
@@ -181,7 +180,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_1_c8fef97549437164",
+      "parentId": "cluster_20_c8fef97549437164",
       "headline": "ISRO-SCTIMST sign pact for research in space medicine, Bioastronautics",
       "score": 0.60551,
       "postTreeScore": 1.0055,
@@ -202,7 +201,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_149_df2f1212e0a72ed9",
+      "parentId": "cluster_173_df2f1212e0a72ed9",
       "headline": "US prosecutor says Justice Department made call to drop Gautam Adani case",
       "score": 0.6005899468816684,
       "postTreeScore": 1.0006,
@@ -223,7 +222,28 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_102_cd758e07c4f4301a",
+      "parentId": "cluster_18_794c69e445c3ad02",
+      "headline": "Indian-origin woman jailed in UK for more than 2 years over Rs 2.8 crore Covid loan fraud",
+      "score": 0.58631,
+      "postTreeScore": 0.9863,
+      "childCount": 2,
+      "angles": [
+        "fact_update",
+        "investigative_detail"
+      ],
+      "temporalTiers": [
+        "developing",
+        "breaking"
+      ],
+      "evolutionRoles": [
+        "fact_update",
+        "official_response"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_125_cd758e07c4f4301a",
       "headline": "Vikram-1 Lifts Off Skyroot Launches India's First Private Rocket Into Orbit Successfully | News18 - News18",
       "score": 0.5593433333333333,
       "postTreeScore": 0.9593,
@@ -242,7 +262,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_161_cd5003f05158dbbb",
+      "parentId": "cluster_185_cd5003f05158dbbb",
       "headline": "A 7.3-magnitude earthquake hits Mexico-Guatemala border; no damage reported so far",
       "score": 0.6934967197849984,
       "postTreeScore": 0.5835,
@@ -257,27 +277,6 @@
       "evolutionRoles": [
         "corroboration",
         "cause_claim"
-      ],
-      "baseReportShare": 0,
-      "weakTree": true
-    },
-    {
-      "parentId": "cluster_111_22a846e147c63d2a",
-      "headline": "Sonam Wangchuk’s wife breaks silence after Delhi Police shift him to hospital, warns authorities against brea - India.Com",
-      "score": 0.6365487346782661,
-      "postTreeScore": 0.5465,
-      "childCount": 3,
-      "angles": [
-        "official_response"
-      ],
-      "temporalTiers": [
-        "developing",
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "corroboration",
-        "cause_claim",
-        "official_response"
       ],
       "baseReportShare": 0,
       "weakTree": true
@@ -306,31 +305,31 @@
       {
         "id": "avg-angle-count",
         "label": "Average visible angle count",
-        "actual": 1.9,
+        "actual": 2,
         "required": ">= 1.4"
       },
       {
         "id": "avg-temporal-tier-count",
         "label": "Average temporal tier count",
-        "actual": 1.9,
+        "actual": 1.8,
         "required": ">= 1.8"
       },
       {
         "id": "avg-evolution-role-count",
         "label": "Average evolution role count",
-        "actual": 2.1,
+        "actual": 2,
         "required": ">= 1.6"
       },
       {
         "id": "base-report-share",
         "label": "Base report share",
-        "actual": 0.167,
+        "actual": 0.136,
         "required": "<= 0.55"
       },
       {
         "id": "multi-angle-parent-count",
         "label": "Multi-angle parent count",
-        "actual": 8,
+        "actual": 9,
         "required": ">= 1"
       },
       {
@@ -348,24 +347,24 @@
       {
         "id": "weak-parent-ratio",
         "label": "Weak parent ratio",
-        "actual": 0.2,
+        "actual": 0.1,
         "required": "<= 0.5"
       }
     ],
     "failed": [],
     "summary": {
       "parentCount": 10,
-      "avgAngles": 1.9,
-      "avgTemporalTiers": 1.9,
-      "avgEvolutionRoles": 2.1,
-      "baseReportShare": 0.167,
-      "multiAngleCount": 8,
-      "weakParentCount": 2,
-      "weakParentRatio": 0.2,
+      "avgAngles": 2,
+      "avgTemporalTiers": 1.8,
+      "avgEvolutionRoles": 2,
+      "baseReportShare": 0.136,
+      "multiAngleCount": 9,
+      "weakParentCount": 1,
+      "weakParentRatio": 0.1,
       "topParentAngles": 3,
       "topParentChildren": 3,
-      "storyCount": 678,
-      "sourceGroupCount": 10
+      "storyCount": 671,
+      "sourceGroupCount": 9
     }
   }
 }
