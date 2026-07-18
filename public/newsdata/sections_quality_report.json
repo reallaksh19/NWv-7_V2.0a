@@ -1,8 +1,8 @@
 {
-  "contentHash": "a19f63160f99",
+  "contentHash": "3659b629ea58",
   "errors": [],
-  "fetchedAt": 1784397558452,
-  "generatedAt": 1784397568197,
+  "fetchedAt": 1784402317558,
+  "generatedAt": 1784402328611,
   "schemaVersion": 2,
   "sectionCount": 10,
   "sectionHealth": {
@@ -29,13 +29,13 @@
     },
     "entertainment": {
       "qualitySourceGroupCount": 1,
-      "qualityStoryCount": 17,
+      "qualityStoryCount": 16,
       "sourceGroupCount": 1,
-      "storyCount": 17,
+      "storyCount": 16,
       "thin": true,
       "topSources": [
         {
-          "count": 17,
+          "count": 16,
           "sourceGroup": "google_news"
         }
       ]
@@ -52,12 +52,12 @@
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 8,
-          "sourceGroup": "ndtv"
+          "count": 5,
+          "sourceGroup": "times_of_india"
         },
         {
-          "count": 2,
-          "sourceGroup": "times_of_india"
+          "count": 5,
+          "sourceGroup": "ndtv"
         }
       ]
     },
@@ -94,11 +94,11 @@
           "sourceGroup": "bbc"
         },
         {
-          "count": 12,
+          "count": 10,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 3,
+          "count": 5,
           "sourceGroup": "google_news"
         }
       ]
@@ -111,11 +111,11 @@
       "thin": false,
       "topSources": [
         {
-          "count": 15,
+          "count": 16,
           "sourceGroup": "google_news"
         },
         {
-          "count": 9,
+          "count": 8,
           "sourceGroup": "the_hindu"
         },
         {
@@ -132,11 +132,11 @@
       "thin": false,
       "topSources": [
         {
-          "count": 16,
+          "count": 20,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 14,
+          "count": 10,
           "sourceGroup": "google_news"
         }
       ]
@@ -160,17 +160,17 @@
     },
     "trichy": {
       "qualitySourceGroupCount": 2,
-      "qualityStoryCount": 29,
+      "qualityStoryCount": 30,
       "sourceGroupCount": 2,
-      "storyCount": 29,
+      "storyCount": 30,
       "thin": false,
       "topSources": [
         {
-          "count": 19,
+          "count": 18,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 10,
+          "count": 12,
           "sourceGroup": "google_news"
         }
       ]
@@ -218,7 +218,7 @@
     "Section entertainment has weak source diversity: 1 source group(s)"
   ],
   "window": {
-    "cutoffAt": 1784267958452,
+    "cutoffAt": 1784272717558,
     "retainHours": 36
   }
 }
