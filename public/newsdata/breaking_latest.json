@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1784409889445,
-  "contentHash": "8cc9d4a9542a",
+  "fetchedAt": 1784416248893,
+  "contentHash": "9ec1a083d1ef",
   "breaking": [
     {
       "title": "At least nine killed, over 60 wounded in Ukrainian drone attack on Russian regions",
@@ -16,7 +16,7 @@
       "id": "fa0447a27022f46d",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.664,
+      "breakingScore": 6.517,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -39,7 +39,7 @@
       "id": "6c9cec0ea3c5ca63",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.483,
+      "breakingScore": 5.336,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -63,7 +63,7 @@
       "id": "e87ee6965b31f4bc",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.339,
+      "breakingScore": 2.191,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -78,17 +78,17 @@
     {
       "title": "Shutdown over civilian ‘death’ during anti-militancy operation hits life in J&K’s Chenab Valley",
       "summary": "The victim was a 30-year-old was said to be out on a picnic when he was killed",
-      "source": "The Hindu",
+      "source": "The Hindu National",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/shutdown-over-civilian-death-during-anti-militancy-operation-hits-life-in-jks-chenab-valley/article71239235.ece",
       "publishedAt": 1784402245000,
-      "category": "topStories",
+      "category": "india",
       "region": "in",
       "language": "en",
       "id": "00480b1d07c412bf",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.323,
+      "breakingScore": 2.176,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -111,7 +111,7 @@
       "id": "b0f2a36393de8db7",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.255,
+      "breakingScore": 2.107,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -134,62 +134,15 @@
       "id": "2407ca3b6fc854f1",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.174,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "the_hindu"
-      ],
-      "firstSeen": 1784369247000
-    },
-    {
-      "title": "US Air Force airman killed in heavy equipment accident at California space base",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132483631.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/us/23-year-old-us-air-force-airman-killed-in-heavy-equipment-accident-at-california-space-base/articleshow/132483631.cms",
-      "publishedAt": 1784393912000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "55f617373c4f76e6",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.13,
+      "breakingScore": 2.026,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "times_of_india"
+        "bbc"
       ],
-      "firstSeen": 1784393912000
-    },
-    {
-      "title": "Iran says it is suspending commitments to interim deal with U.S. as the two exchange attacks",
-      "summary": "The U.S. has violated its commitments under the deal that was signed about a month ago, and now Iran is “no longer implementing them,” Kazem Gharibabadi, Iran's deputy foreign minister, told state TV",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/iran-says-it-is-suspending-commitments-to-interim-deal-with-us-as-the-two-exchange-attacks/article71239010.ece",
-      "publishedAt": 1784393476000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "70c656c6c3f8f668",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.12,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1784393476000
+      "firstSeen": 1784395790000
     }
   ]
 }
