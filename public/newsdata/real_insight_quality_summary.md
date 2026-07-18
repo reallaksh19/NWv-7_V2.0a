@@ -2,17 +2,17 @@
 
 - Status: **PASS**
 - Reason: -
-- Grade: `C`
+- Grade: `B`
 - Parents: `10`
 - Average angles: `2`
 - Average temporal tiers: `1.8`
 - Average evolution roles: `2`
-- Base report share: `0.13636363636363635`
+- Base report share: `0.17391304347826086`
 - Multi-angle parents: `9`
 - Weak parents: `1`
-- Story count: `671`
+- Story count: `636`
 - Source groups: `9`
-- Content hash: `6037b4b0d744bf8b`
+- Content hash: `07a9e0fb73c897ed`
 
 ## Top parents
 
@@ -20,7 +20,7 @@
 |---:|---|---:|---|---|---:|
 | 1 | Vikram-1, country’s first private orbital-class rocket, successfully places tech payloads, postcards into orbit | 3 | market_reaction, investigative_detail, official_response | NO | 0.5989283316683515 |
 | 2 | US Senate Bill seeks 100% tariffs on India, China for buying Russian oil | 2 | fact_update, base_report | NO | 0.6976300531183317 |
-| 3 | PM launches India’s first hydrogen-powered train | 2 | official_response, base_report | NO | 0.6803967197849983 |
+| 3 | PM launches India’s first hydrogen-powered train | 3 | official_response, base_report | NO | 0.6370128768472054 |
 | 4 | DCET results announced | 2 | official_response, fact_update | NO | 0.6697800531183317 |
 | 5 | CJP founder Abhijit Dipke begins indefinite hunger strike after Wangchuk shifted to hospital | 3 | official_response, reaction_public | NO | 0.5987583349983152 |
 | 6 | ISRO-SCTIMST sign pact for research in space medicine, Bioastronautics | 2 | official_response, base_report | NO | 0.60551 |
@@ -33,13 +33,13 @@
 
 - Status: **PASS**
 - Gate version: `real-insight-snapshot-ratchet-v1`
-- Grade: `C`
+- Grade: `B`
 - Score: `100`
 - Parents: `10`
 - Average angles: `2`
 - Average temporal tiers: `1.8`
 - Average evolution roles: `2`
-- Base report share: `0.136`
+- Base report share: `0.174`
 - Multi-angle parents: `9`
 - Top parent angles: `3`
 - Top parent children: `3`
@@ -50,12 +50,12 @@
 
 ### Passed gates
 
-- Real snapshot grade floor: `C` / `A/B/C`
+- Real snapshot grade floor: `B` / `A/B/C`
 - Parent cluster count: `10` / `>= 3`
 - Average visible angle count: `2` / `>= 1.4`
 - Average temporal tier count: `1.8` / `>= 1.8`
 - Average evolution role count: `2` / `>= 1.6`
-- Base report share: `0.136` / `<= 0.55`
+- Base report share: `0.174` / `<= 0.55`
 - Multi-angle parent count: `9` / `>= 1`
 - Top parent angle count: `3` / `>= 2`
 - Top parent child depth: `3` / `>= 2`
