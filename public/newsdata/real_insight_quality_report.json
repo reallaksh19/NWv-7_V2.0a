@@ -1,11 +1,11 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1784371726740,
-  "contentHash": "e6c5f5e14e1a007a",
+  "generatedAt": 1784377857330,
+  "contentHash": "7f3af59826779fa3",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 614,
+  "storyCount": 651,
   "sourceGroupCount": 9,
   "grade": "C",
   "parentCount": 10,
@@ -26,7 +26,7 @@
       "signalScore": 58,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 572,
+      "storyCount": 602,
       "risingCount": 2,
       "thinCount": 3,
       "multiAngleCount": 7,
@@ -34,7 +34,7 @@
       "strongAngleCount": 1,
       "avgAngles": 1.8,
       "avgChildren": 2.3,
-      "avgScore": 0.6338540950461515,
+      "avgScore": 0.6382527670246516,
       "sourceDiversityCoverage": 9,
       "snapshotCoverage": 5,
       "coverageLabel": "7/10",
@@ -43,7 +43,7 @@
         "1 cluster(s) are below source-diversity target.",
         "5 cluster(s) have weak snapshot coverage.",
         "3 cluster(s) are marked thin.",
-        "420 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "490 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
@@ -53,7 +53,7 @@
       "signalScore": 58,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 572,
+      "storyCount": 602,
       "risingCount": 2,
       "thinCount": 3,
       "multiAngleCount": 7,
@@ -61,7 +61,7 @@
       "strongAngleCount": 1,
       "avgAngles": 1.8,
       "avgChildren": 2.3,
-      "avgScore": 0.6338540950461515,
+      "avgScore": 0.6382527670246516,
       "sourceDiversityCoverage": 9,
       "snapshotCoverage": 5,
       "coverageLabel": "7/10",
@@ -70,16 +70,16 @@
         "1 cluster(s) are below source-diversity target.",
         "5 cluster(s) have weak snapshot coverage.",
         "3 cluster(s) are marked thin.",
-        "420 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "490 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_37_525d0cdeac499b78",
+      "parentId": "cluster_62_525d0cdeac499b78",
       "headline": "Vikram-1, country’s first private orbital-class rocket, successfully places tech payloads, postcards into orbit",
-      "score": 0.5789283316683514,
-      "postTreeScore": 1.1889,
+      "score": 0.5989283316683515,
+      "postTreeScore": 1.2089,
       "childCount": 3,
       "angles": [
         "market_reaction",
@@ -99,7 +99,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_267_24ad4691e9c67ac0",
+      "parentId": "cluster_294_24ad4691e9c67ac0",
       "headline": "PM launches India’s first hydrogen-powered train",
       "score": 0.6807477209716007,
       "postTreeScore": 1.1007,
@@ -121,7 +121,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_404_c92fee49bdb9e33d",
+      "parentId": "cluster_431_c92fee49bdb9e33d",
       "headline": "US Senate Bill seeks 100% tariffs on India, China for buying Russian oil",
       "score": 0.6976300531183317,
       "postTreeScore": 1.0776,
@@ -141,7 +141,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_139_532e90073384d905",
+      "parentId": "cluster_166_532e90073384d905",
       "headline": "DCET results announced",
       "score": 0.6697800531183317,
       "postTreeScore": 1.0498,
@@ -162,7 +162,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_77_6710aa41f6cc91d4",
+      "parentId": "cluster_103_6710aa41f6cc91d4",
       "headline": "CJP founder Abhijit Dipke begins indefinite hunger strike after Wangchuk shifted to hospital",
       "score": 0.5987583349983152,
       "postTreeScore": 1.0188,
@@ -183,7 +183,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_96_df2f1212e0a72ed9",
+      "parentId": "cluster_122_df2f1212e0a72ed9",
       "headline": "US prosecutor says Justice Department made call to drop Gautam Adani case",
       "score": 0.6005899468816684,
       "postTreeScore": 1.0006,
@@ -204,7 +204,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_50_cd758e07c4f4301a",
+      "parentId": "cluster_75_cd758e07c4f4301a",
       "headline": "Vikram-1 Lifts Off Skyroot Launches India's First Private Rocket Into Orbit Successfully | News18 - News18",
       "score": 0.5593433333333333,
       "postTreeScore": 0.9593,
@@ -223,7 +223,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_59_22a846e147c63d2a",
+      "parentId": "cluster_84_22a846e147c63d2a",
       "headline": "Sonam Wangchuk’s wife breaks silence after Delhi Police shift him to hospital, warns authorities against brea - India.Com",
       "score": 0.6365487346782661,
       "postTreeScore": 0.5465,
@@ -244,10 +244,10 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_108_cd5003f05158dbbb",
+      "parentId": "cluster_134_cd5003f05158dbbb",
       "headline": "A 7.3-magnitude earthquake hits Mexico-Guatemala border; no damage reported so far",
-      "score": 0.5935232802150019,
-      "postTreeScore": 0.5035,
+      "score": 0.61751,
+      "postTreeScore": 0.5275,
       "childCount": 2,
       "angles": [
         "official_response"
@@ -264,13 +264,13 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_3_623c92972cdb0060",
-      "headline": "IDBI Bank Q1 Results: Net profit grows 5% YoY to Rs 2,115 crore, NII climbs 10%",
+      "parentId": "cluster_8_352dcb79aeece722",
+      "headline": "Lohia Corp IPO opens on July 23: Here’s all you need to know",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
       "childCount": 1,
       "angles": [
-        "fact_update"
+        "market_reaction"
       ],
       "temporalTiers": [
         "breaking"
@@ -363,7 +363,7 @@
       "weakParentRatio": 0.3,
       "topParentAngles": 3,
       "topParentChildren": 3,
-      "storyCount": 614,
+      "storyCount": 651,
       "sourceGroupCount": 9
     }
   }
