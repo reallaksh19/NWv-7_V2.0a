@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1784460699866,
-  "contentHash": "9668e0bf7b90",
+  "fetchedAt": 1784464522990,
+  "contentHash": "361bd6c660fd",
   "breaking": [
     {
       "title": "Russia launches major ballistic missile attack on Ukrainian cities",
@@ -16,7 +16,7 @@
       "id": "d59cb8f5e7f843a3",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.995,
+      "breakingScore": 6.907,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -39,7 +39,7 @@
       "id": "0370221ba7b14501",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.662,
+      "breakingScore": 6.573,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -48,6 +48,53 @@
         "the_hindu"
       ],
       "firstSeen": 1784446096000
+    },
+    {
+      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "summary": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1784462230000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "6f9ed026414bb927",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.447,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "the_hindu"
+      ],
+      "firstSeen": 1784431248000
+    },
+    {
+      "title": "4 Killed In Massive Landslide In Nagaland, More Feared Dead",
+      "summary": "Nagaland landslide: Four bodies have been found so far",
+      "source": "NDTV India",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/4-killed-in-massive-landslide-in-nagaland-more-feared-dead-11791967#publisher=newsstand",
+      "publishedAt": 1784461938000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "2f677b66d485792a",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.44,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1784461938000
     },
     {
       "title": "Ukraine Release Video Of Bombing In Monaco That Injured Tycoon, His Family",
@@ -62,7 +109,7 @@
       "id": "9cfa6bb119ba8baf",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.277,
+      "breakingScore": 5.188,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -73,51 +120,27 @@
       "firstSeen": 1784451045000
     },
     {
-      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-      "summary": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1784459440000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "6f9ed026414bb927",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.971,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "the_hindu"
-      ],
-      "firstSeen": 1784431248000
-    },
-    {
-      "title": "Jammu and Kashmir rains LIVE: 10 feared dead, houses damaged in flash floods in J&K",
-      "summary": "Union Home Minister Amit Shah spoke to Jammu and Kashmir L-G Manoj Sinha and CM Omar Abdullah to take stock of the flood situation in Rajouri district.",
-      "source": "The Hindu National",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/amarnath-yatra-2026-live-updates-temporary-suspension-pahalgam-baltal-routes-jammu-and-kashmir-heavy-rains/article71240667.ece",
-      "publishedAt": 1784455457000,
+      "title": "Delhi Man, 20, Stabbed To Death By Mob, 2 Cops Who Tried To Save Him Injured",
+      "summary": "Three juveniles and an adult were apprehended in connection with the attack.",
+      "source": "NDTV India",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/delhi-man-20-stabbed-to-death-by-mob-2-cops-who-tried-to-save-him-injured-11791986#publisher=newsstand",
+      "publishedAt": 1784462000000,
       "category": "india",
       "region": "in",
       "language": "en",
-      "id": "b6a0993adb1993c9",
+      "id": "ad7357863e7e3ec7",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.879,
+      "breakingScore": 3.942,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "the_hindu"
+        "ndtv"
       ],
-      "firstSeen": 1784455457000
+      "firstSeen": 1784462000000
     },
     {
       "title": "16,000 hectares burned, over 1,100 evacuated: Spain's largest wildfire rages on",
@@ -132,7 +155,7 @@
       "id": "435b43d7fa393a8d",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.847,
+      "breakingScore": 3.759,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -143,42 +166,19 @@
       "firstSeen": 1784454104000
     },
     {
-      "title": "Earthquake of magnitude 5.6 strikes central Peru, EMSC says",
-      "summary": "Magnitude 5.6 earthquake hits central Peru, prompting safety concerns",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/earthquake-of-magnitude-56-strikes-central-peru/article71240668.ece",
-      "publishedAt": 1784439847000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "9a1005488443763d",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.517,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1784439847000
-    },
-    {
-      "title": "Madhya Pradesh Cabinet approves UCC draft bill for presentation in State Assembly",
-      "summary": "The bill seeks to completely prohibit polygamy and multiple marriages across all communities, while also declaring practices like nikaha halala as illegal and punishable offences",
-      "source": "The Hindu National",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-cabinet-approves-ucc-draft-bill-for-presentation-in-state-assembly/article71241011.ece",
-      "publishedAt": 1784455580000,
+      "title": "Sonam Wangchuk To Remain In Government Hospital, Court Denies Interim Relief",
+      "summary": "Delhi High Court denies interim relief to Sonam Wangchuk's wife",
+      "source": "NDTV India",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/why-was-sonam-wangchuk-hospitalised-delhi-high-court-hearing-11791599#publisher=newsstand",
+      "publishedAt": 1784463407000,
       "category": "india",
       "region": "in",
       "language": "en",
-      "id": "9a6ac3808a1f9d9a",
+      "id": "3b5bcd16f1f3793d",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.881,
+      "breakingScore": 2.974,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -187,7 +187,7 @@
         "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1784450324000
+      "firstSeen": 1784461755000
     }
   ]
 }
