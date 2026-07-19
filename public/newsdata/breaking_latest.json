@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1784489413348,
-  "contentHash": "617fba6b8ae6",
+  "fetchedAt": 1784492679169,
+  "contentHash": "e9e5ebcff336",
   "breaking": [
     {
       "title": "Russia launches major ballistic missile attack on Ukrainian cities",
@@ -16,7 +16,7 @@
       "id": "d59cb8f5e7f843a3",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.91,
+      "breakingScore": 6.835,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -25,6 +25,29 @@
         "bbc"
       ],
       "firstSeen": 1784485540000
+    },
+    {
+      "title": "US soldier killed and one injured after Iranian attack in Iraq",
+      "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1784490312000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "6f9ed026414bb927",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.445,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1784490312000
     },
     {
       "title": "At least eight dead, 15 hurt in Nagaland landslide",
@@ -39,7 +62,7 @@
       "id": "d6ba95430f7f64fa",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.477,
+      "breakingScore": 5.401,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -48,29 +71,6 @@
         "the_hindu"
       ],
       "firstSeen": 1784488407000
-    },
-    {
-      "title": "US and Iran trade fire after two US soldiers killed in Jordan",
-      "summary": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1784481743000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "6f9ed026414bb927",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.322,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1784481743000
     },
     {
       "title": "Russian attacks kill six in Kyiv, other cities; expose gaps in Ukraine’s air defences",
@@ -85,7 +85,7 @@
       "id": "0370221ba7b14501",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.284,
+      "breakingScore": 5.208,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -108,7 +108,7 @@
       "id": "d8d245a3d5f8f616",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.962,
+      "breakingScore": 3.887,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -131,7 +131,7 @@
       "id": "c1c9df1a2f0bbfb1",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.914,
+      "breakingScore": 3.838,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -154,7 +154,7 @@
       "id": "68e3615a5bce8f2e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.9,
+      "breakingScore": 3.825,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -177,7 +177,7 @@
       "id": "45a51d6d472fc201",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.849,
+      "breakingScore": 3.773,
       "breakingReasons": [
         "severity_lexicon"
       ],
