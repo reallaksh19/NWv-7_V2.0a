@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1784474031945,
-  "contentHash": "6c1f775f6969",
+  "fetchedAt": 1784477455557,
+  "contentHash": "53777daa8596",
   "breaking": [
     {
       "title": "Russia launches major ballistic missile attack on Ukrainian cities",
@@ -16,7 +16,7 @@
       "id": "d59cb8f5e7f843a3",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.687,
+      "breakingScore": 6.608,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -32,14 +32,14 @@
       "source": "BBC World",
       "sourceGroup": "bbc",
       "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1784466657000,
+      "publishedAt": 1784475318000,
       "category": "world",
       "region": "in",
       "language": "en",
       "id": "6f9ed026414bb927",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.329,
+      "breakingScore": 5.451,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -63,7 +63,7 @@
       "id": "b4662be76423c0d9",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.223,
+      "breakingScore": 5.143,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -74,42 +74,19 @@
       "firstSeen": 1784462048000
     },
     {
-      "title": "4 Killed In Massive Landslide In Nagaland, More Feared Dead",
-      "summary": "Nagaland landslide: Four bodies have been found so far",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/4-killed-in-massive-landslide-in-nagaland-more-feared-dead-11791967#publisher=newsstand",
-      "publishedAt": 1784461938000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "2f677b66d485792a",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.22,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1784461938000
-    },
-    {
-      "title": "Jammu and Kashmir rains LIVE: At least 12 dead, several missing in flash floods; rescue ops. under way",
-      "summary": "Home Minister Amit Shah assured the L-G and the CM of all possible assistance from the Centre for the safety and security of the affected people, officials said",
+      "title": "Roads turn death traps for gig workers in Kerala",
+      "summary": "Over 30 such workers, mostly food delivery personnel, have been killed in road accidents in the State in the past one year, as per informal data collected by a union. Time constraints coupled with heavy traffic often contribute to the higher number of fatalities, those involved in the sector say",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/amarnath-yatra-2026-live-updates-temporary-suspension-pahalgam-baltal-routes-jammu-and-kashmir-heavy-rains/article71240667.ece",
-      "publishedAt": 1784473387000,
+      "url": "https://www.thehindu.com/news/national/kerala/roads-turn-death-traps-for-gig-workers-in-kerala/article71241918.ece",
+      "publishedAt": 1784475775000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "b6a0993adb1993c9",
+      "id": "98c3a99a9a99004c",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.985,
+      "breakingScore": 3.961,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -117,22 +94,68 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1784473387000
+      "firstSeen": 1784475775000
     },
     {
-      "title": "16,000 hectares burned, over 1,100 evacuated: Spain's largest wildfire rages on",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132492416.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/europe/16000-hectares-burned-over-1100-evacuated-spains-largest-wildfire-rages-on/articleshow/132492416.cms",
-      "publishedAt": 1784454104000,
+      "title": "Jammu and Kashmir rains LIVE: At least 12 dead, several missing in flash floods; rescue ops. under way",
+      "summary": "Home Minister Amit Shah assured the L-G and the CM of all possible assistance from the Centre for the safety and security of the affected people, officials said",
+      "source": "The Hindu National",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/amarnath-yatra-2026-live-updates-temporary-suspension-pahalgam-baltal-routes-jammu-and-kashmir-heavy-rains/article71240667.ece",
+      "publishedAt": 1784475213000,
       "category": "india",
       "region": "in",
       "language": "en",
-      "id": "435b43d7fa393a8d",
+      "id": "b6a0993adb1993c9",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.539,
+      "breakingScore": 3.948,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1784475213000
+    },
+    {
+      "title": "West Asia war LIVE: Iranian missile hits Jordan's Aqaba Airport, reports Iran state media",
+      "summary": "The Israeli military said it had identified and intercepted missiles launched from Iran towards Aqaba in Jordan",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/iran-israel-war-july-19-2026-live-updates-kuwait-us/article71240587.ece",
+      "publishedAt": 1784474730000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "fdf4b9661bd5bf56",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.937,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1784474730000
+    },
+    {
+      "title": "‘Security hole’ enabled US-Israel bombing of Ayatollah’s residence: Iran minister Araghchi",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132496462.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Iranian foreign minister Seyyed Abbas Araghchi alleged a security breach allowed foreign powers access.  This breach reportedly provided intelligence and influenced decision-making during a conflict.  He stated attackers knew Ayatollah Ali Khamenei's routine and targeted his residence precisely.  A regional leader had warned Iran about leadership being targeted before the conflict began.  Araghchi noted the foreign ministry remained operational throughout the intense 40-day war.",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/security-hole-enabled-us-israel-bombing-of-ayatollahs-residence-iran-minister-araghchi/articleshow/132496462.cms",
+      "publishedAt": 1784474132000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "d6904d518bd840dd",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.923,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -140,45 +163,22 @@
       "allSources": [
         "times_of_india"
       ],
-      "firstSeen": 1784454104000
+      "firstSeen": 1784474132000
     },
     {
-      "title": "Murder accused on the run for seven years arrested",
-      "summary": "He was roaming around posing as a religious mendicant to avoid detection; he was accused of murdering an elderly woman for gain after breaking into her house",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/cities/Coimbatore/murder-accused-on-the-run-for-seven-years-arrested/article71241360.ece",
-      "publishedAt": 1784473235000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "a3e7f164d8e43dd8",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.482,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1784473235000
-    },
-    {
-      "title": "Man Stabs Wife To Death With Scissors In Delhi, Arrested From Moradabad",
-      "summary": "The continuous technical surveillance traced the accused. (Representational)",
+      "title": "Sirens, Strikes, Shattered Deal: Middle East On Edge As US, Iran Trade Blows",
+      "summary": "Behind this latest flare-up lies a collapsed peace effort.",
       "source": "NDTV",
       "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/man-stabs-wife-to-death-with-scissors-in-delhi-arrested-from-moradabad-11792360#publisher=newsstand",
-      "publishedAt": 1784468471000,
+      "url": "https://www.ndtv.com/world-news/us-iran-war-khamenei-trump-strait-of-hormuz-us-military-sirens-strikes-shattered-deal-middle-east-on-edge-as-us-iran-trade-blows-11792544#publisher=newsstand",
+      "publishedAt": 1784472167000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "a2bab33ca3449d45",
+      "id": "c1c9df1a2f0bbfb1",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.371,
+      "breakingScore": 3.878,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -186,7 +186,7 @@
       "allSources": [
         "ndtv"
       ],
-      "firstSeen": 1784462000000
+      "firstSeen": 1784472167000
     }
   ]
 }
