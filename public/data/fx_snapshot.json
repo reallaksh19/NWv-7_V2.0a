@@ -1,19 +1,19 @@
 {
   "schemaVersion": "2.0.0",
-  "generatedAt": "2026-07-19T06:35:13.921928Z",
+  "generatedAt": "2026-07-19T09:56:45.698744Z",
   "currencies": [
     {
-      "name": "EUR/INR",
-      "pair": "EURINR",
-      "symbol": "EURINR=X",
-      "value": "₹110.1154",
-      "rate": 110.11540222167969,
-      "change": "-0.0716",
-      "changePercent": "-0.06",
+      "name": "JPY/INR",
+      "pair": "JPYINR",
+      "symbol": "JPYINR=X",
+      "value": "₹0.5927",
+      "rate": 0.592739999294281,
+      "change": "-0.0008",
+      "changePercent": "-0.13",
       "direction": "down",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-07-19T06:33:22.994730Z"
+      "asOf": "2026-07-19T09:54:54.794656Z"
     },
     {
       "name": "OMR/INR",
@@ -26,7 +26,7 @@
       "direction": "up",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-07-19T06:33:23.030734Z"
+      "asOf": "2026-07-19T09:54:54.836501Z"
     },
     {
       "name": "GBP/INR",
@@ -39,20 +39,20 @@
       "direction": "down",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-07-19T06:33:23.036878Z"
+      "asOf": "2026-07-19T09:54:54.863928Z"
     },
     {
-      "name": "JPY/INR",
-      "pair": "JPYINR",
-      "symbol": "JPYINR=X",
-      "value": "₹0.5927",
-      "rate": 0.592739999294281,
-      "change": "-0.0008",
-      "changePercent": "-0.13",
+      "name": "EUR/INR",
+      "pair": "EURINR",
+      "symbol": "EURINR=X",
+      "value": "₹110.1154",
+      "rate": 110.11540222167969,
+      "change": "-0.0716",
+      "changePercent": "-0.06",
       "direction": "down",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-07-19T06:33:23.090559Z"
+      "asOf": "2026-07-19T09:54:54.881773Z"
     },
     {
       "name": "USD/INR",
@@ -65,7 +65,7 @@
       "direction": "down",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-07-19T06:33:23.092465Z"
+      "asOf": "2026-07-19T09:54:54.936354Z"
     }
   ],
   "sourceHealth": {
