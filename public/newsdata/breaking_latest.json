@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1784484585233,
-  "contentHash": "386520a0e975",
+  "fetchedAt": 1784489413348,
+  "contentHash": "617fba6b8ae6",
   "breaking": [
     {
       "title": "Russia launches major ballistic missile attack on Ukrainian cities",
@@ -9,14 +9,14 @@
       "source": "BBC World",
       "sourceGroup": "bbc",
       "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1784483000000,
+      "publishedAt": 1784485540000,
       "category": "world",
       "region": "in",
       "language": "en",
       "id": "d59cb8f5e7f843a3",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.963,
+      "breakingScore": 6.91,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -24,7 +24,30 @@
       "allSources": [
         "bbc"
       ],
-      "firstSeen": 1784483000000
+      "firstSeen": 1784485540000
+    },
+    {
+      "title": "At least eight dead, 15 hurt in Nagaland landslide",
+      "summary": "Heavy incessant rainfall and a cloudburst caused widespread destruction at various locations in and around Mon town; State announces ex-gratia of ₹4 lakh for kin of deceased, ₹74,000 for each of the injured",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/nagaland/nagaland-landslide-death-toll/article71241782.ece",
+      "publishedAt": 1784488407000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "d6ba95430f7f64fa",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.477,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1784488407000
     },
     {
       "title": "US and Iran trade fire after two US soldiers killed in Jordan",
@@ -39,16 +62,15 @@
       "id": "6f9ed026414bb927",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.434,
+      "breakingScore": 5.322,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "bbc",
-        "the_hindu"
+        "bbc"
       ],
-      "firstSeen": 1784445667000
+      "firstSeen": 1784481743000
     },
     {
       "title": "Russian attacks kill six in Kyiv, other cities; expose gaps in Ukraine’s air defences",
@@ -63,7 +85,7 @@
       "id": "0370221ba7b14501",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.395,
+      "breakingScore": 5.284,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -74,39 +96,16 @@
       "firstSeen": 1784480064000
     },
     {
-      "title": "West Asia war LIVE: Iranian missile hits Jordan's Aqaba Airport, reports Iran state media",
-      "summary": "The Israeli military said it had identified and intercepted missiles launched from Iran towards Aqaba in Jordan",
+      "title": "Petrol attack at Vembayam bar leaves four with burn injuries",
+      "summary": "The injured have been admitted to the Government Medical College Hospital here",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/iran-israel-war-july-19-2026-live-updates-kuwait-us/article71240587.ece",
-      "publishedAt": 1784483519000,
+      "url": "https://www.thehindu.com/news/national/kerala/petrol-attack-at-vembayam-bar-leaves-four-with-burn-injuries/article71242572.ece",
+      "publishedAt": 1784487778000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "fdf4b9661bd5bf56",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.975,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1784483519000
-    },
-    {
-      "title": "Jammu and Kashmir rains updates: At least 11 dead, several missing in flash floods; rescue ops. under way",
-      "summary": "Home Minister Amit Shah assured the L-G and the CM of all possible assistance from the Centre for the safety and security of the affected people, officials said",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/amarnath-yatra-2026-live-updates-temporary-suspension-pahalgam-baltal-routes-jammu-and-kashmir-heavy-rains/article71240667.ece",
-      "publishedAt": 1784482936000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "b6a0993adb1993c9",
+      "id": "d8d245a3d5f8f616",
       "suppressionReason": null,
       "isBreaking": true,
       "breakingScore": 3.962,
@@ -117,22 +116,68 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1784481558000
+      "firstSeen": 1784487778000
+    },
+    {
+      "title": "Sirens, Strikes, Shattered Deal: Middle East On Edge As US, Iran Trade Blows",
+      "summary": "Behind this latest flare-up lies a collapsed peace effort.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/us-iran-war-khamenei-trump-strait-of-hormuz-us-military-sirens-strikes-shattered-deal-middle-east-on-edge-as-us-iran-trade-blows-11792544#publisher=newsstand",
+      "publishedAt": 1784485692000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "c1c9df1a2f0bbfb1",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.914,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1784485692000
+    },
+    {
+      "title": "US-Iran War News LIVE: India Issues Travel Advisory As US Strikes Iran For 8th Straight Day",
+      "summary": "US-Iran War News LIVE: The US-Iran tensions have escalated in recent days",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/us-iran-war-news-live-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-middle-east-conflict-11783939#publisher=newsstand",
+      "publishedAt": 1784485111000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "68e3615a5bce8f2e",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.9,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1784485111000
     },
     {
       "title": "At least 50 Malian soldiers killed in rebel-jihadist attack",
       "summary": "The attack on the Army convoy leaving Anefis occurred on July 18, following weeks of fighting with both sides attempting to take control",
-      "source": "The Hindu",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/several-malian-soldiers-killed-in-rebel-jihadist-attack/article71242501.ece",
       "publishedAt": 1784482883000,
-      "category": "topStories",
+      "category": "world",
       "region": "in",
       "language": "en",
       "id": "45a51d6d472fc201",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.961,
+      "breakingScore": 3.849,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -141,52 +186,6 @@
         "the_hindu"
       ],
       "firstSeen": 1784482883000
-    },
-    {
-      "title": "Couple, Son, Killed After Car Rams Their Motorcycle In Madhya Pradesh",
-      "summary": "The accident took place around 4:45 pm on the national highway. (Representational)",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/couple-son-killed-after-car-rams-their-motorcycle-in-madhya-pradesh-11792907#publisher=newsstand",
-      "publishedAt": 1784478290000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "eab8914e8c41f769",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.854,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1784478290000
-    },
-    {
-      "title": "Sirens, Strikes, Shattered Deal: Middle East On Edge As US, Iran Trade Blows",
-      "summary": "Behind this latest flare-up lies a collapsed peace effort.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/us-iran-war-khamenei-trump-strait-of-hormuz-us-military-sirens-strikes-shattered-deal-middle-east-on-edge-as-us-iran-trade-blows-11792544#publisher=newsstand",
-      "publishedAt": 1784472167000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "c1c9df1a2f0bbfb1",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.713,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1784472167000
     }
   ]
 }
