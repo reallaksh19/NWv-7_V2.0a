@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1784477455557,
-  "contentHash": "53777daa8596",
+  "fetchedAt": 1784481286615,
+  "contentHash": "1c478d75ca35",
   "breaking": [
     {
       "title": "Russia launches major ballistic missile attack on Ukrainian cities",
@@ -16,7 +16,7 @@
       "id": "d59cb8f5e7f843a3",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.608,
+      "breakingScore": 6.519,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -25,6 +25,29 @@
         "bbc"
       ],
       "firstSeen": 1784460504000
+    },
+    {
+      "title": "Russian attacks kill six in Kyiv, other cities; expose gaps in Ukraine’s air defences",
+      "summary": "Moscow has in recent weeks stepped up its use of ballistic missiles as it seeks to choke off Ukrainian strikes on oil facilities deep inside Russia that have caused critical fuel shortages affecting both the military and the civilian population.",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/russia-ukraine-war-missile-attack-on-kyiv-death-toll-injuries/article71240891.ece",
+      "publishedAt": 1784480064000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "0370221ba7b14501",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.472,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1784480064000
     },
     {
       "title": "US and Iran trade fire after two US soldiers killed in Jordan",
@@ -39,7 +62,7 @@
       "id": "6f9ed026414bb927",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.451,
+      "breakingScore": 5.362,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -63,7 +86,7 @@
       "id": "b4662be76423c0d9",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.143,
+      "breakingScore": 5.055,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -74,19 +97,44 @@
       "firstSeen": 1784462048000
     },
     {
+      "title": "CJP march call: Section 163 imposed; security tightened in Delhi ahead of Monsoon Session",
+      "summary": "The heightened vigil comes as the CJP announced the march in protest against alleged NEET irregularities and to demand the resignation of Union Education Minister Dharmendra Pradhan",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/security-intensified-in-delhi-ahead-of-parliament-session-cjps-march-call/article71241235.ece",
+      "publishedAt": 1784479454000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "dfba5a54dd4a1064",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 4.458,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1784474886000
+    },
+    {
       "title": "Roads turn death traps for gig workers in Kerala",
       "summary": "Over 30 such workers, mostly food delivery personnel, have been killed in road accidents in the State in the past one year, as per informal data collected by a union. Time constraints coupled with heavy traffic often contribute to the higher number of fatalities, those involved in the sector say",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/national/kerala/roads-turn-death-traps-for-gig-workers-in-kerala/article71241918.ece",
-      "publishedAt": 1784475775000,
+      "publishedAt": 1784480092000,
       "category": "topStories",
       "region": "in",
       "language": "en",
       "id": "98c3a99a9a99004c",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.961,
+      "breakingScore": 3.972,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -94,22 +142,22 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1784475775000
+      "firstSeen": 1784480092000
     },
     {
-      "title": "Jammu and Kashmir rains LIVE: At least 12 dead, several missing in flash floods; rescue ops. under way",
+      "title": "Jammu and Kashmir rains LIVE: At least 11 dead, several missing in flash floods; rescue ops. under way",
       "summary": "Home Minister Amit Shah assured the L-G and the CM of all possible assistance from the Centre for the safety and security of the affected people, officials said",
-      "source": "The Hindu National",
+      "source": "The Hindu",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/amarnath-yatra-2026-live-updates-temporary-suspension-pahalgam-baltal-routes-jammu-and-kashmir-heavy-rains/article71240667.ece",
-      "publishedAt": 1784475213000,
-      "category": "india",
+      "publishedAt": 1784479386000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
       "id": "b6a0993adb1993c9",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.948,
+      "breakingScore": 3.956,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -117,68 +165,22 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1784475213000
+      "firstSeen": 1784479386000
     },
     {
-      "title": "West Asia war LIVE: Iranian missile hits Jordan's Aqaba Airport, reports Iran state media",
-      "summary": "The Israeli military said it had identified and intercepted missiles launched from Iran towards Aqaba in Jordan",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/iran-israel-war-july-19-2026-live-updates-kuwait-us/article71240587.ece",
-      "publishedAt": 1784474730000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "fdf4b9661bd5bf56",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.937,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1784474730000
-    },
-    {
-      "title": "‘Security hole’ enabled US-Israel bombing of Ayatollah’s residence: Iran minister Araghchi",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132496462.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Iranian foreign minister Seyyed Abbas Araghchi alleged a security breach allowed foreign powers access.  This breach reportedly provided intelligence and influenced decision-making during a conflict.  He stated attackers knew Ayatollah Ali Khamenei's routine and targeted his residence precisely.  A regional leader had warned Iran about leadership being targeted before the conflict began.  Araghchi noted the foreign ministry remained operational throughout the intense 40-day war.",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/security-hole-enabled-us-israel-bombing-of-ayatollahs-residence-iran-minister-araghchi/articleshow/132496462.cms",
-      "publishedAt": 1784474132000,
+      "title": "Couple, Son, Killed After Car Rams Their Motorcycle In Madhya Pradesh",
+      "summary": "The accident took place around 4:45 pm on the national highway. (Representational)",
+      "source": "NDTV India",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/couple-son-killed-after-car-rams-their-motorcycle-in-madhya-pradesh-11792907#publisher=newsstand",
+      "publishedAt": 1784478290000,
       "category": "india",
       "region": "in",
       "language": "en",
-      "id": "d6904d518bd840dd",
+      "id": "eab8914e8c41f769",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.923,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "times_of_india"
-      ],
-      "firstSeen": 1784474132000
-    },
-    {
-      "title": "Sirens, Strikes, Shattered Deal: Middle East On Edge As US, Iran Trade Blows",
-      "summary": "Behind this latest flare-up lies a collapsed peace effort.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/us-iran-war-khamenei-trump-strait-of-hormuz-us-military-sirens-strikes-shattered-deal-middle-east-on-edge-as-us-iran-trade-blows-11792544#publisher=newsstand",
-      "publishedAt": 1784472167000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "c1c9df1a2f0bbfb1",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.878,
+      "breakingScore": 3.931,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -186,7 +188,7 @@
       "allSources": [
         "ndtv"
       ],
-      "firstSeen": 1784472167000
+      "firstSeen": 1784478290000
     }
   ]
 }
