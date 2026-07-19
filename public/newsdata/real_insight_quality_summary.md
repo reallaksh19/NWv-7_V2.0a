@@ -4,15 +4,15 @@
 - Reason: -
 - Grade: `C`
 - Parents: `10`
-- Average angles: `1.9`
+- Average angles: `1.7`
 - Average temporal tiers: `1.8`
 - Average evolution roles: `1.7`
-- Base report share: `0.19047619047619047`
-- Multi-angle parents: `8`
-- Weak parents: `2`
-- Story count: `507`
-- Source groups: `9`
-- Content hash: `62cdfdb3fa7b2b34`
+- Base report share: `0.21052631578947367`
+- Multi-angle parents: `6`
+- Weak parents: `4`
+- Story count: `479`
+- Source groups: `10`
+- Content hash: `1638def03a788c18`
 
 ## Top parents
 
@@ -22,12 +22,12 @@
 | 2 | Safdarjung Hospital | 2 | base_report, reaction_public | NO | 0.6874967197849983 |
 | 3 | ISRO-SCTIMST sign pact for research in space medicine, Bioastronautics | 2 | official_response, base_report | NO | 0.6814967197849984 |
 | 4 | US military launches new airstrikes to 'swiftly punish' Iran for deaths of US troops | 2 | official_response, base_report | NO | 0.6724967197849983 |
-| 5 | Vikram-1, country’s first private orbital-class rocket, successfully places tech payloads, postcards into orbit | 2 | investigative_detail, official_response | NO | 0.6504967197849982 |
-| 6 | Indian-origin woman jailed in UK for more than 2 years over Rs 2.8 crore Covid loan fraud | 2 | fact_update, investigative_detail | NO | 0.6502967197849984 |
-| 7 | Vikram-1 Lifts Off Skyroot Launches India's First Private Rocket Into Orbit Successfully / News18 - News18 | 2 | investigative_detail, fact_update | NO | 0.5593433333333333 |
-| 8 | Iran's Supreme Leader says U.S. breaches show Trump's signature is 'worthless' | 2 | market_reaction, official_response | NO | 0.5585933333333333 |
-| 9 | IMA suspends July 20 strike after Bombay HC stays Shiv Sena corporator's bail | 2 | official_response | YES | 0.59651 |
-| 10 | Axis Bank Standalone Profit Soars 23% in Q1 | 1 | fact_update | YES | 0.7226911614783158 |
+| 5 | Indian-origin woman jailed in UK for more than 2 years over Rs 2.8 crore Covid loan fraud | 2 | fact_update, investigative_detail | NO | 0.6502967197849984 |
+| 6 | Iran's Supreme Leader says U.S. breaches show Trump's signature is 'worthless' | 2 | market_reaction, official_response | NO | 0.5585933333333333 |
+| 7 | IMA suspends July 20 strike after Bombay HC stays Shiv Sena corporator's bail | 2 | official_response | YES | 0.59651 |
+| 8 | Axis Bank Standalone Profit Soars 23% in Q1 | 1 | fact_update | YES | 0.7226911614783158 |
+| 9 | ICICI Bank net profit jumps 16% YoY to Rs 14,805 crore | 1 | fact_update | YES | 0.7226911614783158 |
+| 10 | Lohia Corp IPO opens on July 23: Here’s all you need to know | 1 | market_reaction | YES | 0.7226911614783158 |
 
 ## Real Snapshot Ratchet Gate
 
@@ -36,11 +36,11 @@
 - Grade: `C`
 - Score: `100`
 - Parents: `10`
-- Average angles: `1.9`
+- Average angles: `1.7`
 - Average temporal tiers: `1.8`
 - Average evolution roles: `1.7`
-- Base report share: `0.19`
-- Multi-angle parents: `8`
+- Base report share: `0.211`
+- Multi-angle parents: `6`
 - Top parent angles: `3`
 - Top parent children: `4`
 
@@ -52,11 +52,11 @@
 
 - Real snapshot grade floor: `C` / `A/B/C`
 - Parent cluster count: `10` / `>= 3`
-- Average visible angle count: `1.9` / `>= 1.4`
+- Average visible angle count: `1.7` / `>= 1.4`
 - Average temporal tier count: `1.8` / `>= 1.8`
 - Average evolution role count: `1.7` / `>= 1.6`
-- Base report share: `0.19` / `<= 0.55`
-- Multi-angle parent count: `8` / `>= 1`
+- Base report share: `0.211` / `<= 0.55`
+- Multi-angle parent count: `6` / `>= 1`
 - Top parent angle count: `3` / `>= 2`
 - Top parent child depth: `4` / `>= 2`
-- Weak parent ratio: `0.2` / `<= 0.5`
+- Weak parent ratio: `0.4` / `<= 0.5`
