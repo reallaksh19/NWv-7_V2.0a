@@ -1,30 +1,78 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1784543116225,
-  "contentHash": "ae9268386e71",
+  "fetchedAt": 1784550616704,
+  "contentHash": "d96cb8480480",
   "breaking": [
     {
-      "title": "When an explosion was triggered on the map of India to protest imposition of Hindi",
-      "summary": "Cadres of the Tamil Viduthalai Padai triggered the bomb blast in the Botanical Garden, Udhagamandalam, to press their demand for Tamil Eelam and against the imposition of Hindi",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/when-an-explosion-was-triggered-on-the-map-of-india-to-protest-imposition-of-hindi/article70781408.ece",
-      "publishedAt": 1784541908000,
-      "category": "topStories",
+      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+      "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1784546320000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "28886afdfd61882f",
+      "id": "584023c69bf42fd0",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.972,
+      "breakingScore": 5.401,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1784546320000
+    },
+    {
+      "title": "Andy Burnham takes charge as U.K.’s new Prime Minister",
+      "summary": "King Charles III invited the 56-year-old former Mayor of Greater Manchester to form a new government following the resignation of Keir Starmer moments earlier to mark the formal handover of power",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/andy-burnham-takes-charge-as-united-kingdom-new-prime-minister/article71245043.ece",
+      "publishedAt": 1784549734000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "24e476342fcb0edc",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 4.48,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
         "the_hindu"
       ],
-      "firstSeen": 1784541908000
+      "firstSeen": 1784548347000
+    },
+    {
+      "title": "Utah firefighter and four family members killed in flash flooding",
+      "summary": "A husband, wife and their three sons died - meaning that only a daughter who did not join the outing is still alive.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8l88jnwvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1784549638000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "b83d7622dcdefed9",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.977,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1784549638000
     },
     {
       "title": "West Asia war LIVE: Tehran says diplomatic exchanges with U.S. ongoing despite U.S. strikes",
@@ -32,14 +80,14 @@
       "source": "The Hindu International",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-july-20-2026-marco-rubio-strait-of-hormuz-us-donald-trump/article71243740.ece",
-      "publishedAt": 1784538512000,
+      "publishedAt": 1784546359000,
       "category": "world",
       "region": "in",
       "language": "en",
       "id": "c44f8164c5a2df65",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.893,
+      "breakingScore": 3.901,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -47,147 +95,99 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1784519850000
+      "firstSeen": 1784546359000
     },
     {
-      "title": "More than 2,200 years ago, an ancient Greek scholar calculated the Earth's circumference with a stick and the Sun",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132510524.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+      "title": "Boy, 13, dies during World Cup celebrations in Spain",
+      "summary": "Two other young people were injured after a fountain partially collapsed in Salamanca's Ciudad Rodrigo.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1784541764000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "371a5d056e33c487",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.795,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1784541764000
+    },
+    {
+      "title": "CJP protest in Delhi LIVE: Govt reaches out to CJP amid raging protest; several injured, detained as police crack down",
+      "summary": "Teargas and lathi-charges as CJP protesters storm into central Delhi",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/cjp-protest-july-20-2026-cockroach-janata-party-jantar-mantar-parliament-march-sonam-wangchuk/article71242448.ece",
+      "publishedAt": 1784550009000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "9f5e4c2aa837e7b9",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.486,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1784550009000
+    },
+    {
+      "title": "Organisations in Mysuru back Sonam Wangchuk’s demand for overhaul of exam system after NEET paper leak",
+      "summary": "NEET row sparks hunger strike at Gandhi Bhavan in Mysuru",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/organisations-rally-behind-sonam-wangchuk-seek-overhaul-of-exam-system-after-neet-paper-leak/article71244780.ece",
+      "publishedAt": 1784549533000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "228e5a080ec4cda3",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.475,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1784549533000
+    },
+    {
+      "title": "'Waiting for their arrival': Iran dares US ground invasion on Kharg Island",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132514927.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
       "source": "Times of India",
       "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/science/more-than-2200-years-ago-an-ancient-greek-scholar-calculated-the-earths-circumference-with-a-stick-and-the-sun/articleshow/132510524.cms",
-      "publishedAt": 1784536643000,
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/waiting-for-their-arrival-iran-dares-us-ground-invasion-on-kharg-island/articleshow/132514927.cms",
+      "publishedAt": 1784549005000,
       "category": "india",
       "region": "in",
       "language": "en",
-      "id": "9d381d85a27ede0f",
+      "id": "044ecefc82c4d652",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.85,
+      "breakingScore": 2.463,
       "breakingReasons": [
-        "multi_source_velocity"
+        "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "the_hindu",
         "times_of_india"
       ],
-      "firstSeen": 1784532196000
-    },
-    {
-      "title": "Is Korean stock market turning into open casino? How retail leverage is fueling wild swings",
-      "summary": "Memory chip bellwethers SK Hynix and Samsung Electronics make up just over half of the benchmark Kospi. Much of the stock market’s previous rally was related to the sharp surge in the share prices of these two chipmakers. These two stocks have now crashed more than 30% each in just a month, leading to the sharp downtrend in the market.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/is-korean-stock-market-turning-into-open-casino-how-retail-leverage-is-fueling-wild-swings/articleshow/132512407.cms",
-      "publishedAt": 1784542148000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "f6c1cb411440ff51",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.478,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "economic_times"
-      ],
-      "firstSeen": 1784542148000
-    },
-    {
-      "title": "Drunk Man Strangles Wife To Death After Fight Over Dinner In Gurugram: Police",
-      "summary": "The woman was found dead on July 16 in the shanties near Badshahpur vegetable market. (Representational)",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/gurgaon-news/drunk-man-strangles-wife-to-death-after-fight-over-dinner-in-gurugram-police-11795567#publisher=newsstand",
-      "publishedAt": 1784541363000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "690799353a4cbe68",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.459,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1784541363000
-    },
-    {
-      "title": "Sonam Wangchuk And Hunger Strikes: What The Law Says, And Doesn't",
-      "summary": "Sonam Wangchuk on his hunger strike (File)",
-      "source": "NDTV India",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/sonam-wangchuk-and-hunger-strikes-what-the-law-says-and-doesnt-11795521#publisher=newsstand",
-      "publishedAt": 1784540995000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "475ee60c81e3bef9",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.451,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1784537977000
-    },
-    {
-      "title": "Spain's World Cup Win Celebrations Turn Trafic As Teen Dies In Fountain Collapse",
-      "summary": "The fountain collapsed under the weight of numerous people who had climbed onto it",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/spain-fifa-world-cup-joy-turns-to-tragedy-as-teen-dies-in-fountain-collapse-11794935#publisher=newsstand",
-      "publishedAt": 1784540928000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "2871dfa53b43a7d1",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.449,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "ndtv"
-      ],
-      "firstSeen": 1784507330000
-    },
-    {
-      "title": "Over 1.7 Lakh People Affected In Assam Floods, Army Launches 'Operation Jal Rahat'",
-      "summary": "The worst-hit districts in Assam include Sivasagar, Charaideo and Jorhat.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/over-1-7-lakh-people-affected-in-assam-floods-army-launches-operation-jal-rahat-11794575#publisher=newsstand",
-      "publishedAt": 1784540883000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "97a5c6d16081620b",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.448,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1784540883000
+      "firstSeen": 1784549005000
     }
   ]
 }
