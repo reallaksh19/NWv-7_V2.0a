@@ -1,56 +1,76 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1784571636549,
-  "contentHash": "58d32110bb16",
+  "fetchedAt": 1784577884183,
+  "contentHash": "2e6fe4977cc9",
   "breaking": [
     {
-      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-      "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1784568037000,
-      "category": "world",
+      "title": "20 Killed, 100 Missing In Afghanistan Flooding",
+      "summary": "Twenty bodies have been recovered so far, while over 80 were injured.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/20-killed-100-missing-in-afghanistan-flooding-11798219#publisher=newsstand",
+      "publishedAt": 1784573403000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "584023c69bf42fd0",
+      "id": "1b087ffa2c9d1944",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 7.417,
+      "breakingScore": 5.396,
       "breakingReasons": [
-        "multi_source_velocity",
         "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "bbc",
-        "the_hindu"
+        "ndtv"
       ],
-      "firstSeen": 1784567918000
+      "firstSeen": 1784573403000
+    },
+    {
+      "title": "10 Dead, 3.62 Lakh Affected As Assam Flood Situation Worsen",
+      "summary": "With these latest casualties, the death count in this year's floods in Assam has risen to 10.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/10-dead-3-62-lakh-affected-as-assam-flood-situation-worsen-11798152#publisher=newsstand",
+      "publishedAt": 1784571609000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "c7c9a0ad0e86b492",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.355,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1784571609000
     },
     {
       "title": "Four Indians killed, one injured in attack on ship leaving Ukraine’s Odessa; MEA condemns attack",
       "summary": "MEA reiterated India’s opposition to attacks on merchant vessels as such incidents violate the freedom of navigation",
-      "source": "The Hindu",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/four-indians-killed-one-injured-in-attack-on-ship-leaving-ukraines-odesa-mea-says/article71246517.ece",
       "publishedAt": 1784570964000,
-      "category": "topStories",
+      "category": "world",
       "region": "in",
       "language": "en",
       "id": "59e71bdadc2694c0",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.484,
+      "breakingScore": 5.34,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1784563902000
+      "firstSeen": 1784570964000
     },
     {
       "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
@@ -65,7 +85,7 @@
       "id": "255f40d04d59e960",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.319,
+      "breakingScore": 5.175,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -76,52 +96,77 @@
       "firstSeen": 1784563838000
     },
     {
-      "title": "Khalil Al-Hayya: Man Who Led Gaza Ceasefire Talks Will Now Lead Hamas",
-      "summary": "Al-Hayya and his family have been repeatedly targeted over the years.",
+      "title": "Netanyahu Won't Be Arrested In Any Shape Or Form: Trump After Mamdani Threat",
+      "summary": "The New York City mayor said that the legal department is actively considering what the law might allow.",
       "source": "NDTV",
       "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/khalil-al-hayya-man-who-led-gaza-ceasefire-talks-will-now-lead-hamas-11797266#publisher=newsstand",
-      "publishedAt": 1784559551000,
+      "url": "https://www.ndtv.com/world-news/netanyahu-wont-be-arrested-in-any-shape-or-form-trump-after-mamdani-threat-11798218#publisher=newsstand",
+      "publishedAt": 1784573370000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "81b377e16285ee10",
+      "id": "2c5b292836483f5d",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.22,
+      "breakingScore": 4.396,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
       ],
       "sourceCount": 2,
       "allSources": [
-        "bbc",
-        "ndtv"
+        "ndtv",
+        "times_of_india"
       ],
-      "firstSeen": 1784556151000
+      "firstSeen": 1784569259000
     },
     {
-      "title": "Kidnapping accused killed in police encounter in Gujarat’s Anand",
-      "summary": "The accused was shot in self-defence after he allegedly attacked two policemen with a concealed knife while attempting to escape from custody, police said",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/kidnapping-accused-killed-in-police-encounter-in-gujarats-anand/article71246011.ece",
-      "publishedAt": 1784570856000,
+      "title": "1 Killed, Several Trapped In Sikkim Tunnel After Landslide Triggers Gas Leak",
+      "summary": "A landslide inside the tunnel blocked the passage and trapped several workers.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/27-feared-trapped-in-sikkim-tunnel-after-landslide-triggers-gas-leak-11798079#publisher=newsstand",
+      "publishedAt": 1784572964000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "3b547be1a9258ada",
+      "id": "e5c7805814e4a4ee",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.982,
+      "breakingScore": 3.886,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1784568112000
+    },
+    {
+      "title": "Iran Will Pay Many Times Over Every Time They Kill American Soldier: Trump",
+      "summary": "Washington has announced over the weekend three new military deaths and one service member missing in action in Middle East.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/iran-will-pay-many-times-over-every-time-they-kill-american-soldier-donald-trump-11798093#publisher=newsstand",
+      "publishedAt": 1784570661000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "7cd32f9dfe9038a8",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.833,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 3,
+      "allSources": [
+        "bbc",
+        "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1784570856000
+      "firstSeen": 1784567918000
     },
     {
       "title": "Palestinians say Israeli forces kill two during settler attack",
@@ -136,7 +181,7 @@
       "id": "5ea400a98fdc803b",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.941,
+      "breakingScore": 3.796,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -145,54 +190,6 @@
         "the_hindu"
       ],
       "firstSeen": 1784569069000
-    },
-    {
-      "title": "NLC India Renewables Limited appoints book running lead managers for IPO",
-      "summary": "The BRLMs shall advise the company in the preparation and management of the IPO, including undertaking due diligence, preparation of offer documents and coordination with regulatory authorities and intermediaries, NLCIL says",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/nlc-india-renewables-limited-appoints-book-running-lead-managers-for-ipo/article71245022.ece",
-      "publishedAt": 1784571256000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "3e3cbb38ce9b7a69",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.991,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "economic_times",
-        "the_hindu"
-      ],
-      "firstSeen": 1784566302000
-    },
-    {
-      "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-      "summary": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1784568782000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "8ea4b1fca88bcf84",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.934,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "the_hindu"
-      ],
-      "firstSeen": 1784567323000
     }
   ]
 }
