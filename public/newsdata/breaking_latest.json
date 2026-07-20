@@ -1,47 +1,71 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1784520132118,
-  "contentHash": "1e2cb53bd087",
+  "fetchedAt": 1784532452740,
+  "contentHash": "b10d30ad12d9",
   "breaking": [
     {
-      "title": "Arizona mass shooting: 10 injured after gunman opens fire in Tucson",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132504572.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />A mass shooting in crowded downtown Tucson wounded at least ten people early Sunday. Police officers on patrol heard gunfire and responded to the crowded entertainment district. They encountered and shot the suspected gunman, who sustained life-threatening injuries. Nine other adults were shot and taken to hospitals in critical condition.",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/us/arizona-mass-shooting-10-injured-after-gunman-opens-fire-in-tucson/articleshow/132504572.cms",
-      "publishedAt": 1784515207000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "a2726279db0e7725",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 6.886,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "times_of_india"
-      ],
-      "firstSeen": 1784515207000
-    },
-    {
-      "title": "West Asia war highlights: Iranian missile hits Jordan's Aqaba Airport, reports Iran state media",
-      "summary": "The Israeli military said it had identified and intercepted missiles launched from Iran towards Aqaba in Jordan",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/iran-israel-war-july-19-2026-live-updates-kuwait-us/article71240587.ece",
-      "publishedAt": 1784519850000,
+      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+      "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
+      "source": "BBC",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1784529115000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "fdf4b9661bd5bf56",
+      "id": "584023c69bf42fd0",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.993,
+      "breakingScore": 5.423,
       "breakingReasons": [
-        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "ndtv"
+      ],
+      "firstSeen": 1784522442000
+    },
+    {
+      "title": "PM Modi says he hopes ‘monsoon and Monsoon Session are productive’",
+      "summary": "The Prime Minister said reforms initiated by his government “have given courage to youth to dare to take commendable steps”",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/parliament-monsoon-session-pm-modi-address-july-20-2026/article71243966.ece",
+      "publishedAt": 1784530609000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "18a4d2b409cfa8be",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.957,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1784525869000
+    },
+    {
+      "title": "Sonam Wangchuk hunger strike: Delhi HC agrees to hear wife Gitanjali’s plea for shifting him to hospital of choice",
+      "summary": "A Bench of Chief Justice D.K. Upadhyaya and Justice Tejas Karia agreed to list the case today (July 20, 2026) itself at 2.30 p.m.",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/gitanjali-angmo-high-court-plea-challenging-order-to-retain-wangchuk-in-safdarjung-hospital/article71243947.ece",
+      "publishedAt": 1784530892000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "4c7f577dcd0be7f6",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.464,
+      "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 2,
@@ -49,146 +73,122 @@
         "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1784514540000
-    },
-    {
-      "title": "US-Iran War News LIVE: US Conducts Strikes On Iran For 9th Straight Night After Another Soldier Killed",
-      "summary": "US-Iran War News LIVE: The US-Iran tensions have escalated in recent days",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/us-iran-war-news-live-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-middle-east-conflict-11783939#publisher=newsstand",
-      "publishedAt": 1784510925000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "68e3615a5bce8f2e",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.287,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1784510925000
-    },
-    {
-      "title": "Kerala, Manipur Announce Holiday Following Late-Night FIFA World Cup Final",
-      "summary": "The decision was taken after the state government noted the widespread interest in the tournament.",
-      "source": "NDTV India",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/education/kerala-manipur-announce-holiday-following-late-night-fifa-world-cup-final-11793874#publisher=newsstand",
-      "publishedAt": 1784513392000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "7ba98e06d9fe4cc2",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.844,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "ndtv"
-      ],
-      "firstSeen": 1784508243000
-    },
-    {
-      "title": "Sonam Wangchuk Lists 3 Conditions To End Hunger Strike",
-      "summary": "Sonam Wangchuk called his hospitalisation at Safdarjung Hospital an \"illegal detention\"",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/sonam-wangchuk-lists-down-three-conditions-under-which-he-will-end-his-fast-11793830#publisher=newsstand",
-      "publishedAt": 1784517426000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "a47a8be821575820",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.437,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
       "firstSeen": 1784517426000
     },
     {
-      "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Lower As Oil Tops $90 Amid US-Iran War",
-      "summary": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-20-july-us-iran-war-oil-prices-11793990#publisher=newsstand",
-      "publishedAt": 1784517219000,
+      "title": "West Asia war LIVE: Iran guards say hit U.S. military targets in Kuwait",
+      "summary": "The Islamic Revolutionary Guard ​Corps said that ‌two oil tankers ​had exploded ⁠and been immobilised after attempting to transit what it ‌described as an unsafe southern route ‌through the Strait ‌of Hormuz",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-july-20-2026-marco-rubio-strait-of-hormuz-us-donald-trump/article71243740.ece",
+      "publishedAt": 1784530425000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "8331b80a0fc1a607",
+      "id": "c44f8164c5a2df65",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.433,
+      "breakingScore": 2.453,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "ndtv"
+        "the_hindu"
       ],
-      "firstSeen": 1784517219000
+      "firstSeen": 1784519850000
     },
     {
-      "title": "Parents Sell Newborn For Rs 1 Lakh In Telangana Village",
-      "summary": "In Telangana, a couple allegedly sold their newborn son for Rs 1 lakh.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/telangana-news/parents-sell-newborn-for-rs-1-lakh-in-telangana-village-11793941#publisher=newsstand",
-      "publishedAt": 1784515454000,
+      "title": "Iran hits out at Gulf neighbours as U.S. presses on with strikes",
+      "summary": "Oil prices surged to a one-month high as the United States and Iran tussled for control of the vital strait, with Brent crude rising above $91 a barrel — the highest price since June 11",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/iran-hits-out-at-gulf-neighbours-as-us-presses-on-with-strikes/article71244067.ece",
+      "publishedAt": 1784530157000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "8d1baf364926fe15",
+      "id": "8c6c4cb316fde946",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.392,
+      "breakingScore": 2.447,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "ndtv"
+        "the_hindu"
       ],
-      "firstSeen": 1784515454000
+      "firstSeen": 1784530157000
     },
     {
-      "title": "Test that found source of US explosive diarrhoea outbreak was false positive, health officials say",
-      "summary": "The latest update from the US Food and Drug Administration means the exact source of the parasite is still not known.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1784514904000,
+      "title": "Vilathikulam DMK MLA arrested for remarks against T.N. CM Vijay",
+      "summary": "In a post on X, the DMK’s deputy general secretary Kanimozhi Karunanidhi strongly condemned the TVK government’s action on the MLA and termed it “high-handed”",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/vilathikulam-dmk-mla-arrested-for-remarks-against-tn-cm-vijay/article71243773.ece",
+      "publishedAt": 1784529886000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "495ad97547195377",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.441,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1784529886000
+    },
+    {
+      "title": "Keir Starmer sixth U.K. PM to resign after Brexit",
+      "summary": "U.K. Prime Minister Keir Starmer has announced his resignation, following months of internal conflict within the Labour Party",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/uk-pm-resigns-keir-starmer-leaders-who-have-resigned-full-list-england-united-kingdom/article71132482.ece",
+      "publishedAt": 1784526668000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "3344f3f7f4fd2e15",
+      "id": "35c02051817754b4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.379,
+      "breakingScore": 2.366,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "bbc"
+        "the_hindu"
       ],
-      "firstSeen": 1784514904000
+      "firstSeen": 1784526668000
+    },
+    {
+      "title": "Nigerian children pay the price for Iran war as malnutrition, poverty surge",
+      "summary": "Children relapsing into malnutrition have become an increasingly common occurrence in the state and across northern Nigeria, according to local health and aid workers, who cite knock-on effects from the Iran war",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/nigerian-children-pay-the-price-for-iran-war-as-malnutrition-poverty-surge/article71240963.ece",
+      "publishedAt": 1784524702000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "6d4094b60a434bfe",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.321,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1784524702000
     }
   ]
 }
