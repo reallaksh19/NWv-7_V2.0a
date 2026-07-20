@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1784550616704,
-  "contentHash": "d96cb8480480",
+  "fetchedAt": 1784558466700,
+  "contentHash": "1579180459c9",
   "breaking": [
     {
       "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
@@ -16,7 +16,7 @@
       "id": "584023c69bf42fd0",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.401,
+      "breakingScore": 5.219,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -27,29 +27,51 @@
       "firstSeen": 1784546320000
     },
     {
-      "title": "Andy Burnham takes charge as U.K.’s new Prime Minister",
-      "summary": "King Charles III invited the 56-year-old former Mayor of Greater Manchester to form a new government following the resignation of Keir Starmer moments earlier to mark the formal handover of power",
+      "title": "CJP protest in Delhi LIVE: Wangchuk vows to continue hunger strike, as police cracks down on protesters; Govt, CJP hold initial talks",
+      "summary": "Teargas and lathi-charges as CJP protesters storm into central Delhi; several injured, detained",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/andy-burnham-takes-charge-as-united-kingdom-new-prime-minister/article71245043.ece",
-      "publishedAt": 1784549734000,
+      "url": "https://www.thehindu.com/news/national/cjp-protest-july-20-2026-cockroach-janata-party-jantar-mantar-parliament-march-sonam-wangchuk/article71242448.ece",
+      "publishedAt": 1784558221000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "24e476342fcb0edc",
+      "id": "9f5e4c2aa837e7b9",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.48,
+      "breakingScore": 3.994,
       "breakingReasons": [
-        "multi_source_velocity",
         "severity_lexicon"
       ],
       "sourceCount": 2,
       "allSources": [
-        "bbc",
+        "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1784548347000
+      "firstSeen": 1784550758000
+    },
+    {
+      "title": "West Asia war LIVE: Tehran says diplomatic exchanges with U.S. ongoing despite U.S. strikes",
+      "summary": "The Islamic Revolutionary Guard ​Corps said that ‌two oil tankers ​had exploded ⁠and been immobilised after attempting to transit what it ‌described as an unsafe southern route ‌through the Strait ‌of Hormuz",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-july-20-2026-marco-rubio-strait-of-hormuz-us-donald-trump/article71243740.ece",
+      "publishedAt": 1784557856000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "c44f8164c5a2df65",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.986,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1784557856000
     },
     {
       "title": "Utah firefighter and four family members killed in flash flooding",
@@ -64,7 +86,7 @@
       "id": "b83d7622dcdefed9",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.977,
+      "breakingScore": 3.796,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -73,29 +95,6 @@
         "bbc"
       ],
       "firstSeen": 1784549638000
-    },
-    {
-      "title": "West Asia war LIVE: Tehran says diplomatic exchanges with U.S. ongoing despite U.S. strikes",
-      "summary": "The Islamic Revolutionary Guard ​Corps said that ‌two oil tankers ​had exploded ⁠and been immobilised after attempting to transit what it ‌described as an unsafe southern route ‌through the Strait ‌of Hormuz",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-july-20-2026-marco-rubio-strait-of-hormuz-us-donald-trump/article71243740.ece",
-      "publishedAt": 1784546359000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "c44f8164c5a2df65",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.901,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1784546359000
     },
     {
       "title": "Boy, 13, dies during World Cup celebrations in Spain",
@@ -110,7 +109,7 @@
       "id": "371a5d056e33c487",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.795,
+      "breakingScore": 3.613,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -121,16 +120,62 @@
       "firstSeen": 1784541764000
     },
     {
-      "title": "CJP protest in Delhi LIVE: Govt reaches out to CJP amid raging protest; several injured, detained as police crack down",
-      "summary": "Teargas and lathi-charges as CJP protesters storm into central Delhi",
+      "title": "HC strikes down Kerala Vesting of Minerals Act as unconstitutional",
+      "summary": "The legislation, enacted in 2021, vested all mineral rights in the Malabar region with the State government and required the landowners to pay royalty. The landowners move court which rules that State legislature is not qualified to enact the law",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/cjp-protest-july-20-2026-cockroach-janata-party-jantar-mantar-parliament-march-sonam-wangchuk/article71242448.ece",
-      "publishedAt": 1784550009000,
+      "url": "https://www.thehindu.com/news/national/kerala/hc-strikes-down-kerala-vesting-of-minerals-act-as-unconstitutional/article71242116.ece",
+      "publishedAt": 1784558147000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "9f5e4c2aa837e7b9",
+      "id": "d05a9bb104f62fa3",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.493,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1784558147000
+    },
+    {
+      "title": "Man arrested for murdering his brother",
+      "summary": "",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/cities/Mangalore/man-arrested-for-murdering-his-brother/article71245219.ece",
+      "publishedAt": 1784557959000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "3c78809b2ca0b9fe",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.488,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1784557959000
+    },
+    {
+      "title": "Two red sanders operatives from Tamil Nadu arrested, 11 logs, car seized in Annamayya district",
+      "summary": "",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/two-red-sanders-operatives-from-tamil-nadu-arrested-11-logs-car-seized-in-annamayya-district/article71245045.ece",
+      "publishedAt": 1784557876000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "c715c91a8661cd21",
       "suppressionReason": null,
       "isBreaking": true,
       "breakingScore": 2.486,
@@ -141,53 +186,7 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1784550009000
-    },
-    {
-      "title": "Organisations in Mysuru back Sonam Wangchuk’s demand for overhaul of exam system after NEET paper leak",
-      "summary": "NEET row sparks hunger strike at Gandhi Bhavan in Mysuru",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/organisations-rally-behind-sonam-wangchuk-seek-overhaul-of-exam-system-after-neet-paper-leak/article71244780.ece",
-      "publishedAt": 1784549533000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "228e5a080ec4cda3",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.475,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1784549533000
-    },
-    {
-      "title": "'Waiting for their arrival': Iran dares US ground invasion on Kharg Island",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132514927.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/waiting-for-their-arrival-iran-dares-us-ground-invasion-on-kharg-island/articleshow/132514927.cms",
-      "publishedAt": 1784549005000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "044ecefc82c4d652",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.463,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "times_of_india"
-      ],
-      "firstSeen": 1784549005000
+      "firstSeen": 1784557876000
     }
   ]
 }
