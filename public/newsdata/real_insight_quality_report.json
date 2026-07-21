@@ -1,12 +1,12 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1784647497463,
-  "contentHash": "c91aebb49a2fe6b0",
+  "generatedAt": 1784651308925,
+  "contentHash": "12e53d18fdc3d861",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 756,
-  "sourceGroupCount": 10,
+  "storyCount": 742,
+  "sourceGroupCount": 9,
   "grade": "D",
   "parentCount": 10,
   "avgAngles": 1.3,
@@ -23,10 +23,10 @@
       "grade": "D",
       "tone": "danger",
       "title": "Weak insight signal",
-      "signalScore": 33,
+      "signalScore": 32,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 675,
+      "storyCount": 673,
       "risingCount": 0,
       "thinCount": 7,
       "multiAngleCount": 3,
@@ -34,27 +34,27 @@
       "strongAngleCount": 0,
       "avgAngles": 1.3,
       "avgChildren": 1.8,
-      "avgScore": 0.6726643183973853,
+      "avgScore": 0.679462990375885,
       "sourceDiversityCoverage": 7,
-      "snapshotCoverage": 4,
+      "snapshotCoverage": 3,
       "coverageLabel": "3/10",
       "warnings": [
         "7 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
         "3 cluster(s) are below source-diversity target.",
-        "6 cluster(s) have weak snapshot coverage.",
+        "7 cluster(s) have weak snapshot coverage.",
         "7 cluster(s) are marked thin.",
-        "810 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "690 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "D",
       "tone": "danger",
       "title": "Weak insight signal",
-      "signalScore": 33,
+      "signalScore": 32,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 675,
+      "storyCount": 673,
       "risingCount": 0,
       "thinCount": 7,
       "multiAngleCount": 3,
@@ -62,15 +62,15 @@
       "strongAngleCount": 0,
       "avgAngles": 1.3,
       "avgChildren": 1.8,
-      "avgScore": 0.6726643183973853,
+      "avgScore": 0.679462990375885,
       "sourceDiversityCoverage": 7,
-      "snapshotCoverage": 4,
+      "snapshotCoverage": 3,
       "coverageLabel": "3/10",
       "warnings": [
         "7 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
         "3 cluster(s) are below source-diversity target.",
-        "6 cluster(s) have weak snapshot coverage.",
+        "7 cluster(s) have weak snapshot coverage.",
         "7 cluster(s) are marked thin."
       ]
     },
@@ -85,7 +85,7 @@
   },
   "parents": [
     {
-      "parentId": "cluster_32_1ed1b4dde181c630",
+      "parentId": "cluster_54_1ed1b4dde181c630",
       "headline": "Rahul, Priyanka, Akhilesh detained during protest outside PM Modi’s residence",
       "score": 0.6673495401839085,
       "postTreeScore": 1.1273,
@@ -107,10 +107,10 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_404_eb4f0a52ef4e72df",
+      "parentId": "cluster_432_eb4f0a52ef4e72df",
       "headline": "Hamas names Khalil al-Hayya as new overall leader",
-      "score": 0.6112599999999999,
-      "postTreeScore": 1.0113,
+      "score": 0.6792467197849983,
+      "postTreeScore": 1.0592,
       "childCount": 2,
       "angles": [
         "base_report",
@@ -128,7 +128,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_33_9d14dbc2aae9e693",
+      "parentId": "cluster_55_9d14dbc2aae9e693",
       "headline": "US army veteran carrying 'ICE off our streets' sign sets fire outside NYC federal building",
       "score": 0.5852600000000001,
       "postTreeScore": 0.9853,
@@ -149,7 +149,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_463_9c11cfb600470ccb",
+      "parentId": "cluster_491_9c11cfb600470ccb",
       "headline": "Meghna Infracon Infrastructure expects Rs 300cr revenue from new commercial project",
       "score": 0.760613386451665,
       "postTreeScore": 0.6506,
@@ -168,7 +168,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_35_31635b4a60944d3a",
+      "parentId": "cluster_57_31635b4a60944d3a",
       "headline": "London Stock Exchange to launch round-the-clock trading next year",
       "score": 0.721413386451665,
       "postTreeScore": 0.6114,
@@ -187,7 +187,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_324_59e71bdadc2694c0",
+      "parentId": "cluster_352_59e71bdadc2694c0",
       "headline": "Four Indians killed, one injured in attack on ship leaving Ukraine’s Odessa; MEA condemns attack",
       "score": 0.6403300531183316,
       "postTreeScore": 0.5303,
@@ -207,7 +207,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_311_bfd6e8bac89b23c2",
+      "parentId": "cluster_339_bfd6e8bac89b23c2",
       "headline": "India’s youth-led 'cockroach movement' clashes with police in New Delhi - Reuters",
       "score": 0.5723433333333332,
       "postTreeScore": 0.4823,
@@ -227,7 +227,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_10_7a9a0a373ef635c0",
+      "parentId": "cluster_30_7a9a0a373ef635c0",
       "headline": "IHCL Q1 Results: Profit rises 18% YoY to Rs 390 crore, total income up 15%",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
@@ -245,7 +245,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_62_f58cab0617e9a583",
+      "parentId": "cluster_86_f58cab0617e9a583",
       "headline": "Bandhan Bank Q1 profit jumps 35% as provisions decline sharply",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
@@ -263,7 +263,7 @@
       "weakTree": true
     },
     {
-      "parentId": "cluster_102_f8d08b30b8895077",
+      "parentId": "cluster_126_f8d08b30b8895077",
       "headline": "Adani Total Gas Q1 Results: Profit falls 14% YoY to Rs 142 crore, revenue jumps 27%",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
@@ -373,8 +373,8 @@
       "weakParentRatio": 0.7,
       "topParentAngles": 2,
       "topParentChildren": 3,
-      "storyCount": 756,
-      "sourceGroupCount": 10
+      "storyCount": 742,
+      "sourceGroupCount": 9
     }
   }
 }

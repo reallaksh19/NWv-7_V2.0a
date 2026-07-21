@@ -10,16 +10,16 @@
 - Base report share: `0.1111111111111111`
 - Multi-angle parents: `3`
 - Weak parents: `7`
-- Story count: `756`
-- Source groups: `10`
-- Content hash: `c91aebb49a2fe6b0`
+- Story count: `742`
+- Source groups: `9`
+- Content hash: `12e53d18fdc3d861`
 
 ## Top parents
 
 | # | Headline | Children | Angles | Weak | Score |
 |---:|---|---:|---|---|---:|
 | 1 | Rahul, Priyanka, Akhilesh detained during protest outside PM Modi’s residence | 3 | official_response, reaction_public | NO | 0.6673495401839085 |
-| 2 | Hamas names Khalil al-Hayya as new overall leader | 2 | base_report, fact_update | NO | 0.6112599999999999 |
+| 2 | Hamas names Khalil al-Hayya as new overall leader | 2 | base_report, fact_update | NO | 0.6792467197849983 |
 | 3 | US army veteran carrying 'ICE off our streets' sign sets fire outside NYC federal building | 2 | base_report, official_response | NO | 0.5852600000000001 |
 | 4 | Meghna Infracon Infrastructure expects Rs 300cr revenue from new commercial project | 2 | fact_update | YES | 0.760613386451665 |
 | 5 | London Stock Exchange to launch round-the-clock trading next year | 2 | market_reaction | YES | 0.721413386451665 |
