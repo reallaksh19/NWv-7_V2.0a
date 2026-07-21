@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1784651126926,
-  "contentHash": "790f9ec0050b",
+  "fetchedAt": 1784656309408,
+  "contentHash": "b1dd82dda920",
   "breaking": [
     {
       "title": "West Asia war LIVE: Trump says will be hitting Pickaxe Mountain area 'pretty soon'",
@@ -9,14 +9,14 @@
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-21-july-2026-bahrain-kuwait-donald-trump-live-news/article71247944.ece",
-      "publishedAt": 1784650240000,
+      "publishedAt": 1784655853000,
       "category": "topStories",
       "region": "in",
       "language": "en",
       "id": "062d8ca47a520e54",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.479,
+      "breakingScore": 5.489,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -24,11 +24,34 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1784650240000
+      "firstSeen": 1784655853000
     },
     {
-      "title": "Israeli air strike in Gaza City kills family of six, medics say",
-      "summary": "Firas al-Masri, his wife and their four children died in the attack, which the Israeli military says targeted a Hamas operative.",
+      "title": "Venezuela earthquakes death toll rises to 5,278",
+      "summary": "National Assembly President Jorge Rodriguez said on Telegram the death toll from the quakes reached at least 5,278, while the number reported injured remained at 16,740.",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/venezuela-earthquakes-death-toll-rises-to-5278/article71250796.ece",
+      "publishedAt": 1784655300000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "d10e6092dde7c086",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.477,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1784655300000
+    },
+    {
+      "title": "Israeli strikes in Gaza kill 12, including family of six, medics say",
+      "summary": "Firas al-Masri, his wife and their four children died in one attack, which the Israeli military says targeted a Hamas operative.",
       "source": "BBC World",
       "sourceGroup": "bbc",
       "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
@@ -39,7 +62,7 @@
       "id": "37b872453063f867",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.957,
+      "breakingScore": 3.837,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -52,17 +75,17 @@
     {
       "title": "10 Arrested for Attacking Civic Officials During Bengaluru Eviction Drive",
       "summary": "Police have registered a case and arrested 10 people in connection with the assault",
-      "source": "NDTV",
+      "source": "NDTV India",
       "sourceGroup": "ndtv",
       "url": "https://www.ndtv.com/india-news/10-arrested-for-attacking-civic-officials-during-bengaluru-eviction-drive-11801559#publisher=newsstand",
       "publishedAt": 1784639989000,
-      "category": "topStories",
+      "category": "india",
       "region": "in",
       "language": "en",
       "id": "efbad48b950ae396",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.742,
+      "breakingScore": 3.622,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -73,27 +96,28 @@
       "firstSeen": 1784639989000
     },
     {
-      "title": "Army Rescues 571 People From Flood-Hit Areas In Assam",
-      "summary": "They said rescuers moved village by village to evacuate children, elderly residents.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/army-rescues-571-people-from-flood-hit-areas-in-upper-assam-11801616#publisher=newsstand",
-      "publishedAt": 1784638787000,
+      "title": "Union Education Minister Pradhan says Rahul, Congress exploiting students; CJP's Jantar Mantar protest site draws Opposition leaders | LIVE",
+      "summary": "Govt wasted our time, says Dipke on talks between Nadda, CJP team; Sonam Wangchuk shifted to Medanta Hospital",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/cjp-protest-delhi-jantar-mantar-sonam-wangchuk-july-21-2026/article71247869.ece",
+      "publishedAt": 1784656088000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "305bb91601d8e8e0",
+      "id": "a1786331bec3ecbf",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.714,
+      "breakingScore": 2.995,
       "breakingReasons": [
-        "severity_lexicon"
+        "multi_source_velocity"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
-        "ndtv"
+        "ndtv",
+        "the_hindu"
       ],
-      "firstSeen": 1784638787000
+      "firstSeen": 1784651736000
     },
     {
       "title": "Why Spain's World Cup win will not thrill Donald Trump",
@@ -108,7 +132,7 @@
       "id": "839bea905b01fe9b",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.816,
+      "breakingScore": 2.696,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -120,73 +144,50 @@
       "firstSeen": 1784639957000
     },
     {
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1784650256000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "64402e9729b7d3a2",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.48,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1784650256000
-    },
-    {
-      "title": "Ann Widdecombe was hit on head 21 times with hammer, prosecutors say",
-      "summary": "Joshua Kerry, 28, attacked Widdecombe while she was eating lunch at her home in Devon before stealing her wallet, prosecutors say.",
-      "source": "BBC",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cj03r77n07jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1784648108000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "5d8db2bcf89a0d08",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.43,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1784648108000
-    },
-    {
-      "title": "Shipowner Offers Sailors 6-Fold Pay To Cross Strait Of Hormuz: Report",
-      "summary": "The proposal was circulated before the latest attacks on merchant vessels on Monday",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/shipowner-offers-sailors-6-fold-pay-to-cross-strait-of-hormuz-report-11801845#publisher=newsstand",
-      "publishedAt": 1784640769000,
+      "title": "Iranian official meets mediators in Pakistan as Iran and US keep up 10th day of attacks",
+      "summary": "The visit by Iran’s Interior Minister Eskandar Momeni comes as Pakistan has intensified diplomatic efforts in recent days to resuscitate the deal",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/iranian-official-meets-mediators-in-pakistan-as-iran-and-us-keep-up-10th-day-of-attacks/article71250786.ece",
+      "publishedAt": 1784654126000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "cd9df5c11713d157",
+      "id": "af12c8338b764b37",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.26,
+      "breakingScore": 2.449,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "ndtv"
+        "the_hindu"
       ],
-      "firstSeen": 1784640769000
+      "firstSeen": 1784654126000
+    },
+    {
+      "title": "Uttar Pradesh youth arrested in theft case at Mangaluru",
+      "summary": "",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/cities/Mangalore/uttar-pradesh-youth-arrested-in-theft-case-at-mangaluru/article71250337.ece",
+      "publishedAt": 1784654065000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "a3044f65c29e75b9",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.448,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1784654065000
     }
   ]
 }
