@@ -10,9 +10,9 @@
 - Base report share: `0.125`
 - Multi-angle parents: `3`
 - Weak parents: `7`
-- Story count: `621`
-- Source groups: `10`
-- Content hash: `25ed1b4f1e1d2795`
+- Story count: `575`
+- Source groups: `9`
+- Content hash: `9f2117b15a64525a`
 
 ## Top parents
 
@@ -23,11 +23,11 @@
 | 3 | Samsung's 'Back to School' Sale Brings Discounts on Galaxy S26 Series, Galaxy Book 6 Pro, Galaxy Tab S11 Ultra and More | 2 | base_report, fact_update | NO | 0.5580933333333333 |
 | 4 | Meghna Infracon Infrastructure expects Rs 300cr revenue from new commercial project | 2 | fact_update | YES | 0.760613386451665 |
 | 5 | Rupee weakens to two-month low as oil climbs; state-run banks cushion | 2 | market_reaction | YES | 0.6742467197849984 |
-| 6 | India's 'Cockroach' movement supporters clash with Delhi police - 朝日新聞 | 2 | official_response | YES | 0.5712433333333332 |
-| 7 | Som Distilleries shares jump 14% as ace investor Prashant Jain buys 25 lakh shares in Q1. What is he seeing? | 1 | fact_update | YES | 0.7226911614783158 |
-| 8 | UltraTech Cement Q1 Results: Cons profit jumps 17% YoY to Rs 2,599 crore; revenue rises 16% | 1 | fact_update | YES | 0.7226911614783158 |
-| 9 | History test! What last 12 billion-dollar IPO listing gains indicate about SBI MF's Rs 9,813 crore debut | 1 | fact_update | YES | 0.7226911614783158 |
-| 10 | PC Jeweller shares jump 6%: What’s driving the rally after 220% gains in 3 years? | 1 | market_reaction | YES | 0.7226911614783158 |
+| 6 | India's 'Cockroach' movement supporters clash with Delhi police - 朝日新聞 | 2 | official_response | YES | 0.6392300531183316 |
+| 7 | India's private banks draw thinner margins on tepid credit growth | 1 | market_reaction | YES | 0.7226911614783158 |
+| 8 | Indian banks mobilise $20.7 billion under RBI's special incentive window | 1 | fact_update | YES | 0.7226911614783158 |
+| 9 | Som Distilleries shares jump 14% as ace investor Prashant Jain buys 25 lakh shares in Q1. What is he seeing? | 1 | fact_update | YES | 0.7226911614783158 |
+| 10 | UltraTech Cement Q1 Results: Cons profit jumps 17% YoY to Rs 2,599 crore; revenue rises 16% | 1 | fact_update | YES | 0.7226911614783158 |
 
 ## Warnings
 

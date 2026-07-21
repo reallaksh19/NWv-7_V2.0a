@@ -53,18 +53,18 @@
     },
     "insight": {
       "actionableFindings": [
-        "2 base-report-heavy Insight parent(s) demoted"
+        "Insight event/angle ranking has no critical demotion finding"
       ],
       "destination": "insight",
       "diagnosticReasons": [],
       "gateResults": [
         {
           "details": {
-            "itemCount": 9
+            "itemCount": 5
           },
           "name": "insightEventPool",
           "reason": "rankable Insight event pool",
-          "score": 1.0,
+          "score": 0.8333,
           "status": "PASS"
         },
         {
@@ -77,16 +77,16 @@
       ],
       "gateSummary": {
         "avgAnglesPerParent": 0.0,
-        "baseReportHeavyParents": 2,
+        "baseReportHeavyParents": 0,
         "duplicateChildrenSuppressed": 0,
-        "inputCandidateCount": 9,
-        "parentClusters": 9,
-        "strongParents": 9,
+        "inputCandidateCount": 5,
+        "parentClusters": 5,
+        "strongParents": 5,
         "suppressedCandidateCount": 0,
         "weakParentsDemoted": 0
       },
       "qualityGrade": "F",
-      "qualityScore": 0.3838,
+      "qualityScore": 0.4109,
       "qualityStatus": "WARN",
       "rankedItems": [
         {
@@ -265,116 +265,6 @@
               "status": "PASS"
             }
           ],
-          "id": "sketch:66b5e4d079",
-          "item": {
-            "angleCount": 1,
-            "baseReportRatio": 0.0,
-            "childScores": [],
-            "id": "sketch:66b5e4d079",
-            "representativeId": "544d7acd4c78e4ca",
-            "representativeTitle": "Breaking: Facebook suffers widespread outrage, users across India - Babushahi.com",
-            "scoreBreakdown": {
-              "angleDiversityScore": 0.25,
-              "eventImportanceScore": 0.59,
-              "freshnessScore": 0.0,
-              "noveltyDeltaScore": 0.44999999999999996,
-              "sourceAuthorityScore": 0.38,
-              "sourceDiversityScore": 0.35,
-              "temporalEvolutionScore": 0.37
-            },
-            "slotCount": 1,
-            "slots": [
-              "now"
-            ],
-            "sourceGroupCount": 1,
-            "sourceGroups": [
-              "google_news"
-            ],
-            "storyCount": 2,
-            "storyIds": [
-              "544d7acd4c78e4ca",
-              "e89c88fb92141e90"
-            ],
-            "topAngles": [
-              {
-                "angle": "reaction_public",
-                "count": 2
-              }
-            ],
-            "topTokens": [
-              "breaking",
-              "facebook",
-              "suffers",
-              "widespread"
-            ],
-            "topicKey": "breaking|facebook|suffers"
-          },
-          "locationKey": "event",
-          "rankingReasons": [
-            "event sketch has repeated story count",
-            "weak child angle diversity",
-            "one-source event candidate"
-          ],
-          "score": 0.389,
-          "title": "Breaking: Facebook suffers widespread outrage, users across India - Babushahi.com"
-        },
-        {
-          "category": "insightEvent",
-          "gates": [
-            {
-              "details": {
-                "storyCount": 2
-              },
-              "name": "eventCoherence",
-              "reason": "event sketch has repeated story count",
-              "score": 0.62,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "baseReportRatio": 0.0,
-                "distinctAngles": 1
-              },
-              "name": "angleDiversity",
-              "reason": "weak child angle diversity",
-              "score": 0.25,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "sourceGroupCount": 1
-              },
-              "name": "sourceDiversity",
-              "reason": "one-source event candidate",
-              "score": 0.35,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "baseReportRatio": 0.0
-              },
-              "name": "baseReportCap",
-              "reason": "base-report ratio controlled",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "childCount": 2
-              },
-              "name": "weakTree",
-              "reason": "child tree has enough depth",
-              "score": 0.5,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "duplicateChildren",
-              "reason": "no child objects to dedup",
-              "score": 0.7,
-              "status": "PASS"
-            }
-          ],
           "id": "sketch:af34942458",
           "item": {
             "angleCount": 1,
@@ -427,116 +317,6 @@
           ],
           "score": 0.389,
           "title": "British government bond yields edge higher as Burnham becomes PM"
-        },
-        {
-          "category": "insightEvent",
-          "gates": [
-            {
-              "details": {
-                "storyCount": 2
-              },
-              "name": "eventCoherence",
-              "reason": "event sketch has repeated story count",
-              "score": 0.62,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "baseReportRatio": 0.0,
-                "distinctAngles": 1
-              },
-              "name": "angleDiversity",
-              "reason": "weak child angle diversity",
-              "score": 0.25,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "sourceGroupCount": 1
-              },
-              "name": "sourceDiversity",
-              "reason": "one-source event candidate",
-              "score": 0.35,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "baseReportRatio": 0.0
-              },
-              "name": "baseReportCap",
-              "reason": "base-report ratio controlled",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "childCount": 2
-              },
-              "name": "weakTree",
-              "reason": "child tree has enough depth",
-              "score": 0.5,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "duplicateChildren",
-              "reason": "no child objects to dedup",
-              "score": 0.7,
-              "status": "PASS"
-            }
-          ],
-          "id": "sketch:fcde5c7120",
-          "item": {
-            "angleCount": 1,
-            "baseReportRatio": 0.0,
-            "childScores": [],
-            "id": "sketch:fcde5c7120",
-            "representativeId": "cefd0947496f8de7",
-            "representativeTitle": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial",
-            "scoreBreakdown": {
-              "angleDiversityScore": 0.25,
-              "eventImportanceScore": 0.59,
-              "freshnessScore": 0.0,
-              "noveltyDeltaScore": 0.44999999999999996,
-              "sourceAuthorityScore": 0.38,
-              "sourceDiversityScore": 0.35,
-              "temporalEvolutionScore": 0.37
-            },
-            "slotCount": 1,
-            "slots": [
-              "minus24h"
-            ],
-            "sourceGroupCount": 1,
-            "sourceGroups": [
-              "moneycontrol"
-            ],
-            "storyCount": 2,
-            "storyIds": [
-              "cefd0947496f8de7",
-              "d0020e471404281a"
-            ],
-            "topAngles": [
-              {
-                "angle": "market_reaction",
-                "count": 2
-              }
-            ],
-            "topTokens": [
-              "bajaj",
-              "finance",
-              "target",
-              "emkay"
-            ],
-            "topicKey": "bajaj|finance|target"
-          },
-          "locationKey": "event",
-          "rankingReasons": [
-            "event sketch has repeated story count",
-            "weak child angle diversity",
-            "one-source event candidate"
-          ],
-          "score": 0.389,
-          "title": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial"
         },
         {
           "category": "insightEvent",
@@ -875,235 +655,17 @@
           ],
           "score": 0.2764,
           "title": "JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child"
-        },
-        {
-          "category": "insightEvent",
-          "gates": [
-            {
-              "details": {
-                "storyCount": 3
-              },
-              "name": "eventCoherence",
-              "reason": "event sketch has repeated story count",
-              "score": 0.62,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "baseReportRatio": 1.0,
-                "distinctAngles": 0
-              },
-              "name": "angleDiversity",
-              "reason": "weak child angle diversity",
-              "score": 0.25,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "sourceGroupCount": 1
-              },
-              "name": "sourceDiversity",
-              "reason": "one-source event candidate",
-              "score": 0.35,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "baseReportRatio": 1.0
-              },
-              "name": "baseReportCap",
-              "reason": "base-report dominated event candidate",
-              "score": 0.25,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "childCount": 3
-              },
-              "name": "weakTree",
-              "reason": "child tree has enough depth",
-              "score": 0.75,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "duplicateChildren",
-              "reason": "no child objects to dedup",
-              "score": 0.7,
-              "status": "PASS"
-            }
-          ],
-          "id": "sketch:35b457e4f1",
-          "item": {
-            "angleCount": 1,
-            "baseReportRatio": 1.0,
-            "childScores": [],
-            "id": "sketch:35b457e4f1",
-            "representativeId": "22834d838d943345",
-            "representativeTitle": "Top news of the day | July 5, 2026 - The Hindu",
-            "scoreBreakdown": {
-              "angleDiversityScore": 0.25,
-              "eventImportanceScore": 0.71,
-              "freshnessScore": 0.0,
-              "noveltyDeltaScore": 0.44999999999999996,
-              "sourceAuthorityScore": 0.38,
-              "sourceDiversityScore": 0.35,
-              "temporalEvolutionScore": 0.37
-            },
-            "slotCount": 1,
-            "slots": [
-              "now"
-            ],
-            "sourceGroupCount": 1,
-            "sourceGroups": [
-              "google_news"
-            ],
-            "storyCount": 3,
-            "storyIds": [
-              "22834d838d943345",
-              "af97b141f1b4b7cb",
-              "469eb159c1656943"
-            ],
-            "topAngles": [
-              {
-                "angle": "base_report",
-                "count": 3
-              }
-            ],
-            "topTokens": [
-              "july",
-              "hindu"
-            ],
-            "topicKey": "july|hindu"
-          },
-          "locationKey": "event",
-          "rankingReasons": [
-            "event sketch has repeated story count",
-            "weak child angle diversity",
-            "one-source event candidate"
-          ],
-          "score": 0.1885,
-          "title": "Top news of the day | July 5, 2026 - The Hindu"
-        },
-        {
-          "category": "insightEvent",
-          "gates": [
-            {
-              "details": {
-                "storyCount": 3
-              },
-              "name": "eventCoherence",
-              "reason": "event sketch has repeated story count",
-              "score": 0.62,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "baseReportRatio": 1.0,
-                "distinctAngles": 0
-              },
-              "name": "angleDiversity",
-              "reason": "weak child angle diversity",
-              "score": 0.25,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "sourceGroupCount": 1
-              },
-              "name": "sourceDiversity",
-              "reason": "one-source event candidate",
-              "score": 0.35,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "baseReportRatio": 1.0
-              },
-              "name": "baseReportCap",
-              "reason": "base-report dominated event candidate",
-              "score": 0.25,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "childCount": 3
-              },
-              "name": "weakTree",
-              "reason": "child tree has enough depth",
-              "score": 0.75,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "duplicateChildren",
-              "reason": "no child objects to dedup",
-              "score": 0.7,
-              "status": "PASS"
-            }
-          ],
-          "id": "sketch:c1c58008d6",
-          "item": {
-            "angleCount": 1,
-            "baseReportRatio": 1.0,
-            "childScores": [],
-            "id": "sketch:c1c58008d6",
-            "representativeId": "fb6b647db876af8e",
-            "representativeTitle": "Top news of the day: June 30, 2026 - The Hindu",
-            "scoreBreakdown": {
-              "angleDiversityScore": 0.25,
-              "eventImportanceScore": 0.71,
-              "freshnessScore": 0.0,
-              "noveltyDeltaScore": 0.44999999999999996,
-              "sourceAuthorityScore": 0.38,
-              "sourceDiversityScore": 0.35,
-              "temporalEvolutionScore": 0.37
-            },
-            "slotCount": 1,
-            "slots": [
-              "now"
-            ],
-            "sourceGroupCount": 1,
-            "sourceGroups": [
-              "google_news"
-            ],
-            "storyCount": 3,
-            "storyIds": [
-              "fb6b647db876af8e",
-              "b65533a7f527bd54",
-              "b0ee10bd74ab7fe3"
-            ],
-            "topAngles": [
-              {
-                "angle": "base_report",
-                "count": 3
-              }
-            ],
-            "topTokens": [
-              "june",
-              "hindu"
-            ],
-            "topicKey": "june|hindu"
-          },
-          "locationKey": "event",
-          "rankingReasons": [
-            "event sketch has repeated story count",
-            "weak child angle diversity",
-            "one-source event candidate"
-          ],
-          "score": 0.1885,
-          "title": "Top news of the day: June 30, 2026 - The Hindu"
         }
       ],
       "rankingProfile": "insight-v2-event-angle-tree",
       "scoreBreakdown": {
-        "angleDiversityScore": 0.3089,
-        "eventImportanceScore": 0.6433,
+        "angleDiversityScore": 0.356,
+        "eventImportanceScore": 0.638,
         "freshnessScore": 0.0,
-        "noveltyDeltaScore": 0.4722,
-        "sourceAuthorityScore": 0.4333,
-        "sourceDiversityScore": 0.4322,
-        "temporalEvolutionScore": 0.3967
+        "noveltyDeltaScore": 0.49,
+        "sourceAuthorityScore": 0.476,
+        "sourceDiversityScore": 0.498,
+        "temporalEvolutionScore": 0.418
       }
     },
     "localTravel": {
@@ -4620,7 +4182,7 @@
             },
             {
               "details": {
-                "hoursLeft": 6.48
+                "hoursLeft": 3.7
               },
               "name": "offerValidity",
               "reason": "offer expires soon",
@@ -4703,7 +4265,7 @@
       }
     }
   },
-  "generatedAt": 1784582249140,
+  "generatedAt": 1784592250473,
   "implementedDestinations": [
     "upAhead",
     "buzz",
@@ -4730,11 +4292,11 @@
       "no ranked local/travel item for muscat",
       "no ranked local/travel item for chennai",
       "no ranked local/travel item for trichy",
-      "2 base-report-heavy Insight parent(s) demoted"
+      "Insight event/angle ranking has no critical demotion finding"
     ],
     "destinationScores": {
       "buzz": 0.0,
-      "insight": 0.3838,
+      "insight": 0.4109,
       "localTravel": 0.0,
       "upAhead": 0.8602
     },
@@ -4744,7 +4306,7 @@
       "localTravel": "FAIL",
       "upAhead": "WARN"
     },
-    "overallScore": 0.311,
+    "overallScore": 0.3178,
     "overallStatus": "FAIL",
     "rankingProfiles": {
       "buzz": "buzz-v2-trend-local-travel",
